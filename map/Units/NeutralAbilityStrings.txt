@@ -1,4 +1,4 @@
-﻿[ANf1]
+[ANf1]
 Name=Factory
 Tip="Factory - Upgrade Level 1"
 Ubertip="Factory."

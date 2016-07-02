@@ -1,4 +1,4 @@
-﻿[Amls]
+[Amls]
 Name=Aerial Shackles
 Tip=A|cffffcc00e|rrial Shackles
 Ubertip="Magically binds a target enemy air unit, so that it cannot move or attack and takes <Amls,DataA1> damage per second. |nLasts <Amls,Dur1> seconds."

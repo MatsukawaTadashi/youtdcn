@@ -1,4 +1,4 @@
-﻿[P005]
+[P005]
 Name="冒险家"
 Propernames=瑟罗丁 金锤
 Tip="选择冒险家"

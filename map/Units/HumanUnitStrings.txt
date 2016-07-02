@@ -1,4 +1,4 @@
-﻿[Hblm]
+[Hblm]
 Name=Blood Mage
 Propernames=Eldin Sunstrider
 Hotkey=B

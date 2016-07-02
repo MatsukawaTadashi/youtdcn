@@ -1,4 +1,4 @@
-﻿[HERO]
+[HERO]
 Name=A Hero
 [nshe]
 Name=羊

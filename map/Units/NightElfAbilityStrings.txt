@@ -1,4 +1,4 @@
-﻿[Aetl]
+[Aetl]
 Name=Ethereal
 Tip=Ethereal
 Ubertip="虚无生物无法攻击,但可施放法术并受到更多的法术伤害."

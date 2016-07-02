@@ -1,4 +1,4 @@
-﻿[TWN1]
+[TWN1]
 Name=Town Hall or Great Hall or Tree of Life or Necropolis
 [TWN2]
 Name=Keep or Stronghold or Tree of Ages or Halls of the Dead

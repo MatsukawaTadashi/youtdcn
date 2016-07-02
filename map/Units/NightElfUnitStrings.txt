@@ -1,4 +1,4 @@
-﻿[Aimp]
+[Aimp]
 Name=Vorpal Blades
 Tip=Vorpal Blades
 Ubertip="Permits the glaives launched by the Glaive Thrower to strike through initial ground targets and damage those behind. Also allows the Glaive Thrower to attack trees."
