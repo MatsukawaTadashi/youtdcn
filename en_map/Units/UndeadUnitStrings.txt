@@ -1,0 +1,136 @@
+[P005]
+Name="Adventurer"
+Propernames=Therodin Goldhammer
+Tip="Choose Adventurer"
+Ubertip="|cffaeaeaeTherodin is always on the hunt for his next artefact, finding precious stuff where others find only trash.|r|n|nTier: |cff80ff00Beginner|r|n|n|cffffff00PROs:|r|n|cff00ff00+15% item find|n+20% item quality|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P004]
+Name="Royal Assassin"
+Propernames=Kitty the Blade
+Tip="Choose Royal Assassin"
+Ubertip="|cffaeaeaeKitty knows how to backstab the mighty ones.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|n|cff00ff00+15% damage to bosses|n+1% damage to bosses per tower level|n+25% damage to champions|n+2% item quality per tower level|r|n|cffffff00CONs:|r|n|cffff0000-8% damage to normal creeps|n-12% damage to mass creeps|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P007]
+Name="Benevolent Witch"
+Propernames=Lizzy Toujours
+Tip="Choose Benevolent Witch"
+Ubertip="|cffaeaeaeThe mightiest witch of the ages. Unlike her sisters, she detests violence.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|n|cff00ff00+100% mana pool|n+50% mana regeneration|n+2% mana regeneration per tower level|r|n|cffffff00CONs:|r|n|cffff0000-25% spell damage|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P006]
+Name="Farseer"
+Propernames=Grolk Tar'zul
+Tip="Choose Farseer"
+Ubertip="|cffaeaeaeGrolk senses hidden creatures and grants this talent to his followers.|r|n|nTier: |cff80ff00Beginner|r|n|n|cffffff00PROs:|r|n|cff00ff00700 AoE true sight for all towers|n+10% spell damage|n+75 attack range for all towers|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P001]
+Name="Blademaster"
+Propernames=Esotyr
+Tip="Choose Blademaster"
+Ubertip="|cffaeaeaeThe blademaster always hits the weakest spot!|r|n|nTier: |cff80ff00Beginner|r|n|n|cffffff00PROs:|r|n|cff00ff00+8% critical strike chance|n+40% critical strike damage|n+1 multicrit chance|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P000]
+Name="Queen of the Seven Skies"
+Propernames=Mira
+Tip="Choose Queen of the Seven Skies"
+Ubertip="|cffaeaeaeThe sky belongs to Mira, and she will let nobody else take it.|r|n|nTier: |cff80ff00Beginner|r|n|n|cffffff00PROs:|r|n|cff00ff00+10% attack speed|n+30% damage to flying creeps|n+2% damage to flying creeps per tower level|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P003]
+Name="Arch Sorceress"
+Propernames=Kameliya
+Tip="Choose Arch Sorceress"
+Ubertip="|cffaeaeaeThe mistress of spells, however not too dexterous at common warfare.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+50% spell damage|n+20% spell critical strike chance|n+50% spell critical strike damage|n+2% spell critical strike damage per tower level|n+1% damage against magical creeps per tower level|r|n|cffffff00CONs:|r|n|cffff0000-10% base damage|n-1.2% base damage per tower level|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P002]
+Name="Master of Encyclopedic Wisdom"
+Propernames=Waterknight
+Tip="Choose Master of Encyclopedic Wisdom"
+Ubertip="|cffaeaeaeWhenever you have a question, ask Waterknight!|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|n|cff00ff00+60% experience gain|n+1% experience gain per tower level|r|n|cffffff00CONs:|r|n|cffff0000-15% base damage|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P009]
+Name="Barbarian Warlord"
+Propernames=Bor-Tok
+Tip="Choose Barbarian Warlord"
+Ubertip="|cffaeaeaeMagic is for the weak!|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+10% attack speed|n+35% base damage|n+0.4% critical strike chance per tower level|n+2% critical strike damage per tower level|n+2 multicrit chance|r|n|cffffff00CONs:|r|n|cffff0000-300% mana regeneration|n-100% spell damage|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P008]
+Name="Spirit Warden"
+Propernames=Marn Spirithoof
+Tip="Choose Spirit Warden"
+Ubertip="|cffaeaeaeThe warden protects his clan from evil forces and supports it with his ceremonials.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|cff00ff00|n-30% debuff duration|n+60% buff duration|n+10% damage to masses|r|n|cffffff00CONs:|r|n|cffff0000-10% damage to bosses|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P010]
+Name="Naga Time Twister"
+Propernames=Lady Nyshij
+Tip="Choose Naga Time Twister"
+Ubertip="|cffAEAEAELady Nyshij twists the time itself, granting improved chances and speed to her followers.|r|n|nTier: |cffFF3300Specialist|r|n|n|cffFFFF00PROs:|r|n|cff00FF00+40% trigger chances|n+30% attack speed|r|n|cffFFFF00CONs:|r|n|cffFF0000-25% base damage|n-25% spell damage|r|n|n|cffFFAC00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P016]
+Name="Antagonizer"
+Propernames=Butch the Bully
+Tip="Choose Antagonizer"
+Ubertip="|cffaeaeaeButch doesn't learn quickly, but what he lacks in intellect, he makes up for with oversized muscles and steroid abuse.|r|n|nTier: |cff800080Hardcore|r|n|n|cffffff00PROs:|r|n|cff00ff00+10% base damage|n+4% base damage per tower level|n+10% attack speed|n+0.5% attack speed per tower level|n+25% spell damage|r|n|cffffff00CONs:|r|n|cffff0000-60% experience gain|n-1.6% experience gain per tower level|n-16% trigger chances|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P015]
+Name="Realist"
+Propernames=Carl
+Tip="Choose Realist"
+Ubertip="|cffaeaeaeTake a chance!|n-Never!|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+15% base damage|n+1.5% base damage per tower level|n+15% spell damage|n+1.5% spell damage per tower level|n+150% mana regeneration|r|n|cffffff00CONs:|r|n|cffff0000-50% trigger chances|n-20% critical strike chance|n-20% spell critical strike chance|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P012]
+Name="Goblin Alchemist"
+Propernames=Glint Doublechin
+Tip="Choose Goblin Alchemist"
+Ubertip="|cffaeaeaeThe Goblin Alchemist is driven solely by his extreme lust for wealth. Oftentimes this leaves him quite lacking in the combat department.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+20% bounty from kills|n+15% income rate|n+2% interest rate|n+35% item quality|n+2% item quality per tower level|r|n|cffffff00CONs:|r|n|cffff0000-35% buff duration|n+25% debuff duration|n-15% attack speed|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P011]
+Name="Pandaren Monk"
+Propernames=Brother Pandarius
+Tip="Choose Pandaren Monk"
+Ubertip="|cffaeaeaeBrother Pandarius donates his treasures to the poor, in exchange for beer, of course.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+25% attackspeed|n+15% base damage|n+1.4% base damage per tower level|n+20% spell damage|n+1.2% spell damage per tower level|n+1.2% item find per tower level|r|n|cffffff00CONs:|r|n|cffff0000-60% item find|n-10% item quality|r|n|n|cffffac00WARNING:|nThis builder has severe weaknesses, pick it only if you know what you are doing.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P014]
+Name="Elementalist"
+Propernames=Duke Slytalker
+Tip="Choose Elementalist"
+Ubertip="|cffaeaeaeThough his relationship with some races is better than with others, Duke Slytalker knows very well that the force is always with him.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|n|cff00ff00Force points refunded for first three elements researched |n+2 force points gained at the start of each level|n+10 starting food|n+25% damage against orc creeps|n+20% damage against undead creeps|r |n|cffffff00CONs:|r|n|cffff0000-20% damage against nature creeps|n-5% damage against humanoid creeps|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[P013]
+Name="Iron Maiden"
+Propernames=Amelia
+Tip="Choose Iron Maiden"
+Ubertip="|cffAEAEAEAmelia possesses a mysterious healing power that she acquired at the age of three. Her mother is a powerful Arch Sorceress.|r|n|nTier: |cff80FF00Beginner|r|n|n|cffFFFF00PROs:|r|n|cff00FF00+50% starting lives|n+1% lives regenerated per level if below 50% lives|n+2% lives regenerated per level if below 10% lives|r|n|n|cffFFAC00Note:|nAll life bonuses are divided by the team size.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D

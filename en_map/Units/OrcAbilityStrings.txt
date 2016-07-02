@@ -1,0 +1,256 @@
+[Absk]
+Name=Berserk
+Tip="|cffffcc00B|rerserk"
+Ubertip="Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage."
+Hotkey=B
+[Bbsk]
+Bufftip=Berserk
+Buffubertip="This unit is Berserk; it will deal more damage, but also take more damage from attacks."
+[Acha]
+Name=Chaos
+[Awar]
+Name=Pulverize
+[Bsta]
+Bufftip=Stasis Trap
+Buffubertip="This unit is stunned by Stasis Trap and cannot move, attack or cast spells."
+[BIpb]
+Bufftip=Venom
+Buffubertip="This unit is poisoned, and will take damage over time."
+EditorSuffix= (Non-stacking)
+[BIpd]
+Bufftip=Venom
+Buffubertip="This unit is poisoned; it will take damage over time."
+EditorSuffix= (Stacking)
+[BIpi]
+EditorName=Venom (Info)
+[Anit]
+Name=Tracking
+[AOcl]
+Name=Chain Lightning
+Tip=|cffffcc00C|rhain Lightning - [|cffffcc00Level 1|r],|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r],|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]
+Ubertip="Calls forth a bolt of lightning that bounces up to <AOcl,DataB1> times, dealing <AOcl,DataA1> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[AOre]
+Name=Reincarnation
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[BOws]
+Bufftip=War Stomp
+Buffubertip="This unit has been hit by War Stomp; it cannot move, attack or cast spells for a short duration."
+[XOre]
+EditorName=Reincarnation (Effect)
+[Xfos]
+EditorName=Building Damage - Orc Small
+[Xfom]
+EditorName=Building Damage - Orc Medium
+[Xfol]
+EditorName=Building Damage - Orc Large
+[XTOG]
+Name="Toggle Scoreboard"
+Tip="Toggle Scoreboard (|cffffcc00esc|r)"
+Ubertip="Toggles between the normal and the statistics multiboard."
+Hotkey=
+[W02H]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W064]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W0ET]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[W0RA]
+Name="Chainlightning"
+Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
+Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
+Hotkey=C
+Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
+Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
+Researchhotkey=C
+[WC01]
+Name=Reincarnation
+Tip=Reincarnation
+Ubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchtip=Learn |cffffcc00R|reincarnation
+Researchubertip="When killed, the Tauren Chieftain will come back to life. Reincarnation has a <AOre,Cool1> second cooldown."
+Researchhotkey=R
+Globalmessage=
+Globalsound=
+[R00B]
+Bufftip=Hot Coals
+Buffubertip=This unit is under the effect of hot coals, it has increased crit chance.
+EditorName=Hot Coals
+[R00P]
+Bufftip=Poisoned heart
+Buffubertip=This unit takes damage over time!
+EditorSuffix=
+EditorName=Poisoned_heart
+[R01W]
+Bufftip=Gift of The Forest
+Buffubertip=This unit is slowed by gift of the forest.
+EditorSuffix=
+EditorName=Gift of The Forest
+[R01X]
+Bufftip=Rampage
+Buffubertip=This unit is raging, gaining enormous attack speed
+[R026]
+Bufftip=Soul Link
+Buffubertip=This unit's soul is linked to the souls of other units.
+[R027]
+Bufftip=Bloodthirst
+Buffubertip=This unit has Bloodthirst, its attackspeed is increased.
+EditorName=Bloodthirst
+[R01S]
+Bufftip=Cold Feet
+Buffubertip=This units attackdamage is increrased and its attackspeed is slowed.
+EditorName=Cold Feet
+[R00Y]
+Bufftip=Ice Claw
+Buffubertip=This unit is hit by Ice Claw; it is slowed and suffers damage over time.
+[R00S]
+Bufftip=Wind Shear
+Buffubertip=This unit has Wind Shear; its attackspeed is increased and it has a chance to release a chain of lightning.
+[R00Z]
+Bufftip=Elemental Wrath
+Buffubertip=This unit has increased triggerchance.
+EditorName=Elemental Wrath
+[R01E]
+Bufftip=Lightning Shield
+Buffubertip=This unit has reduced debuff duration.
+[R01F]
+Bufftip=Fanaticism
+Buffubertip=This unit's attack speed is reduced by a nearby Zealot.
+[R01C]
+Bufftip=Zeal
+Buffubertip=This unit's attack speed is increased.
+[R01D]
+Bufftip=Phase Blade
+Buffubertip=This unit is taking more damage from a Zealot.
+[R04I]
+Bufftip=Morale Boost
+Buffubertip=This unit is under the effect of a morale boost; it has increased attackspeed and damage.
+EditorName=Morale Boost
+[R04R]
+Bufftip=Sentry
+Buffubertip=This unit is alerted and has increased bonus damage.
+EditorName=Sentry
+[R04P]
+Bufftip=Hellfire
+Buffubertip=The buffed tower has bonus attackpeed and a multishot.
+EditorName=Hellfire
+[R035]
+Bufftip=Sparks
+Buffubertip=This unit's spell damage and spell critical strike chance are increased.
+[R03C]
+Bufftip=Stim
+Buffubertip=This unit has stimmed and has increased attackspeed.
+EditorName=Stim
+[R03D]
+Bufftip=Grenade Shrapnel
+Buffubertip=This unit has been hit by grenade shrapnel; any attack damage it receives is amplified.
+EditorName=Grenade Shrapnel
+[R03G]
+Bufftip=Green Dragon Force
+Buffubertip=This unit is under the effects of Green Dragon Force. It has increased multi crit.
+EditorName=Green Dragon Force
+[R03S]
+Bufftip=Burning Mark
+Buffubertip=This unit is under the effect of Burning Mark. Its attack is enchanced.
+EditorName=Burning Mark
+[R044]
+Bufftip=Twin Disciplines
+Buffubertip=This tower has its spell critical chance increased.
+[R045]
+Bufftip=Twin Disciplines
+Buffubertip=This tower has its critical chance increased.
+[R03Q]
+Bufftip=Charged
+Buffubertip=This unit is charged; its attackspeed is increased.
+EditorName=Charged
+[R06M]
+Bufftip=Speed Cast
+Buffubertip=Genis' trigger chances are increased.
+EditorName=Speed Cast
+[R077]
+Bufftip=Strong Wind
+Buffubertip=This unit is affected by the Strong Wind.
+EditorName=Strong Wind
+EditorSuffix=ZV
+[R06P]
+Bufftip=Electrified
+Buffubertip=This unit damages other nearby units.
+EditorName=Electrified
+[R05N]
+Bufftip=Static Presence
+Buffubertip=This tower will deal more damage to immune creeps.
+EditorName=Static Presence
+[R08C]
+Bufftip=Mana Aura
+Buffubertip=This unit is under the effect of Mana Aura; it has additional mana regeneration.
+[R08N]
+Bufftip=Warsong Double Bass
+Buffubertip=This tower has it's attackspeed increased.
+EditorName=Warsong Double Bass
+[R08L]
+Bufftip=Decay
+Buffubertip=This tower is near a source of decay and has decreased attackspeed.
+[R08M]
+Bufftip=Decay
+Buffubertip=This creep is near a source of rot and takes more damage.
+[R08U]
+Bufftip=Forcefield
+Buffubertip=Debuffs cast onto this tower have a reduced duration.
+[R07O]
+Bufftip=Spiderling Poison
+Buffubertip=This unit is poisoned by a spiderling.
+EditorSuffix=
+EditorName=Spiderling Poison
+[R080]
+Bufftip=Hangover
+Buffubertip=This towers attackspeed is reduced and on expire it will be stunned for a short period.
+EditorName=Hangover
+[R088]
+Bufftip=Deadly Poison
+Buffubertip=This unit is afflicted with dealy poison; it will take damage over time.
+EditorSuffix=(Stacking)
+[R086]
+Bufftip=Shamanistic Ritual
+Buffubertip=This tower gains more experience and deals more damage.
+EditorName=Shamanistic Ritual
+[R07V]
+Bufftip=Earth and Moon
+Buffubertip=This unit's trigger chances have been increased.
+[R07T]
+Bufftip=Magic Conductor
+Buffubertip=This tower is hit by a spell and has increased attackspeed.
+EditorName=Magic Conductor
+[R07R]
+Bufftip=Libram of Grace
+Buffubertip=This unit has increased Exp gain.
+[R083]
+Bufftip=Bloodthirst
+Buffubertip=This unit has Bloothirst, it's attackspeed is increased.
+EditorName=Bloodthirst
