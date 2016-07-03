@@ -402,11 +402,11 @@ Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
 Hotkey=
 Unhotkey=
 [W019]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80650|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到|cffFFFF80650|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W00T]
 Name="多重射击"
 Tip="多重射击"
