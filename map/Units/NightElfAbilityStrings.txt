@@ -1,4 +1,4 @@
-[Aetl]
+﻿[Aetl]
 Name=Ethereal
 Tip=Ethereal
 Ubertip="虚无生物无法攻击,但可施放法术并受到更多的法术伤害."
@@ -443,8 +443,8 @@ Tip="特殊能力"
 Ubertip="|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n"
 [W01Y]
 Name="v01H On Damage"
-Tip="闪电球"
-Ubertip="当攻击没有弹射时,此塔会召唤一道闪电. 闪电造成 |cffFFFF80100|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 伤害"
+Tip="闪电打击"
+Ubertip="当攻击没有弹射时,此塔会召唤一道落雷。落雷造成 |cffFFFF80100|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 伤害"
 [W01Z]
 Name="v01I Header"
 Tip="分解"
@@ -691,16 +691,16 @@ Tip="特殊能力"
 Ubertip="|cffFFFF00-25% |r对亡灵伤害 (|cffFFFF00+0.4%|r/级)|n"
 [W04T]
 Name="v02X On Damage"
-Tip="闪电球"
-Ubertip="当攻击没有弹射时,此塔会召唤一道闪电. 闪电造成 |cffFFFF80300|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 伤害"
+Tip="闪电打击"
+Ubertip="当攻击没有弹射时,此塔会召唤一道落雷。落雷造成 |cffFFFF80300|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 伤害"
 [W04U]
 Name="v02Y On Damage"
 Tip="火焰绽放"
 Ubertip="每 |cffffff80第7次|r 攻击造成 |cffffff8010%|r 额外伤害.|n每 |cffffff80第8次|r 攻击造成 |cffffff8020%|r 额外伤害.|n每 |cffffff80第9次|r 攻击造成 |cffffff8030%|r 额外伤害.|n每 |cffffff80第10次|r 攻击造成 |cffffff8040%|r 额外伤害. |n|n|cffFF8000等级加成:|r|n|cffffff80+0.2%|r 额外伤害每 |cffffff80第7次|r 攻击.|n|cffffff80+0.4%|r 额外伤害每 |cffffff80第8次|r 攻击.|n|cffffff80+0.6%|r 额外伤害每 |cffffff80第9次|r 攻击.|n|cffffff80+0.8%|r 额外伤害每 |cffffff80第10次|r 攻击."
 [W056]
 Name="v03E On Attack"
-Tip="狂暴闪电"
-Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF802|r 道连锁闪电,对目标附近 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相当的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 道连锁闪电在等级 |cffffff8015|r 和 |cffffff8025|r"
+Tip="闪电爆裂"
+Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF802|r 次额外的攻击，对主目标 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相同的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 次额外的攻击 |cffffff8015|r 和 |cffffff8025|r"
 [W057]
 Name="v03F abils"
 Tip="特殊能力"
@@ -1069,7 +1069,7 @@ Tip="特殊能力"
 Ubertip="|cffFFFF00+20% |r伤害对魔法护甲|n"
 [W08D]
 Name="v056 On Damage"
-Tip="闪电爆发"
+Tip="闪电爆裂"
 Ubertip="攻击时|cffFFFF8012.5%|r 几率造成目前法力值*|cffFFFF8015|r的法术伤害并重置'魔力摄取'引起的法术暴击几率.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 几率"
 [W08F]
 Name="v056 On Attack"
@@ -1097,8 +1097,8 @@ Tip="特殊能力"
 Ubertip="|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n"
 [W090]
 Name="v05D On Damage"
-Tip="闪电球"
-Ubertip="当攻击没有弹射时,此塔会召唤一道闪电. 闪电造成 |cffFFFF80700|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+37.5|r 伤害"
+Tip="闪电打击"
+Ubertip="当攻击没有弹射时,此塔会召唤一道落雷。落雷造成 |cffFFFF80700|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+37.5|r 伤害"
 [W08P]
 Name="v059 abils"
 Tip="特殊能力"
@@ -1381,8 +1381,8 @@ Tip="警戒"
 Ubertip="当boss,空军,精英进入岗哨的攻击范围内,在岗哨 |cffFFFF80500|r 范围内的其他塔增加 |cffFFFF807.5%|r基础攻击力持续 |cffFFFF8015|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 基础攻击力加成"
 [W0BQ]
 Name="v071 On Attack"
-Tip="狂暴闪电"
-Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF803|r 道连锁闪电,对目标附近 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相当的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 道连锁闪电在等级 |cffffff8015|r 和 |cffffff8025|r"
+Tip="闪电爆裂"
+Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF803|r 次额外的攻击，对主目标 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相同的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 次额外的攻击 |cffffff8015|r 和 |cffffff8025|r"
 [W0C2]
 Name="v076 abils"
 Tip="特殊能力"
@@ -1668,7 +1668,7 @@ Tip="特殊能力"
 Ubertip="|cffFFFF00+20% |r伤害对魔法护甲|n"
 [W0EB]
 Name="v089 On Damage"
-Tip="闪电爆发"
+Tip="闪电爆裂"
 Ubertip="攻击时|cffFFFF8012.5%|r 几率造成目前法力值*|cffFFFF8025|r的法术伤害并重置'魔力摄取'引起的法术暴击几率.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 几率"
 [W0GV]
 Name="v09A abils"
@@ -2092,8 +2092,8 @@ Tip="特殊能力"
 Ubertip="|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n"
 [W0IC]
 Name="v0A0 On Damage"
-Tip="闪电球"
-Ubertip="当这个塔没有弹射到下个目标的时候,闪电会延时爆发. 闪电会造成 |cffFFFF801875|r 的 |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+93.75|r 伤害"
+Tip="闪电打击"
+Ubertip="当攻击没有弹射时,此塔会召唤一道落雷。落雷造成 |cffFFFF801875|r  |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+93.75|r 伤害"
 [W0ID]
 Name="v0A1 Tower Aura"
 Tip="狼的韧性"
@@ -2152,8 +2152,8 @@ Tip="特殊能力"
 Ubertip="|cffCCFF00弹射攻击:|n   |cffFFFF006|r 目标|n   -|cffFFFF0010%|r 伤害每弹射|n"
 [W0KX]
 Name="v0BK On Attack"
-Tip="狂暴闪电"
-Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF804|r 道连锁闪电,对目标附近 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相当的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 道连锁闪电在等级 |cffffff8015|r 和 |cffffff8025|r"
+Tip="闪电爆裂"
+Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF804|r 次额外的攻击，对主目标 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相同的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 次额外的攻击 |cffffff8015|r 和 |cffffff8025|r"
 [W0L9]
 Name="v0BP Header"
 Tip="青铜化"
@@ -2790,7 +2790,7 @@ Tip="光之光环"
 Ubertip="范围 |cffFFFF80300|r 内的所有塔造成 |cffFFFF8020%|r 额外伤害对亡灵.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.8%|r 伤害"
 [W0O9]
 Name="v0CY On Damage"
-Tip="闪电爆发"
+Tip="闪电爆裂"
 Ubertip="攻击时|cffFFFF8012.5%|r 几率造成目前法力值*|cffFFFF8035|r的法术伤害并重置'魔力摄取'引起的法术暴击几率.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 几率"
 [W0NY]
 Name="v0CU abils"
@@ -3369,8 +3369,8 @@ Tip="特殊能力"
 Ubertip="|cffFFFF005%|r 法术暴击几率 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00x1.5|r 法术暴击伤害 (|cffFFFF00+x0.05|r/级)|n"
 [W0TF]
 Name="v0FP On Damage"
-Tip="闪电球"
-Ubertip="当攻击没有弹射时,此塔会召唤一道闪电. 闪电造成 |cffFFFF803750|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+187.5|r 伤害"
+Tip="闪电打击"
+Ubertip="当攻击没有弹射时,此塔会召唤一道落雷。落雷造成 |cffFFFF803750|r |cff00FFFF能量|r 伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+187.5|r 伤害"
 [W15F]
 Name="v0JE Tower Aura"
 Tip="传导"
@@ -3781,8 +3781,8 @@ Tip="酸性头颅"
 Ubertip="这座塔有 |cffFFFF8025%|r 几率向目标投掷一枚酸性头颅,对主目标造成 |cffFFFF801800|r 伤害,并对主目标 |cffFFFF80225|r 范围内的其他目标造成 |cffFFFF801440|r 伤害.并减少它们的护甲 |cffFFFF805|r 持续 |cffFFFF804.5|r 秒.|n|n|cffFF8000等级加成:|r|n +|cffFFFF805%|r 伤害|n +|cffFFFF800.4%|r 几率"
 [W0UG]
 Name="v0G2 On Attack"
-Tip="狂暴闪电"
-Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF805|r 道连锁闪电,对目标附近 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相当的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 道连锁闪电在等级 |cffffff8015|r 和 |cffffff8025|r"
+Tip="闪电爆裂"
+Ubertip="每次攻击都有 |cffFFFF8020%|r 的几率发射 |cffFFFF805|r 次额外的攻击，对主目标 |cffFFFF80300|r 范围内的随机单位造成与普通攻击相同的伤害.|n|n|cffFF8000等级加成:|r|n +|cffFFFF801%|r 几率 |n +|cffFFFF801|r 次额外的攻击 |cffffff8015|r 和 |cffffff8025|r"
 [W0UH]
 Name="v0G3 On Tower Creation"
 Tip="产金"
@@ -4134,7 +4134,7 @@ Tip="特殊能力"
 Ubertip="|cffFFFF00+20% |r伤害对魔法|n"
 [W0YC]
 Name="v0HG On Damage"
-Tip="闪电爆发"
+Tip="闪电爆裂"
 Ubertip="攻击时|cffFFFF8012.5%|r 几率造成目前法力值*|cffFFFF8045|r的法术伤害并重置'魔力摄取'引起的法术暴击几率.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 几率"
 [W0YE]
 Name="v0HG On Attack"

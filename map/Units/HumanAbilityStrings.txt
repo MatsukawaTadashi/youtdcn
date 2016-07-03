@@ -1,4 +1,4 @@
-[Amls]
+﻿[Amls]
 Name=Aerial Shackles
 Tip=A|cffffcc00e|rrial Shackles
 Ubertip="Magically binds a target enemy air unit, so that it cannot move or attack and takes <Amls,DataA1> damage per second. |nLasts <Amls,Dur1> seconds."
@@ -469,7 +469,7 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AO]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标在等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0A7]
 Name="多重射击"

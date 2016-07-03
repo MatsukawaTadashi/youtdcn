@@ -1,4 +1,4 @@
-[Hblm]
+﻿[Hblm]
 Name=Blood Mage
 Propernames=Eldin Sunstrider
 Hotkey=B
@@ -734,7 +734,7 @@ Ubertip="|cff9BA0D0这座塔能够强化附近塔的多重暴击。|n|n|cffFFFF8
 Name="|cff0080FF闪亮风暴灯笼|r"
 Hotkey=T
 Tip="|cff0080FF闪亮风暴灯笼|r"
-Ubertip="|cff9BA0D0这座塔能够造成爆裂伤害。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF00774|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00狂暴闪电|r|n有一定几率施放狂暴闪电。"
+Ubertip="|cff9BA0D0这座塔能释放出爆发性的攻击。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF00774|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00闪电爆裂|r|n有一定几率释放爆发性的攻击。"
 [v0BH]
 Name="|cffFFFFFF恶魔墓石|r"
 Hotkey=T
@@ -1450,7 +1450,7 @@ Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目�
 Name="|cff0080FF充电风暴灯笼|r"
 Hotkey=T
 Tip="|cff0080FF充电风暴灯笼|r"
-Ubertip="|cff9BA0D0这座塔能够造成爆裂伤害。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF001173|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00狂暴闪电|r|n有一定几率施放狂暴闪电。"
+Ubertip="|cff9BA0D0这座塔能释放出爆发性的攻击。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF001173|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00闪电爆裂|r|n有一定几率释放爆发性的攻击。"
 [v0FN]
 Name="|cff0080FF小偷宗师|r"
 Hotkey=T
@@ -2583,7 +2583,7 @@ Ubertip="|cff9BA0D0一座基础塔，能够缠绕目标。|n|n|cffFFFF80作者�
 Name="|cff0080FF小型风暴灯笼|r"
 Hotkey=T
 Tip="|cff0080FF小型风暴灯笼|r"
-Ubertip="|cff9BA0D0这个塔能释放爆炸性的攻击.|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80 元素: |cFF8080FF风暴|r|n|cffFFFF80攻击力: |cffFFFF00159|r 每秒伤害， |cff00FFFF能量|r|r, |cffFFFF001000|r 射程 |n|cffFFFF80特殊能力:|r|n|n|cffCCFF00闪电爆破|r|n有机会释放爆炸攻击."
+Ubertip="|cff9BA0D0这座塔能释放出爆发性的攻击.|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80 元素: |cFF8080FF风暴|r|n|cffFFFF80攻击力: |cffFFFF00159|r 每秒伤害， |cff00FFFF能量|r|r, |cffFFFF001000|r 射程 |n|cffFFFF80特殊能力:|r|n|n|cffCCFF00闪电爆裂|r|n有一定几率释放爆发性的攻击。"
 [v03F]
 Name="|cffFFFFFF光滑太阳球体|r"
 Hotkey=T
@@ -3359,7 +3359,7 @@ Ubertip="|cff9BA0D0在这些废墟中仍然有着魔法在闪光。|n|n|cffFFFF8
 Name="|cff0080FF中型风暴灯笼|r"
 Hotkey=T
 Tip="|cff0080FF中型风暴灯笼|r"
-Ubertip="|cff9BA0D0这座塔能够造成爆裂伤害。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF00406|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00狂暴闪电|r|n有一定几率施放狂暴闪电。"
+Ubertip="|cff9BA0D0这座塔能释放出爆发性的攻击。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴 |r|n|cffFFFF80攻击力：|cffFFFF00406|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力： |r|n|n|cffCCFF00闪电爆裂|r|n有一定几率释放爆发性的攻击。"
 [v06Q]
 Name="|cffFFFF00冰屋|r"
 Hotkey=T
