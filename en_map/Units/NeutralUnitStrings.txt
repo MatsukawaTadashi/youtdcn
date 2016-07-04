@@ -151,7 +151,7 @@ Name="Ashbringer"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSA]
-Name="βά~βά~βά~"
+Name="ΓΆΓ~ΓΆΓ~ΓΆΓ~"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRK]

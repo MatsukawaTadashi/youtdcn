@@ -1018,7 +1018,8 @@ Ubertip="|cffFFFF00-50% |r伤害对亡灵|n|cffFFFF00+25% |r伤害对兽人|n|cf
 [W09X]
 Name="v05U Header"
 Tip="尸体爆炸"
-Ubertip=引爆这个塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并缓速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 缓速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"[W09Z]
+Ubertip=引爆这个塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并缓速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 缓速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+[W09Z]
 Name="v05V abils"
 Tip="特殊能力"
 Ubertip="|cffCCFF00弹射攻击:|n   |cffFFFF004|r 目标|n"

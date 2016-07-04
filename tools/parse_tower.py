@@ -1,11 +1,12 @@
 import argparse
 import re
 import bisect
+import sys
 from lib.io import map
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-b','--base',type=str,required=True,help='The directory to the map.')
-parser.add_argument('-o','--output',type=str,required=True,help='The output file')
+parser.add_argument('-o','--output',type=str,help='The output file')
 args = parser.parse_args()
 
 ytd = map(args.base)
@@ -80,6 +81,9 @@ for id in towers:
 buff_dict = {}
 r_iiv = r"IIv\(.*?'\w{4}'.*?'(\w{4})'\)"
 
+for id in towers:
+    buff_dict.setdefault(id, set())
+
 # init function list
 function_list = []
 r_function = r"function (\w*?) takes"
@@ -128,9 +132,71 @@ for i, line in enumerate(ytd.jass):
         bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
         if bfv_match:
             id = bfv_match.group(1)
-            buff_dict.setdefault(id, set())
             buff_dict[id].add(buff_id)
 
+# 4.5 active abil
+r_rmv = "rmv\(.*?,.*?,.*?'(\w{4})'"
+for i, line in enumerate(ytd.jass):
+    match = re.search(r_rmv, line)
+    if not match:
+        continue
+    abil_id = match.group(1)
+    # get function
+    line_number = i
+    j = bisect.bisect_left(function_list, line_number)
+    if not j:
+        continue
+    cur_line = ytd.jass[function_list[j-1]]
+    function_match = re.search(r_function, cur_line)
+    if not function_match:
+        continue
+    function_name = function_match.group(1)
+
+    # get call
+    if function_name not in call_dict:
+        continue
+    assert(len(call_dict[function_name]) == 1)
+    line_number = call_dict[function_name][0]
+    j = bisect.bisect_left(bfv_list, line_number)
+    k = bisect.bisect_left(function_list, line_number)
+    if j and k and bfv_list[j - 1] > function_list[k - 1]:
+        bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
+        if bfv_match:
+            id = bfv_match.group(1)
+            abil_dict[id].add(abil_id)
+
+
 # step 5 output
-#TODO
+if not args.output:
+    ofile = sys.stdout
+else:
+    ofile = open(args.output, 'w', encoding='utf8')
+towers = sorted(towers)
+processed = set()
+for id in towers:
+    if id in processed:
+        continue
+
+    cur_id = id
+    # print tower family
+    while True:
+        processed.add(cur_id)
+        print('##Tower', file=ofile)
+        ytd.unit_dict[cur_id].print(ofile)
+        print('##Item', file=ofile)
+        ytd.unit_dict[item_dict[cur_id]].print(ofile)
+        if abil_dict[cur_id]:
+            print('##Abilities', file=ofile)
+            for abil in sorted(abil_dict[cur_id]):
+                ytd.unit_dict[abil].print(ofile)
+        if len(buff_dict[cur_id]):
+            print('##Buffs', file=ofile)
+            for buff in sorted(buff_dict[cur_id]):
+                ytd.unit_dict[buff].print(ofile)
+        print(file=ofile)
+        if cur_id in upgrade_dict:
+            cur_id = upgrade_dict[cur_id]
+        else:
+            break
+
 
