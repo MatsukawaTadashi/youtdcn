@@ -12333,7 +12333,7 @@ call DisplayTextToPlayer(Wj[(Nk[D0])],.0,.0,("|cffFFFF00状态组 "+I2S(nXv+1)+"
 endfunction
 function nBv takes integer D0,integer nXv returns nothing
 local boolean nOv=false
-local string s="|cffFFFF00以下塔将会只对状态组 "+I2S(nXv+1)+":|r内的塔释放增益"
+local string s="|cffFFFF00以下塔将会只对状态组 "+I2S(nXv+1)+"内的塔释放增益:|r"
 local integer t
 if nXv>4 or nXv<0 then
 call DisplayTextToPlayer(Wj[(Nk[D0])],.0,.0,("|cffFF0000塔的状态组设定范围是1到5!|r"))
