@@ -1390,7 +1390,7 @@ Buffubertip=这个单位被诅咒了，当诅咒效果结束或者被净化时�
 EditorName=诅咒
 [R07I]
 Bufftip=导管
-Buffubertip=受到导管的影响，攻击和触发属性提高。Spell and trigger stats increased by nearby Conduit.
+Buffubertip=受到导管的影响，属性提高。
 [R07J]
 Bufftip=释放
 Buffubertip=触发几率提高。
