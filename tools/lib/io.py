@@ -12,6 +12,10 @@ class unit:
     text = None
     path = None
 
+    def print(self, file):
+        for line in self.text:
+            print(line, file=file)
+
 
 class unit_txt:
     path = None
@@ -23,7 +27,8 @@ class unit_txt:
         with open(path, 'r', encoding='utf8') as ifile:
             lines = ifile.readlines()
             lines = [x.strip() for x in lines if x.strip()]
-        ids = [i for i in range(len(lines)) if re.fullmatch(r_unit_id, lines[i])]
+            lines = [x for x in lines if not x.startswith('##')]
+        ids = [i for i in range(len(lines)) if re.search(r_unit_id, lines[i])]
         ids.append(len(lines))
         for i in range(len(ids) - 1):
             head = ids[i]
@@ -33,6 +38,12 @@ class unit_txt:
             t_unit.text = [lines[x] for x in range(head, tail)]
             t_unit.path = path
             self.units.append(t_unit)
+    def write_back(self):
+        with open(self.path, 'w', encoding='utf8') as ofile:
+            for unit in self.units:
+                for line in unit.text:
+                    print(line, file=ofile)
+
 
 class unit_dict_value:
     id = None
@@ -42,8 +53,15 @@ class unit_dict_value:
     def __init__(self, id):
         self.id = id
 
+    def print(self, ofile):
+        if self.string:
+            self.string.print(ofile)
+        else:
+            print(id, file=sys.stderr)
+
 class map:
     jass = None
+    jass_function_list = None
     abilities_slk = None
     unit_txts = None
     unit_dict = None
