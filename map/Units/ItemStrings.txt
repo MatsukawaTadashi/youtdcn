@@ -5608,8 +5608,8 @@ Description="|cff9BA0D0只有最勇敢最强大的战士才能杀死这头猛兽
 Name="|cffFF00BF造物主之书|r"
 Hotkey=K
 Tip="|cffFF00BF造物主之书|r"
-Ubertip="|cff9BA0D0这本魔法书记载着许多物品制造方法。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00施放一个法术|r|n攻击时随机获得以下效果之一：--目标掉落一个品质率加成100%的物品|n--掉落2个品质率加成50%的物品|n--掉落3个物品|n--掉落2个品质率-25%的物品，魔法书获得 |cffFFFF80+10%|r 物品获取率 和 物品品质率|n--魔法书获得 |cffFFFF80+25%|r 物品品质率 或 物品获取率。冷却 |cffFFFF8015|r 波。"
-Description="|cff9BA0D0这本魔法书记载着许多物品制造方法。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00施放一个法术|r|n攻击时随机获得以下效果之一：--目标掉落一个品质率加成100%的物品|n--掉落2个品质率加成50%的物品|n--掉落3个物品|n--掉落2个品质率-25%的物品，魔法书获得 |cffFFFF80+10%|r 物品获取率 和 物品品质率|n--魔法书获得 |cffFFFF80+25%|r 物品品质率 或 物品获取率。冷却 |cffFFFF8015|r 波。"
+Ubertip="|cff9BA0D0这本魔法书记载着许多物品制造方法。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00施放一个法术|r|n攻击时随机获得以下效果之一，冷却 |cffFFFF8015|r 波：--掉落一个品质率加成100%的物品|n--掉落2个品质率加成50%的物品|n--掉落3个物品|n--掉落2个品质率-25%的物品，书获得|cffFFFF80+10%|r 物品获取率 和 物品品质率|n--书获得 |cffFFFF80+25%|r 物品获取率 或 物品品质率。"
+Description="|cff9BA0D0这本魔法书记载着许多物品制造方法。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00施放一个法术|r|n攻击时随机获得以下效果之一，冷却 |cffFFFF8015|r 波：--掉落一个品质率加成100%的物品|n--掉落2个品质率加成50%的物品|n--掉落3个物品|n--掉落2个品质率-25%的物品，书获得|cffFFFF80+10%|r 物品获取率 和 物品品质率|n--书获得 |cffFFFF80+25%|r 物品获取率 或 物品品质率。"
 [Q0PC]
 Name="|cffFF00BF末日徽章|r"
 Hotkey=K
@@ -5981,7 +5981,7 @@ Name="|cffFF00BF机敏的垂饰|r"
 Hotkey=K
 Tip="|cffFF00BF机敏的垂饰|r"
 Ubertip="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n攻击需要花费很大的代价. 携带者每次攻击花费 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
-Description="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n攻击需要花费很大的代价. 携带者每次攻击花费 |cffFFFF807%|r 最大法力值。 没有法力则不能攻击."
+Description="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n攻击需要花费很大的代价. 携带者每次攻击花费 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
 [Q0PZ]
 Name="|cffFF00BF至尊连击之刃|r"
 Hotkey=K
@@ -6004,8 +6004,8 @@ Description="使用时获得20点力量点和8点食物，同时增加6%的收�
 Name="|cffFFFF00矿车|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
-Ubertip="使用增加你10%的收入。"
-Description="使用增加你10%的收入。"
+Ubertip="使用:提高10%的收入。"
+Description="使用:提高10%的收入。"
 [IC00]
 Name="|cffFFFFFF力量之书|r"
 Hotkey=O
