@@ -91,7 +91,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+8% 法术伤害|n+2% 法术暴击几率|n+16% 法术暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 Description="|cffFFFF00效果：|r|n+8% 法术伤害|n+2% 法术暴击几率|n+16% 法术暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 [I053]
-Name="|cff0080FF知识之油|r"
+Name="|cff0080FF知识奇油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+28% 经验获取率|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
@@ -109,7 +109,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+1.6% 暴击几率|n+10% 暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 Description="|cffFFFF00效果：|r|n+1.6% 暴击几率|n+10% 暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 [I054]
-Name="|cff0080FF寻觅之油|r"
+Name="|cff0080FF寻觅奇油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffffff00效果 (主目标周围180范围内):|r|n+2% 物品获取率 (+0.08%/级)|n+2% 物品品质率 (+0.08%/级)|n|n|cffff8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
@@ -121,7 +121,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+8% 基础攻击力 (+0.32%/级)|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 Description="|cffFFFF00效果：|r|n+8% 基础攻击力 (+0.32%/级)|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 [I056]
-Name="|cffFFFF00知识奇油|r"
+Name="|cffFFFF00知识神油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+70% 经验获取率|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
@@ -145,7 +145,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="Increases the Hero's rate of mana regeneration by <AIrm,DataA1,%>% when worn."
 Description="DMG,4,8"
 [I05C]
-Name="|cffFFFF00寻觅奇油|r"
+Name="|cffFFFF00寻觅神油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffffff00效果 (主目标周围180范围内):|r|n+5% 物品获取率 (+0.2%/级)|n+5% 物品品质率 (+0.2%/级)|n|n|cffff8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
@@ -193,7 +193,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+4% 法术伤害|n+1% 法术暴击几率|n+8% 法术暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 Description="|cffFFFF00效果：|r|n+4% 法术伤害|n+1% 法术暴击几率|n+8% 法术暴击伤害|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 [I05K]
-Name="|cff0080FF丰盛之油|r"
+Name="|cff0080FF丰盛奇油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+16% 金钱获取率|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
@@ -229,7 +229,7 @@ Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+16% 法力值|n+16% 法力回复|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 Description="|cffFFFF00效果：|r|n+16% 法力值|n+16% 法力回复|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
 [I05N]
-Name="|cffFFFF00丰盛奇油|r"
+Name="|cffFFFF00丰盛神油|r"
 Hotkey=O
 Tip=Purchase So|cffffcc00b|ri Mask
 Ubertip="|cffFFFF00效果：|r|n+40% 金钱获取率|n|n|cffFF8000对目标塔使用这瓶油来永久提升其属性，塔被替换或者进阶后效果依然保留！|r"
