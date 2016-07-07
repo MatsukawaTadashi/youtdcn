@@ -4918,8 +4918,8 @@ Description="|cff9BA0D0一只灰暗的小球。|n|n|cffFFFF80等级:|r 8|n|cffFF
 Name="|cffFF00BF寻宝背包|r"
 Hotkey=K
 Tip="|cffFF00BF寻宝背包|r"
-Ubertip="|cff9BA0D0这个背包有可能会找到一些有用的东西。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00寻宝|r|n激活后， 该塔在|cffFFFF80150|r 秒内的下一次击杀一定会获得一个物品。|n|cffA4AFD9激活：|n|cffFFFF00150|cffFFFF80秒 冷却|r，|cffFFFF000|cffFFFF80 范围|r"
-Description="|cff9BA0D0这个背包有可能会找到一些有用的东西。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00寻宝|r|n激活后， 该塔在|cffFFFF80150|r 秒内的下一次击杀一定会获得一个物品。|n|cffA4AFD9激活：|n|cffFFFF00150|cffFFFF80秒 冷却|r，|cffFFFF000|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0这个背包有可能会找到一些有用的东西。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00寻宝|r|n激活后， 该塔在|cffFFFF80150|r 秒内的下一次击杀一定会获得一个物品。|n|cffA4AFD9主动释放：|n|cffFFFF00150|cffFFFF80秒 冷却|r，|cffFFFF000|cffFFFF80 范围|r"
+Description="|cff9BA0D0这个背包有可能会找到一些有用的东西。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00寻宝|r|n激活后， 该塔在|cffFFFF80150|r 秒内的下一次击杀一定会获得一个物品。|n|cffA4AFD9主动释放：|n|cffFFFF00150|cffFFFF80秒 冷却|r，|cffFFFF000|cffFFFF80 范围|r"
 [Q0K7]
 Name="|cffFFFFFF魔法之壳|r"
 Hotkey=K
@@ -5134,8 +5134,8 @@ Description="|cff9BA0D0喝阿鲁卡的酒呼吸上帝的秘密烟雾。|n|n|cffF
 Name="|cffFFFF00仪式护身符|r"
 Hotkey=K
 Tip="|cffFFFF00仪式护身符|r"
-Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n激活:|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
-Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n激活:|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
+Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
 [Q0N9]
 Name="|cffFF00BF月光精华"
 Hotkey=K
@@ -5158,8 +5158,8 @@ Description="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我�
 Name="|cffFFFF00心灵吸取|r"
 Hotkey=K
 Tip="|cffFFFF00心灵吸取|r"
-Ubertip="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9激活：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
-Description="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9激活：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
+Description="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
 [Q0NE]
 Name="|cff0080FF食人魔战斧|r"
 Hotkey=K
@@ -5212,8 +5212,8 @@ Description="|cff9BA0D0这副面罩能提高敏捷和速度，但会降低基础
 Name="|cffFF00BF时空穿越者|r"
 Hotkey=K
 Tip="|cffFF00BF时空穿越者|r"
-Ubertip="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9激活：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
-Description="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9激活：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
+Description="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
 [Q0NJ]
 Name="|cffFFFF00诅咒之爪|r"
 Hotkey=K
@@ -5332,20 +5332,20 @@ Description="|cff9BA0D0一把坚硬的战锤，但欠缺准度。|n|n|cffFFFF80�
 Name="|cffFFFF00速度卷轴|r"
 Hotkey=K
 Tip="|cffFFFF00速度卷轴|r"
-Ubertip="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00速度爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 攻击速度，持续|cffFFFF804|r 秒。|n|cffA4AFD9激活:|n|cffFFFF004|cffFFFF80秒冷却时间|r"
-Description="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00速度爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 攻击速度，持续|cffFFFF804|r 秒。|n|cffA4AFD9激活:|n|cffFFFF004|cffFFFF80秒冷却时间|r"
+Ubertip="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00速度爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 攻击速度，持续|cffFFFF804|r 秒。|n|cffA4AFD9主动释放：|n|cffFFFF004|cffFFFF80秒冷却时间|r"
+Description="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00速度爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 攻击速度，持续|cffFFFF804|r 秒。|n|cffA4AFD9主动释放：|n|cffFFFF004|cffFFFF80秒冷却时间|r"
 [Q0LU]
 Name="|cffFFFF00微积分的基础知识|r"
 Hotkey=K
 Tip="|cffFFFF00微积分的基础知识|r"
-Ubertip="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9激活：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
-Description="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9激活：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
+Description="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
 [Q0M6]
 Name="|cffFFFF00力量卷轴|r"
 Hotkey=K
 Tip="|cffFFFF00力量卷轴|r"
-Ubertip="|cff9BA0D0这个卷轴能短时间提高攻击力.|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00力量爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 基础攻击力，持续|cffFFFF804|r 秒。|n|cffA4AFD9激活:|n|cffFFFF004|cffFFFF80秒冷却时间|r"
-Description="|cff9BA0D0这个卷轴能短时间提高攻击力.|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00力量爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 基础攻击力，持续|cffFFFF804|r 秒。|n|cffA4AFD9激活:|n|cffFFFF004|cffFFFF80秒冷却时间|r"
+Ubertip="|cff9BA0D0这个卷轴能短时间提高攻击力.|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00力量爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 基础攻击力，持续|cffFFFF804|r 秒。|n|cffA4AFD9主动释放：|n|cffFFFF004|cffFFFF80秒冷却时间|r"
+Description="|cff9BA0D0这个卷轴能短时间提高攻击力.|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00充能|r|n这件物品每|cffFFFF8040|r 秒获得|cffFFFF803|r 个充能，最多拥有 |cffFFFF8010|r 个充能。|n|n|cffCCFF00力量爆发|r|n激活时，消耗 |cffFFFF801|r 个充能提高|cffFFFF80350|r 范围内的塔 |cffFFFF8010%|r 基础攻击力，持续|cffFFFF804|r 秒。|n|cffA4AFD9主动释放：|n|cffFFFF004|cffFFFF80秒冷却时间|r"
 [Q0LX]
 Name="|cffFFFFFF齿形战利品|r"
 Hotkey=K
