@@ -116,7 +116,7 @@ Hotkey=V
 [W068]
 Name="v042 Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8010%|r、魔法回复 |cffFFFF8010%|r 和法术伤害 |cffFFFF805%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 魔法回复 |n|cffFFFF80+0.6%|r 魔法值 |n|cffFFFF80+0.3%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8010%|r、法力回复 |cffFFFF8010%|r 和法术伤害 |cffFFFF805%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 法力回复 |n|cffFFFF80+0.6%|r 法力值 |n|cffFFFF80+0.3%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W055]
 Name="v03D Autocast"
@@ -136,12 +136,12 @@ Hotkey=V
 [W089]
 Name="v055 Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加冰霜效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加冰霜效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W085]
 Name="v054 Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加妖火效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加妖火效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W07U]
 Name="v052 Autocast"
@@ -181,12 +181,12 @@ Hotkey=V
 [W08J]
 Name="v057 Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加腐蚀效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加腐蚀效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08N]
 Name="v058 Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加中毒效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加中毒效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08E]
 Name="v056 Autocast"
@@ -196,102 +196,102 @@ Hotkey=V
 [W08R]
 Name="v059 Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加焚烧效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加焚烧效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08V]
 Name="v05A Autocast"
 Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗魔法值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点魔法值，造成|cffFFFF80300|r点伤害并附加电化效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加电化效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [XLVK]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990010|r"
-Ubertip="这座塔当前 |cffFF8000等级 10|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 10|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVJ]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99009|r"
-Ubertip="这座塔当前 |cffFF8000等级 9|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 9|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVM]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990012|r"
-Ubertip="这座塔当前 |cffFF8000等级 12|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 12|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVL]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990011|r"
-Ubertip="这座塔当前 |cffFF8000等级 11|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 11|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVO]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990014|r"
-Ubertip="这座塔当前 |cffFF8000等级 14|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 14|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVN]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990013|r"
-Ubertip="这座塔当前 |cffFF8000等级 13|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 13|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [W0B6]
 Name="v06R Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8020%|r、魔法回复 |cffFFFF8020%|r 和法术伤害 |cffFFFF8010%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.2%|r 魔法回复 |n|cffFFFF80+1.2%|r 魔法值 |n|cffFFFF80+0.6%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8020%|r、法力回复 |cffFFFF8020%|r 和法术伤害 |cffFFFF8010%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.2%|r 法力回复 |n|cffFFFF80+1.2%|r 法力值 |n|cffFFFF80+0.6%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [XLVQ]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990016|r"
-Ubertip="这座塔当前 |cffFF8000等级 16|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 16|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVP]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990015|r"
-Ubertip="这座塔当前 |cffFF8000等级 15|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 15|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVC]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99002|r"
-Ubertip="这座塔当前 |cffFF8000等级 2|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 2|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVB]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99001|r"
-Ubertip="这座塔当前 |cffFF8000等级 1|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 1|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVE]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99004|r"
-Ubertip="这座塔当前 |cffFF8000等级 4|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 4|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVD]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99003|r"
-Ubertip="这座塔当前 |cffFF8000等级 3|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 3|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVG]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99006|r"
-Ubertip="这座塔当前 |cffFF8000等级 6|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 6|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVF]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99005|r"
-Ubertip="这座塔当前 |cffFF8000等级 5|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 5|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVI]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99008|r"
-Ubertip="这座塔当前 |cffFF8000等级 8|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 8|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVH]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99007|r"
-Ubertip="这座塔当前 |cffFF8000等级 7|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 7|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVZ]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990025|r"
-Ubertip="这座塔当前 |cffFF8000等级 25|r=|n它已经达到了最高等级，不能再升级了。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 25|r=|n它已经达到了最高等级，不能再升级了。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [W0BB]
 Name="v06T Autocast"
@@ -306,7 +306,7 @@ Hotkey=V
 [XLVS]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990018|r"
-Ubertip="这座塔当前 |cffFF8000等级 18|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 18|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [W0B9]
 Name="v06S Autocast"
@@ -316,37 +316,37 @@ Hotkey=V
 [XLVR]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990017|r"
-Ubertip="这座塔当前 |cffFF8000等级 17|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 17|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVU]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990020|r"
-Ubertip="这座塔当前 |cffFF8000等级 20|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 20|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVT]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990019|r"
-Ubertip="这座塔当前 |cffFF8000等级 19|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 19|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVW]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990022|r"
-Ubertip="这座塔当前 |cffFF8000等级 22|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 22|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVV]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990021|r"
-Ubertip="这座塔当前 |cffFF8000等级 21|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 21|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVY]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990024|r"
-Ubertip="这座塔当前 |cffFF8000等级 24|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 24|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [XLVX]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF990023|r"
-Ubertip="这座塔当前 |cffFF8000等级 23|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
+Ubertip="=这座塔当前为 |cffFF8000等级 23|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [W0A3]
 Name="v05W Autocast"
@@ -361,7 +361,7 @@ Hotkey=V
 [XLVA]
 Name="等级信息"
 Tip="|cffFFFF00等级 |cffFF99000|r"
-Ubertip="这座塔当前 |cffFF8000等级 0|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。
+Ubertip="=这座塔当前为 |cffFF8000等级 0|r=|n这座塔通过杀怪来升级。 |n每次升级会提高塔的基础攻击力、攻击速度和暴击率。
 一些特殊能力也会增强，某些塔在达到特定等级时还会获得新的能力。|n|n|cffFFFF80点击此按钮显示这座塔的详细信息。|r"
 Hotkey=C
 [W0CK]
@@ -442,17 +442,17 @@ Hotkey=V
 [W0GX]
 Name="v09A Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GP]
 Name="v098 Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GT]
 Name="v099 Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0HB]
 Name="v09I Autocast"
@@ -477,17 +477,17 @@ Hotkey=V
 [W0GH]
 Name="v096 Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GL]
 Name="v097 Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GD]
 Name="v095 Autocast"
 Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF80750|r 点伤害并且附加霜冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加霜冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0IV]
 Name="v0AJ Autocast"
@@ -497,7 +497,7 @@ Hotkey=V
 [W0J7]
 Name="v0AQ Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8030%|r、魔法回复 |cffFFFF8030%|r 和法术伤害 |cffFFFF8015%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.8%|r 魔法回复 |n|cffFFFF80+1.8%|r 魔法值 |n|cffFFFF80+0.9%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8030%|r、法力回复 |cffFFFF8030%|r 和法术伤害 |cffFFFF8015%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.8%|r 法力回复 |n|cffFFFF80+1.8%|r 法力值 |n|cffFFFF80+0.9%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W0JA]
 Name="v0AR Autocast"
@@ -612,7 +612,7 @@ Hotkey=V
 [W0NH]
 Name="v0CP Autocast"
 Tip="雷云风暴"
-Ubertip="召唤闪电风暴，每 |cffFFFF800.4|r 秒电击 |cffFFFF801000|r 范围内的怪物。每一击造成 |cffFFFF80[当前法力值 x 0.5]|r 的法术伤害，,消耗的魔法值取决于目标的大小以及造成的伤害。这座塔的法力值低于 |cffFFFF801000|r 或者范围内|cffFFFF804|r 秒内没有怪物经过时风暴将会自动停止。|n这个技能会在法力到达设定阈值的时候自动开启，可以由 '临界调整' 能力来设定此阈值.。不能取消自动施法。|n|n|cffFF8000等级加成:|r|n|cFFFFFF80+0.02|r 伤害每点剩余法力|n|n|cffFFFF80冷却时间: |cffFFFF000.01 秒|r"
+Ubertip="召唤雷云风暴，每 |cffFFFF800.4|r 秒电击 |cffFFFF801000|r 范围内的怪物。每一击造成 |cffFFFF80[当前法力值 x 0.5]|r 的法术伤害,消耗的法力值取决于目标的大小以及造成的伤害。这座塔的法力值低于 |cffFFFF801000|r 或者范围内|cffFFFF804|r 秒内没有怪物经过时风暴将会自动停止。|n这个技能会在法力到达设定阈值的时候自动开启，可以由 '临界调整' 能力来设定此阈值。不能取消自动施法。|n|n|cffFF8000等级加成:|r|n|cFFFFFF80+0.02|r 伤害每点剩余法力|n|n|cffFFFF80冷却时间: |cffFFFF000.01 秒|r"
 Hotkey=V
 [W0NI]
 Name="v0CP Autocast"
@@ -697,7 +697,7 @@ Hotkey=V
 [W0P4]
 Name="v0DE Autocast"
 Tip="能量吸收"
-Ubertip="降低 |cffFFFF801000|r 范围内所有塔的能量供给，使其攻击速度降低 |cffFFFF8010%|r。 每有一座塔受到该技能影响，加速器的每秒魔法回复量就能增加 |cffFFFF802 点。效果持续 |cffFFFF808 |r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-0.1%|r 攻击速度减弱|n|cffFFFF80+0.04|r 点魔法值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0040 秒|r"
+Ubertip="降低 |cffFFFF801000|r 范围内所有塔的能量供给，使其攻击速度降低 |cffFFFF8010%|r。 每有一座塔受到该技能影响，加速器的每秒法力回复量就能增加 |cffFFFF802 点。效果持续 |cffFFFF808 |r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-0.1%|r 攻击速度减弱|n|cffFFFF80+0.04|r 点法力值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0040 秒|r"
 Hotkey=V
 [W13A]
 Name="v0IT Autocast"
@@ -862,7 +862,7 @@ Hotkey=V
 [W150]
 Name="v0J6 Autocast"
 Tip="能量吸收"
-Ubertip="降低 |cffFFFF801000|r 范围内所有塔的能量供给，使其攻击速度降低 |cffFFFF8010%|r。 每有一座塔受到该技能影响，加速器的每秒魔法回复量就能增加 |cffFFFF802 点。效果持续 |cffFFFF808 |r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-0.1%|r 攻击速度减弱|n|cffFFFF80+0.04|r 点魔法值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0040 秒|r"
+Ubertip="降低 |cffFFFF801000|r 范围内所有塔的能量供给，使其攻击速度降低 |cffFFFF8010%|r。 每有一座塔受到该技能影响，加速器的每秒法力回复量就能增加 |cffFFFF802 点。效果持续 |cffFFFF808 |r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-0.1%|r 攻击速度减弱|n|cffFFFF80+0.04|r 点法力值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0040 秒|r"
 Hotkey=V
 [W0SQ]
 Name="v0FE Autocast"
@@ -942,7 +942,7 @@ Hotkey=A
 [W0UM]
 Name="v0G4 Autocast"
 Tip="恐惧魔王的觉醒"
-Ubertip="激活时，增加恐惧魔王的黑暗力量，持续 |cffFFFF8010|r 秒，增加自身攻击速度 |cffFFFF8050%|r 和魔法回复 |cffFFFF8020|r 点每秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+0.8|r 点魔法值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0080 秒|r"
+Ubertip="激活时，增加恐惧魔王的黑暗力量，持续 |cffFFFF8010|r 秒，增加自身攻击速度 |cffFFFF8050%|r 和法力回复 |cffFFFF8020|r 点每秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+0.8|r 点法力值每秒|n|n|cffFFFF80冷却时间: |cffFFFF0080 秒|r"
 Hotkey=V
 [W16M]
 Name="Q0M7 Autocast"
@@ -962,7 +962,7 @@ Hotkey=A
 [W0UR]
 Name="v0G6 Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8040%|r、魔法回复 |cffFFFF8040%|r 和法术伤害 |cffFFFF8020%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+2.4%|r 魔法回复 |n|cffFFFF80+2.4%|r 魔法值 |n|cffFFFF80+1.2%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内塔施放一个增益状态，增加他的最大法力值 |cffFFFF8040%|r、法力回复 |cffFFFF8040%|r 和法术伤害 |cffFFFF8020%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+2.4%|r 法力回复 |n|cffFFFF80+2.4%|r 法力值 |n|cffFFFF80+1.2%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W0V3]
 Name="v0GA Autocast"
@@ -1012,12 +1012,12 @@ Hotkey=V
 [W0YL]
 Name="v0HI Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加冰冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加冰冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z0]
 Name="v0HM Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0YD]
 Name="v0HG Autocast"
@@ -1027,22 +1027,22 @@ Hotkey=V
 [W0YP]
 Name="v0HJ Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z4]
 Name="v0HN Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0YW]
 Name="v0HL Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z8]
 Name="v0HO Autocast"
 Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 魔法值，并造成 |cffFFFF801800|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [XEST]
 Name="开始下一波"
@@ -1077,7 +1077,7 @@ Hotkey=Q
 [XX03]
 Name="法力大师"
 Tip="法力大师"
-Ubertip="所有塔的魔法值和魔法回复速率增加 |cffffff002.5%|r。"
+Ubertip="所有塔的法力值和法力回复速率增加 |cffffff002.5%|r。"
 Hotkey=R
 [XX02]
 Name="高级法师"
