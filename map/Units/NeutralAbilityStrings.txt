@@ -1443,7 +1443,7 @@ Buffubertip=这个单位受到极度寒冷效果的影响，它的移动速度�
 EditorName=极度寒冷
 [R02D]
 Bufftip=警戒
-Buffubertip=这个塔处于警戒状态，它的基础攻击力增加了。
+Buffubertip=这座塔处于警戒状态，它的基础攻击力增加了。
 EditorName=警戒
 [R02E]
 Bufftip=非法入侵
@@ -1488,9 +1488,9 @@ Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会�
 EditorSuffix=
 EditorName=热量光环
 [R071]
-EditorName=伊米尔之肉
+EditorName=伊米尔之身
 Buffubertip=伊米尔的古老肉体可以减少的负面状态持续时间.
-Bufftip=伊米尔之肉
+Bufftip=伊米尔之身
 [R072]
 Bufftip=伊米尔之怒
 Buffubertip=这个单位被伊米尔之怒减速了。

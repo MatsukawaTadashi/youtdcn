@@ -103,7 +103,7 @@ Bufftip=灵魂复仇
 Buffubertip=这个单位死亡时，附近的灵魂大厅系塔会获得经验值和攻击力。
 [R00T]
 Bufftip=黑暗诅咒
-Buffubertip=这个单位受到更多的攻击伤害。
+Buffubertip=这个单位受到的物理伤害提高。
 EditorName=黑暗诅咒
 [R023]
 Bufftip=削弱

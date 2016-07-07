@@ -454,7 +454,7 @@ Ubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0AH]
 Name="火势蔓延"
 Tip="火势蔓延"
-Ubertip="这个塔同时攻击 |cffFFFF804|r 个目标."
+Ubertip="同时攻击 |cffFFFF804|r 个目标."
 [W0AK]
 Name="魔法视界"
 Tip="魔法视界"
@@ -469,7 +469,7 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AO]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标在等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0A7]
 Name="多重射击"
@@ -497,7 +497,7 @@ Ubertip="Moo."
 [W0F1]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0F3]
 Name="多重射击"
@@ -514,7 +514,7 @@ Researchhotkey=B
 [W0HN]
 Name="火势蔓延"
 Tip="火势蔓延"
-Ubertip="这个塔同时攻击 |cffFFFF804|r 个目标。"
+Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W0HC]
 Name="魔法视界"
 Tip="魔法视界"
@@ -567,13 +567,13 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0R6]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W15C]
 Name="吸收能量"
 Tip="吸收能量"
-Ubertip="同时攻击 |cffFFFF806|r 个目标，但是不造成伤害。每次击中时有 |cffFFFF8010%|r 几率获得能量，回复 |cffFFFF8050|r 法力，如果被攻击的单位有法力，它会丢失 |cffFFFF8050|r 法力。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
-Untip="同时攻击 |cffFFFF806|r 个目标，但是不造成伤害。击中时有几率回复法力。 "
+Ubertip="同时攻击 |cffFFFF8010|r 个目标，但是不造成伤害。每次击中时有 |cffFFFF8010%|r 几率获得能量，回复 |cffFFFF8050|r 法力，如果被攻击的目标有法力，目标会丢失 |cffFFFF8050|r 法力。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
+Untip="同时攻击 |cffFFFF8010|r 个目标，但是不造成伤害。击中时有几率回复法力。 "
 [W0TY]
 Name="地狱火"
 Tip="多重射击"
@@ -596,7 +596,7 @@ Ubertip="同时攻击 |cffffff808|r 个目标，伤害目标时有 |cffffff805%|
 [W0T8]
 Name="火势蔓延"
 Tip="火势蔓延"
-Ubertip="这个塔同时攻击 |cffFFFF804|r 个目标。"
+Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W17G]
 Name="Overgrowth"
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
@@ -764,7 +764,7 @@ Buffubertip这个单位被杀死后将会给予更多经验。
 EditorName=照亮
 [R002]
 Bufftip=酸性涂层
-Buffubertip=这个单位护甲降低。
+Buffubertip=这个单位的护甲降低。
 EditorName=酸性涂层
 [R00A]
 Bufftip=圣光之力
@@ -823,10 +823,10 @@ Bufftip=刺针扫射
 Buffubertip=这个单位被刺针扫射所击中，下一次刺针扫射会造成更多伤害。
 EditorName=刺针扫射
 [R01U]
-Bufftip=肠液涂层
+Bufftip=肠液覆盖
 Buffubertip=这个单位被肠液覆盖，它移动的更慢，并且受到来自黑暗系塔的额外伤害。
 [R01V]
-Bufftip=焚烧
+Bufftip=点燃
 Buffubertip=这个单位被点燃，持续受到法术伤害，并且受到来自于火焰系塔的额外伤害。
 EditorName=点燃
 [R01T]
@@ -875,7 +875,7 @@ Bufftip=灵魂分裂
 Buffubertip=这座塔攻击速度提高。
 EditorName=灵魂分裂
 [R017]
-Bufftip=狼性
+Bufftip=狼的韧性
 Buffubertip=这个单位被狼所影响，攻击速度提高。
 [R00W]
 Bufftip=爱情药剂
@@ -952,7 +952,7 @@ EditorName=暴风雪
 EditorSuffix=meins
 [R03X]
 Bufftip=引力
-Buffubertip=这个塔在攻击时有概率召唤流星，施法时必定召唤流星。
+Buffubertip=这座塔在攻击时有概率召唤流星，施法时必定召唤流星。
 EditorName=引力
 [R03U]
 Bufftip=疲惫
@@ -965,7 +965,7 @@ EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R04D]
 Bufftip=诅咒
-Buffubertip=这个单位受到了巫妖王的诅咒，受到的法术效果持续时间延长。 
+Buffubertip=这个单位受到了巫妖王的诅咒，受到的法术效果持续时间延长。
 EditorName=诅咒
 [R04E]
 Bufftip=统治
@@ -1051,7 +1051,7 @@ Buffubertip=这个单位受到了流冰的影响，它的增益持续时间提�
 EditorName=流冰
 [R03I]
 Bufftip=收集中
-Buffubertip=每当这个塔施法时，法术收集器将暂时变得更强。
+Buffubertip=每当这座塔施法时，法术收集器将暂时变得更强。
 EditorName=收集中
 [R03J]
 Bufftip=魔法弹幕
@@ -1108,7 +1108,7 @@ Buffubertip=这个单位受到的法术伤害提高。
 EditorName=喷溅
 [R06F]
 Bufftip=黑暗帷幕
-Buffubertip=这个塔攻击伤害的一部分会转为凋零类型。
+Buffubertip=这座塔攻击伤害的一部分会转为凋零类型。
 EditorName=黑暗帷幕
 [R06G]
 Bufftip=发射器目标
@@ -1117,7 +1117,7 @@ Buffubertip=这个单位被核导弹发射器瞄准。
 Bufftip=出神入化
 Buffubertip=这座塔的法术伤害和触发几率提高。
 [R06E]
-Bufftip=蘑菇打击
+Bufftip=真菌打击
 Buffubertip=这个单位受到的法术伤害提高。
 [R06C]
 Bufftip=魔法孢子
@@ -1390,7 +1390,7 @@ Buffubertip=这个单位被诅咒了，当诅咒效果结束或者被净化时�
 EditorName=诅咒
 [R07I]
 Bufftip=导管
-Buffubertip=受到导管的影响，属性提高。
+Buffubertip=受到导管的影响，攻击和触发属性提高。Spell and trigger stats increased by nearby Conduit.
 [R07J]
 Bufftip=释放
 Buffubertip=触发几率提高。
