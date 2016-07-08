@@ -407,7 +407,7 @@ Hotkey=V
 [W0C0]
 Name="v074 Autocast"
 Tip="神之恩惠"
-Ubertip="对友方目标塔释放增益状态，使目标攻击伤害和经验获取率增加 |cffFFFF8040%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+1%|r 攻击伤害和经验获取|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
+Ubertip="对友方目标塔释放增益状态，使目标攻击力和经验获取率增加 |cffFFFF8040%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+1%|r 攻击力和经验获取|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
 Hotkey=V
 [W0FI]
 Name="v08P Autocast"
@@ -607,7 +607,7 @@ Hotkey=X
 [W0NT]
 Name="v0CS Autocast"
 Tip="神之恩惠"
-Ubertip="对友方目标塔释放增益状态，使目标攻击伤害和经验获取率增加 |cffFFFF8080%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+2%|r attack 点伤害 and 经验获取率 gain|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
+Ubertip="对友方目标塔释放增益状态，使目标攻击力和经验获取率增加 |cffFFFF8080%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+2%|r attack 点伤害 and 经验获取率 gain|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
 Hotkey=V
 [W0NH]
 Name="v0CP Autocast"
@@ -712,7 +712,7 @@ Hotkey=V
 [W13E]
 Name="v0IU Autocast"
 Tip="添加功能"
-Ubertip="降低飞弹的伤害，为飞弹添加额外功能，伤害不能小于0.|n"
+Ubertip="降低飞弹的伤害，为飞弹添加额外功能，伤害不能小于0%.|n"
 Hotkey=C
 [W13F]
 Name="v0IU Autocast"
@@ -722,7 +722,7 @@ Hotkey=X
 [W12Z]
 Name="v0IR Autocast"
 Tip="不朽的意志"
-Ubertip="死亡骑士消耗其现有|cffFFFF8050%|r的法力，通过减少范围 |cffFFFF80200|r 内所有塔 |cffFFFF8010%|r 的攻击伤害 ，来增加死亡骑士 |cffFFFF8015%|r*塔数的基础伤害，持续 |cffFFFF805|r 秒。只有价值 |cffFFFF801300|r 金以上的塔能被此法术影响到。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 伤害吸收|n|n|cffFFFF80冷却时间: |cffFFFF008 秒|r"
+Ubertip="死亡骑士消耗其现有|cffFFFF8050%|r的法力，降低范围 |cffFFFF80200|r 内所有塔 |cffFFFF8010%|r 的基础攻击力 ，来增加死亡骑士 |cffFFFF8015%|r*塔数的基础攻击力，持续 |cffFFFF805|r 秒。只有价值 |cffFFFF801300|r 金以上的塔能被此法术影响到。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 伤害吸收|n|n|cffFFFF80冷却时间: |cffFFFF008 秒|r"
 Hotkey=V
 [W0S8]
 Name="v0F7 Autocast"
@@ -752,7 +752,7 @@ Hotkey=V
 [W12T]
 Name="v0IQ Autocast"
 Tip="维度连接"
-Ubertip="和目标塔连接.本塔会记录目标塔给|cffFFFF802000|r范围内的怪物造成的任何法术伤害.如果目标塔被卖掉、替换或升级,连接会中止.|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00800|r"
+Ubertip="和目标塔连接.本塔会记录目标塔给|cffFFFF802000|r范围内的怪物造成的任何法术伤害.如果目标塔被出售、替换或进阶,连接会中止.|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00800|r"
 Hotkey=V
 [W0QW]
 Name="v0EA Autocast"
