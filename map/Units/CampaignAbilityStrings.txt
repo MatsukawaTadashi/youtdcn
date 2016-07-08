@@ -156,7 +156,7 @@ Hotkey=V
 [W06Y]
 Name="v04J Autocast"
 Tip="自然赠礼"
-Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+28%|r 经验获取率对星辰|n|cffFFFF80+16%|r 法术伤害对黑暗|n|cffFFFF80+4%|r 暴击几率对自然|n|cffFFFF80+16%|r 伤害对火焰|n|cffFFFF80+20%|r 增益持续时间对冰霜|n|cffFFFF80+8%|r 攻击速度对风暴|n|cffFFFF80+6%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.8%|r 经验获取率|n|cffFFFF80+0.4%|r 法术伤害|n|cffFFFF80+0.1%|r 暴击几率|n|cffFFFF80+0.4%|r 伤害|n|cffFFFF80+0.6%|r 增益持续时间|n|cffFFFF80+0.2%|r 攻击速度|n|cffFFFF80+0.14%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+28%|r 经验获取率对星辰|n|cffFFFF80+16%|r 法术伤害对黑暗|n|cffFFFF80+4%|r 暴击几率对自然|n|cffFFFF80+16%|r 攻击力对火焰|n|cffFFFF80+20%|r 增益持续时间对冰霜|n|cffFFFF80+8%|r 攻击速度对风暴|n|cffFFFF80+6%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.8%|r 经验获取率|n|cffFFFF80+0.4%|r 法术伤害|n|cffFFFF80+0.1%|r 暴击几率|n|cffFFFF80+0.4%|r 攻击力|n|cffFFFF80+0.6%|r 增益持续时间|n|cffFFFF80+0.2%|r 攻击速度|n|cffFFFF80+0.14%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W06P]
 Name="v04C Autocast"
@@ -567,7 +567,7 @@ Hotkey=V
 [W0KP]
 Name="v0BE Autocast"
 Tip="自然赠礼"
-Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+42%|r 经验获取率对星辰|n|cffFFFF80+24%|r 法术伤害对黑暗|n|cffFFFF80+6%|r 暴击几率对自然|n|cffFFFF80+24%|r 伤害对火焰|n|cffFFFF80+30%|r 增益持续时间对冰霜|n|cffFFFF80+12%|r 攻击速度对风暴|n|cffFFFF80+9%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.2%|r 经验获取率|n|cffFFFF80+0.6%|r 法术伤害|n|cffFFFF80+0.15%|r 暴击几率|n|cffFFFF80+0.6%|r 伤害|n|cffFFFF80+0.9%|r 增益持续时间|n|cffFFFF80+0.3%|r 攻击速度|n|cffFFFF80+0.21%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+42%|r 经验获取率对星辰|n|cffFFFF80+24%|r 法术伤害对黑暗|n|cffFFFF80+6%|r 暴击几率对自然|n|cffFFFF80+24%|r 攻击力对火焰|n|cffFFFF80+30%|r 增益持续时间对冰霜|n|cffFFFF80+12%|r 攻击速度对风暴|n|cffFFFF80+9%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.2%|r 经验获取率|n|cffFFFF80+0.6%|r 法术伤害|n|cffFFFF80+0.15%|r 暴击几率|n|cffFFFF80+0.6%|r 攻击力|n|cffFFFF80+0.9%|r 增益持续时间|n|cffFFFF80+0.3%|r 攻击速度|n|cffFFFF80+0.21%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W0KE]
 Name="v0BB Autocast"
@@ -892,7 +892,7 @@ Hotkey=V
 [W0VP]
 Name="v0GI Autocast"
 Tip="自然赠礼"
-Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+56%|r 经验获取率对星辰|n|cffFFFF80+32%|r 法术伤害对黑暗|n|cffFFFF80+8%|r 暴击几率对自然|n|cffFFFF80+32%|r 伤害对火焰|n|cffFFFF80+40%|r 增益持续时间对冰霜|n|cffFFFF80+16%|r 攻击速度对风暴|n|cffFFFF80+12%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.6%|r 经验获取率|n|cffFFFF80+0.8%|r 法术伤害|n|cffFFFF80+0.2%|r 暴击几率|n|cffFFFF80+0.8%|r 伤害|n|cffFFFF80+1.2%|r 增益持续时间|n|cffFFFF80+0.4%|r 攻击速度|n|cffFFFF80+0.28%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="一个灵魂飞向 |cffffff80500|r 范围内的一座塔并为其提供增益 |cffffff805|r 秒。增益类型取决于塔的元素：|n|cffFFFF80+56%|r 经验获取率对星辰|n|cffFFFF80+32%|r 法术伤害对黑暗|n|cffFFFF80+8%|r 暴击几率对自然|n|cffFFFF80+32%|r 攻击力对火焰|n|cffFFFF80+40%|r 增益持续时间对冰霜|n|cffFFFF80+16%|r 攻击速度对风暴|n|cffFFFF80+12%|r 物品获取率对钢铁|n此外，还有 |cffFFFF8025%|r 几率为该塔额外提供另一系的增益。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.6%|r 经验获取率|n|cffFFFF80+0.8%|r 法术伤害|n|cffFFFF80+0.2%|r 暴击几率|n|cffFFFF80+0.8%|r 攻击力|n|cffFFFF80+1.2%|r 增益持续时间|n|cffFFFF80+0.4%|r 攻击速度|n|cffFFFF80+0.28%|r 物品获取率|n|n|cffFFFF80冷却时间: |cffFFFF002 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W16H]
 Name="Q0LU Autocast"
@@ -977,17 +977,17 @@ Hotkey=V
 [W0WL]
 Name="v0GV Autocast"
 Tip="电磁脉冲"
-Ubertip="在当前位置创建一个电磁脉冲。 敌人将会受到 |cffffff804|r x 移动距离的法术伤害每 |cffFFFF800.4|r 秒。该效果持续 |cffFFFF804|r 秒。 |n|n|cffFF8000等级加成：|r|n |cffFFFF80+2%|r 法术伤害 |n|cffffff80+0.1|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF001000|r"
+Ubertip="在目标位置创造一个电磁脉冲。 敌人每 |cffFFFF800.4|r 秒将会受到 [|cffffff804|r x 离脉冲中心距离]的法术伤害。脉冲持续 |cffFFFF804|r 秒。 |n|n|cffFF8000等级加成：|r|n |cffFFFF80+2%|r 法术伤害 |n|cffffff80+0.1|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF001000|r"
 Hotkey=V
 [W0X2]
 Name="v0H1 Autocast"
 Tip="伊甸园之怒"
-Ubertip="使用伊甸园储存的一半生命力创造出一次巨型爆炸。每消耗一点生命力储备，就能对 |cffFFFF801600|r 范围内的所有单位造成 [|cffFFFF80当前波数x15|r]的伤害。 没有生命力储备时无法释放。|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r"
+Ubertip="使用伊甸园储存的一半生命之力创造出一次巨型爆炸。每消耗一点生命之力，就能对 |cffFFFF801600|r 范围内的所有单位造成 [|cffFFFF80当前波数x15|r]的伤害。 |n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r"
 Hotkey=V
 [W0ZJ]
 Name="v0HS Autocast"
 Tip="落锤"
-Ubertip="召唤一柄锤子从天空落下。此锤造成 |cffFFFF8010000|r 点法术伤害于范围 |cffFFFF80600|r 内所有敌人，并眩晕他们 |cffFFFF801|r 秒。每座玩家的 |cFF8080FF风暴|r 塔在范围 |cffFFFF802500|r 内将损失 |cffFFFF8010%|r 攻击伤害持续 |cffFFFF806|r 秒，但增加锤子的法术伤害 |cffFFFF805%|r。最高可获得 |cffFFFF80100%|r 的伤害加成。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 塔的伤害|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="召唤一柄锤子从天空落下。此锤造成 |cffFFFF8010000|r 点法术伤害对范围 |cffFFFF80600|r 内所有敌人，并眩晕他们 |cffFFFF801|r 秒。在范围 |cffFFFF802500|r 内的每座属于你的 |cFF8080FF风暴|r 塔将损失 |cffFFFF8010%|r 攻击力，持续 |cffFFFF806|r 秒，但增加锤子的法术伤害 |cffFFFF805%|r。最高可获得 |cffFFFF80100%|r 的伤害加成。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 塔的伤害|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0ZO]
 Name="v0HT Autocast"
