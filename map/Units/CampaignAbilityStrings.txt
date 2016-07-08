@@ -467,7 +467,7 @@ Hotkey=V
 [W0FP]
 Name="v08S Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内所有塔最大法力值的 |cffFFFF8010%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.4%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8010%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.4%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W0G4]
 Name="v091 Autocast"
@@ -702,7 +702,7 @@ Hotkey=V
 [W13A]
 Name="v0IT Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内所有塔最大法力值的 |cffFFFF8020%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.8%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8020%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.8%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W13D]
 Name="v0IU Autocast"
@@ -742,7 +742,7 @@ Hotkey=V
 [W0QD]
 Name="v0DZ Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内所有塔最大法力值的 |cffFFFF8015%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.6%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8015%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.6%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W0R1]
 Name="v0ED Autocast"
