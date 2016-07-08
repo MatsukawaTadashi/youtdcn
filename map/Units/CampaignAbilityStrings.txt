@@ -722,7 +722,7 @@ Hotkey=X
 [W12Z]
 Name="v0IR Autocast"
 Tip="不朽的意志"
-Ubertip="死亡骑士消耗其现有|cffFFFF8050%|r的法力，降低范围 |cffFFFF80200|r 内所有塔 |cffFFFF8010%|r 的基础攻击力 ，来增加死亡骑士 |cffFFFF8015%|r*塔数的基础攻击力，持续 |cffFFFF805|r 秒。只有价值 |cffFFFF801300|r 金以上的塔能被此法术影响到。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 伤害吸收|n|n|cffFFFF80冷却时间: |cffFFFF008 秒|r"
+Ubertip="死亡骑士消耗其现有|cffFFFF8050%|r的法力，降低范围 |cffFFFF80200|r 内所有塔 |cffFFFF8010%|r 的基础攻击力 ，来增加死亡骑士 |cffFFFF8015%|r*塔数的基础攻击力，持续 |cffFFFF805|r 秒。只有价值 |cffFFFF801300|r 金以上的塔能被此法术影响到。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础攻击力|n|n|cffFFFF80冷却时间: |cffFFFF008 秒|r"
 Hotkey=V
 [W0S8]
 Name="v0F7 Autocast"
