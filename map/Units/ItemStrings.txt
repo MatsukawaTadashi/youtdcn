@@ -430,7 +430,7 @@ Description="点击使用建造一座塔"
 Name="触手幼生"
 Hotkey=T
 Tip="购买 触手幼生"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF0047|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF0047|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q014]
 Name="灰烬龟幼生"
@@ -505,10 +505,10 @@ Tip="购买 小型火炬"
 Ubertip="|cff9BA0D0这座塔使用魔法火焰同时打击多个单位。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF0053|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0025|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q01O]
-Name="义勇军了望塔"
+Name="民兵望塔"
 Hotkey=T
-Tip="购买 义勇军了望塔"
-Ubertip="|cff9BA0D0义勇军向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF0034|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 民兵望塔"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF0034|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q020]
 Name="意外祭坛"
@@ -916,7 +916,7 @@ Description="点击使用建造一座塔"
 Name="饥饿的触手"
 Hotkey=T
 Tip="购买 饥饿的触手"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00269|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00269|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q03R]
 Name="冷冻藤蔓"
@@ -952,7 +952,7 @@ Description="点击使用建造一座塔"
 Name="北部漫步者"
 Hotkey=T
 Tip="购买 北部漫步者"
-Ubertip="|cff9BA0D0这些巨大的生物在冰源漫步。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF00223|r 每秒伤害, |cffFF0080法力|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物在冰源漫步。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF00223|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q03N]
 Name="强化石柱"
@@ -1072,13 +1072,13 @@ Description="点击使用建造一座塔"
 Name="触手"
 Hotkey=T
 Tip="购买 触手"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00137|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00137|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q02G]
 Name="冰原漫步者"
 Hotkey=T
 Tip="购买 冰原漫步者"
-Ubertip="|cff9BA0D0这些巨大的生物在冰源漫步.|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF冰|r|n|cffFFFF80攻击: |cffFFFF00111|r 每秒伤害, |cffFF0080法力|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物在冰源漫步.|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF冰|r|n|cffFFFF80攻击: |cffFFFF00111|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q02J]
 Name="次级元素幽魂"
@@ -1192,7 +1192,7 @@ Description="点击使用建造一座塔"
 Name="狂战士"
 Hotkey=T
 Tip="购买 狂战士"
-Ubertip="|这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q04Y]
 Name="能量枢纽"
@@ -1249,10 +1249,10 @@ Tip="购买 冰冻岩石"
 Ubertip="|cff9BA0D0一座罕见塔，能够降低敌人速度。每次攻击都能增加击晕目标的几率。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00502|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00760|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q05C]
-Name="义勇军警卫"
+Name="民兵哨塔"
 Hotkey=T
-Tip="购买 义勇军警卫"
-fUbertip="|cff9BA0D0义勇军向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00182|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 民兵哨塔"
+fUbertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00182|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q05B]
 Name="残忍火焰"
@@ -1642,7 +1642,7 @@ Description="点击使用建造一座塔"
 Name="魔法电池"
 Hotkey=T
 Tip="购买 魔法电池"
-Ubertip="|cff9BA0D0这座塔能够储存魔法，以备今后所需|n|n|cffFFFF80作者:|r tolleder|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00274|r 每秒伤害，|cffFF0080法力|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF00250|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座塔能够储存魔法，以备今后所需|n|n|cffFFFF80作者:|r tolleder|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00274|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF00250|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q06X]
 Name="熔岩间歇泉"
@@ -1696,7 +1696,7 @@ Description="点击使用建造一座塔"
 Name="太阳能收集器"
 Hotkey=T
 Tip="购买 太阳能收集器"
-Ubertip="|cff9BA0D0这座塔能将太阳能转化为自身的力量。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r / D1000|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00468|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF0017|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座塔能将太阳能转化为纯粹的力量。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r / D1000|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00468|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF0017|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q07F]
 Name="风暴厅"
@@ -1714,7 +1714,7 @@ Description="点击使用建造一座塔"
 Name="寒冷冰尖"
 Hotkey=T
 Tip="购买 寒冷冰尖"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并造成额外伤害。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00572|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并降低它们的生命回复速度.|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00572|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q07B]
 Name="炼狱猪圈"
@@ -1768,7 +1768,7 @@ Description="点击使用建造一座塔"
 Name="年轻的北地巨魔"
 Hotkey=T
 Tip="购买 年轻的北地巨魔"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒 冰|r|n|cffFFFF80攻击: |cffFFFF00966|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF00966|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q07J]
 Name="精准狙击手"
@@ -1837,16 +1837,16 @@ Tip="购买 痛苦纪念碑"
 Ubertip="|cff9BA0D0有什么东西很快就要孵化了……嘘…|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00489|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q07P]
-Name="小型钢铁岗哨"
+Name="破旧的钢铁岗哨"
 Hotkey=T
-Tip="购买 小型钢铁岗哨"
-Ubertip="|cff9BA0D0一座强大的钢铁塔，它可以保护自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00507|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 破旧的钢铁岗哨"
+Ubertip="|cff9BA0D0一座强大的钢铁塔，它会尽全力保卫自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00507|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q081]
 Name="初级女猎手"
 Hotkey=T
 Tip="购买 初级女猎手"
-Ubertip="|cff9BA0D0在放弃艾露恩的信仰后，她在黑暗禁术中找到了能量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00520|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0在背弃艾露恩的信仰后，她在黑暗禁术中寻求力量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00520|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q07S]
 Name="毁灭风暴"
@@ -2008,7 +2008,7 @@ Description="点击使用建造一座塔"
 Name="撕裂的触手"
 Hotkey=T
 Tip="购买 撕裂的触手"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00532|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00532|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q075]
 Name="武器堆"
@@ -2176,7 +2176,7 @@ Description="点击使用建造一座塔"
 Name="替罪羔羊"
 Hotkey=T
 Tip="购买 替罪羔羊"
-Ubertip="|cff9BA0D0牺牲自己，以提升附近的塔。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001234|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0牺牲自己以强化附近的塔。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001234|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q09Q]
 Name="大型火焰守卫"
@@ -2272,7 +2272,7 @@ Description="点击使用建造一座塔"
 Name="光之战士"
 Hotkey=T
 Tip="购买 光之战士"
-Ubertip="|cff9BA0D0传说星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00406|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0稀有星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00406|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q089]
 Name="树林"
@@ -2296,7 +2296,7 @@ Description="点击使用建造一座塔"
 Name="专注的狂战士"
 Hotkey=T
 Tip="购买 专注的狂战士"
-Ubertip="|这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q08H]
 Name="冰冷方尖碑"
@@ -2344,7 +2344,7 @@ Description="点击使用建造一座塔"
 Name="白银骑士"
 Hotkey=T
 Tip="购买 白银骑士"
-Ubertip="|cff9BA0D0有一定几率将弱小单位直接转换为金钱，同时杀死敌人时能获取额外的金钱。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00725|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0稀有塔，有一定几率将弱小怪物直接转换为金钱，杀死敌人时能获取额外的金钱。基于现有的金钱造成额外伤害。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00725|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q08P]
 Name="精练女巫"
@@ -2437,10 +2437,10 @@ Tip="购买 毒素蓄电器"
 Ubertip="|cff9BA0D0这座塔能够储存毒素，以备今后所需。|n|n|cffFFFF80作者:|r tolleder|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00657|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF00300|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q098]
-Name="义勇军前哨"
+Name="民兵边哨"
 Hotkey=T
-Tip="购买 义勇军前哨"
-Ubertip="|cff9BA0D0义勇军守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00410|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 民兵边哨"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00410|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q08R]
 Name="维度精妙装置"
@@ -2494,7 +2494,7 @@ Description="点击使用建造一座塔"
 Name="鹰身女巫"
 Hotkey=T
 Tip="购买 鹰身女巫"
-Ubertip="|cff9BA0D0风暴和雨的召唤者。鹰身女妖他们是众所皆知的残暴和无情。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00797|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0风暴和雨的召唤者。出名的残暴和无情。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00797|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0AG]
 Name="采矿场地"
@@ -2506,7 +2506,7 @@ Description="点击使用建造一座塔"
 Name="极地漫步者"
 Hotkey=T
 Tip="购买 极地漫步者"
-Ubertip="|cff9BA0D0这些巨大的生物行走在冰苔原上.|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF寒 冰|r|n|cffFFFF80攻击: |cffFFFF00891|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物行走在冰苔原上.|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF00891|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0AI]
 Name="强力避雷针"
@@ -2608,7 +2608,7 @@ Description="点击使用建造一座塔"
 Name="复仇的触手"
 Hotkey=T
 Tip="购买 复仇的触手"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001049|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001049|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0AW]
 Name="重型魔法废墟"
@@ -2638,7 +2638,7 @@ Description="点击使用建造一座塔"
 Name="机枪兵"
 Hotkey=T
 Tip="购买 机枪兵"
-Ubertip="|cff9BA0D0低调却受人尊重的士兵.|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFC0C0C0钢铁 |r|n|cffFFFF80攻击: |cffFFFF00560|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|cffFFFF80法力: |cffFFFF0030|r (+|cffFFFF001.2|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一位受人尊敬的士兵，只是有些自卑。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFC0C0C0钢铁 |r|n|cffFFFF80攻击: |cffFFFF00560|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|cffFFFF80法力: |cffFFFF0030|r (+|cffFFFF001.2|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0AX]
 Name="霜冻冰屋"
@@ -2668,7 +2668,7 @@ Description="点击使用建造一座塔"
 Name="亚历山大图书馆"
 Hotkey=T
 Tip="购买 亚历山大图书馆"
-Ubertip="|cff9BA0D0这座远古的图书馆能够从其浩瀚的书中获取知识来强化自身。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF000|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0040|r (+|cffFFFF002|r/秒)|r|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座远古的图书馆使用其浩瀚的知识来提高获得的经验值。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF000|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0040|r (+|cffFFFF002|r/秒)|r|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0B3]
 Name="闪耀太阳球体"
@@ -2701,10 +2701,10 @@ Tip="购买 愤怒之树"
 Ubertip="|cff9BA0D0一颗生气之树，有几率向敌人投掷巨石。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00789|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BB]
-Name="中型钢铁岗哨"
+Name="坚固的钢铁岗哨"
 Hotkey=T
-Tip="购买 中型钢铁岗哨"
-Ubertip="|cff9BA0D0一座强大的钢铁塔，它可以保护自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00853|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 坚固的钢铁岗哨"
+Ubertip="|cff9BA0D0一座强大的钢铁塔，它会尽全力保卫自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00853|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BA]
 Name="法术收集器"
@@ -2800,7 +2800,7 @@ Description="点击使用建造一座塔"
 Name="女猎手"
 Hotkey=T
 Tip="购买 女猎手"
-Ubertip="|cff9BA0D0在放弃艾露恩的信仰后，她在黑暗禁术中找到了能量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF00961|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0在背弃艾露恩的信仰后，她在黑暗禁术中寻求力量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF00961|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0CJ]
 Name="寒冰海龟"
@@ -2812,13 +2812,13 @@ Description="点击使用建造一座塔"
 Name="虚空蜉蝣"
 Hotkey=T
 Tip="购买 虚空蜉蝣"
-Ubertip="|cff9BA0D0虚空先知，一种自私的生物。|n|n|cffFFFF80作者:|r |cff57B4FBChronos|r|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击，|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者:|r |cff57B4FBChronos|r|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击，|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0CD]
 Name="光之将军"
 Hotkey=T
 Tip="购买 光之将军"
-Ubertip="|cff9BA0D0传说星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00751|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0稀有星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00751|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0CG]
 Name="巨大炮楼"
@@ -2920,7 +2920,7 @@ Description="点击使用建造一座塔"
 Name="闪电球加速器"
 Hotkey=T
 Tip="购买 闪电球加速器"
-Ubertip="|cff9BA0D0矮人们在对抗兽人的长期战斗中修建了这座恐怖的塔，但却未能发挥出其全部力量，因为它需要的能量实在是太多了。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF001000|r (+|cffFFFF008|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0矮人们在与兽人的长期战斗中发明了这座恐怖的塔，但最终也没有使用它，因为它消耗的能量实在是太多了。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF001000|r (+|cffFFFF008|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0D9]
 Name="终极灌木林"
@@ -2986,7 +2986,7 @@ Description="点击使用建造一座塔"
 Name="明智之枭"
 Hotkey=T
 Tip="购买 明智之枭"
-Ubertip="|cff9BA0D0强大的施法者，可以造成大量法术伤害。可以对魔免单位造成伤害。|n|n|cffFFFF80作者:|r |c00ff0000Der_kleine_Tomy|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00878|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0强大的施法者，在获得经验时会变得更强。甚至可以用法术对魔免单位造成伤害。|n|n|cffFFFF80作者:|r |c00ff0000Der_kleine_Tomy|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00878|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0DA]
 Name="时间穹顶"
@@ -3001,10 +3001,10 @@ Tip="购买 地狱巨石"
 Ubertip="|cff9BA0D0一座基础塔，有着较低的溅射伤害|n|n|cffFFFF80作者:|r geX|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF002034|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0DC]
-Name="义勇军封锁线"
+Name="民兵前哨"
 Hotkey=T
-Tip="购买 义勇军封锁线"
-Ubertip="|cff9BA0D0义勇军守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。不过这无关紧要，因为没有怪物能通过这条封锁线。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00741|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 民兵前哨"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，同时惧怕亡灵和大型怪物。不过这无关紧要，因为没有怪物能通过这条封锁线。|n|n|cffFFFF80作者:|r ShyGnome|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00741|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r 射程|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BH]
 Name="飓风犬"
@@ -3016,7 +3016,7 @@ Description="点击使用建造一座塔"
 Name="恶魔犬"
 Hotkey=T
 Tip="购买 恶魔犬"
-Ubertip="|cff9BA0D0战争猎犬又在吼叫了。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF001426|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF001426|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BJ]
 Name="硬币机器"
@@ -3034,7 +3034,7 @@ Description="点击使用建造一座塔"
 Name="冰冻源泉"
 Hotkey=T
 Tip="购买 冰冻源泉"
-Ubertip="|cff9BA0D0冰冻源泉可以对敌人造成大量伤害。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00630|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00925|r 射程|n|n|cffFFFF80光环范围：|r 500|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0冰冻源泉散发出大量的寒气。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00630|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00925|r 射程|n|n|cffFFFF80光环范围：|r 500|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BC]
 Name="青铜龙宿巢"
@@ -3061,9 +3061,9 @@ Tip="购买 萤火虫绅士"
 Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF000|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00600|r 射程|n|cffFFFF80能力范围:|r 110|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0C1]
-Name="豺狼闪电呼叫者"
+Name="豺狼闪电呼唤者"
 Hotkey=T
-Tip="购买 豺狼闪电呼叫者"
+Tip="购买 豺狼闪电呼唤者"
 Ubertip="|cff9BA0D0豺狼人!!！|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00296|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001200|r 射程|n|cffFFFF80法力：|cffFFFF0025|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BO]
@@ -3082,25 +3082,25 @@ Description="点击使用建造一座塔"
 Name="地穴女王"
 Hotkey=T
 Tip="购买 地穴女王"
-Ubertip="|cff9BA0D0所有地穴蜘蛛之母，非常邪恶!|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00805|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0所有地穴蜘蛛之母，剧毒无比!|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00805|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0C3]
 Name="成年的北地巨魔"
 Hotkey=T
 Tip="购买 成年的北地巨魔"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒 冰|r|n|cffFFFF80攻击: |cffFFFF001848|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF001848|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BQ]
 Name="龙巫"
 Hotkey=T
 Tip="购买 龙巫"
-Ubertip="|cff9BA0D0能够给附近塔释放一个增加伤害的状态。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0能够给附近塔释放一个增加攻击强度的状态。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0C2]
-Name="狂怒的狂战士"
+Name="暴怒的狂战士"
 Hotkey=T
-Tip="购买 狂怒的狂战士"
-Ubertip="|这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 暴怒的狂战士"
+Ubertip="|cff9BA0D0这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BL]
 Name="充能方尖碑"
@@ -3118,7 +3118,7 @@ Description="点击使用建造一座塔"
 Name="被囚禁的火焰"
 Hotkey=T
 Tip="购买 被囚禁的火焰"
-Ubertip="|cff9BA0D0火焰恶魔耐兹拉毁灭了半个世界。数年后伟大的法师斯瑞德使用魔法将其囚禁。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF00665|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0耐兹拉的恶魔之火毁灭了半个世界。数年后伟大的法师斯瑞德将其囚禁在一个魔法牢笼中。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF00665|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BM]
 Name="痛苦使者豪猪"
@@ -3181,9 +3181,9 @@ Tip="购买 狙击手小屋"
 Ubertip="|cff9BA0D0一座有着优秀射程的塔，能有效克制BOSS，但对杂兵稍显吃力。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001020|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF001400|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0C4]
-Name="可怕蝙蝠"
+Name="噩梦蝙蝠"
 Hotkey=T
-Tip="购买 可怕蝙蝠"
+Tip="购买 噩梦蝙蝠"
 Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF001550|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00900|r 射程|n|cffFFFF80魔法: |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0BV]
@@ -3214,7 +3214,7 @@ Description="点击使用建造一座塔"
 Name="流星图腾"
 Hotkey=T
 Tip="购买 流星图腾"
-Ubertip="|cff9BA0D0一个强力的图腾,可以使其他塔释放流星.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF00648|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00850|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个强力的图腾,可以让其他塔召唤流星.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF00648|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00850|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0CC]
 Name="太阳圣骑士"
@@ -3244,7 +3244,7 @@ Description="点击使用建造一座塔"
 Name="太阳能传导器"
 Hotkey=T
 Tip="购买 太阳能传导器"
-Ubertip="|cff9BA0D0这座塔能将太阳能转化为自身的力量。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001375|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF0017|r (+|cffFFFF003|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座塔能将太阳能转化为纯粹的力量。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001375|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80法力：|cffFFFF0017|r (+|cffFFFF003|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0EL]
 Name="附魔地洞"
@@ -3274,13 +3274,13 @@ Description="点击使用建造一座塔"
 Name="黑石图腾"
 Hotkey=T
 Tip="购买 黑石图腾"
-Ubertip="|cff9BA0D0在与人类的大战中，黑石氏族图腾帮助他们赢取了胜利。|n|n|cffFFFF80作者:|r poussix|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00518|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001200|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0在与人类的大战中，黑石氏族使用这个图腾让他们变得无法阻挡。|n|n|cffFFFF80作者:|r poussix|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00518|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001200|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0ES]
-Name="精英机枪兵"
+Name="老练的机枪兵"
 Hotkey=T
-Tip="购买 精英机枪兵"
-Ubertip="|cff9BA0D0低调却受人尊重的士兵.|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFC0C0C0钢铁 |r|n|cffFFFF80攻击: |cffFFFF00933|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 老练的机枪兵"
+Ubertip="|cff9BA0D0一位受人尊敬的士兵，只是素质不太好。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFC0C0C0钢铁 |r|n|cffFFFF80攻击: |cffFFFF00933|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0F4]
 Name="积雨云战士"
@@ -3304,7 +3304,7 @@ Description="点击使用建造一座塔"
 Name="地精要塞"
 Hotkey=T
 Tip="购买 地精要塞"
-Ubertip="|cff9BA0D0你总是应该考虑到地精们制造的道具会因为一次错误的尝试而变成核武器,也许你会活着看到另一天.|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00360|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0你总是应该考虑到地精们制造的道具会因为一次错误的尝试而变成核武器,你可能再也看不到明天的太阳了。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF00360|r 每秒伤害, |cffC0C0C0物理|r|r, |cffFFFF00800|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0F6]
 Name="毁灭飓风"
@@ -3325,16 +3325,16 @@ Tip="购买 镭射冲击塔2.0"
 Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0EO]
-Name="邦克巨人"
+Name="邦克，活体之山"
 Hotkey=T
-Tip="购买 邦克巨人"
-Ubertip="|cff9BA0D0这位巨人能够毁灭掉一切。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001223|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 邦克，活体之山"
+Ubertip="|cff9BA0D0这位巨人能够使用双手毁灭一切。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001223|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0F0]
-Name="大型钢铁岗哨"
+Name="先进的钢铁岗哨"
 Hotkey=T
-Tip="购买 大型钢铁岗哨"
-Ubertip="|cff9BA0D0一座强大的钢铁塔，它可以保护自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF001387|r 每秒伤害, |cffC0C0C0物理r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 先进的钢铁岗哨"
+Ubertip="|cff9BA0D0一座强大的钢铁塔，它会尽全力保卫自己的领地。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击: |cffFFFF001387|r 每秒伤害, |cffC0C0C0物理r|r, |cffFFFF00925|r 射程|n|n|cffFFFF80能力范围:|r 925|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0EN]
 Name="宙斯"
@@ -3376,7 +3376,7 @@ Description="点击使用建造一座塔"
 Name="冰霜巨龙"
 Hotkey=T
 Tip="购买 冰霜巨龙"
-Ubertip="|cff9BA0D0传说中的寒冰塔，能够减慢敌人速度。|n|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001791|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0传说寒冰塔，具有强大的减速能力。|n|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001791|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0F8]
 Name="幸运的矿工"
@@ -3412,13 +3412,13 @@ Description="点击使用建造一座塔"
 Name="鹰身女妖皇后"
 Hotkey=T
 Tip="购买 鹰身女妖皇后"
-Ubertip="|cff9BA0D0风暴和雨的召唤者。鹰身女妖他们是众所皆知的残暴和无情。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001328|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0风暴和雨的召唤者。出名的残暴和无情。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001328|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0030|r (+|cffFFFF002|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FD]
 Name="火焰领主"
 Hotkey=T
 Tip="购买 火焰领主"
-Ubertip="|cff9BA0D0该生物由熔岩构成，可以控制火元素。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF001646|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这个生物由纯粹的熔岩构成，可以控制火焰。|n|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF001646|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FC]
 Name="冰冻方尖碑"
@@ -3526,7 +3526,7 @@ Description="点击使用建造一座塔"
 Name="活人献祭"
 Hotkey=T
 Tip="购买 活人献祭"
-Ubertip="|cff9BA0D0牺牲自己，以提升附近的塔。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF002099|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0牺牲自己以强化附近的塔。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF002099|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0E5]
 Name="高阶风暴守卫"
@@ -3538,7 +3538,7 @@ Description="点击使用建造一座塔"
 Name="霜冻冰尖"
 Hotkey=T
 Tip="购买 霜冻冰尖"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并造成额外伤害。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻结目标并且降低它们的生命回复速度。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0E4]
 Name="高阶黑暗守卫"
@@ -3610,7 +3610,7 @@ Description="点击使用建造一座塔"
 Name="巨大的触手"
 Hotkey=T
 Tip="购买 巨大的触手"
-Ubertip="|cff9BA0D0有时会命中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001783|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0有时会击中目标的弱点并撕裂它们。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001783|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0E6]
 Name="高阶自然守卫"
@@ -3700,25 +3700,25 @@ Description="点击使用建造一座塔"
 Name="狂热的狂战士"
 Hotkey=T
 Tip="购买 狂热的狂战士"
-Ubertip="|这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这个单位非常善于格斗|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GI]
 Name="星际裂缝"
 Hotkey=T
 Tip="购买 星际裂缝"
-Ubertip="|cff9BA0D0一个强大的漩涡并且有能力可以让事物穿梭空间。|n|n|cffFFFF80作者:|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击: |cffFFFF001434|r 每秒伤害, |cff00FFFF能量|r|r, |cffFFFF00750|r 射程|n|cffFFFF80魔法: |cffFFFF00180|r (+|cffFFFF002.5|r/秒)|r|n|n|cffFFFF80光环范围:|r 750|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个强大的漩涡，有能力可以让事物穿梭空间。|n|n|cffFFFF80作者:|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击: |cffFFFF001434|r 每秒伤害, |cff00FFFF能量|r|r, |cffFFFF00750|r 射程|n|cffFFFF80魔法: |cffFFFF00180|r (+|cffFFFF002.5|r/秒)|r|n|n|cffFFFF80光环范围:|r 750|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GH]
 Name="混乱巨石"
 Hotkey=T
 Tip="购买 混乱巨石"
-Ubertip="|cff9BA0D0第一次与燃烧军团战争的残余物。他给周围任何单位带来无尽的混乱。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001986|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|cffFFFF80能力范围：|r 750|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0第一次与燃烧军团战争的残余物。它给周围的单位带来无尽的混乱。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001986|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|cffFFFF80能力范围：|r 750|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GK]
 Name="光之英雄"
 Hotkey=T
 Tip="购买 光之英雄"
-Ubertip="|cff9BA0D0传说星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001036|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0稀有星辰塔，攻击时有几率释放光波伤害敌人。|n|n|cffFFFF80作者:|r i_mOck_death|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001036|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GJ]
 Name="月亮防卫者"
@@ -3736,7 +3736,7 @@ Description="点击使用建造一座塔"
 Name="哈比"
 Hotkey=T
 Tip="购买 哈比"
-Ubertip="|cff9BA0D0为纪念伟大的黑曜石战士而建的雕像。传说中他只穿着黑色的裹尸布,尽管他真正的故事仍然被黑暗笼罩。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF001989|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80魔法: |cffFFFF00450|r (+|cffFFFF007.5|r/秒)|r|n|cffFFFF80光环范围:|r 350|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0为纪念伟大的黑曜石战士而建的雕像。传说中他只穿着黑色的裹尸布,他真正的故事仍然被黑暗笼罩。|n|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF001989|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80魔法: |cffFFFF00450|r (+|cffFFFF007.5|r/秒)|r|n|cffFFFF80光环范围:|r 350|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GT]
 Name="极地冰龟"
@@ -3754,7 +3754,7 @@ Description="点击使用建造一座塔"
 Name="大师女猎手"
 Hotkey=T
 Tip="购买 大师女猎手"
-Ubertip="|cff9BA0D0在放弃艾露恩的信仰后，她在黑暗禁术中找到了能量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF001338|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0在背弃艾露恩的信仰后，她在黑暗禁术中寻求力量。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF001338|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0H8]
 Name="潮流(Tidewater Stream)"
@@ -3790,7 +3790,7 @@ Description="点击使用建造一座塔"
 Name="年长的北地巨魔"
 Hotkey=T
 Tip="购买 年长的北地巨魔"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒 冰|r|n|cffFFFF80攻击: |cffFFFF002729|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF002729|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0H1]
 Name="痛苦神殿"
@@ -3910,7 +3910,7 @@ Description="点击使用建造一座塔"
 Name="暴风焦点"
 Hotkey=T
 Tip="购买 暴风焦点"
-Ubertip="|cff9BA0D0高级风暴塔，注重于防空塔的用途上。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF003907|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001600|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001.5|r/秒)|r|n|n|cffFFFF80光环范围：|r 800|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0高级风暴塔，能突出防空塔的作用。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF003907|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001600|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001.5|r/秒)|r|n|n|cffFFFF80光环范围：|r 800|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FM]
 Name="火山间歇泉"
@@ -3934,7 +3934,7 @@ Description="点击使用建造一座塔"
 Name="恐惧魔王"
 Hotkey=T
 Tip="购买 恐惧魔王"
-Ubertip="|cff9BA0D0拥有强大的邪恶力量。|n|n|cffFFFF80作者:|r poussix|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001086|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF001000|r (+|cffFFFF0010|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0拥有强大的邪恶力量的吸血鬼。|n|n|cffFFFF80作者:|r poussix|n|cffFFFF80元素:|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001086|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF001000|r (+|cffFFFF0010|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FI]
 Name="金钱机器"
@@ -3976,7 +3976,7 @@ Description="点击使用建造一座塔"
 Name="冰冷之花"
 Hotkey=T
 Tip="购买 冰冷之花"
-Ubertip="|cff9BA0D0这座塔有着霜冻减速光环|n|n|cffFFFF80作者:|r geX|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF002348|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001000|r 射程|n|n|cffFFFF80光环范围：|r 1100|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座塔有更强力的霜冻减速光环|n|n|cffFFFF80作者:|r geX|n|cffFFFF80元素:|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF002348|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001000|r 射程|n|n|cffFFFF80光环范围：|r 1100|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FU]
 Name="永恒神圣之光"
@@ -4000,13 +4000,13 @@ Description="点击使用建造一座塔"
 Name="森林守护者"
 Hotkey=T
 Tip="购买 森林守护者"
-Ubertip="|cff9BA0D0森林守护者是古代一名强力的战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 175|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0森林守护者是一名强大的古代战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素: |cFF80FF00自然|r|n|cffFFFF80攻击，|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 175|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FO]
 Name="艾瑞达术士"
 Hotkey=T
 Tip="购买 艾瑞达术士"
-Ubertip="|cff9BA0D0恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波惊吓附近的单位./恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波惊吓附近的单位。|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF00584|r 每秒伤害, |cff80FF00精髓|r|r, |cffFFFF00890|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波攻击附近的单位。|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF00584|r 每秒伤害, |cff80FF00精髓|r|r, |cffFFFF00890|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0G0]
 Name="完全成长的巨牙海民"
@@ -4024,7 +4024,7 @@ Description="点击使用建造一座塔"
 Name="恶魔议会"
 Hotkey=T
 Tip="购买 恶魔议会"
-Ubertip="|cff9BA0D0每过一千年，大恶魔们就会举行一次议会。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF001335|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF00100|r (+|cffFFFF002|r/秒)|r|n|n|cffFFFF80Aura 范围:|r 400|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0每一千年，大恶魔们就会举行一次议会。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF001335|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF00100|r (+|cffFFFF002|r/秒)|r|n|n|cffFFFF80Aura 范围:|r 400|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FQ]
 Name="猛犸天体猎人"
@@ -4060,7 +4060,7 @@ Description="点击使用建造一座塔"
 Name="暴风圈"
 Hotkey=T
 Tip="购买 暴风圈"
-Ubertip="|cff9BA0D0强风暴塔，在目标下方创建一个磁力突波在他移动时造成伤害。目标越远造成的伤害和减速越大。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00817|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0050|r (+|cffFFFF001|r/秒)|r|n|n|cffFFFF80光环范围：|r 1000|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0强力风暴塔，在目标下方创建一个磁力波，在它移动时造成伤害。目标越远造成的伤害和减速越大。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00817|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF0050|r (+|cffFFFF001|r/秒)|r|n|n|cffFFFF80光环范围：|r 1000|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0FZ]
 Name="豺狼风暴施法者"
@@ -4102,7 +4102,7 @@ Description="点击使用建造一座塔"
 Name="泥魔像"
 Hotkey=T
 Tip="购买 泥魔像"
-Ubertip="|cff9BA0D0高级自然塔，能对自身周围范围造成伤害并减速目标。同时在自身周围给予附近的塔有机会伤害并减速目标。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001150|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|cffFFFF80光环范围：|r 150|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0高级自然塔，能造成范围伤害和减速。给予附近的塔有几率造成范围伤害和减速的能力。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001150|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|cffFFFF80光环范围：|r 150|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0GC]
 Name="灵魂堡垒"
@@ -4354,7 +4354,7 @@ Description="点击使用建造一座塔"
 Name="黄金女王"
 Hotkey=T
 Tip="购买 黄金女王"
-Ubertip="|cff9BA0D0有一定几率将弱小单位直接转换为金钱，同时杀死敌人时能获取额外的金钱。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001923|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0稀有塔，有一定几率将弱小怪物直接转换为金钱，杀死敌人时能获取额外的金钱。基于现有的金钱造成额外伤害。|n|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001923|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0I1]
 Name="回春之井"
@@ -4366,13 +4366,13 @@ Description="点击使用建造一座塔"
 Name="抓斗机器人"
 Hotkey=T
 Tip="购买 抓斗机器人"
-Ubertip="|cff9BA0D0一个脆弱的机器人，但是能够对敌人造成毁灭性打击。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0看起来很脆弱？没错，不过它也是一台毁灭机器。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0I0]
 Name="活火山"
 Hotkey=T
 Tip="购买 活火山"
-Ubertip="|cff9BA0D0已逾千年的火山，喷发的火焰能让人在千米之外都能感受到其热量。|n|n|cffFFFF80作者:|r |cff0A50A5Kricz|r|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00983|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001100|r 射程|n|n|cffFFFF80光环范围：|r 700|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0已逾数千年的火山，喷发的火焰能让人在千米之外都能感受到其热量。|n|n|cffFFFF80作者:|r |cff0A50A5Kricz|r|n|cffFFFF80元素:|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00983|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001100|r 射程|n|n|cffFFFF80光环范围：|r 700|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0HJ]
 Name="核导弹发射器"
@@ -4438,7 +4438,7 @@ Description="点击使用建造一座塔"
 Name="虚空巨龙"
 Hotkey=T
 Tip="购买 虚空巨龙"
-Ubertip="|cff9BA0D0虚空先知，一种自私的生物。|n|n|cffFFFF80作者:|r |cff57B4FBChronos|r|n|cffFFFF80元素:|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者:|r |cff57B4FBChronos|r|n|cffFFFF80元素:|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0I8]
 Name="连锁风暴"
@@ -4474,7 +4474,7 @@ Description="点击使用建造一座塔"
 Name="被囚禁的地狱火"
 Hotkey=T
 Tip="购买 被囚禁的地狱火"
-Ubertip="|cff9BA0D0火焰恶魔耐兹拉毁灭了半个世界。数年后伟大的法师斯瑞德使用魔法将其囚禁。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF001332|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0耐兹拉的恶魔之火毁灭了半个世界。数年后伟大的法师斯瑞德将其囚禁在一个魔法牢笼中。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击，|cffFFFF001332|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0I5]
 Name="萨菲隆冰墓"
@@ -4489,15 +4489,15 @@ Tip="购买 Genis圣贤"
 Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者:|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击: |cffFFFF001261|r 每秒伤害, |cff00FFFF能量|r|r, |cffFFFF00900|r 射程|n|cffFFFF80魔法: |cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0I4]
-Name="年长的明智之枭"
+Name="远古明智之枭"
 Hotkey=T
-Tip="购买 年长的明智之枭"
-Ubertip="|cff9BA0D0强大的施法者，可以造成大量法术伤害。可以对魔免单位造成伤害。|n|n|cffFFFF80作者:|r |c00ff0000Der_kleine_Tomy|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001488|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 远古明智之枭"
+Ubertip="|cff9BA0D0强大的施法者，在获得经验时会变得更强。甚至可以用法术对魔免单位造成伤害。|n|n|cffFFFF80作者:|r |c00ff0000Der_kleine_Tomy|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001488|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0IA]
-Name="灵魂火装置"
+Name="灵魂之火装置"
 Hotkey=T
-Tip="购买 灵魂火装置"
+Tip="购买 灵魂之火装置"
 Ubertip="|cff9BA0D0烧尽生物的灵魂。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF00896|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80魔法: |cffFFFF0050|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围:|r 150|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0HZ]
@@ -4507,10 +4507,10 @@ Tip="购买 死亡骑士"
 Ubertip="|cff9BA0D0喂食灵魂以释放出他的全部力量。|n|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80元素:|cFF8A5300黑暗 |r|n|cffFFFF80攻击力：|cffFFFF002417|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00875|r 射程|n|cffFFFF80法力：|cffFFFF0050|r (+|cffFFFF000|r/秒)|r|n|n|cffFFFF80Ability 范围:|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0HY]
-Name="维度变化收集器"
+Name="维度通量收集器"
 Hotkey=T
-Tip="购买 维度变化收集器"
-Ubertip="|cff9BA0D0可以和五维空间直接连接.|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFF8080FF风暴|r|n|cffFFFF80攻击: |cffFFFF001|r 每秒伤害, |cff00FFFF能量|r|r, |cffFFFF00800|r射程|n|n|cffFFFF80光环范围:|r 2150.00|n|cffFFFF80技能范围:|r 2000|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 维度通量收集器"
+Ubertip="|cff9BA0D0和五维空间直接连接.|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFF8080FF风暴|r|n|cffFFFF80攻击: |cffFFFF001|r 每秒伤害, |cff00FFFF能量|r|r, |cffFFFF00800|r射程|n|n|cffFFFF80光环范围:|r 2150.00|n|cffFFFF80技能范围:|r 2000|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0IG]
 Name="沃金-巫医"
@@ -4534,13 +4534,13 @@ Description="点击使用建造一座塔"
 Name="艾瑞达信魔者"
 Hotkey=T
 Tip="购买 艾瑞达信魔者"
-Ubertip="|cff9BA0D0恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波惊吓附近的单位./恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波惊吓附近的单位,还可以立刻杀死生命力过弱的敌人.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF00959|r 每秒伤害, |cff80FF00精髓|r|r, |cffFFFF00890|r射程|n|n|cffFFFF80光环范围:|r 750|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波攻击附近的单位./恶魔的实体,会击晕自己的塔并偷取它们的伤害,偶尔会用暗箭波惊吓附近的单位,还可以立刻杀死生命力过弱的敌人.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF00959|r 每秒伤害, |cff80FF00精髓|r|r, |cffFFFF00890|r射程|n|n|cffFFFF80光环范围:|r 750|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0IC]
 Name="死亡电器"
 Hotkey=T
 Tip="购买 死亡电器"
-Ubertip="|cff9BA0D0矮人们在对抗兽人的长期战斗中修建了这座恐怖的塔，但却未能发挥出其全部力量，因为它需要的能量实在是太多了。闪电球加速器第二代改进版…|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF002000|r (+|cffFFFF0016|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0矮人们在与兽人的长期战斗中发明了这座恐怖的塔，但最终也没有使用它，因为它消耗的能量实在是太多了。闪电球加速器第二代，会导致世界末日。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力：|cffFFFF002000|r (+|cffFFFF0016|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q0IB]
 Name="熔炉"

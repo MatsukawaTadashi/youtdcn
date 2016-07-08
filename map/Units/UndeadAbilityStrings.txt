@@ -115,7 +115,7 @@ Buffubertip=这个单位残废了，它的移动速度会持续降低。
 EditorName=残废
 [R04O]
 Bufftip=科多兽的粪便
-Buffubertip=这个单位从科多兽的粪便中获得了力量。
+Buffubertip=这个单位从燃烧着的科多粪中获得了能量。
 EditorName=科多兽的粪便
 [R02Z]
 Bufftip=阳光
@@ -145,7 +145,7 @@ Bufftip=凋零的存在
 Buffubertip=这个单位的生命恢复速度降低，并且受到来自黑暗系塔的额外伤害。
 [R076]
 Bufftip=冰冷触摸
-Buffubertip=这个单位被减速，当效果消失时会受到法术伤害。
+Buffubertip=这个单位被减速。
 [R06S]
 Bufftip=不朽的意志
 Buffubertip=这个单位的攻击力提高。

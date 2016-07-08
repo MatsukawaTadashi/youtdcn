@@ -130,8 +130,8 @@ Buffubertip=这个单位的护甲降低。
 Bufftip=震荡弹
 Buffubertip=这个单位被减速了。
 [R02I]
-Bufftip=烟幕弹
-Buffubertip=这个单位装备了烟幕弹。
+Bufftip=烟雾弹
+Buffubertip=这个单位装备了烟雾弹。
 [R02F]
 Bufftip=震荡弹
 Buffubertip=这个单位装备了震荡弹。

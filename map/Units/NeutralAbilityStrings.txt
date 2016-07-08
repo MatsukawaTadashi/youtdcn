@@ -1464,7 +1464,7 @@ Buffubertip=这个单位的灵魂被囚禁在穹窿中，它会受到更多法�
 EditorName=Item Change Time of Day
 [R04Q]
 Bufftip=液态火
-Buffubertip=这个单位持续受到伤害，并且受到火焰塔的伤害提高。
+Buffubertip=这个单位持续受到伤害，并且受到火焰系塔的伤害提高。
 EditorName=液态火
 [R03A]
 Bufftip=神圣教育

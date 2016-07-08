@@ -170,7 +170,7 @@ Buffubertip=这个单位使用了兴奋剂，攻击速度提高。
 EditorName=兴奋剂
 [R03D]
 Bufftip=手榴弹碎片
-Buffubertip=这个单位被手榴弹的碎片击中，受到的攻击伤害提高。
+Buffubertip=这个单位被手榴弹的碎片击中，受到的物理伤害提高。
 EditorName=手榴弹碎片
 [R03G]
 Bufftip=绿龙之力
@@ -178,7 +178,7 @@ Buffubertip=这个单位受到了绿龙之力的影响，它的多重暴击数�
 EditorName=绿龙之力
 [R03S]
 Bufftip=燃烧印记
-Buffubertip=这个单位受到了燃烧印记的影响，它的攻击力提高了。
+Buffubertip=这个单位受到了燃烧印记的影响，它的攻击强度提高了。
 EditorName=燃烧印记
 [R044]
 Bufftip=双修
@@ -200,9 +200,9 @@ Buffubertip=这个单位受到了疾风的影响。
 EditorName=疾风
 EditorSuffix=ZV
 [R06P]
-Bufftip=感电
+Bufftip=带电
 Buffubertip=这个单位对附近的单位造成伤害。
-EditorName=感电
+EditorName=带电
 [R05N]
 Bufftip=静态力场
 Buffubertip=这座塔对魔免怪物造成更多伤害。

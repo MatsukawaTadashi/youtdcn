@@ -469,7 +469,7 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AO]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0A7]
 Name="多重射击"
@@ -497,7 +497,7 @@ Ubertip="Moo."
 [W0F1]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0F3]
 Name="多重射击"
@@ -567,7 +567,7 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0R6]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 在等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W15C]
 Name="吸收能量"
@@ -592,7 +592,7 @@ Unubertip="同时攻击 |cffFFFF805|r 个目标"
 [W14I]
 Name="灵魂之火"
 Tip="灵魂之火"
-Ubertip="同时攻击 |cffffff808|r 个目标，伤害目标时有 |cffffff805%|r 几率点燃它的灵魂，每秒造成 |cffffff801000|r 法术伤害，持续 |cffffff805|r 秒。这个效果可以叠加。 |n|n|cffff8000等级加成:|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
+Ubertip="同时攻击 |cffffff808|r 个目标，击中时有 |cffffff805%|r 几率点燃它的灵魂，每秒造成 |cffffff801000|r 法术伤害，持续 |cffffff805|r 秒。这个效果可以叠加。 |n|n|cffff8000等级加成:|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
 [W0T8]
 Name="火势蔓延"
 Tip="火势蔓延"
@@ -842,7 +842,7 @@ Bufftip=吞噬之影
 Buffubertip=这个单位被黑暗所吞噬。
 [R02A]
 Bufftip=疲劳
-Buffubertip=这个单位的攻击速度降低。
+Buffubertip=这个单位的攻击速度降低了。
 [R033]
 Bufftip=献祭
 Buffubertip=这个单位的攻击力提高。
@@ -864,9 +864,9 @@ EditorSuffix=meins
 Bufftip=放血
 Buffubertip=这个单位的攻击速度降低。
 [R02N]
-Bufftip=暗影之刃
+Bufftip=影刃
 Buffubertip=这个单位在下次攻击之前获得非常高的攻击速度加成，下次攻击必定暴击。
-EditorName=暗影之刃
+EditorName=影刃
 [R02O]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
@@ -977,7 +977,7 @@ Buffubertip=这个单位持续受到伤害，并且具有很高的传染性。
 EditorName=瘟疫
 [R04C]
 Bufftip=死亡军团
-Buffubertip=这座塔的攻击速度提高，并且瘟疫传染率也会提高。
+Buffubertip=这座塔的攻击速度提高，并且瘟疫传染速度也会提高。
 EditorName=死亡军团
 [R04L]
 Bufftip=概率场发射器
@@ -988,9 +988,9 @@ Bufftip=震荡
 Buffubertip=这个单位的移动速度降低。
 EditorName=震荡
 [R04K]
-Bufftip=发条引擎
+Bufftip=发条技师
 Buffubertip=这座塔的攻击速度和攻击力提高。
-EditorName=引擎
+EditorName=发条技师
 [R055]
 Bufftip=刺伤
 Buffubertip=这个单位受到来自自然系塔的额外伤害。
@@ -1000,9 +1000,9 @@ Bufftip=守护者之怒
 Buffubertip=这个单位受到严重的减速效果。
 EditorName=守护者之怒
 [R053]
-Bufftip=叶子风暴
-Buffubertip=这个单位受到叶子风暴的攻击，移动速度降低。
-EditorName=叶子风暴
+Bufftip=叶暴风
+Buffubertip=这个单位受到叶暴风的攻击，移动速度降低。
+EditorName=叶暴风
 [R04S]
 Bufftip=穹窿效应
 Buffubertip=这个单位被附近的灵魂穹窿所惊吓，护甲值降低。
@@ -1029,7 +1029,7 @@ Bufftip=愤怒之火
 Buffubertip=这个单位受到了愤怒之火的影响，它的暴击率提高了。
 EditorName=愤怒之火
 [R038]
-Bufftip=矮人清洗匠
+Bufftip=矮人打磨师
 Buffubertip=这座塔的物品品质率提高。
 [R02T]
 Bufftip=闪电充能
@@ -1139,7 +1139,7 @@ Buffubertip=这个单位的护甲降低。
 EditorName=酸性粘液
 [R06H]
 Bufftip=切割
-Buffubertip=这个单位被攻击时受到额外的物理伤害。
+Buffubertip=这个单位受到额外的物理系伤害。
 EditorName=切割
 [R06I]
 Bufftip=能量球
@@ -1189,7 +1189,7 @@ Buffubertip=这座塔对空军的伤害比率越高，它的攻击力就越高�
 EditorName=阵风
 [R058]
 Bufftip=无法渗透的黑暗
-Buffubertip=这个单位持续受到魔法伤害，并且受到的攻击伤害降低。
+Buffubertip=这个单位持续受到法术伤害，并且受到的攻击伤害降低。
 [R05C]
 Bufftip=愤怒之火
 Buffubertip=这个单位受到了愤怒之火的影响，它的暴击率提高了。
@@ -1231,9 +1231,9 @@ EditorName=妖火
 Bufftip=变体攻击
 Buffubertip=这个单位持续受到法术伤害。
 [R05S]
-Bufftip=死战不退！
+Bufftip=死战到底!
 Buffubertip=这个单位的攻击力和法术伤害提高。
-EditorName=死战不退！
+EditorName=死战到底!
 [R064]
 Bufftip=力量
 Buffubertip=这座塔在攻击时会提高攻击力但降低攻击速度。
@@ -1243,22 +1243,22 @@ Buffubertip=这个单位的移动速度降低，并且持续受到法术伤害�
 EditorName=勇者之光
 [R065]
 Bufftip=适应
-Buffubertip=暂停水人的变形效果。
+Buffubertip=暂停转换效果。
 [R05Q]
 Bufftip=疲惫
-Buffubertip=这个单位的攻击速度降低。
+Buffubertip=这个单位的攻击速度降低了。
 [R062]
 Bufftip=怪诞觉醒
 Buffubertip=哈比被法术效果击中了，他暂时可以进行攻击。
 [R05R]
-Bufftip=最后防线
+Bufftip=最终防线
 Buffubertip=这个单位受到的物理和法术伤害提高。
-EditorName=最后防线
+EditorName=最终防线
 [R063]
 Bufftip=敏捷
 Buffubertip=这座塔在攻击时会提高攻击速度但降低攻击力。
 [R05O]
-Bufftip=新鲜的鱼！
+Bufftip=新鲜的鱼!
 Buffubertip=这座塔的攻击力提高。
 EditorName=新鲜的鱼！
 [R060]
@@ -1266,7 +1266,7 @@ Bufftip=落锤
 Buffubertip=这座塔的攻击力降低。
 EditorName=落锤
 [R05P]
-Bufftip=被抓住!
+Bufftip=被抓!
 Buffubertip=这个单位的移动速度降低。
 EditorName=被抓住!
 [R061]
@@ -1376,7 +1376,7 @@ Bufftip=熔炉之心
 Buffubertip=受到熔炉的影响，属性提高。
 [R07A]
 Bufftip=黑暗装置
-Buffubertip=受到灵魂之火装置的影响，攻击和触发属性提高。
+Buffubertip=受到灵魂之火装置的影响，属性提高。
 [R07B]
 Bufftip=觉醒
 Buffubertip=大幅度提高攻击速度。
@@ -1390,7 +1390,7 @@ Buffubertip=这个单位被诅咒了，当诅咒效果结束或者被净化时�
 EditorName=诅咒
 [R07I]
 Bufftip=导管
-Buffubertip=受到导管的影响，攻击和触发属性提高。Spell and trigger stats increased by nearby Conduit.
+Buffubertip=受到导管的影响，属性提高。
 [R07J]
 Bufftip=释放
 Buffubertip=触发几率提高。
