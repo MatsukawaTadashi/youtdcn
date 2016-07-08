@@ -301,7 +301,7 @@ Hotkey=V
 [W0BF]
 Name="v06U Autocast"
 Tip="嗜血"
-Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.45|r 的暴击伤害和 |cffFFFF8015%|r的攻击速度，持续|cffFFFF805|r 秒。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.004|r 暴击伤害|n|cffFFFF80+0.2%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.45|r 的暴击伤害和 |cffFFFF8015%|r的攻击速度，持续|cffFFFF805|r 秒。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.004|r 暴击伤害|n|cffFFFF80+0.2%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [XLVS]
 Name="等级信息"
@@ -467,7 +467,7 @@ Hotkey=V
 [W0FP]
 Name="v08S Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8010%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.4%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复 |cffFFFF80500|r范围内除自身之外所有塔最大法力值的 |cffFFFF8010%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.4%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W0G4]
 Name="v091 Autocast"
@@ -522,7 +522,7 @@ Hotkey=V
 [W0JH]
 Name="v0AW Autocast"
 Tip="嗜血"
-Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.55|r 的暴击伤害和 |cffFFFF8020%|r的攻击速度，持续|cffFFFF805|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.006|r 暴击伤害|n|cffFFFF80+0.3%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.55|r 的暴击伤害和 |cffFFFF8020%|r的攻击速度，持续|cffFFFF805|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.006|r 暴击伤害|n|cffFFFF80+0.3%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W0I6]
 Name="v09Z Autocast"
@@ -557,7 +557,7 @@ Hotkey=V
 [W0JV]
 Name="v0B3 Autocast"
 Tip="神圣教育"
-Ubertip="增加目标塔|cffFFFF80100%|r的经验获取率，持续|cffFFFF8010|r秒。 每次释放该技能时图书馆都能获取|cffFFFF802|r点经验值。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2|r 秒持续时间 |r|n|cffFFFF80+2%|r 经验获取率。|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="增加目标塔|cffFFFF80100%|r的经验获取率，持续|cffFFFF8010|r秒。 每次释放该技能时图书馆都能获取|cffFFFF802|r点经验值。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2|r 秒持续时间 |r|n|cffFFFF80+2%|r 经验获取率。|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W0KJ]
 Name="v0BC Autocast"
@@ -702,7 +702,7 @@ Hotkey=V
 [W13A]
 Name="v0IT Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8020%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.8%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复 |cffFFFF80500|r范围内除自身之外所有塔最大法力值的 |cffFFFF8020%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.8%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W13D]
 Name="v0IU Autocast"
@@ -742,7 +742,7 @@ Hotkey=V
 [W0QD]
 Name="v0DZ Autocast"
 Tip="补充"
-Ubertip="回复范围 |cffFFFF80500|r内其他塔最大法力值的 |cffFFFF8015%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.6%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="回复 |cffFFFF80500|r范围内除自身之外所有塔最大法力值的 |cffFFFF8015%|r，对具有同名技能的塔效果减半。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.6%|r 回复量|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W0R1]
 Name="v0ED Autocast"
@@ -887,7 +887,7 @@ Hotkey=V
 [W0VN]
 Name="v0GH Autocast"
 Tip="嗜血"
-Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.65|r 的暴击伤害和 |cffFFFF8025%|r的攻击速度，持续|cffFFFF805|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.008|r 暴击伤害|n|cffFFFF80+0.4%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="萨满激起一座友方塔对鲜血的渴望, 为其增加 |cffFFFF80x0.65|r 的暴击伤害和 |cffFFFF8025%|r的攻击速度，持续|cffFFFF805|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+x0.008|r 暴击伤害|n|cffFFFF80+0.4%|r 攻击速度|n|cffFFFF80+0.12|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80范围: |cffFFFF00500|r"
 Hotkey=V
 [W0VP]
 Name="v0GI Autocast"
