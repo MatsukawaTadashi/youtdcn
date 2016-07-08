@@ -731,8 +731,8 @@ Ubertip="对目标造成 |cffFFFF8012000|r 点伤害，并将其击晕 |cffFFFF8
 Hotkey=V
 [W0RX]
 Name="v0F2 Autocast"
-Tip="妖火"
-Ubertip="给目标放置一个状态，持续 |cffFFFF807|r 秒。 攻击有该状态的目标时，有 |cffFFFF8020%|r的几率被火塔攻击的伤害永久增加 |cffFFFF803%|r (|cffFFFF801%|r 对 BOSS)。  |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08%|r 被火塔攻击的伤害(非BOSS)|n|cffFFFF80+0.04%|r 被火塔攻击的伤害(对BOSS)|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF001200|r"
+Tip="恶魔之火"
+Ubertip="给目标施加一个状态，持续 |cffFFFF807|r 秒。任何塔击中该目标时，有 |cffFFFF8020%|r的几率使它受到火焰系塔的伤害永久提高 |cffFFFF803%|r (|cffFFFF801%|r 对 BOSS)。  |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08%|r 易伤(非BOSS)|n|cffFFFF80+0.04%|r 易伤(对BOSS)|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF001200|r"
 Hotkey=V
 [W0QA]
 Name="v0DY Autocast"
