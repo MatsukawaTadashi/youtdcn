@@ -1047,7 +1047,7 @@ Hotkey=V
 [XEST]
 Name="开始下一波"
 Tip="开始下一波(|cffffcc00N|r)"
-Ubertip="立刻开始下一波关卡。|n|n※队伍模式必须所有人都按下方可生效。|n|n※当前波次敌人必须全部出来后方可生效。"
+Ubertip="立刻开始下一波关卡。|n|n※队伍模式必须所有人都按下方可生效。|n|n※当前波次敌人必须全部出来后方可点击"
 Hotkey=N
 [XX0X]
 Name="等级升满"
@@ -1072,7 +1072,7 @@ Hotkey=W
 [XX00]
 Name="战斗大师"
 Tip="战斗大师"
-Ubertip="所有塔的伤害增加 |cffffff001%|r。"
+Ubertip="所有塔的基础攻击力增加 |cffffff001%|r。"
 Hotkey=Q
 [XX03]
 Name="法力大师"
@@ -1105,8 +1105,8 @@ Tip="掠夺大师"
 Ubertip="所有塔的物品获取率增加 |cffffff001.5%|r."
 Hotkey=D
 [XOIL]
-Name="强化塔"
-Tip="强化塔"
+Name="出售塔"
+Tip="出售塔"
 Ubertip="以50%的造价售出这座塔。"
 Hotkey=C
 [XPUO]
@@ -1152,7 +1152,7 @@ Hotkey=C
 [XATK]
 Name="集中攻击"
 Tip="集中攻击(|cffffcc00A|r)"
-Ubertip="命令所有射程内的塔攻击该目标。 此外，这个法术重新排序怪物的移动，所以它也可用于卡住怪物的移动。"
+Ubertip="命令所有射程内的塔攻击该目标。 此外，这个法术重新安排怪物的移动，所以它也可用于移动卡住的怪物。"
 Hotkey=A
 [R081]
 Bufftip=力量增强
