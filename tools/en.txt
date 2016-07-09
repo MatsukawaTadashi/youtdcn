@@ -2802,6 +2802,12 @@ Hotkey=F
 Tip="Buy Lunar Sentinel"
 Ubertip="|cff9BA0D0The spirit of a watcher left to look over the ruins.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF0013|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W011]
+Name="v00R Autocast"
+Tip="Lunar Grace"
+Ubertip="Smites a target creep dealing |cffffff8050|r spelldamage to it. There is a |cffffff8012.5%|r chance to empower the smite with lunar energy dealing |cffffff8050|r additional spell damage, stunning the target for |cffffff800.3|r seconds and making it receive |cffffff8012%|r more damage from spells for |cffffff802.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffffff80+2|r inital and chanced spell damage |n|cffffff80+0.5%|r chance |n|cffffff80+20|r initial damage at level |cffffff8015|r |n|cffffff80+3%|r spell damage received at level |cffffff8015|r |n|cffffff80+0.1|r seconds stun at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 ##Buffs
 [R007]
 Bufftip=Lunar Grace
@@ -2821,6 +2827,12 @@ Hotkey=F
 Tip="Buy Lunar Guardian"
 Ubertip="|cff9BA0D0The spirit of a watcher left to look over the ruins.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00136|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W09S]
+Name="v05R Autocast"
+Tip="Lunar Grace"
+Ubertip="Smites a target creep dealing |cffffff80500|r spelldamage to it. There is a |cffffff8012.5%|r chance to empower the smite with lunar energy dealing |cffffff80500|r additional spell damage, stunning the target for |cffffff800.3|r seconds and making it receive |cffffff8016%|r more damage from spells for |cffffff802.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffffff80+20|r inital and chanced spelldamage |n|cffffff80+0.5%|r chance |n|cffffff80+200|r initial damage at level |cffffff8015|r |n|cffffff80+4%|r spelldamage received at level |cffffff8015|r |n|cffffff80+0.1|r seconds stun at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0C7]
@@ -2835,6 +2847,12 @@ Hotkey=F
 Tip="Buy Lunar Protector"
 Ubertip="|cff9BA0D0The spirit of a watcher left to look over the ruins.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00408|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0MI]
+Name="v0C7 Autocast"
+Tip="Lunar Grace"
+Ubertip="Smites a target creep dealing |cffffff801500|r spelldamage to it. There is a |cffffff8012.5%|r chance to empower the smite with lunar energy dealing |cffffff801500|r additional spell damage, stunning the target for |cffffff800.3|r seconds and making it receive |cffffff8020%|r more damage from spells for |cffffff802.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffffff80+60|r inital and chanced spell damage |n|cffffff80+0.5%|r chance |n|cffffff80+600|r initial damage at level |cffffff8015|r |n|cffffff80+5%|r spell damage received at level |cffffff8015|r |n|cffffff80+0.1|r seconds stun at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0H7]
@@ -2849,6 +2867,12 @@ Hotkey=F
 Tip="Buy Lunar Defender"
 Ubertip="|cff9BA0D0The spirit of a watcher left to look over the ruins.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00680|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0XF]
+Name="v0H7 Autocast"
+Tip="Lunar Grace"
+Ubertip="Smites a target creep dealing |cffffff802500|r spelldamage to it. There is a |cffffff8012.5%|r chance to empower the smite with lunar energy dealing |cffffff802500|r additional spell damage, stunning the target for |cffffff800.3|r seconds and making it receive |cffffff8024%|r more damage from spells for |cffffff802.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffffff80+100|r inital and chanced spell damage |n|cffffff80+0.5%|r chance |n|cffffff80+1000|r initial damage at level |cffffff8015|r |n|cffffff80+6%|r spell damage received at level |cffffff8015|r |n|cffffff80+0.1|r seconds stun at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v00S]
@@ -5017,6 +5041,12 @@ Hotkey=F
 Tip="Buy Small Torch"
 Ubertip="|cff9BA0D0This tower uses magical flames to strike multiple targets.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF0053|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0025|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W01V]
+Name="v01F Autocast"
+Tip="Fire Blast"
+Ubertip="Releases a blast of fire that strikes all targets in |cffFFFF80200|r AoE around the main target for |cffFFFF8060|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+3|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v03B]
@@ -5031,6 +5061,12 @@ Hotkey=F
 Tip="Buy Torch"
 Ubertip="|cff9BA0D0This tower uses magical flames to strike multiple targets.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00192|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W052]
+Name="v03B Autocast"
+Tip="Fire Blast"
+Ubertip="Releases a blast of fire that strikes all targets in |cffFFFF80200|r AoE around the main target for |cffFFFF80215|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+11|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v06V]
@@ -5045,6 +5081,12 @@ Hotkey=F
 Tip="Buy Burning Torch"
 Ubertip="|cff9BA0D0This tower uses magical flames to strike multiple targets.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00537|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0035|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0BJ]
+Name="v06V Autocast"
+Tip="Fire Blast"
+Ubertip="Releases a blast of fire that strikes all targets in |cffFFFF80200|r AoE around the main target for |cffFFFF80600|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0AT]
@@ -5059,6 +5101,12 @@ Hotkey=F
 Tip="Buy Burning Beacon"
 Ubertip="|cff9BA0D0This tower uses magical flames to strike multiple targets.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001075|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0040|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0JC]
+Name="v0AT Autocast"
+Tip="Fire Blast"
+Ubertip="Releases a blast of fire that strikes all targets in |cffFFFF80200|r AoE around the main target for |cffFFFF801200|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+60|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0FA]
@@ -5073,6 +5121,12 @@ Hotkey=F
 Tip="Buy Inferno Beacon"
 Ubertip="|cff9BA0D0This tower uses magical flames to strike multiple targets.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001921|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0045|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0SJ]
+Name="v0FA Autocast"
+Tip="Fire Blast"
+Ubertip="Releases a blast of fire that strikes all targets in |cffFFFF80200|r AoE around the main target for |cffFFFF802150|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+107|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v01G]
@@ -5087,6 +5141,12 @@ Hotkey=F
 Tip="Buy Broken Lightning Rod"
 Ubertip="|cff9BA0D0A storm tower that releases a magic lighting bolt.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF0047|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0025|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W01W]
+Name="v01G Autocast"
+Tip="Release Lightning"
+Ubertip="This tower releases a lightning bolt that strikes the target for |cffFFFF8070|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+3.5|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v03C]
@@ -5101,6 +5161,12 @@ Hotkey=F
 Tip="Buy Small Lightning Rod"
 Ubertip="|cff9BA0D0A storm tower that releases a magic lighting bolt.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00166|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W053]
+Name="v03C Autocast"
+Tip="Release Lightning"
+Ubertip="This tower releases a lightning bolt that strikes the target for |cffFFFF80250|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12.5|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v06W]
@@ -5115,6 +5181,12 @@ Hotkey=F
 Tip="Buy Lightning Rod"
 Ubertip="|cff9BA0D0A storm tower that releases a magic lighting bolt.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00464|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0035|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0BK]
+Name="v06W Autocast"
+Tip="Release Lightning"
+Ubertip="This tower releases a lightning bolt that strikes the target for |cffFFFF80700|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+35|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0AU]
@@ -5129,6 +5201,12 @@ Hotkey=F
 Tip="Buy Greater Lightning Rod"
 Ubertip="|cff9BA0D0A storm tower that releases a magic lighting bolt.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00927|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0040|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0JD]
+Name="v0AU Autocast"
+Tip="Release Lightning"
+Ubertip="This tower releases a lightning bolt that strikes the target for |cffFFFF801400|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+70|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0FB]
@@ -5143,6 +5221,12 @@ Hotkey=F
 Tip="Buy Big Lightning Rod"
 Ubertip="|cff9BA0D0A storm tower that releases a magic lighting bolt.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF001657|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0045|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0SK]
+Name="v0FB Autocast"
+Tip="Release Lightning"
+Ubertip="This tower releases a lightning bolt that strikes the target for |cffFFFF802500|r damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+125|r damage.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v01H]
@@ -5377,6 +5461,11 @@ Description="Used to create a tower"
 Name="v01J abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-25% |rdmg to undead (|cffFFFF00+0.2%|r/lvl)|n"
+[W022]
+Name="v01J Autocast"
+Tip="Soul Chill"
+Ubertip="Chills the souls of all creeps in |cffFFFF80250|r AoE of the target, dealing |cffFFFF8050|r spelldamage and slowing them by |cffFFFF805%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2|r damage |n|cffFFFF80+0.2%|r slow |n|cffFFFF80+0.02|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R00F]
 Bufftip=Soul Chill
@@ -5401,6 +5490,11 @@ Description="Used to create a tower"
 Name="v03D abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-25% |rdmg to undead (|cffFFFF00+0.4%|r/lvl)|n"
+[W055]
+Name="v03D Autocast"
+Tip="Soul Chill"
+Ubertip="Chills the souls of all creeps in |cffFFFF80250|r AoE of the target, dealing |cffFFFF80200|r spelldamage and slowing them by |cffFFFF806%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+8|r damage |n|cffFFFF80+0.4%|r slow |n|cffFFFF80+0.04|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v06Y]
@@ -5420,6 +5514,11 @@ Description="Used to create a tower"
 Name="v06Y abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-25% |rdmg to undead (|cffFFFF00+0.6%|r/lvl)|n"
+[W0BN]
+Name="v06Y Autocast"
+Tip="Soul Chill"
+Ubertip="Chills the souls of all creeps in |cffFFFF80250|r AoE of the target, dealing |cffFFFF80550|r spelldamage and slowing them by |cffFFFF808%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+24|r damage |n|cffFFFF80+0.6%|r slow |n|cffFFFF80+0.06|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0AV]
@@ -5439,6 +5538,11 @@ Description="Used to create a tower"
 Name="v0AV abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-25% |rdmg to undead (|cffFFFF00+0.8%|r/lvl)|n"
+[W0JF]
+Name="v0AV Autocast"
+Tip="Soul Chill"
+Ubertip="Chills the souls of all creeps in |cffFFFF80250|r AoE of the target, |cffFFFF801000|r spelldamage and slowing them by |cffFFFF8010%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+48|r damage |n|cffFFFF80+0.8%|r slow |n|cffFFFF80+0.08|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0FE]
@@ -5458,6 +5562,11 @@ Description="Used to create a tower"
 Name="v0FE abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-25% |rdmg to undead (|cffFFFF00+1%|r/lvl)|n"
+[W0SQ]
+Name="v0FE Autocast"
+Tip="Soul Chill"
+Ubertip="Chills the souls of all creeps in |cffFFFF80250|r AoE of the target, dealing |cffFFFF801800|r spelldamage and slowing them by |cffFFFF8012%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+96|r damage |n|cffFFFF80+1%|r slow |n|cffFFFF80+0.1|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v01K]
@@ -5680,6 +5789,11 @@ Description="Used to create a tower"
 Name="v01M abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-50% |rdmg to undead|n|cffFFFF00+25% |rdmg to orcs|n|cffFFFF00+25% |rdmg to humanoids|n"
+[W02D]
+Name="v01M Autocast"
+Tip="Blizzard"
+Ubertip="Summons |cffFFFF805|r waves of icy spikes which fall down to earth. Each wave deals |cffFFFF8060|r damage in an AoE of |cffFFFF80200|r. Each time a unit is damaged by this spell there is a chance of |cffFFFF8030%|r to slow the unit by |cffFFFF807%|r for |cffFFFF804|r seconds and a chance of |cffFFFF8010%|r to stun the unit for |cffFFFF800.25|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+6|r damage|n|cffFFFF80+0.1%|r slow|n|cffFFFF80+1%|r chance for slow|n|cffFFFF80+0.1%|r chance for stun|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R00L]
 Bufftip=Slowed
@@ -5704,6 +5818,11 @@ Description="Used to create a tower"
 Name="v05K abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-50% |rdmg to undead|n|cffFFFF00+25% |rdmg to orcs|n|cffFFFF00+25% |rdmg to humanoids|n"
+[W09F]
+Name="v05K Autocast"
+Tip="Blizzard"
+Ubertip="Summons |cffFFFF806|r waves of icy spikes which fall down to earth. Each wave deals |cffFFFF80333|r damage in an AoE of |cffFFFF80300|r. Each time a unit is damaged by this spell there is a chance of |cffFFFF8035%|r to slow the unit by |cffFFFF809%|r for |cffFFFF804.5|r seconds and a chance of |cffFFFF8015%|r to stun the unit for |cffFFFF800.50|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|cffFFFF80+0.01%|r slow|n|cffFFFF80+1%|r chance for slow|r|n|cffFFFF80+0.1%|r chance for stun|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R01R]
 Bufftip=Slowed
@@ -5728,6 +5847,11 @@ Description="Used to create a tower"
 Name="v08P abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-50% |rdmg to undead|n|cffFFFF00+25% |rdmg to orcs|n|cffFFFF00+25% |rdmg to humanoids|n"
+[W0FI]
+Name="v08P Autocast"
+Tip="Blizzard"
+Ubertip="Summons |cffFFFF807|r waves of icy spikes which fall down to earth. Each wave deals |cffFFFF80572|r damage in an AoE of |cffFFFF80400|r. Each time a unit is damaged by this spell there is a chance of |cffFFFF8040%|r to slow the unit by |cffFFFF8011%|r for |cffFFFF805|r seconds and a chance of |cffFFFF8020%|r to stun the unit for |cffFFFF800.75|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+25|r damage|n|cffFFFF80+0.01%|r slow|n|cffFFFF80+1%|r chance for slow|r|n|cffFFFF80+0.1%|r chance for stun|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R02R]
 Bufftip=Slowed
@@ -5752,6 +5876,11 @@ Description="Used to create a tower"
 Name="v0DY abils"
 Tip="Specials"
 Ubertip="|cffFFFF00-50% |rdmg to undead|n|cffFFFF00+25% |rdmg to orcs|n|cffFFFF00+25% |rdmg to humanoids|n"
+[W0QA]
+Name="v0DY Autocast"
+Tip="Blizzard"
+Ubertip="Summons |cffFFFF808|r waves of icy spikes which fall down to earth. Each wave deals |cffFFFF801000|r damage in an AoE of |cffFFFF80500|r. Each time a unit is damaged by this spell there is a chance of |cffFFFF8045%|r to slow the unit by |cffFFFF8014%|r for |cffFFFF805.5|r seconds and a chance of |cffFFFF8025%|r to stun the unit for |cffFFFF801|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+50|r damage|n|cffFFFF80+0.01%|r slow|n|cffFFFF80+1%|r chance for slow|r|n|cffFFFF80+0.1%|r chance for stun|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R049]
 Bufftip=Slowed
@@ -6491,6 +6620,11 @@ Description="Used to create a tower"
 Name="v01W abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W031]
+Name="v01W Autocast"
+Tip="Wind Shear"
+Ubertip="Increases the attackspeed of a tower in |cffFFFF80300|r range by |cffFFFF8010%|r and gives it a |cffFFFF8025%|r attackspeed adjusted chance to cast a chain of lightning which deals |cffFFFF80100|r initial spelldamage and hits up to |cffFFFF803|r targets dealing |cffFFFF8025%|r less damage each bounce. Effect lasts for |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attackspeed|n|cffFFFF80+4|r spelldamage|n|cffFFFF80+1|r target at level |cffFFFF8020|r|n|cffFFFF80+0.1|r sec duration|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF00300|r"
+Hotkey=V
 ##Buffs
 [R00S]
 Bufftip=Wind Shear
@@ -6514,6 +6648,11 @@ Description="Used to create a tower"
 Name="v04C abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W06P]
+Name="v04C Autocast"
+Tip="Wind Shear"
+Ubertip="Increases the attackspeed of a tower in |cffFFFF80300|r range by |cffFFFF8015%|r and gives it a |cffFFFF8025%|r attackspeed adjusted chance to cast a chain of lightning which deals |cffFFFF80300|r initial spelldamage and hits up to |cffFFFF803|r targets dealing |cffFFFF8025%|r less damage each bounce. Effect lasts for |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attackspeed|n|cffFFFF80+12|r spelldamage|n|cffFFFF80+1|r target at level |cffFFFF8020|r|n|cffFFFF80+0.1|r sec duration|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF00300|r"
+Hotkey=V
 
 ##Tower
 [v077]
@@ -6533,6 +6672,11 @@ Description="Used to create a tower"
 Name="v077 abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W0C5]
+Name="v077 Autocast"
+Tip="Wind Shear"
+Ubertip="Increases the attackspeed of a tower in |cffFFFF80300|r range by |cffFFFF8020%|r and gives it a |cffFFFF8025%|r attackspeed adjusted chance to cast a chain of lightning which deals |cffFFFF80600|r initial spelldamage and hits up to |cffFFFF803|r targets dealing |cffFFFF8025%|r less damage each bounce. Effect lasts for |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attackspeed|n|cffFFFF80+24|r spelldamage|n|cffFFFF80+1|r target at level |cffFFFF8020|r|n|cffFFFF80+0.1|r sec duration|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF00300|r"
+Hotkey=V
 
 ##Tower
 [v09I]
@@ -6552,6 +6696,11 @@ Description="Used to create a tower"
 Name="v09I abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W0HB]
+Name="v09I Autocast"
+Tip="Wind Shear"
+Ubertip="Increases the attackspeed of a tower in |cffFFFF80300|r range by |cffFFFF8025%|r and gives it a |cffFFFF8025%|r attackspeed adjusted chance to cast a chain of lightning which deals |cffFFFF801000|r initial spelldamage and hits up to |cffFFFF803|r targets dealing |cffFFFF8025%|r less damage each bounce. Effect lasts for |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attackspeed|n|cffFFFF80+40|r spelldamage|n|cffFFFF80+1|r target at level |cffFFFF8020|r|n|cffFFFF80+0.1|r sec duration|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF00300|r"
+Hotkey=V
 
 ##Tower
 [v0DN]
@@ -6571,6 +6720,11 @@ Description="Used to create a tower"
 Name="v0DN abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W0PL]
+Name="v0DN Autocast"
+Tip="Wind Shear"
+Ubertip="Increases the attackspeed of a tower in |cffFFFF80300|r range by |cffFFFF8030%|r and gives it a |cffFFFF8025%|r attackspeed adjusted chance to cast a chain of lightning which deals |cffFFFF801800|r initial spelldamage and hits up to |cffFFFF803|r targets dealing |cffFFFF8025%|r less damage each bounce. Effect lasts for |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attackspeed|n|cffFFFF80+72|r spelldamage|n|cffFFFF80+1|r target at level |cffFFFF8020|r|n|cffFFFF80+0.1|r sec duration|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF00300|r"
+Hotkey=V
 
 ##Tower
 [v025]
@@ -6585,6 +6739,12 @@ Hotkey=F
 Tip="Buy Lesser Skeletal Mage"
 Ubertip="|cff9BA0D0A tower that increases the damage that creeps suffer.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF00135|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0040|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W03D]
+Name="v025 Autocast"
+Tip="Dark Curse"
+Ubertip="Increases the attack damage target creep receives by |cffFFFF8015%|r, the curse lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonusdamage |n |cffFFFF80+0.1|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R00T]
 Bufftip=Dark Curse
@@ -6604,6 +6764,12 @@ Hotkey=F
 Tip="Buy Skeletal Mage"
 Ubertip="|cff9BA0D0A tower that increases the damage that creeps suffer.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF00584|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0050|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0AB]
+Name="v069 Autocast"
+Tip="Dark Curse"
+Ubertip="Increases the attack damage target creep receives by |cffFFFF8022%|r, the curse lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonusdamage |n |cffFFFF80+0.1|r second duration.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0AJ]
@@ -6618,6 +6784,12 @@ Hotkey=F
 Tip="Buy Skeletal Sorceror"
 Ubertip="|cff9BA0D0A tower that increases the damage that creeps suffer.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF001258|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0060|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0IV]
+Name="v0AJ Autocast"
+Tip="Dark Curse"
+Ubertip="Increases the attack damage target creep receives by |cffFFFF8029%|r, the curse lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonusdamage |n |cffFFFF80+0.1|r second duration.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v0DC]
@@ -6632,6 +6804,12 @@ Hotkey=F
 Tip="Buy Skeletal Wizard"
 Ubertip="|cff9BA0D0A tower that increases the damage that creeps suffer.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF001978|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0070|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0P0]
+Name="v0DC Autocast"
+Tip="Dark Curse"
+Ubertip="Increases the attack damage target creep receives by |cffFFFF8036%|r, the curse lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonusdamage |n |cffFFFF80+0.1|r second duration.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 
 ##Tower
 [v028]
@@ -6820,6 +6998,11 @@ Ubertip="|cffFFFF00+1 |rmana/lvl|n|cffFFFF00+0.1 |rmana regen/lvl|n"
 Name="v02B On Damage"
 Tip="Soul Split"
 Ubertip="When the witch attacks, it has a |cffFFFF8030%|r chance to deal |cffFFFF8050|r spell damage to its target, increasing the witch's attackspeed by |cffFFFF8010%|r and decreasing the chance to trigger this spell by |cffFFFF8010%|r. These effects last |cffFFFF8010|r seconds and stack. If the target is under the influence of a Love Potion, the attackspeed bonus, the damage and the duration of this spell are doubled.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2|r spell damage"
+[W03O]
+Name="v02B Autocast"
+Tip="Love Potion"
+Ubertip="The witch throws a bottle of love potion on the target, slowing it by |cffFFFF8025%|r and increasing its item drop chance by |cffFFFF8020%|r. The potion lasts |cffFFFF807|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.375%|r slow|n|cffFFFF80+0.3%|r Item drop chance|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001100|r"
+Hotkey=V
 ##Buffs
 [R00W]
 Bufftip=Love Potion
@@ -6852,6 +7035,11 @@ Ubertip="|cffFFFF00+1 |rmana/lvl|n|cffFFFF00+0.1 |rmana regen/lvl|n"
 Name="v05W On Damage"
 Tip="Soul Split"
 Ubertip="When the witch attacks, it has a |cffFFFF8036%|r chance to deal |cffFFFF80400|r spell damage to its target, increasing the witch's attackspeed by |cffFFFF8015%|r and decreasing the chance to trigger this spell by |cffFFFF809%|r. These effects last |cffFFFF8012|r seconds and stack. If the target is under the influence of a Love Potion, the attackspeed bonus, the damage and the duration of this spell are doubled.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+16|r spell damage"
+[W0A3]
+Name="v05W Autocast"
+Tip="Love Potion"
+Ubertip="The witch throws a bottle of love potion on the target, slowing it by |cffFFFF8032%|r and increasing its item drop chance by |cffFFFF8025.6%|r. The potion lasts |cffFFFF807|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.375%|r slow|n|cffFFFF80+0.3%|r Item drop chance|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001100|r"
+Hotkey=V
 
 ##Tower
 [v091]
@@ -6875,6 +7063,11 @@ Ubertip="|cffFFFF00+1 |rmana/lvl|n|cffFFFF00+0.1 |rmana regen/lvl|n"
 Name="v091 On Damage"
 Tip="Soul Split"
 Ubertip="When the witch attacks, it has a |cffFFFF8039%|r chance to deal |cffFFFF80800|r spell damage to its target, increasing the witch's attackspeed by |cffFFFF8020%|r and decreasing the chance to trigger this spell by |cffFFFF808.5%|r. These effects last |cffFFFF8013|r seconds and stack. If the target is under the influence of a Love Potion, the attackspeed bonus, the damage and the duration of this spell are doubled.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+32|r spell damage"
+[W0G4]
+Name="v091 Autocast"
+Tip="Love Potion"
+Ubertip="The witch throws a bottle of love potion on the target, slowing it by |cffFFFF8036%|r and increasing its item drop chance by |cffFFFF8028.8%|r. The potion lasts |cffFFFF807|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.375%|r slow|n|cffFFFF80+0.3%|r Item drop chance|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001100|r"
+Hotkey=V
 
 ##Tower
 [v0EA]
@@ -6898,6 +7091,11 @@ Ubertip="|cffFFFF00+1 |rmana/lvl|n|cffFFFF00+0.1 |rmana regen/lvl|n"
 Name="v0EA On Damage"
 Tip="Soul Split"
 Ubertip="When the witch attacks, it has a |cffFFFF8042%|r chance to deal |cffFFFF802000|r spell damage to its target, increasing the witch's attackspeed by |cffFFFF8025%|r and decreasing the chance to trigger this spell by |cffFFFF808%|r. These effects last |cffFFFF8015|r seconds and stack. If the target is under the influence of a Love Potion, the attackspeed bonus, the damage and the duration of this spell are doubled.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+80|r spell damage"
+[W0QW]
+Name="v0EA Autocast"
+Tip="Love Potion"
+Ubertip="The witch throws a bottle of love potion on the target, slowing it by |cffFFFF8042%|r and increasing its item drop chance by |cffFFFF8033.6%|r. The potion lasts |cffFFFF807|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.375%|r slow|n|cffFFFF80+0.3%|r Item drop chance|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001100|r"
+Hotkey=V
 
 ##Tower
 [v02D]
@@ -7073,6 +7271,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v02J Header"
 Tip="Frenzy"
 Ubertip="Each time Ice Claw is cast, attackspeed is increased by |cffFFFF800.5%|r permanently. This has a maximum of |cffFFFF80100%|r attack speed increase."
+[W041]
+Name="v02J Autocast"
+Tip="Ice Claw"
+Ubertip="Ravages a target creep in |cffFFFF80850|r range, causing it to suffer |cffFFFF8050|r spell damage per second and be slowed by |cffFFFF8020%|r. Effect lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2|r spell damage per second|n|cffFFFF80+0.2|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 ##Buffs
 [R00Y]
 Bufftip=Ice Claw
@@ -7100,6 +7303,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v043 Header"
 Tip="Frenzy"
 Ubertip="Each time Ice Claw is cast, attackspeed is increased by |cffFFFF800.5%|r permanently. This has a maximum of |cffFFFF80112.5%|r attack speed increase."
+[W06C]
+Name="v043 Autocast"
+Tip="Ice Claw"
+Ubertip="Ravages a target creep in |cffFFFF80850|r range, causing it to suffer |cffFFFF80100|r spell damage per second and be slowed by |cffFFFF8025%|r. Effect lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+4|r spell damage per second|n|cffFFFF80+0.2|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 
 ##Tower
 [v06S]
@@ -7123,6 +7331,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v06S Header"
 Tip="Frenzy"
 Ubertip="Each time Ice Claw is cast, attackspeed is increased by |cffFFFF800.5%|r permanently. This has a maximum of |cffFFFF80125%|r attack speed increase."
+[W0B9]
+Name="v06S Autocast"
+Tip="Ice Claw"
+Ubertip="Ravages a target creep in |cffFFFF80850|r range, causing it to suffer |cffFFFF80200|r spell damage per second and be slowed by |cffFFFF8030%|r. Effect lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+8|r spell damage per second|n|cffFFFF80+0.2|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 
 ##Tower
 [v0AR]
@@ -7146,6 +7359,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v0AR Header"
 Tip="Frenzy"
 Ubertip="Each time Ice Claw is cast, attackspeed is increased by |cffFFFF800.5%|r permanently. This has a maximum of |cffFFFF80137.5%|r attack speed increase."
+[W0JA]
+Name="v0AR Autocast"
+Tip="Ice Claw"
+Ubertip="Ravages a target creep in |cffFFFF80850|r range, causing it to suffer |cffFFFF80400|r spell damage per second and be slowed by |cffFFFF8035%|r. Effect lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+16|r spell damage per second|n|cffFFFF80+0.2|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 
 ##Tower
 [v0D2]
@@ -7169,6 +7387,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v0D2 Header"
 Tip="Frenzy"
 Ubertip="Each time Ice Claw is cast, attackspeed is increased by |cffFFFF800.5%|r permanently. This has a maximum of |cffFFFF80150%|r attack speed increase."
+[W0OO]
+Name="v0D2 Autocast"
+Tip="Ice Claw"
+Ubertip="Ravages a target creep in |cffFFFF80850|r range, causing it to suffer |cffFFFF80600|r spell damage per second and be slowed by |cffFFFF8040%|r. Effect lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+24|r spell damage per second|n|cffFFFF80+0.2|r second duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 
 ##Tower
 [v02M]
@@ -7946,6 +8169,12 @@ Hotkey=F
 Tip="Buy Necromantic Altar"
 Ubertip="|cff9BA0D0This altar is haunted by lost souls.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF00179|r dps, |cff808000Decay|r|r, |cffFFFF00875|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W05T]
+Name="v03S Autocast"
+Tip="Soul Revenge"
+Ubertip="Hits |cffFFFF803|r random creeps in |cffFFFF80875|r range, the first one suffers |cffFFFF80200|r spelldamage, the second one suffers |cffFFFF80400|r spelldamage and the third one suffers |cffFFFF80600|r spelldamage.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12/24/36|r spelldamage|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 
 ##Tower
 [v05P]
@@ -7960,6 +8189,12 @@ Hotkey=F
 Tip="Buy Necromantic Statue"
 Ubertip="|cff9BA0D0This statue is haunted by lost souls.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF00358|r dps, |cff808000Decay|r|r, |cffFFFF00875|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W09P]
+Name="v05P Autocast"
+Tip="Soul Revenge"
+Ubertip="Hits |cffFFFF803|r random creeps in |cffFFFF80875|r range, the first one suffers |cffFFFF80400|r spelldamage, the second one suffers |cffFFFF80800|r spelldamage and the third one suffers |cffFFFF801200|r spelldamage.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+24/48/72|r spelldamage|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 
 ##Tower
 [v08X]
@@ -7974,6 +8209,12 @@ Hotkey=F
 Tip="Buy Necromantic Shrine"
 Ubertip="|cff9BA0D0This shrine is haunted by lost souls.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF00716|r dps, |cff808000Decay|r|r, |cffFFFF00875|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0FV]
+Name="v08X Autocast"
+Tip="Soul Revenge"
+Ubertip="Hits |cffFFFF803|r random creeps in |cffFFFF80875|r range, the first one suffers |cffFFFF80800|r spelldamage, the second one suffers |cffFFFF801600|r spelldamage and the third one suffers |cffFFFF802400|r spelldamage.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+48/96/192|r spelldamage|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 
 ##Tower
 [v0FK]
@@ -7988,6 +8229,12 @@ Hotkey=F
 Tip="Buy Necromantic Monument"
 Ubertip="|cff9BA0D0This monument is haunted by lost souls.|n|n|cffFFFF80Author:|r |cff00CD00Boekie|r|n|cffFFFF80Element: |cFF8A5300Darkness|r|n|cffFFFF80Attack: |cffFFFF001552|r dps, |cff808000Decay|r|r, |cffFFFF00875|r range|n|cffFFFF80Mana: |cffFFFF0030|r (+|cffFFFF002|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0T5]
+Name="v0FK Autocast"
+Tip="Soul Revenge"
+Ubertip="Hits |cffFFFF803|r random creeps in |cffFFFF80875|r range, the first one suffers |cffFFFF801700|r spelldamage, the second one suffers |cffFFFF803400|r spelldamage and the third one suffers |cffFFFF805100|r spelldamage.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+100/200/300|r spelldamage|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 
 ##Tower
 [v03T]
@@ -8082,6 +8329,12 @@ Hotkey=F
 Tip="Buy Small Serpent Ward"
 Ubertip="|cff9BA0D0Lesser astral tower that buffs a nearby tower, increasing its mana regeneration, maximum mana and spell damage dealt.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00277|r dps, |cffFF8000Elemental|r|r, |cffFFFF001050|r range|n|cffFFFF80Mana: |cffFFFF0012|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W068]
+Name="v042 Autocast"
+Tip="Snake Charm"
+Ubertip="Increases the target's maximum mana by |cffFFFF8010%|r, its mana regeneration by |cffFFFF8010%|r and its spell damage by |cffFFFF805%|r. The buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r mana regeneration |n|cffFFFF80+0.6%|r mana |n|cffFFFF80+0.3%|r spell damage |n|cffffff80+5|r seconds duration at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00200|r"
+Hotkey=V
 ##Buffs
 [R013]
 Bufftip=Snake Charm
@@ -8101,6 +8354,12 @@ Hotkey=F
 Tip="Buy Serpent Ward"
 Ubertip="|cff9BA0D0Lesser astral tower that buffs a nearby tower, increasing its mana regeneration, maximum mana and spell damage dealt.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00537|r dps, |cffFF8000Elemental|r|r, |cffFFFF001050|r range|n|cffFFFF80Mana: |cffFFFF0012|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0B6]
+Name="v06R Autocast"
+Tip="Snake Charm"
+Ubertip="Increases the target's maximum mana by |cffFFFF8020%|r, its mana regeneration by |cffFFFF8020%|r and its spell damage by |cffFFFF8010%|r. The buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.2%|r mana regeneration |n|cffFFFF80+1.2%|r mana |n|cffFFFF80+0.6%|r spell damage |n|cffffff80+5|r seconds duration at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00200|r"
+Hotkey=V
 
 ##Tower
 [v0AQ]
@@ -8115,6 +8374,12 @@ Hotkey=F
 Tip="Buy Enchanted Serpent Ward"
 Ubertip="|cff9BA0D0Lesser astral tower that buffs a nearby tower, increasing its mana regeneration, maximum mana and spell damage dealt.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001042|r dps, |cffFF8000Elemental|r|r, |cffFFFF001050|r range|n|cffFFFF80Mana: |cffFFFF0012|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0J7]
+Name="v0AQ Autocast"
+Tip="Snake Charm"
+Ubertip="Increases the target's maximum mana by |cffFFFF8030%|r, its mana regeneration by |cffFFFF8030%|r and its spell damage by |cffFFFF8015%|r. The buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.8%|r mana regeneration |n|cffFFFF80+1.8%|r mana |n|cffFFFF80+0.9%|r spell damage |n|cffffff80+5|r seconds duration at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00200|r"
+Hotkey=V
 
 ##Tower
 [v0G6]
@@ -8129,6 +8394,12 @@ Hotkey=F
 Tip="Buy Mythic Serpent Ward"
 Ubertip="|cff9BA0D0Lesser astral tower that buffs a nearby tower, increasing its mana regeneration, maximum mana and spell damage dealt.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF002020|r dps, |cffFF8000Elemental|r|r, |cffFFFF001050|r range|n|cffFFFF80Mana: |cffFFFF0012|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0UR]
+Name="v0G6 Autocast"
+Tip="Snake Charm"
+Ubertip="Increases the target's maximum mana by |cffFFFF8040%|r, its mana regeneration by |cffFFFF8040%|r and its spell damage by |cffFFFF8020%|r. The buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2.4%|r mana regeneration |n|cffFFFF80+2.4%|r mana |n|cffFFFF80+1.2%|r spell damage |n|cffffff80+5|r seconds duration at level |cffffff8025|r|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00200|r"
+Hotkey=V
 
 ##Tower
 [v044]
@@ -8292,6 +8563,12 @@ Hotkey=F
 Tip="Buy Nature Sprites"
 Ubertip="|cff9BA0D0Friendly spirits that live in the trees.|n|n|cffFFFF80Author:|r DaveMatthews|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF00281|r dps, |cff80FF00Essence|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0050|r (+|cffFFFF002.5|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W06Y]
+Name="v04J Autocast"
+Tip="Nature's Gift"
+Ubertip="One of the spirits flies towards a tower in |cffffff80500|r range and buffs it for |cffffff805|r seconds. The buff has a different effect depending on the tower's element:|n|cffFFFF80+28%|r experience for Astral|n|cffFFFF80+16%|r spell damage for Darkness|n|cffFFFF80+4%|r crit chance for Nature|n|cffFFFF80+16%|r damage for Fire|n|cffFFFF80+20%|r buff duration for Ice|n|cffFFFF80+8%|r attack speed for Storm|n|cffFFFF80+6%|r item chance for Iron|nThe buffed tower has a |cffFFFF8025%|r chance to receive another random effect in addition to the first one.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.8%|r experience|n|cffFFFF80+0.4%|r spell damage|n|cffFFFF80+0.1%|r crit chance|n|cffFFFF80+0.4%|r damage|n|cffFFFF80+0.6%|r buff duration|n|cffFFFF80+0.2%|r attack speed|n|cffFFFF80+0.14%|r item chance|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R015]
 Bufftip=Nature's Gift
@@ -8310,6 +8587,12 @@ Hotkey=F
 Tip="Buy Nature Spirits"
 Ubertip="|cff9BA0D0Friendly spirits that live in the trees.|n|n|cffFFFF80Author:|r DaveMatthews|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001055|r dps, |cff80FF00Essence|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0050|r (+|cffFFFF002.5|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0KP]
+Name="v0BE Autocast"
+Tip="Nature's Gift"
+Ubertip="One of the spirits flies towards a tower in |cffffff80500|r range and buffs it for |cffffff805|r seconds. The buff has a different effect depending on the tower's element:|n|cffFFFF80+42%|r experience for Astral|n|cffFFFF80+24%|r spell damage for Darkness|n|cffFFFF80+6%|r crit chance for Nature|n|cffFFFF80+24%|r damage for Fire|n|cffFFFF80+30%|r buff duration for Ice|n|cffFFFF80+12%|r attack speed for Storm|n|cffFFFF80+9%|r item chance for Iron|nThe buffed tower has a |cffFFFF8025%|r chance to receive another random effect in addition to the first one.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.2%|r experience|n|cffFFFF80+0.6%|r spell damage|n|cffFFFF80+0.15%|r crit chance|n|cffFFFF80+0.6%|r damage|n|cffFFFF80+0.9%|r buff duration|n|cffFFFF80+0.3%|r attack speed|n|cffFFFF80+0.21%|r item chance|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 
 ##Tower
 [v0GI]
@@ -8324,6 +8607,12 @@ Hotkey=F
 Tip="Buy Nature Souls"
 Ubertip="|cff9BA0D0Friendly spirits that live in the trees.|n|n|cffFFFF80Author:|r DaveMatthews|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001969|r dps, |cff80FF00Essence|r|r, |cffFFFF00900|r range|n|cffFFFF80Mana: |cffFFFF0050|r (+|cffFFFF002.5|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0VP]
+Name="v0GI Autocast"
+Tip="Nature's Gift"
+Ubertip="One of the spirits flies towards a tower in |cffffff80500|r range and buffs it for |cffffff805|r seconds. The buff has a different effect depending on the tower's element:|n|cffFFFF80+56%|r experience for Astral|n|cffFFFF80+32%|r spell damage for Darkness|n|cffFFFF80+8%|r crit chance for Nature|n|cffFFFF80+32%|r damage for Fire|n|cffFFFF80+40%|r buff duration for Ice|n|cffFFFF80+16%|r attack speed for Storm|n|cffFFFF80+12%|r item chance for Iron|nThe buffed tower has a |cffFFFF8025%|r chance to receive another random effect in addition to the first one.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.6%|r experience|n|cffFFFF80+0.8%|r spell damage|n|cffFFFF80+0.2%|r crit chance|n|cffFFFF80+0.8%|r damage|n|cffFFFF80+1.2%|r buff duration|n|cffFFFF80+0.4%|r attack speed|n|cffFFFF80+0.28%|r item chance|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 
 ##Tower
 [v04K]
@@ -8784,6 +9073,11 @@ Description="Used to create a tower"
 Name="v052 abils"
 Tip="Specials"
 Ubertip="|cffFF0000Attacks AIR only|r|n"
+[W07U]
+Name="v052 Autocast"
+Tip="Jolt"
+Ubertip="Buffs a tower in |cffffff80500|r range for |cffffff8010|r seconds increasing its attackspeed by |cffffff8020%|r. The buffed tower deals |cffffff80150|r attack damage and |cffffff80150|r spell damage on attack multiplied with its base attackspeed. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+6|r attack and spell damage |n|cffffff80+0.2%|r attackspeed|n|n|cffFFFF80Cooldown: |cffFFFF008 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R01B]
 Bufftip=Jolted
@@ -8808,6 +9102,11 @@ Description="Used to create a tower"
 Name="v09U abils"
 Tip="Specials"
 Ubertip="|cffFF0000Attacks AIR only|r|n"
+[W0HV]
+Name="v09U Autocast"
+Tip="Jolt"
+Ubertip="Buffs a tower in |cffffff80500|r range for |cffffff8010|r seconds increasing its attackspeed by |cffffff8025%|r. The buffed tower deals |cffffff80320|r attack damage and |cffffff80320|r spell damage on attack multiplied with its base attackspeed. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+12.8|r attack and spell damage |n|cffffff80+0.4%|r attackspeed|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 
 ##Tower
 [v0D3]
@@ -8827,6 +9126,11 @@ Description="Used to create a tower"
 Name="v0D3 abils"
 Tip="Specials"
 Ubertip="|cffFF0000Attacks AIR only|r|n"
+[W0OQ]
+Name="v0D3 Autocast"
+Tip="Jolt"
+Ubertip="Buffs a tower in |cffffff80500|r range for |cffffff8010|r seconds increasing its attackspeed by |cffffff8032%|r. The buffed tower deals |cffffff80500|r attack damage and |cffffff80500|r spell damage on attack multiplied with its base attackspeed. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+20|r attack and spell damage |n|cffffff80+0.52%|r attackspeed|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 
 ##Tower
 [v053]
@@ -8971,6 +9275,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v054 On Damage"
 Tip="Faerie Fire"
 Ubertip="A creep hit by one of this tower's shots takes |cffFFFF8010%|r extra damage from spells and debuffs last |cffFFFF8020%|r longer for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r extra spell damage|n|cffFFFF80+0.6%|r extra debuff duration|n|cffFFFF80+0.3|r seconds Faerie Fire duration"
+[W085]
+Name="v054 Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r spelldamage and applies Faerie Fire.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01G]
 Bufftip=Faerie Fire
@@ -8999,6 +9308,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v096 On Damage"
 Tip="Faerie Fire"
 Ubertip="A creep hit by one of this tower's shots takes |cffFFFF8015%|r extra damage from spells and debuffs last |cffFFFF8025%|r longer for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r extra spell damage|n|cffFFFF80+0.8%|r extra debuff duration|n|cffFFFF80+0.3|r seconds Faerie Fire duration"
+[W0GH]
+Name="v096 Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r spelldamage and applies Faerie Fire.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R02V]
 Bufftip=Faerie Fire
@@ -9027,6 +9341,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HJ On Damage"
 Tip="Faerie Fire"
 Ubertip="A creep hit by one of this tower's shots takes |cffFFFF8020%|r extra damage from spells and debuffs last |cffFFFF8030%|r longer for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.8%|r extra spell damage|n|cffFFFF80+1%|r extra debuff duration|n|cffFFFF80+0.3|r seconds Faerie Fire duration"
+[W0YP]
+Name="v0HJ Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r spelldamage and applies Faerie Fire.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R05V]
 Bufftip=Faerie Fire
@@ -9055,6 +9374,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v055 On Damage"
 Tip="Frost"
 Ubertip="A creep hit by one of this tower's shots is slowed by |cffFFFF8010%|r for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.3%|r slow|n|cffFFFF80+0.3|r seconds duration"
+[W089]
+Name="v055 Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r damage and applies Frost.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01H]
 Bufftip=Frost
@@ -9082,6 +9406,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v095 On Damage"
 Tip="Frost"
 Ubertip="A creep hit by one of this tower's shots is slowed by |cffFFFF8015%|r for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.45%|r slow|n|cffFFFF80+0.3|r seconds duration"
+[W0GD]
+Name="v095 Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r damage and applies Frost.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R02U]
 Bufftip=Frost
@@ -9109,6 +9438,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HI On Damage"
 Tip="Frost"
 Ubertip="A creep hit by one of this tower's shots is slowed by |cffFFFF8020%|r for |cffFFFF809|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r slow|n|cffFFFF80+0.3|r seconds duration"
+[W0YL]
+Name="v0HI Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r damage and applies Frost.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R05U]
 Bufftip=Frost
@@ -9141,6 +9475,11 @@ Ubertip="|cffFFFF00+20% |rdmg to magical|n"
 Name="v056 On Damage"
 Tip="Lightning Burst"
 Ubertip="Grants a |cffFFFF8012.5%|r chance to deal |cffFFFF8015|r times current mana as spell damage on attack.|nResets the bonus spell crit of 'Mana Feed'.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r chance"
+[W08E]
+Name="v056 Autocast"
+Tip="Lightning Surge"
+Ubertip="Increases the attackspeed of this tower by |cffFFFF80100%|r for the next |cffFFFF805|r attacks. The surge fades after |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attackspeed|n|cffFFFF80+1|r attack per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W08F]
 Name="v056 On Attack"
 Tip="Mana Feed"
@@ -9177,6 +9516,11 @@ Ubertip="|cffFFFF00+20% |rdmg to magical|n"
 Name="v089 On Damage"
 Tip="Lightning Burst"
 Ubertip="Grants a |cffFFFF8012.5%|r chance to deal |cffFFFF8025|r times current mana as spell damage on attack.|nResets the bonus spell crit of 'Mana Feed'.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r chance"
+[W0EC]
+Name="v089 Autocast"
+Tip="Lightning Surge"
+Ubertip="Increases the attackspeed of this tower by |cffFFFF80150%|r for the next |cffFFFF805|r attacks. The surge fades after |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attackspeed|n|cffFFFF80+1|r attack per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0ED]
 Name="v089 On Attack"
 Tip="Mana Feed"
@@ -9209,6 +9553,11 @@ Ubertip="|cffFFFF00+20% |rdmg to magical|n"
 Name="v0CY On Damage"
 Tip="Lightning Burst"
 Ubertip="Grants a |cffFFFF8012.5%|r chance to deal |cffFFFF8035|r times current mana as spell damage on attack.|nResets the bonus spell crit of 'Mana Feed'.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r chance"
+[W0OA]
+Name="v0CY Autocast"
+Tip="Lightning Surge"
+Ubertip="Increases the attackspeed of this tower by |cffFFFF80200%|r for the next |cffFFFF805|r attacks. The surge fades after |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attackspeed|n|cffFFFF80+1|r attack per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0OB]
 Name="v0CY On Attack"
 Tip="Mana Feed"
@@ -9241,6 +9590,11 @@ Ubertip="|cffFFFF00+20% |rdmg to magical|n"
 Name="v0HG On Damage"
 Tip="Lightning Burst"
 Ubertip="Grants a |cffFFFF8012.5%|r chance to deal |cffFFFF8045|r times current mana as spell damage on attack.|nResets the bonus spell crit of 'Mana Feed'.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r chance"
+[W0YD]
+Name="v0HG Autocast"
+Tip="Lightning Surge"
+Ubertip="Increases the attackspeed of this tower by |cffFFFF80250%|r for the next |cffFFFF805|r attacks. The surge fades after |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attackspeed|n|cffFFFF80+1|r attack per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0YE]
 Name="v0HG On Attack"
 Tip="Mana Feed"
@@ -9268,6 +9622,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v057 On Damage"
 Tip="Corruption"
 Ubertip="A corrupted creep takes |cffFFFF8010%|r extra damage from attacks and |cffFFFF805%|r extra damage from spells for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r damage from attacks|n|cffFFFF80+0.2%|r damage from spells|n|cffFFFF80+0.3|r seconds duration"
+[W08J]
+Name="v057 Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r points damage and applies corruption.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01J]
 Bufftip=Corrupted
@@ -9297,6 +9656,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v097 On Damage"
 Tip="Corruption"
 Ubertip="A corrupted creep takes |cffFFFF8020%|r extra damage from attacks and |cffFFFF8010%|r extra damage from spells for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.8%|r damage from attacks|n|cffFFFF80+0.4%|r damage from spells|n|cffFFFF80+0.3|r seconds duration"
+[W0GL]
+Name="v097 Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r points damage and applies corruption.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R02W]
 Bufftip=Corrupted
@@ -9326,6 +9690,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HL On Damage"
 Tip="Corruption"
 Ubertip="A corrupted creep takes |cffFFFF8030%|r extra damage from attacks and |cffFFFF8015%|r extra damage from spells for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.2%|r damage from attacks|n|cffFFFF80+0.6%|r damage from spells|n|cffFFFF80+0.3|r seconds duration"
+[W0YW]
+Name="v0HL Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r points damage and applies corruption.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R05W]
 Bufftip=Corrupted
@@ -9355,6 +9724,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v058 On Damage"
 Tip="Poison"
 Ubertip="An infected creep takes |cffFFFF80100|r spelldamage every second for |cffFFFF809|r seconds and is slowed by |cffFFFF805%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+3|r poison damage|n|cffFFFF80+0.3|r seconds poison duration|n|cffFFFF80+0.12%|r slow"
+[W08N]
+Name="v058 Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r damage and applies poison.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01K]
 Bufftip=Poison
@@ -9383,6 +9757,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v098 On Damage"
 Tip="Poison"
 Ubertip="An infected creep takes |cffFFFF80240|r spelldamage every second for |cffFFFF809|r seconds and is slowed by |cffFFFF807%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+8|r poison damage|n|cffFFFF80+0.3|r seconds poison duration|n|cffFFFF80+0.28%|r slow"
+[W0GP]
+Name="v098 Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r damage and applies poison.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R02X]
 Bufftip=Poison
@@ -9412,6 +9791,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HM On Damage"
 Tip="Poison"
 Ubertip="An infected creep takes |cffFFFF80600|r spelldamage every second for |cffFFFF809|r seconds and is slowed by |cffFFFF8010%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+20|r poison damage|n|cffFFFF80+0.3|r seconds poison duration|n|cffFFFF80+0.4%|r slow"
+[W0Z0]
+Name="v0HM Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r damage and applies poison.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R05X]
 Bufftip=Poison
@@ -9441,6 +9825,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v059 On Damage"
 Tip="Incinerate"
 Ubertip="This tower's attacks set the target on fire. A burning creep takes |cffFFFF805%|r more damage from |cFFFF5300Fire|r towers and receives |cffFFFF80120|r spelldamage every second for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+5|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W08R]
+Name="v059 Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r points damage and incinerates the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01L]
 Bufftip=Burning
@@ -9470,6 +9859,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v099 On Damage"
 Tip="Incinerate"
 Ubertip="This tower's attacks set the target on fire. A burning creep takes |cffFFFF8010%|r more damage from |cFFFF5300Fire|r towers and receives |cffFFFF80300|r spelldamage every second for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W0GT]
+Name="v099 Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r points damage and incinerates the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R02Y]
 Bufftip=Burning
@@ -9499,6 +9893,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HN On Damage"
 Tip="Incinerate"
 Ubertip="This tower's attacks set the target on fire. A burning creep takes |cffFFFF8015%|r more damage from |cFFFF5300Fire|r towers and receives |cffFFFF80800|r spelldamage every second for |cffFFFF809|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+32|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W0Z4]
+Name="v0HN Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r points damage and incinerates the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R05Y]
 Bufftip=Burning
@@ -9528,6 +9927,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v05A On Damage"
 Tip="Electrify"
 Ubertip="The Storm Battery's projectiles electrify their target for |cffFFFF809|r seconds. Every time an electrified creep is damaged by an attack or spell it has a chance of |cffFFFF8020%|r to take |cffFFFF8040%|r extra damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.3%|r chance|n|cffFFFF80+0.8%|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W08V]
+Name="v05A Autocast"
+Tip="Battery Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80300|r spelldamage and electrifies the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+12|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 ##Buffs
 [R01M]
 Bufftip=Electrified
@@ -9555,6 +9959,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v09A On Damage"
 Tip="Electrify"
 Ubertip="The Storm Storage's projectiles electrify their target for |cffFFFF809|r seconds. Every time an electrified creep is damaged by an attack or spell it has a chance of |cffFFFF8020%|r to take |cffFFFF8080%|r extra damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.3%|r chance|n|cffFFFF80+1.6%|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W0GX]
+Name="v09A Autocast"
+Tip="Storage Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF80750|r spelldamage and electrifies the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+30|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 
 ##Tower
 [v0HO]
@@ -9578,6 +9987,11 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n"
 Name="v0HO On Damage"
 Tip="Electrify"
 Ubertip="The Storm Accumulator's projectiles electrify their target for |cffFFFF809|r seconds. Every time an electrified creep is damaged by an attack or spell it has a chance of |cffFFFF8020%|r to take |cffFFFF80120%|r extra damage. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.3%|r chance|n|cffFFFF80+2.4%|r damage|n|cffFFFF80+0.3|r seconds duration"
+[W0Z8]
+Name="v0HO Autocast"
+Tip="Accumulator Overload"
+Ubertip="The tower attacks creeps in a range of |cffFFFF801200|r every |cffFFFF800.2|r seconds till all mana is gone. Each attack (or try to attack) costs |cffFFFF8010|r mana, deals |cffFFFF801800|r spelldamage and electrifies the target.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+72|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 
 ##Tower
 [v05E]
@@ -10423,6 +10837,11 @@ Description="Used to create a tower"
 Name="v06T abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to nature (|cffFFFF00+1%|r/lvl)|n"
+[W0BB]
+Name="v06T Autocast"
+Tip="Eruption"
+Ubertip="When Phoenixfire expires, it erupts and deals |cffFFFF80100|r elemental damage per armor point the creep is missing in |cffFFFF80200|r range around its target. Additionally the target regains only |cffFFFF8070%|r of its armor. Creeps further away recieve less damage. This ability can be cast to make Phoenixfire expire immediately.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-1%|r armor regain|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 [W0BC]
 Name="v06T On Attack"
 Tip="Phoenixfire"
@@ -10451,6 +10870,11 @@ Description="Used to create a tower"
 Name="v0BT abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to nature (|cffFFFF00+1%|r/lvl)|n"
+[W0LI]
+Name="v0BT Autocast"
+Tip="Eruption"
+Ubertip="When Phoenixfire expires, it erupts and deals |cffFFFF80260|r elemental damage per armor point the creep is missing in |cffFFFF80200|r range around its target. Additionally the target regains only |cffFFFF8060%|r of its armor. Creeps further away recieve less damage. This ability can be cast to make Phoenixfire expire immediately.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-1.5%|r armor regain|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 [W0LJ]
 Name="v0BT On Attack"
 Tip="Phoenixfire"
@@ -10474,6 +10898,11 @@ Description="Used to create a tower"
 Name="v0GA abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to nature (|cffFFFF00+1%|r/lvl)|n"
+[W0V3]
+Name="v0GA Autocast"
+Tip="Eruption"
+Ubertip="When Phoenixfire expires, it erupts and deals |cffFFFF80440|r elemental damage per armor point the creep is missing in |cffFFFF80200|r range around its target. Additionally the target regains only |cffFFFF8050%|r of its armor. Creeps further away recieve less damage. This ability can be cast to make Phoenixfire expire immediately.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-2%|r armor regain|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
 [W0V4]
 Name="v0GA On Attack"
 Tip="Phoenixfire"
@@ -10497,6 +10926,11 @@ Description="Used to create a tower"
 Name="v06U abils"
 Tip="Specials"
 Ubertip="|cffFFFF0015%|r crit chance|n"
+[W0BF]
+Name="v06U Autocast"
+Tip="Bloodlust"
+Ubertip="The Shaman makes a friendly tower lust for blood, increasing its crit damage by |cffFFFF80x0.45|r and attackspeed by |cffFFFF8015%|r for |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+x0.004|r crit damage|n|cffFFFF80+0.2%|r attackspeed|n|cffFFFF80+0.12|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0BG]
 Name="v06U Tower Aura"
 Tip="Bloody Experience"
@@ -10529,6 +10963,11 @@ Description="Used to create a tower"
 Name="v0AW abils"
 Tip="Specials"
 Ubertip="|cffFFFF0015%|r crit chance|n"
+[W0JH]
+Name="v0AW Autocast"
+Tip="Bloodlust"
+Ubertip="The Shaman makes a friendly tower lust for blood, increasing its crit damage by |cffFFFF80x0.55|r and attackspeed by |cffFFFF8020%|r for |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+x0.006|r crit damage|n|cffFFFF80+0.3%|r attackspeed|n|cffFFFF80+0.12|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0JI]
 Name="v0AW Tower Aura"
 Tip="Bloody Experience"
@@ -10552,6 +10991,11 @@ Description="Used to create a tower"
 Name="v0GH abils"
 Tip="Specials"
 Ubertip="|cffFFFF0015%|r crit chance|n"
+[W0VN]
+Name="v0GH Autocast"
+Tip="Bloodlust"
+Ubertip="The Shaman makes a friendly tower lust for blood, increasing its crit damage by |cffFFFF80x0.65|r and attackspeed by |cffFFFF8025%|r for |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+x0.008|r crit damage|n|cffFFFF80+0.4%|r attackspeed|n|cffFFFF80+0.12|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0VO]
 Name="v0GH Tower Aura"
 Tip="Bloody Experience"
@@ -10669,6 +11113,11 @@ Ubertip="|cffFF0000Attacks GROUND only|r|n|cffCCFF00Bounce attack:|n   |cffFFFF0
 Name="v074 On Damage"
 Tip="Blessed Weapon"
 Ubertip="Everytime this tower damages a creep it has a |cffFFFF8015%|r chance to deal |cffFFFF80500|r spelldamage and gain |cffFFFF802|r mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+50|r damage|n|cffFFFF80+0.1|r mana regeneration"
+[W0C0]
+Name="v074 Autocast"
+Tip="For the God"
+Ubertip="This tower casts a buff on a friendly tower that increases attackdamage and experience gain by |cffFFFF8040%|r. The buff lasts |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1|r seconds duration|n|cffFFFF80+1%|r attack damage and experience gain|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00600|r"
+Hotkey=V
 ##Buffs
 [R025]
 Bufftip=For the God
@@ -10699,6 +11148,11 @@ Ubertip="|cffFF0000Attacks GROUND only|r|n|cffCCFF00Bounce attack:|n   |cffFFFF0
 Name="v0CS On Damage"
 Tip="Blessed Weapon"
 Ubertip="Everytime this tower damages a creep it has a |cffFFFF8015%|r chance to deal |cffFFFF801000|r spelldamage and gain |cffFFFF802|r mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+50|r damage|n|cffFFFF80+0.1|r mana regeneration"
+[W0NT]
+Name="v0CS Autocast"
+Tip="For the God"
+Ubertip="This tower casts a buff on a friendly tower that increases attackdamage and experience gain by |cffFFFF8080%|r. The buff lasts |cffFFFF808|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1|r seconds duration|n|cffFFFF80+2%|r attack damage and experience gain|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00600|r"
+Hotkey=V
 ##Buffs
 [R03Z]
 Bufftip=For the God
@@ -10727,6 +11181,11 @@ Ubertip="|cffFFFF00+2% |rbuff duration/lvl|n"
 Name="v078 Header"
 Tip="Soul Consumption"
 Ubertip="Whenever a unit under the effect of Soul Link dies, the Shard of Souls consumes its soul granting |cffFFFF801|r experience to the tower."
+[W0C8]
+Name="v078 Autocast"
+Tip="Soul Link"
+Ubertip="Links |cffFFFF803|r enemies' souls together for |cffFFFF802.5|r seconds. If a linked unit takes damage all other linked units will take |cffFFFF8012.5%|r of this damage. This tower does not benefit from damage increasing items or oils.|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF800.3%|r damage|n+|cffFFFF801|r target at level |cffFFFF8015|r and |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 ##Buffs
 [R026]
 Bufftip=Soul Link
@@ -10754,6 +11213,11 @@ Ubertip="|cffFFFF00+2% |rbuff duration/lvl|n"
 Name="v0DP Header"
 Tip="Soul Consumption"
 Ubertip="Whenever a unit under the effect of Soul Link dies, the Crystal of Souls consumes its soul granting |cffFFFF801|r experience to the tower."
+[W0PQ]
+Name="v0DP Autocast"
+Tip="Soul Link"
+Ubertip="Links |cffFFFF803|r enemies' souls together for |cffFFFF802.5|r seconds. If a linked unit takes damage all other linked units will take |cffFFFF8015%|r of this damage. This tower does not benefit from damage increasing items or oils.|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF800.4%|r damage|n+|cffFFFF801|r target at level |cffFFFF8015|r and |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 
 ##Tower
 [v07F]
@@ -10855,6 +11319,11 @@ Tip="Buy Quillboar Thornweaver"
 Ubertip="|cff9BA0D0Advanced Nature tower that is able to release a spray of thorns from it's back.|n|n|cffFFFF80Author:|r SircoqaLot.|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF00431|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00800|r range|n|cffFFFF80Mana: |cffFFFF00100|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
+[W0CK]
+Name="v07G Autocast"
+Tip="Quillspray"
+Ubertip="This tower deals |cffFFFF8030%|r of its attack damage as physical damage to every unit in |cffFFFF80800|r range around it. A creep hit by a Quillspray receives |cffFFFF8011%|r more damage than it did from the previous Quillspray, if hit again within |cffFFFF801.5|r seconds. This effect stacks up to |cffFFFF8040|r times. |n|n|cffFFFF80Hint:|r Save mana to amplify the effect of this ability.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r base damage|n |cffFFFF805%|r chance to doublecast Quillsprays at level |cffFFFF8015|r |n |cffFFFF803%|r chance to triplecast Quillsprays at level |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF000.2 sec|r"
+Hotkey=V
 [W0CL]
 Name="v07G On Attack"
 Tip="Occasional Quillspray"
@@ -10879,6 +11348,11 @@ Tip="Buy Quillboar Painbringer"
 Ubertip="|cff9BA0D0Advanced Nature tower that is able to release a spray of thorns from it's back.|n|n|cffFFFF80Author:|r SircoqaLot.|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF00916|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00800|r range|n|cffFFFF80Mana: |cffFFFF00100|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
+[W0M2]
+Name="v0C0 Autocast"
+Tip="Quillspray"
+Ubertip="This tower deals |cffFFFF8030%|r of its attack damage as physical damage to every unit in |cffFFFF80800|r range around it. A creep hit by a Quillspray receives |cffFFFF8011%|r more damage than it did from the previous Quillspray, if hit again within |cffFFFF801.5|r seconds. This effect stacks up to |cffFFFF8040|r times. |n|n|cffFFFF80Hint:|r Save mana to amplify the effect of this ability.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r base damage|n |cffFFFF807%|r chance to doublecast Quillsprays at level |cffFFFF8015|r |n |cffFFFF805%|r chance to triplecast Quillsprays at level |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF000.2 sec|r"
+Hotkey=V
 [W0M3]
 Name="v0C0 On Attack"
 Tip="Occasional Quillspray"
@@ -10898,6 +11372,11 @@ Tip="Buy Quillboar Deathpig"
 Ubertip="|cff9BA0D0Advanced Nature tower that is able to release a spray of thorns from it's back.|n|n|cffFFFF80Author:|r SircoqaLot.|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001777|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00800|r range|n|cffFFFF80Mana: |cffFFFF00100|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
+[W10V]
+Name="v0I5 Autocast"
+Tip="Quillspray"
+Ubertip="This tower deals |cffFFFF8030%|r of its attack damage as physical damage to every unit in |cffFFFF80800|r range around it. A creep hit by a Quillspray receives |cffFFFF8011%|r more damage than it did from the previous Quillspray, if hit again within |cffFFFF801.5|r seconds. This effect stacks up to |cffFFFF8040|r times. |n|n|cffFFFF80Hint:|r Save mana to amplify the effect of this ability.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r base damage|n |cffFFFF809%|r chance to doublecast Quillsprays at level |cffFFFF8015|r |n |cffFFFF807%|r chance to triplecast Quillsprays at level |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF000.2 sec|r"
+Hotkey=V
 [W10W]
 Name="v0I5 On Attack"
 Tip="Occasional Quillspray"
@@ -11044,6 +11523,11 @@ Description="Used to create a tower"
 Name="v07N abils"
 Tip="Specials"
 Ubertip="|cffFFFF0010%|r spell crit chance (|cffFFFF00+0.5%|r/lvl)|n|cffFFFF00x2|r spell crit damage|n|cffFFFF00+1 |rmana/lvl|n|cffFFFF00+0.02 |rmana regen/lvl|n"
+[W0CZ]
+Name="v07N Autocast"
+Tip="Release Energy"
+Ubertip="Deals |cffFFFF804000|r damage to the attacked creep and stuns it for |cffFFFF803|r seconds (|cffFFFF801|r seconds on bosses).|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF80150|r damage|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=V
 [W0D0]
 Name="v07N On Attack"
 Tip="Energetic Attack"
@@ -11067,6 +11551,11 @@ Description="Used to create a tower"
 Name="v0F7 abils"
 Tip="Specials"
 Ubertip="|cffFFFF0010%|r spell crit chance (|cffFFFF00+0.5%|r/lvl)|n|cffFFFF00x2|r spell crit damage|n|cffFFFF00+2 |rmana/lvl|n|cffFFFF00+0.04 |rmana regen/lvl|n"
+[W0S8]
+Name="v0F7 Autocast"
+Tip="Release Energy"
+Ubertip="Deals |cffFFFF8012000|r damage to the attacked creep and stuns it for |cffFFFF805|r seconds (|cffFFFF801.75|r seconds on bosses).|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF80450|r damage|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=V
 [W0S9]
 Name="v0F7 On Attack"
 Tip="Energetic Attack"
@@ -11183,6 +11672,11 @@ Description="Used to create a tower"
 Name="v07S On Damage"
 Tip="Creature of the Night"
 Ubertip="This tower deals |cffFFFF80150%|r damage during nighttime and |cffFFFF8050%|r damage during daytime. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r damage during night |r|n|cffFFFF80+0.2%|r damage during day"
+[W0DD]
+Name="v07S Autocast"
+Tip="Engulfing Darkness"
+Ubertip="This tower engulfs itself in darkness, gaining power as if it's night for |cffFFFF805|r seconds.|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0DE]
 Name="v07S On Attack"
 Tip="Bat Swarm"
@@ -11210,6 +11704,11 @@ Description="Used to create a tower"
 Name="v0CJ On Damage"
 Tip="Creature of the Night"
 Ubertip="This tower deals |cffFFFF80150%|r damage during nighttime and |cffFFFF8050%|r damage during daytime. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r damage during night |r|n|cffFFFF80+0.3%|r damage during day"
+[W0N5]
+Name="v0CJ Autocast"
+Tip="Engulfing Darkness"
+Ubertip="This tower engulfs itself in darkness, gaining power as if it's night for |cffFFFF805|r seconds.|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0N6]
 Name="v0CJ On Attack"
 Tip="Bat Swarm"
@@ -11233,6 +11732,11 @@ Description="Used to create a tower"
 Name="v0GK On Damage"
 Tip="Creature of the Night"
 Ubertip="This tower deals |cffFFFF80150%|r damage during nighttime and |cffFFFF8050%|r damage during daytime. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.8%|r damage during night |r|n|cffFFFF80+0.4%|r damage during day"
+[W0VU]
+Name="v0GK Autocast"
+Tip="Engulfing Darkness"
+Ubertip="This tower engulfs itself in darkness, gaining power as if it's night for |cffFFFF805|r seconds.|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r"
+Hotkey=V
 [W0VV]
 Name="v0GK On Attack"
 Tip="Bat Swarm"
@@ -11329,6 +11833,22 @@ Hotkey=F
 Tip="Buy Bomb Turret"
 Ubertip="|cff9BA0D0Can fire different bombs for a great versatility.|n|n|cffFFFF80Author:|r DaveMatthews|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00934|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0DN]
+Name="v07X Autocast"
+Tip="Concussive Bombs"
+Ubertip="Equips the tower with concussive bombs. Each attack slows all the creeps in a |cffFFFF80250|r area around the target by |cffFFFF8015%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r slow|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=V
+[W0DO]
+Name="v07X Autocast"
+Tip="Acid Bombs"
+Ubertip="Equips the tower with acid bombs. Each attack reduces the armor of all the creeps in a |cffFFFF80250|r area around the target by |cffFFFF8010%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r armor reduction|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=C
+[W0DP]
+Name="v07X Autocast"
+Tip="Smoke Bombs"
+Ubertip="Equips the tower with smoke bombs. Each attack silences all the creeps in a |cffFFFF80250|r area around the target for |cffFFFF801|r second. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.04|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=X
 ##Buffs
 [R02F]
 Bufftip=Concussive Bomb
@@ -11359,6 +11879,22 @@ Hotkey=F
 Tip="Buy Grand Bomb Turret"
 Ubertip="|cff9BA0D0Can fire different bombs for a great versatility.|n|n|cffFFFF80Author:|r DaveMatthews|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF001966|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0O2]
+Name="v0CW Autocast"
+Tip="Concussive Bombs"
+Ubertip="Equips the tower with concussive bombs. Each attack slows all the creeps in a |cffFFFF80300|r area around the target by |cffFFFF8025%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r slow|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=V
+[W0O3]
+Name="v0CW Autocast"
+Tip="Acid Bombs"
+Ubertip="Equips the tower with acid bombs. Each attack reduces the armor of all the creeps in a |cffFFFF80300|r area around the target by |cffFFFF8015%|r for |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r armor reduction|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=C
+[W0O4]
+Name="v0CW Autocast"
+Tip="Smoke Bombs"
+Ubertip="Equips the tower with smoke bombs. Each attack silences all the creeps in a |cffFFFF80300|r area around the target for |cffFFFF801.5|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.06|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=X
 
 ##Tower
 [v07Y]
@@ -11373,6 +11909,12 @@ Hotkey=F
 Tip="Buy Gnoll Thunder Mage"
 Ubertip="|cff9BA0D0Gnollssss!|n|n|cffFFFF80Author:|r DreamStrider|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00148|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0020|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0DV]
+Name="v07Y Autocast"
+Tip="Thunder Shock"
+Ubertip="Deals |cffFFFF80[1450 + (435 x amount of player towers)]|r spell damage to a target creep. This ability has a |cffFFFF8025%|r chance to recast itself when cast. Maximum of |cffFFFF801|r extra cast.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+58|r base spelldamage|n|cffFFFF80+17.4|r spelldamage per player tower|n|cffFFFF80+1|r extra cast at levels |cffFFFF8015|r and |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0CG]
@@ -11387,6 +11929,12 @@ Hotkey=F
 Tip="Buy Gnoll Lightning Caller"
 Ubertip="|cff9BA0D0Gnollssss!|n|n|cffFFFF80Author:|r DreamStrider|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00296|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0020|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0MW]
+Name="v0CG Autocast"
+Tip="Thunder Shock"
+Ubertip="Deals |cffFFFF80[2900 + (870 x amount of player towers)]|r spell damage to a target creep. This ability has a |cffFFFF8025%|r chance to recast itself when cast. Maximum of |cffFFFF801|r extra cast.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+116|r base spelldamage|n|cffFFFF80+34.8|r spelldamage per player tower|n|cffFFFF80+1|r extra cast at levels |cffFFFF8015|r and |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v0GL]
@@ -11401,6 +11949,12 @@ Hotkey=F
 Tip="Buy Gnoll Storm Caster"
 Ubertip="|cff9BA0D0Gnollssss!|n|n|cffFFFF80Author:|r DreamStrider|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF00445|r dps, |cff00FFFFEnergy|r|r, |cffFFFF001200|r range|n|cffFFFF80Mana: |cffFFFF0020|r (+|cffFFFF001|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
+##Abilities
+[W0VW]
+Name="v0GL Autocast"
+Tip="Thunder Shock"
+Ubertip="Deals |cffFFFF80[4350 + (1305 x amount of player towers)]|r spell damage to a target creep. This ability has a |cffFFFF8025%|r chance to recast itself when cast. Maximum of |cffFFFF801|r extra cast.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+174|r base spelldamage|n|cffFFFF80+52.2|r spelldamage per player tower|n|cffFFFF80+1|r extra cast at levels |cffFFFF8015|r and |cffFFFF8025|r|n|n|cffFFFF80Cooldown: |cffFFFF003 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 
 ##Tower
 [v082]
@@ -11903,6 +12457,11 @@ Description="Used to create a tower"
 Name="v08S abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to orcs (|cffFFFF00+0.8%|r/lvl)|n"
+[W0FP]
+Name="v08S Autocast"
+Tip="Replenish"
+Ubertip="Restores |cffFFFF8010%|r (only half on towers of this family) of each towers maximum mana for towers in |cffFFFF80500|r range.|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF800.4%|r maximum mana|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0FQ]
 Name="v08S Tower Aura"
 Tip="Cleansing Water"
@@ -11931,6 +12490,11 @@ Description="Used to create a tower"
 Name="v0DZ abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to orcs (|cffFFFF00+0.8%|r/lvl)|n"
+[W0QD]
+Name="v0DZ Autocast"
+Tip="Replenish"
+Ubertip="Restores |cffFFFF8015%|r (only half on towers of this family) of each towers maximum mana for towers in |cffFFFF80500|r range.|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF800.6%|r maximum mana|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0QE]
 Name="v0DZ Tower Aura"
 Tip="Cleansing Water"
@@ -11954,6 +12518,11 @@ Description="Used to create a tower"
 Name="v0IT abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+20% |rdmg to orcs (|cffFFFF00+0.8%|r/lvl)|n"
+[W13A]
+Name="v0IT Autocast"
+Tip="Replenish"
+Ubertip="Restores |cffFFFF8020%|r (only half on towers of this family) of each towers maximum mana for towers in |cffFFFF80500|r range.|n|n|cffFF8000Level Bonus:|r|n+|cffFFFF800.8%|r maximum mana|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W13B]
 Name="v0IT Tower Aura"
 Tip="Cleansing Water"
@@ -12193,6 +12762,11 @@ Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n"
 Name="v09Z On Attack"
 Tip="Blood Spill"
 Ubertip="On attack, this tower has a |cffFFFF8015%|r chance to lose |cffFFFF80100%|r attack speed and boost the attack speed of all towers in |cffFFFF80200|r range by |cffFFFF8050%|r, equally divided among them, for |cffFFFF806|r seconds. Every time it casts Blood Spill, the tower gains |cffFFFF800.25|r experience for every other tower affected. Cannot retrigger when the buff is already active. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attack speed |r|n|cffFFFF80+0.2%|r chance"
+[W0I6]
+Name="v09Z Autocast"
+Tip="Sacrifice"
+Ubertip="This tower loses |cffFFFF80100%|r of its damage to boost the dps of a tower in |cffFFFF80500|r range by |cffFFFF8030%|r of its total damage for |cffFFFF806|r seconds. This buff has no effect on towers of the same family.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonus damage|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R031]
 Bufftip=Blood Spill
@@ -12229,6 +12803,11 @@ Ubertip="|cffFFFF00+0.2 |rmana regen/lvl|n"
 Name="v0ED On Attack"
 Tip="Blood Spill"
 Ubertip="On attack, this tower has a |cffFFFF8015%|r chance to lose |cffFFFF80100%|r attack speed and boost the attack speed of all towers in |cffFFFF80200|r range by |cffFFFF8075%|r, equally divided among them, for |cffFFFF806|r seconds. Every time it casts Blood Spill, the tower gains |cffFFFF800.5|r experience for every other tower affected. Cannot retrigger when the buff is already active. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r attack speed |r|n|cffFFFF80+0.4%|r chance"
+[W0R1]
+Name="v0ED Autocast"
+Tip="Sacrifice"
+Ubertip="This tower loses |cffFFFF80100%|r of its damage to boost the dps of a tower in |cffFFFF80500|r range by |cffFFFF8045%|r of its total damage for |cffFFFF806|r seconds. This buff has no effect on towers of the same family.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r bonus damage|n|n|cffFFFF80Cooldown: |cffFFFF006 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 
 ##Tower
 [v0AB]
@@ -12248,6 +12827,11 @@ Description="Used to create a tower"
 Name="v0AB abils"
 Tip="Specials"
 Ubertip="|cffCCFF00Bounce attack:|n   |cffFFFF002|r targets|n   |cffFFFF00-25%|r damage per bounce|n"
+[W0IJ]
+Name="v0AB Autocast"
+Tip="Sparks"
+Ubertip="Increases the spell damage for a tower in |cffFFFF80500|r range by |cffFFFF8015%|r and it's spell critical strike chance by |cffFFFF8010%|r. Lasts |cffFFFF807.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r spell damage|n|cffFFFF80+0.1%|r spell critical strike chance|n|cffFFFF80+0.3|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0IK]
 Name="v0AB On Attack"
 Tip="Twister"
@@ -12278,6 +12862,11 @@ Description="Used to create a tower"
 Name="v0FU abils"
 Tip="Specials"
 Ubertip="|cffCCFF00Bounce attack:|n   |cffFFFF002|r targets|n   |cffFFFF00-25%|r damage per bounce|n"
+[W0TP]
+Name="v0FU Autocast"
+Tip="Sparks"
+Ubertip="Increases the spell damage for a tower in |cffFFFF80500|r range by |cffFFFF8020%|r and it's spell critical strike chance by |cffFFFF8012.5%|r. Lasts |cffFFFF807.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r spell damage|n|cffFFFF80+0.2%|r spell critical strike chance|n|cffFFFF80+0.3|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0TQ]
 Name="v0FU On Attack"
 Tip="Twister"
@@ -12332,6 +12921,11 @@ Ubertip="|cffFFFF00+4% |rmana regen/lvl|n"
 Name="v0B3 Periodic"
 Tip="Divine Knowledge"
 Ubertip="Every |cffFFFF805|r seconds this tower grants |cffFFFF802|r experience to a random tower in |cffFFFF80500|r range.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2|r experience"
+[W0JV]
+Name="v0B3 Autocast"
+Tip="Divine Teachings"
+Ubertip="Adds a buff to the targeted tower which lasts |cffFFFF8010|r seconds. The buff increases the amount of experience the tower gains by |cffFFFF80100%|r. This tower gains |cffFFFF802|r experience every time it casts this buff. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2|r seconds duration |r|n|cffFFFF80+2%|r experience gain.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 [W0JW]
 Name="v0B3 Tower Aura"
 Tip="Divine Research"
@@ -12415,6 +13009,11 @@ Description="Used to create a tower"
 Name="v0BB Header"
 Tip="Frag Grenade"
 Ubertip="When this tower damages a creep it has a |cffFFFF8020%|r chance to fire a frag grenade that will split into |cffFFFF806|r smaller grenades after a short delay. When a grenade collides with a creep it deals |cffFFFF801200|r spelldamage and increases the damage the target takes from attacks by |cffFFFF802%|r, stacking up to a maximum of |cffFFFF8050%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.3%|r chance|r|n|cffFFFF80+100|r damage|r|n|cffFFFF80+0.1%|r damage increase"
+[W0KE]
+Name="v0BB Autocast"
+Tip="Stim"
+Ubertip="This marine uses a stimpack, increasing its attackspeed by |cffFFFF80150%|r and decreasing its attackdamage by |cffFFFF8050%|r. This buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.08|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF008 sec|r"
+Hotkey=V
 ##Buffs
 [R03C]
 Bufftip=Stim
@@ -12443,6 +13042,11 @@ Description="Used to create a tower"
 Name="v0FD Header"
 Tip="Frag Grenade"
 Ubertip="When this tower damages a creep it has a |cffFFFF8025%|r chance to fire a frag grenade that will split into |cffFFFF808|r smaller grenades after a short delay. When a grenade collides with a creep it deals |cffFFFF801800|r spelldamage and increases the damage the target takes from attacks by |cffFFFF802%|r, stacking up to a maximum of |cffFFFF8050%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance|r|n|cffFFFF80+150|r damage|r|n|cffFFFF80+0.1%|r damage increase"
+[W0SO]
+Name="v0FD Autocast"
+Tip="Stim"
+Ubertip="This marine uses a stimpack, increasing its attackspeed by |cffFFFF80150%|r and decreasing its attackdamage by |cffFFFF8050%|r. This buff lasts |cffFFFF805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.08|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF007 sec|r"
+Hotkey=V
 
 ##Tower
 [v0BC]
@@ -12466,6 +13070,11 @@ Ubertip="Attacks up to |cffffff803|r targets at the same time."
 Name="v0BC abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.1 |rmana regen/lvl|n|cffFFFF00+1% |rbuff duration/lvl|n"
+[W0KJ]
+Name="v0BC Autocast"
+Tip="Sunlight Burst"
+Ubertip="Stuns all towers and all enemies in |cffFFFF801000|r range for |cffFFFF801.5|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.02|r seconds|n|n|cffFFFF80Cooldown: |cffFFFF0020 sec|r"
+Hotkey=V
 [W0KK]
 Name="v0BC Tower Aura"
 Tip="Glimmer of Hope"
@@ -12668,6 +13277,11 @@ Description="Used to create a tower"
 Name="v0BX On Tower Creation"
 Tip="Multiply Gold"
 Ubertip="This tower increases the gold income of the player by |cffFFFF805%|r."
+[W0LR]
+Name="v0BX Autocast"
+Tip="Golden Influence"
+Ubertip="This tower adds a buff to a tower in |cffFFFF80400|r range that lasts |cffFFFF8010|r seconds. The buff increases bounty gain by |cffFFFF8040%|r. Everytime this spell is cast you gain |cffFFFF805|r gold.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4|r seconds duration |r|n|cffFFFF80+0.6%|r bounty gain|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00400|r"
+Hotkey=V
 ##Buffs
 [R03N]
 Bufftip=Golden
@@ -12692,6 +13306,11 @@ Description="Used to create a tower"
 Name="v0G3 On Tower Creation"
 Tip="Multiply Gold"
 Ubertip="This tower increases the gold income of the player by |cffFFFF8010%|r."
+[W0UI]
+Name="v0G3 Autocast"
+Tip="Golden Influence"
+Ubertip="This tower adds a buff to a tower in |cffFFFF80400|r range that lasts |cffFFFF8012|r seconds. The buff increases bounty gain by |cffFFFF8060%|r. Everytime this spell is cast you gain |cffFFFF807|r gold.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4|r seconds duration |r|n|cffFFFF80+0.6%|r bounty gain|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00400|r"
+Hotkey=V
 
 ##Tower
 [v0BY]
@@ -12715,6 +13334,11 @@ Ubertip="|cffFFFF00+2 |rmana/lvl|n"
 Name="v0BY On Spell Target"
 Tip="Channel Energy"
 Ubertip="Whenever this tower is hit by a friendly spell, the caster of that spell will be granted |cffFFFF801|r experience and this tower will gain |cffFFFF8015%|r bonus damage for |cffFFFF8010|r seconds. This effect stacks up to |cffFFFF8015|r times, but new stacks will not refresh the duration of olds ones.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r damage |n|cffFFFF80+0.1|r seconds duration"
+[W0LV]
+Name="v0BY Autocast"
+Tip="Extract Experience"
+Ubertip="Casts a buff on a creep. Towers that damage this creep have a |cffFFFF8033%|r chance to extract |cffFFFF801|r experience. Buff lasts |cffFFFF8010|r seconds or until |cffFFFF8010|r extractions occur.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.05|r experience|n|cffFFFF80+1|r extraction|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 ##Buffs
 [R03O]
 Bufftip=Extract Experience
@@ -12747,6 +13371,11 @@ Ubertip="|cffFFFF00+2 |rmana/lvl|n"
 Name="v0HT On Spell Target"
 Tip="Channel Energy"
 Ubertip="Whenever this tower is hit by a friendly spell, the caster of that spell will be granted |cffFFFF802|r experience and this tower will gain |cffFFFF8020%|r bonus damage for |cffFFFF8012|r seconds. This effect stacks up to |cffFFFF8015|r times, but new stacks will not refresh the duration of olds ones.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r damage |n|cffFFFF80+0.1|r seconds duration"
+[W0ZO]
+Name="v0HT Autocast"
+Tip="Extract Experience"
+Ubertip="Casts a buff on a creep. Towers that damage this creep have a |cffFFFF8033%|r chance to extract |cffFFFF802|r experience. Buff lasts |cffFFFF8010|r seconds or until |cffFFFF8010|r extractions occur.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1|r experience|n|cffFFFF80+1|r extraction|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 
 ##Tower
 [v0BZ]
@@ -12766,6 +13395,11 @@ Description="Used to create a tower"
 Name="v0BZ abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+0.04 |rmana regen/lvl|n"
+[W0LZ]
+Name="v0BZ Autocast"
+Tip="Charge"
+Ubertip="Applies a buff to target tower which lasts |cffFFFF8010|r seconds, it increases the attack speed of the tower by |cffFFFF8025%|r. Every second this buff will grant an additional |cffFFFF805%|r bonus attackspeed.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r base attackspeed|n|cffFFFF80+0.1%|r bonus attackspeed|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 [W0M0]
 Name="v0BZ On Attack"
 Tip="Electric Field"
@@ -12850,6 +13484,11 @@ Description="Used to create a tower"
 Name="v0C4 abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+5 |rmana/lvl|n|cffFFFF00+0.1 |rmana regen/lvl|n"
+[W0MC]
+Name="v0C4 Autocast"
+Tip="Burning Mark"
+Ubertip="This tower adds a buff to a tower in |cffFFFF80500|r range that lasts |cffFFFF8010|r seconds. The buff increases the multicrit count by |cffFFFF801|r,  the crit chance by |cffFFFF807.5%|r and the attack speed by |cffFFFF8025%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4|r seconds duration |r|n|cffFFFF80+0.6%|r attackspeed |r|n|cffFFFF80+0.2%|r crit chance|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R03S]
 Bufftip=Burning Mark
@@ -12932,6 +13571,16 @@ Ubertip="|cffFFFF00+500 |rmana/lvl|n"
 Name="v0CP Tower Aura"
 Tip="Cloud of Absorption"
 Ubertip="Creates a lightning ball if a creep in |cFFFFFF801000|r range is killed with more damage than needed. The lighting ball absorbs the redundant damage and transfers it to this temple. Every |cFFFFFF801|r damage absorbed grants |cFFFFFF801|r mana.|n|n|cffFF8000Level Bonus:|r|n|cFFFFFF80+0.05|r mana per absorbed damage"
+[W0NH]
+Name="v0CP Autocast"
+Tip="Cloudy Thunderstorm"
+Ubertip="Summons a cloudy thunderstorm, which strikes random creeps in |cffFFFF801000|r range every |cffFFFF800.4|r seconds with lightning. Each strike deals |cffFFFF80[Current Mana x 0.5]|r spell damage and costs mana based on the target's size and the damage dealt. The storm ends when this tower's mana falls below |cffFFFF801000|r, or no creep comes within range for |cffFFFF804|r seconds.|nThis ability will activate automatically when this tower's mana reaches a set threshold, as determined by the 'Adjust Autocast Threshold' ability. The autocast cannot be disabled.|n|n|cffFF8000Level Bonus:|r|n|cFFFFFF80+0.02|r damage per current mana|n|n|cffFFFF80Cooldown: |cffFFFF000.01 sec|r"
+Hotkey=V
+[W0NI]
+Name="v0CP Autocast"
+Tip="Adjust Autocast Threshold"
+Ubertip="Use this ability to adjust the percentual mana required for Cloudy Thunderstorm's autocast.|n|n|cffFFFF80Cooldown: |cffFFFF000.01 sec|r"
+Hotkey=C
 ##Buffs
 [R03W]
 Bufftip=Cloud of Obsorption
@@ -12960,6 +13609,11 @@ Ubertip="|cffCCFF00Splash attack:|n   |cffFFFF00325|r AoE: |cffFFFF0050%|r damag
 Name="v0CQ On Damage"
 Tip="Torture"
 Ubertip="Targets damaged by this tower are debuffed for |cffffff802.5|r seconds. Whenever a debuffed creep is dealt at least |cffffff80500|r attackdamage it receives an additional |cffffff808%|r of that damage as spell damage. This ability cannot crit. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+0.05|r seconds duration|n|cffffff80+0.1%|r damage as spell damage"
+[W0NM]
+Name="v0CQ Autocast"
+Tip="Attraction"
+Ubertip="This tower buffs |cffffff804|r towers in |cffffff80500|r range and gives them a |cffffff8035%|r attackspeed adjusted chance on attack to release a meteor dealing |cffffff80200|r spell damage, or a |cffffff80100%|r chance to release a meteor on spell cast dealing |cffffff80500|r spell damage. The Meteors fly towards a random target in |cffffff801000|r range and deal damage in |cffffff80220|r AoE around the main target. The buff lasts until a meteor is released. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+1|r tower buffed every |cffffff805|r levels |n|cffffff80+8|r spell damage on attack |n|cffffff80+20|r spell damage on cast|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R03X]
 Bufftip=Attraction
@@ -13046,6 +13700,11 @@ Ubertip="|cffFFFF00+50 |rmana/lvl|n|cffFFFF00+1 |rmana regen/lvl|n"
 Name="v0DE Header"
 Tip="Energetic Weapon"
 Ubertip="The Accelerator attacks with energetic missiles, which deal |cffFFFF80500|r plus |cffFFFF803|r times the current mana as spell damage to all units in |cffFFFF80250|r range of the missile. Additionally, the missile slows all units by |cffFFFF801%|r for each |cffFFFF804000|r damage it deals to a creep for |cffFFFF801.5|r seconds. Cannot slow by more than |cffFFFF8020%|r. Each attack consumes |cffFFFF8020%|r of this tower's current mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+25|r spell damage|n|cffFFFF80+5%|r mana converted to damage|n|cffFFFF80+0.04|r seconds slow duration"
+[W0P4]
+Name="v0DE Autocast"
+Tip="Energy Absorb"
+Ubertip="Decreases the attackspeed of all towers in |cffFFFF801000|r range by |cffFFFF8010%|r. Increases the mana regeneration of the Accelerator by |cffFFFF802|r mana per second for each weakened tower. Both effects last |cffFFFF808|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-0.1%|r attackspeed weakening|n|cffFFFF80+0.04|r mana per second|n|n|cffFFFF80Cooldown: |cffFFFF0040 sec|r"
+Hotkey=V
 ##Buffs
 [R040]
 Bufftip=Weakened
@@ -13082,6 +13741,11 @@ Ubertip="|cffFFFF00+100 |rmana/lvl|n|cffFFFF00+3 |rmana regen/lvl|n"
 Name="v0J6 Header"
 Tip="Energetic Weapon"
 Ubertip="The Accelerator attacks with energetic missiles, which deal |cffFFFF801000|r plus |cffFFFF803|r times the current mana as spell damage to all units in |cffFFFF80250|r range of the missile. Additionally, the missile slows all units by |cffFFFF801%|r for each |cffFFFF804000|r damage it deals to a creep for |cffFFFF801.5|r seconds. Cannot slow by more than |cffFFFF8020%|r. Each attack consumes |cffFFFF8020%|r of this tower ' s current mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+50|r spell damage|n|cffFFFF80+5%|r mana converted to damage|n|cffFFFF80+0.04|r seconds slow duration"
+[W150]
+Name="v0J6 Autocast"
+Tip="Energy Absorb"
+Ubertip="Decreases the attackspeed of all towers in |cffFFFF801000|r range by |cffFFFF8010%|r. Increases the mana regeneration of the Accelerator by |cffFFFF802|r mana per second for each weakened tower. Both effects last |cffFFFF808|r seconds|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-0.1%|r attackspeed weakening|n|cffFFFF80+0.04|r mana per second|n|n|cffFFFF80Cooldown: |cffFFFF0040 sec|r"
+Hotkey=V
 
 ##Tower
 [v0DR]
@@ -13353,6 +14017,11 @@ Description="Used to create a tower"
 Name="v0F2 Header"
 Tip="Shamanic Totem"
 Ubertip="Upon casting Demonic Fire there is a |cffFFFF8030%|r chance to buff towers in |cffFFFF80500|r range, increasing their spell damage dealt by |cffFFFF8010%|r for |cffFFFF805|r seconds and restoring |cffFFFF807.5%|r of their max mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r spell damage|n|cffFFFF80+0.3%|r max mana|n|cffFFFF80+0.2|r seconds duration|n|cffFFFF80+0.4%|r trigger chance"
+[W0RX]
+Name="v0F2 Autocast"
+Tip="Demonic Fire"
+Ubertip="Places a buff on a creep for |cffFFFF807|r seconds. When a tower damages the buffed creep, there is a |cffFFFF8020%|r chance to permanently increase the damage it takes from fire towers by |cffFFFF803%|r (|cffFFFF801%|r for bosses).  |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.08%|r damage from fire (on non boss)|n|cffFFFF80+0.04%|r damage from fire (on bosses)|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 [W0RY]
 Name="v0F2 On Attack"
 Tip="Fighter Totem"
@@ -13392,6 +14061,11 @@ Ubertip="|cffFFFF00+5 |rmana/lvl|n"
 Name="v0F8 On Damage"
 Tip="Electrified Attack"
 Ubertip="Zeus's attacks deal an additional |cffFFFF80500|r spelldamage in |cffFFFF80175|r AoE around their target. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+20|r spelldamage"
+[W0SC]
+Name="v0F8 Autocast"
+Tip="Thunderstorm"
+Ubertip="Zeus releases a mighty thunderstorm, this thunder storm strikes creeps in |cffFFFF801000|r range for |cffFFFF802500|r spelldamage and stuns them for |cffFFFF800.5|r seconds (|cffFFFF8020%|r chance on bosses). There is a maximum of |cffFFFF8020|r lightning strikes.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+125|r damage|n|cffFFFF80+1|r lightning strike per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r"
+Hotkey=V
 [W0SD]
 Name="v0F8 On Kill"
 Tip="Divine Hammer"
@@ -13657,6 +14331,11 @@ Ubertip="|cffFFFF00+5% |rmana/lvl|n|cffFFFF00+5% |rmana regen/lvl|n"
 Name="v0G4 On Damage"
 Tip="Dreadlord Slash"
 Ubertip="Dreadlord deals |cffFFFF80100%|r of his max mana in spell damage on attack. Costs |cffFFFF8080|r mana on each attack.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+4%|r spell damage"
+[W0UM]
+Name="v0G4 Autocast"
+Tip="Dreadlord ' s Awakening"
+Ubertip="When activated, Dreadlord empowers himself with darkness for |cffFFFF8010|r seconds, increasing own attack speed by |cffFFFF8050%|r and mana regeneration by |cffFFFF8020|r per second.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attack speed|n|cffFFFF80+0.8|r mana per second|n|n|cffFFFF80Cooldown: |cffFFFF0080 sec|r"
+Hotkey=V
 [W0UN]
 Name="v0G4 On Kill"
 Tip="Bloodsucker"
@@ -13684,6 +14363,11 @@ Description="Used to create a tower"
 Name="v0G8 abils"
 Tip="Specials"
 Ubertip="|cffFF0000Attacks AIR only|r|n|cffFFFF00+10% |rdmg to air|n"
+[W0UV]
+Name="v0G8 Autocast"
+Tip="Freezing Gust"
+Ubertip="Casts a buff on a tower in |cffffff80800|r range, doubling the effect of 'Gust' and increasing that tower's damage against air units by |cffffff8010%|r for |cffffff805|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+0.05|r seconds duration|n|cffffff80+0.8%|r damage against air|n|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=V
 [W0UW]
 Name="v0G8 Tower Aura"
 Tip="Gust"
@@ -13716,6 +14400,11 @@ Description="Used to create a tower"
 Name="v0G9 Header"
 Tip="Shadowbolt Wave"
 Ubertip="Every autocast of this tower has a |cffffff8020%|r chance to release |cffffff8010|r shadowbolts. Every shadowbolt flies towards a random target in |cffffff801000|r range and deals |cffffff801050|r spell damage. This Spell has a |cffffff8040%|r chance to trigger if the last autocast released a shadowboltwave.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+21|r spell damage"
+[W0V0]
+Name="v0G9 Autocast"
+Tip="Siphon Essence"
+Ubertip="Casts a buff on a nearby tower, if that tower tries to attack in the next |cffffff805|r seconds it will be stunned for |cffffff802.5|r seconds and this tower will deal |cffffff80[stunned tower's DPS x 3]|r as essence damage to the target of the buffed tower. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-0.02|r seconds stun duration|n|n|cffFFFF80Cooldown: |cffFFFF002.5 sec|r|n|cffFFFF80Range: |cffFFFF00400|r"
+Hotkey=V
 ##Buffs
 [R04Y]
 Bufftip=Dark Surge
@@ -13744,6 +14433,11 @@ Ubertip="Every autocast of this tower has a |cffffff8020%|r chance to release |c
 Name="v0JH Tower Aura"
 Tip="Slow Decay"
 Ubertip="Non Boss units in |cffffff80750|r range around the Eredar Diabolist with less then |cffffff805.5%|r of their healthpoints will be killed.|n|n|cffFF8000Level Bonus:|r|n|cffffff80+0.06%|r healthpoints needed for instantkill"
+[W15Q]
+Name="v0JH Autocast"
+Tip="Siphon Essence"
+Ubertip="Casts a buff on a nearby tower, if that tower tries to attack in the next |cffffff805|r seconds it will be stunned for |cffffff802.5|r seconds and this tower will deal |cffffff80[stunned tower's DPS x 3]|r as essence damage to the target of the buffed tower. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-0.02|r seconds stun duration|n|n|cffFFFF80Cooldown: |cffFFFF001.5 sec|r|n|cffFFFF80Range: |cffFFFF00400|r"
+Hotkey=V
 ##Buffs
 [R07L]
 Bufftip=Slow Decay
@@ -13768,6 +14462,11 @@ Description="Used to create a tower"
 Name="v0GC On Damage"
 Tip="Leaf Storm"
 Ubertip="Each time this tower attacks it has a |cffFFFF8015%|r chance to summon a |cffFFFF80200|r AoE leaf storm at the target's position, slowing enemy units inside by |cffFFFF8030%|r for |cffFFFF801|r second and dealing |cffFFFF802100|r spell damage over time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance|n|cffFFFF80+90|r spell damage|n|cffFFFF80+0.6%|r slow|n|cffFFFF80+0.04|r seconds slow duration"
+[W0V8]
+Name="v0GC Autocast"
+Tip="Entangling Roots"
+Ubertip="Launches |cffFFFF803|r rows of roots towards the target which will travel a distance of |cffFFFF801000|r, entangling creeps hit for |cffFFFF801.5|r seconds, causing them to become immobilized and take |cffFFFF801100|r spell damage per second.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+44|r spell damage|n|cffFFFF80+0.02|r seconds|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00950|r"
+Hotkey=V
 [W0V9]
 Name="v0GC On Unit Comes In Range"
 Tip="Thorned!"
@@ -13852,6 +14551,11 @@ Description="Used to create a tower"
 Name="v0GQ On Damage"
 Tip="Maledict"
 Ubertip="Whenever this tower damages a unit, it has a |cffFFFF8020%|r chance to increase the damage that unit receives from spells by |cffFFFF8020%|r for |cffFFFF805|r seconds. Every time the buffed unit is targeted by a spell this tower deals additional spell damage equal to |cffFFFF803|r times the caster goldcost to it. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance |n|cffFFFF80+0.6%|r spell damage received"
+[W0W7]
+Name="v0GQ Autocast"
+Tip="Impenetrable Darkness"
+Ubertip="Shrouds an enemy in darkness, slowing it by |cffFFFF8040%|r for |cffFFFF805|r seconds and reducing the damage it takes from attacks by |cffFFFF8095%|r. The affected unit takes |cffFFFF801000|r spell damage per second and additional spell damage equal to |cffFFFF8075%|r of the damage it received during the effect when the buff expires. This damage can't be a critical hit. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+40|r damage per second |n|cffFFFF80+1%|r damage on expire |n|cffFFFF80+0.8%|r slow|n|n|cffFFFF80Cooldown: |cffFFFF008 sec|r|n|cffFFFF80Range: |cffFFFF00850|r"
+Hotkey=V
 [W0W8]
 Name="v0GQ Tower Aura"
 Tip="Demonic Edict"
@@ -13888,6 +14592,11 @@ Description="Used to create a tower"
 Name="v0GV On Damage"
 Tip="Overload"
 Ubertip="On attack this tower deals |cffFFFF80[distance to the target x 12]|r energy damage, modified by its attack damage and slows the target for |cffFFFF801.5|r seconds. The further away the target is, the more it will be slowed down. The maximum slow of |cffFFFF8030%|r can only be reached, if the target has the maximum distance to the tower."
+[W0WL]
+Name="v0GV Autocast"
+Tip="Magnetic Surge"
+Ubertip="This tower creates a magnetic surge at its target's current location. The creep will suffer spell damage equal to |cffffff804|r times the distance to the spot where the surge was created every |cffFFFF800.4|r seconds. This effect lasts |cffFFFF804|r seconds. |n|n|cffFF8000Level Bonus:|r|n |cffFFFF80+2%|r spell damage |n|cffffff80+0.1|r seconds duration|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 [W0WM]
 Name="v0GV Tower Aura"
 Tip="Energetic Field"
@@ -13987,6 +14696,11 @@ Description="Used to create a tower"
 Name="v0H1 abils"
 Tip="Specials"
 Ubertip="|cffFFFF00+50% |rdmg to nature|n|cffFFFF00+50% |rdmg to orcs|n|cffFFFF00+50% |rdmg to humanoids|n"
+[W0X2]
+Name="v0H1 Autocast"
+Tip="Eden's Wrath"
+Ubertip="The garden uses half of the stored lifeforce to create a huge explosion, dealing |cffFFFF80[current spawn level x 15]|r spell damage in |cffFFFF801600|r AoE for each lifeforce stored.|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r"
+Hotkey=V
 [W0X3]
 Name="v0H1 On Kill"
 Tip="Essence of the Mortals"
@@ -14218,6 +14932,11 @@ Ubertip="|cffFF0000Attacks GROUND only|r|n|cffFFFF00+8% |rdamage/lvl|n"
 Name="v0HS Header"
 Tip="Mystical Storm Hammer"
 Ubertip="Whenever this tower damages a creep, part of the damage is dealt as spell damage and the rest as attack damage. The amount of spell damage depends on the magic resistance of the target. The higher the resistance, the smaller ratio of spell damage dealt. Deals no spell damage against immune creeps and deals no physical damage against banished creeps. If this ability deals all the damage in one type, it will have |cffFFFF805%|r increased critchance.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1.8%|r crit chance"
+[W0ZJ]
+Name="v0HS Autocast"
+Tip="Hammer Fall"
+Ubertip="Summons a hammer which falls from the sky. The hammer deals |cffFFFF8010000|r spell damage to all units in |cffFFFF80600|r AoE and stuns them for |cffFFFF801|r second. Each of the player's |cFF8080FFstorm|r tower in |cffFFFF802500|r range loses |cffFFFF8010%|r attack damage for |cffFFFF806|r seconds but increases the spell damage of the Hammer by |cffFFFF805%|r. Can gain a maximum of |cffFFFF80100%|r bonus damage.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r damage from towers|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 [W0ZK]
 Name="v0HS On Attack"
 Tip="Storm Bolt"
@@ -14286,6 +15005,21 @@ Description="Used to create a tower"
 Name="v0HV On Damage"
 Tip="Morphling Strike"
 Ubertip="Every time this tower damages a unit, it has a |cffFFFF8020%|r chance to launch |cffFFFF803|r projectiles to random creeps in |cffFFFF80900|r range, dealing |cffFFFF802000|r spell damage to them. On impact, if 'Morph: Might' has at least |cffFFFF8025|r stacks, the projectiles deal additional spell damage equal to |cffFFFF8025%|r of the tower's damage per second for |cffFFFF805|r seconds; if 'Morph: Swiftness' has at least |cffFFFF8025|r stacks, they slow the targets by |cffFFFF8020%|r and increase the damage they receive from nature by |cffFFFF8015%|r for |cffFFFF808|r seconds. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+60|r damage |r|n|cffFFFF80+0.8%|r damage per second |r|n|cffFFFF80+0.4%|r slow |r|n|cffFFFF80+0.2%|r damage from nature |r|n|cffFFFF80+0.6%|r chance"
+[W0ZX]
+Name="v0HV Autocast"
+Tip="Morph: Might"
+Ubertip="Activates 'Morph: Might'. As long as this buff is on this tower gains |cffFFFF802%|r base damage and loses |cffFFFF802%|r attack speed on every attack, up to a maximum of |cffFFFF8050|r times. Removes 'Morph: Swiftness' and resets its bonus when activated.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=V
+[W0ZY]
+Name="v0HV Autocast"
+Tip="Morph: Swiftness"
+Ubertip="Activates 'Morph: Swiftness'. As long as this buff is on this tower gains |cffFFFF802%|r attack speed and loses |cffFFFF802%|r base damage on every attack, up to a maximum of |cffFFFF8050|r times. Removes 'Morph: Might' and resets its bonus when activated.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=C
+[W0ZZ]
+Name="v0HV Autocast"
+Tip="Adapt"
+Ubertip="Stops the effect of morphs, leaving the current buff on the tower. Using the spell again removes Adapt.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r"
+Hotkey=X
 [W100]
 Name="v0HV On Attack"
 Tip="Evolve"
@@ -14357,6 +15091,11 @@ Tip="Buy Planar Gate"
 Ubertip="|cff9BA0D0A gate to the astral plane, glowing figures can be seen flying around on the other side.|n|n|cffFFFF80Author:|r |cff87cefaMajildian|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001429|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00700|r range|n|cffFFFF80Mana: |cffFFFF001200|r (+|cffFFFF0012|r/s)|r|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
+[W10B]
+Name="v0HY Autocast"
+Tip="Astral Eruption"
+Ubertip="Releases a huge wave of astral power through the gate, weakening the boundary between the planes.|nThis empowers all currently alive falcons and any that are created during the next |cffFFFF806|r seconds, allowing them to deal double damage and partially shift their targets into the astral plane, increasing the damage they take from astral towers by |cffFFFF801%|r of the falcon's current damage ratio.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.18|r seconds|n|n|cffFFFF80Cooldown: |cffFFFF0035 sec|r"
+Hotkey=V
 [W10C]
 Name="v0HY On Attack"
 Tip="Planeshift"
@@ -14395,6 +15134,11 @@ Ubertip="After casting Mystical Trance the Mushroom's next attack will deal |cff
 Name="v0I4 Periodic"
 Tip="Rapid Growth"
 Ubertip="Every |cffFFFF8020|r seconds the Mushroom has a |cffFFFF8040%|r chance to grow, permanently gaining |cffFFFF803%|r bonus spell damage. Maximum of |cffFFFF8040|r succesful growths.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80-0.4|r seconds|n|cffFFFF80+0.12%|r bonus spell damage"
+[W10R]
+Name="v0I4 Autocast"
+Tip="Mystical Trance"
+Ubertip="Buffs a tower in |cffFFFF80500|r range, increasing its spell damage and trigger chances by |cffFFFF8025%|r. Lasts |cffFFFF805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2|r sec duration|n|cffFFFF80+1%|r spell damage|n|cffFFFF80+1%|r trigger chances|n|n|cffFFFF80Cooldown: |cffFFFF002 sec|r|n|cffFFFF80Range: |cffFFFF00500|r"
+Hotkey=V
 ##Buffs
 [R06C]
 Bufftip=Magic Spores
@@ -14507,6 +15251,11 @@ Description="Used to create a tower"
 Name="v0IE abils"
 Tip="Specials"
 Ubertip="|cffCCFF00Bounce attack:|n   |cffFFFF003|r targets|n   |cffFFFF00-70%|r damage per bounce|n|cffFFFF00+25 |rmana/lvl|n"
+[W11H]
+Name="v0IE Autocast"
+Tip="Energy Conversion"
+Ubertip="Spawns |cffFFFF803|r orbs that last |cffFFFF8012|r seconds flying around the Converter. Each orb deals  |cffFFFF801500|r damage per second to random units in |cffFFFF80650|r range.|nAdditionally, the orbs have a |cffFFFF8025%|r chance every second to cast a chainlightining that deals |cffFFFF801500|r initial damage and hits up to |cffFFFF804|r targets dealing |cffFFFF8025%|r less damage with each bounce.|nUnits hit by the chainlightning are stunned for |cffFFFF800.8|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+75|r orb damage|n|cffFFFF80+1|r orb spawned per |cffFFFF805|r levels|n|n|cffFFFF80Cooldown: |cffFFFF0012 sec|r"
+Hotkey=V
 
 ##Tower
 [v0IG]
@@ -14530,6 +15279,11 @@ Ubertip="|cffCCFF00Splash attack:|n   |cffFFFF0075|r AoE: |cff00FF00100%|r damag
 Name="v0IG Header"
 Tip="Grapple"
 Ubertip="Each time the bot attacks there is an |cffFFFF808%|r it will grab the target, holding it in place for |cffFFFF802.5|r seconds. The duration is reduced to |cffFFFF800.9|r seconds for champions and bosses.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.32%|r chance"
+[W11N]
+Name="v0IG Autocast"
+Tip="Shock"
+Ubertip="Slams all creeps in |cffFFFF80250|r AoE around the target, dealing |cffFFFF801250|r spell damage and stunning for |cffFFFF802|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+185|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0015 sec|r|n|cffFFFF80Range: |cffFFFF00900|r"
+Hotkey=V
 ##Buffs
 [R06J]
 Bufftip=Grappled
@@ -14675,6 +15429,11 @@ Ubertip="Whenever this tower damages a creep, it has a |cffFFFF8020%|r chance to
 Name="v0IM On Damage"
 Tip="Overcharge"
 Ubertip="Whenever this tower deals damage with its attacks or its other innate abilities it has a |cffFFFF8025%|r chance to deal |cffFFFF80900|r spell damage to the damaged unit. Overcharge can trigger itself, but the chance to do so is decreased by |cffFFFF805%|r for each time it retriggers.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+36|r spell damage|n|cffFFFF80+1%|r chance"
+[W12H]
+Name="v0IM Autocast"
+Tip="Lightmare"
+Ubertip="Summons a storm cloud which attacks units in |cffFFFF801500|r range. Every |cffFFFF800.33|r seconds the cloud attacks up to |cffFFFF803|r targets with forked lightning. Each lightning deals |cffFFFF801300|r spell damage. Lightmare lasts |cffFFFF8010|r seconds and does not benefit from buff duration.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+52|r spell damage|n|n|cffFFFF80Cooldown: |cffFFFF0010.5 sec|r"
+Hotkey=V
 [W12I]
 Name="v0IM On Attack"
 Tip="I Scale"
@@ -14699,6 +15458,11 @@ Tip="Buy Dimensional Flux Collector"
 Ubertip="|cff9BA0D0Has got a direct link to the fifth dimension.|n|n|cffFFFF80Author:|r DreamStrider|n|cffFFFF80Element: |cFF8080FFStorm|r|n|cffFFFF80Attack: |cffFFFF001|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00800|r range|n|n|cffFFFF80Aura Range:|r 2150.00|n|cffFFFF80Ability Range:|r 2000|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
+[W12T]
+Name="v0IQ Autocast"
+Tip="Dimensional Link"
+Ubertip="Creates a link between this tower and the target tower. This tower will now monitor any spell damage dealt by the linked tower to creeps within |cffFFFF802000|r range of this tower. If the linked tower is sold, replaced or upgraded the link will dissolve.|n|n|cffFFFF80Cooldown: |cffFFFF001 sec|r|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=V
 [W12U]
 Name="v0IQ Tower Aura"
 Tip="Dimensional Distortion Field"
@@ -14735,6 +15499,11 @@ Ubertip="|cffFFFF00+2 |rmana/lvl|n"
 Name="v0IR On Damage"
 Tip="Insatiable Hunger"
 Ubertip="On each attack, the death knight deals |cffFFFF800.25%|r bonus damage for each mana point he's currently missing and replenishes |cffFFFF801%|r of his maximum mana. He replenishes |cffFFFF805%|r of his maximum mana for each unit he kills. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.01%|r damage per mana point"
+[W12Z]
+Name="v0IR Autocast"
+Tip="Will of the Undying"
+Ubertip="The death knight decreases the base attack damage of all towers in |cffFFFF80200|r range by |cffFFFF8010%|r and loses |cffFFFF8050%|r of his remaining mana to increase his base damage by |cffFFFF8015%|r for each tower affected for |cffFFFF805|r seconds. Only towers that cost at least |cffFFFF801300|r gold are affected by this spell. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r damage absorbed|n|n|cffFFFF80Cooldown: |cffFFFF0010 sec|r"
+Hotkey=V
 [W130]
 Name="v0IR On Unit Comes In Range"
 Tip="Withering Presence"
@@ -14805,6 +15574,21 @@ Description="Used to create a tower"
 Name="v0IU Header"
 Tip="Magic Missile"
 Ubertip="Whenever this tower attacks it launches a magic missile in the target's direction. The missile hits all units in |cffFFFF80150|r AoE and deals |cffFFFF80100%|r of the tower's attack damage as spell damage to the hit units. The missile travels |cffFFFF801200|r units.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r spell damage"
+[W13D]
+Name="v0IU Autocast"
+Tip="Choose Modification"
+Ubertip="Cycle through the modifications:|nSlow: |cffFFFF808%|r for |cffFFFF805|r seconds, |cffFFFF80-20%|r dmg|nSilence: |cffFFFF805|r seconds, |cffFFFF8050%|r chance, |cffFFFF80-40%|r dmg|nHealth Regeneration: |cffFFFF80-10%|r for |cffFFFF805|r seconds, |cffFFFF80-25%|r dmg|nArmor: |cffFFFF80-6%|r for |cffFFFF805|r seconds, |cffFFFF80-25%|r dmg|nSpell Vulnerability: |cffFFFF8012%|r for |cffFFFF805|r seconds, |cffFFFF80-25%|r dmg|nAoE: |cffFFFF8050|r, |cffFFFF80-15%|r dmg|n"
+Hotkey=V
+[W13E]
+Name="v0IU Autocast"
+Tip="Add Modification"
+Ubertip="Adds the bonus to the missile if the tower has enough damage left.|n"
+Hotkey=C
+[W13F]
+Name="v0IU Autocast"
+Tip="Remove Modification"
+Ubertip="Removes the bonus to the missile and returns the damage used.|n"
+Hotkey=X
 ##Buffs
 [R06W]
 Bufftip=Slow
@@ -14913,6 +15697,11 @@ Description="Used to create a tower"
 Name="v0IZ Periodic"
 Tip="Future Knowledge"
 Ubertip="The Manipulator travels into the future to learn more and returns to where he left every |cffFFFF8010|r seconds, increasing his experience by |cffFFFF802|r. If he has |cffFFFF80700|r or more exp then he will exchange |cffFFFF8050|r experience for |cffFFFF805|r% extra spell damage. If the Manipulator is replaced by another tower, this process is reversed and all experience refunded."
+[W13Z]
+Name="v0IZ Autocast"
+Tip="Time Field"
+Ubertip="The Manipulator creates a field of time that inflicts future injuries upon creatures around him dealing |cffFFFF801500|r damage every second for |cffFFFF8010|r seconds. This ability benefits from the buff duration bonus of Time Twist. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+75|r damage|n|n|cffFFFF80Cooldown: |cffFFFF0030 sec|r"
+Hotkey=V
 [W140]
 Name="v0IZ Tower Aura"
 Tip="Time Twist"
@@ -15024,6 +15813,16 @@ Ubertip="|cffFFFF00+10 |rmana/lvl|n|cffFFFF00+5% |rmana regen/lvl|n"
 Name="v0J2 Header"
 Tip="Power Surge"
 Ubertip="Towers under the effect of Steam Power have a |cffFFFF801%|r base attackspeed adjusted chance to cause a surge in the Steam Engine, granting it |cffFFFF801|r exp.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.04|r exp"
+[W14E]
+Name="v0J2 Autocast"
+Tip="Speed Up"
+Ubertip="Increases the power level of the engine by |cffFFFF801|r. Maximum power level is |cffFFFF8050|r.|n|n|cffFFFF80Cooldown: |cffFFFF000.5 sec|r"
+Hotkey=V
+[W14F]
+Name="v0J2 Autocast"
+Tip="Speed Down"
+Ubertip="Decreases the power level of the engine by |cffFFFF801|r.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=C
 [W14G]
 Name="v0J2 Tower Aura"
 Tip="Steam Power"
@@ -15064,6 +15863,11 @@ Ubertip="When an enemy dies under the effect of Soulfire, Soulfire spreads to ne
 Name="v0J4 Tower Aura"
 Tip="Evil Device"
 Ubertip="Attack speed, trigger chances, spell damage, spell crit chance and spell crit damage bonuses on this tower are applied to |cffFFFFFFCommon|r and |cff0080FFUncommon|r |cFF8A5300Darkness|r towers in |cffffff80150|r range at a rate of |cffffff8050%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r stats"
+[W14M]
+Name="v0J4 Autocast"
+Tip="Awaken"
+Ubertip="Increases the attack speed of towers within |cffffff80500|r range by |cffffff8050%|r for |cffffff802|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r attack speed|n|n|cffFFFF80Cooldown: |cffFFFF004 sec|r"
+Hotkey=V
 ##Buffs
 [R079]
 Bufftip=Soulfire
@@ -15105,6 +15909,11 @@ Ubertip="Attack speed, trigger chances, spell damage, spell crit chance and spel
 Name="v0J5 Tower Aura"
 Tip="Feed the Flames"
 Ubertip="This tower fuels itself in various ways. Gains |cffffff801%|r of maximum mana on attack. Whenever Lingering Flame deals damage, there is a |cffffff8020%|r chance to gain |cffffff800.5%|r of maximum mana per stack. On kill, gains |cffffff804%|r of total mana and maximum mana is increased by |cffffff804|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance"
+[W14U]
+Name="v0J5 Autocast"
+Tip="Intense Heat"
+Ubertip="Expends all mana to unleash a wave of heat, dealing |cffffff80[Mana x 4]|r spell damage and applies Lingering Flame to all enemies in |cffffff801000|r range. Increases the attack and spell crit chance of nearby towers within |cffffff80500|r range by |cffffff80[Mana / 200]%|r for |cffffff805|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1|r spell damage per mana|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=V
 ##Buffs
 [R07C]
 Bufftip=Lingering Flame
@@ -15138,6 +15947,16 @@ Ubertip="|cffFFFF0010%|r spell crit chance (|cffFFFF00+0.5%|r/lvl)|n"
 Name="v0J7 Header"
 Tip="It Hunger"
 Ubertip="Every time an enemy creep is transported by Dark Ritual or killed by this tower, It permanently gains |cffFFFF800.1%|r spelldamage. There is a maximum of |cffFFFF80700%|r bonus spelldamage.|n|n|cffFF8000Level Bonus:|r|n |cffFFFF80+0.01%|r spelldamage"
+[W153]
+Name="v0J7 Autocast"
+Tip="Recreation Field"
+Ubertip="Set up Recreation Field at a chosen location. Field has |cffFFFF80250|r AoE and will punish creeps that walk over it at the wrong moment.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=V
+[W154]
+Name="v0J7 Autocast"
+Tip="Corruption Field"
+Ubertip="Set up Corruption Field at a chosen location. Field has |cffFFFF80250|r AoE and will punish creeps that walk over it at the wrong moment.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00800|r"
+Hotkey=C
 [W155]
 Name="v0J7 On Attack"
 Tip="Dark Ritual"
@@ -15161,6 +15980,11 @@ Description="Used to create a tower"
 Name="v0JA Header"
 Tip="Helicopter Zone"
 Ubertip="|cffFFFF803|r helicopters circle around the tower trying to stay within |cffFFFF801000|r range of it. If there are targets in front of a helicopter, it will attack them dealing the tower's attack damage as |cffC0C0C0Physical|r damage.|nHelicopters attack every |cffFFFF800.25|r seconds with a barrage of |cffFFFF803|r missiles spaced |cffFFFF80250|r range apart and exploding in |cffFFFF80140|r AoE. Damaged targets are slowed by |cffFFFF8050%|r and their armor is reduced by |cffFFFF8030%|r for |cffFFFF800.8|r seconds.|r|n|cffEE0000Is not affected by attack speed.|r|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r armor reduction"
+[W157]
+Name="v0JA Autocast"
+Tip="Targeted Run"
+Ubertip="Copter |cffFFFF801|r will teleport behind the target after a delay of |cffFFFF801|r second.|n|n|cffFFFF80Cooldown: |cffFFFF0015 sec|r|n|cffFFFF80Range: |cffFFFF001000|r"
+Hotkey=V
 [W158]
 Name="v0JA On Level Up"
 Tip="Special Training"
@@ -15202,6 +16026,11 @@ Ubertip="|cffFFFF005%|r spell crit chance (|cffFFFF00+0.5%|r/lvl)|n|cffFFFF00x1.
 Name="v0JE Tower Aura"
 Tip="Conduit"
 Ubertip="Attack speed, trigger chances, spell damage, spell crit chance and spell crit damage bonuses on this tower are applied to |cffFFFFFFCommon|r and |cff0080FFUncommon|r |cFF8080FFStorm|r towers in |cffffff80150|r range at a rate of |cffffff8050%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r stats"
+[W15G]
+Name="v0JE Autocast"
+Tip="Unleash"
+Ubertip="Unleashes built up energy, dealing |cffFFFF8010000|r spell damage to a single enemy and increasing the trigger chances of nearby towers within |cffFFFF80175|r range by |cffFFFF8025%|r for |cffFFFF803|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+200|r spell damage|n|cffFFFF80+1%|r trigger chance|n|n|cffFFFF80Cooldown: |cffFFFF000.5 sec|r|n|cffFFFF80Range: |cffFFFF001200|r"
+Hotkey=V
 ##Buffs
 [R07I]
 Bufftip=Conduit
@@ -15232,6 +16061,11 @@ Ubertip="|cffFFFF00+3% |rattackspeed/lvl|n|cffFFFF00+8% |rdamage/lvl|n"
 Name="v0JF On Damage"
 Tip="Purify"
 Ubertip="Whenever Vol ' jin deals damage he purges all buffs and debuffs from his target, increasing his damage dealt on that attack by |cffffff8012%|r for each purged effect. This ability has a |cffffff804|r second cooldown.|n|n|cffFF8000Level Bonus:|r|n|cffffff80-0.04|r seconds cooldown|n|cffffff80+0.16%|r damage per purged effect"
+[W15L]
+Name="v0JF Autocast"
+Tip="Maledict"
+Ubertip="Vol'jin jinxes all units in |cffffff80800|r range around him. Targets caught by the jinx are dealt |cffffff8015%|r of the damage they received as spell damage after |cffffff808|r seconds. Maledict stacks, with each stack adding |cffffff803.5%|r additional damage. If Maledict is purged it deals double damage. This ability is unaffected by Buff Duration. |n|n|cffFF8000Level Bonus:|r|n|cffffff80+0.14%|r damage per stack|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r"
+Hotkey=V
 [W15M]
 Name="v0JF On Attack"
 Tip="Serpent Ward"
@@ -15287,6 +16121,11 @@ Description="Used to create a tower"
 Name="v0JJ Header"
 Tip="Cannon"
 Ubertip="The dutchman attacks a random creep in |cffFFFF80800|r range. Dealing the tower's attack damage in |cffFFFF80250|r AoE around the target. Uses the tower's attackspeed."
+[W15Y]
+Name="v0JJ Autocast"
+Tip="Soul Storm"
+Ubertip="When this spell is activated |cffFFFF802|r souls will be released every |cffFFFF802|r seconds. When a soul collides with a creep it deals |cffFFFF8014000|r spell damage. When a soul has damaged a creep the soul's damage is reduced by |cffFFFF8050%|r.|n|n|cffFFFF80Cooldown: |cffFFFF005 sec|r|n|cffFFFF80Range: |cffFFFF00600|r"
+Hotkey=V
 [W15Z]
 Name="v0JJ On Kill"
 Tip="Panic"

@@ -12,9 +12,9 @@ class unit:
     text = None
     path = None
 
-    def print(self, file):
+    def print(self, ofile):
         for line in self.text:
-            print(line, file=file)
+            print(line, file=ofile)
 
 
 class unit_txt:
@@ -133,7 +133,7 @@ class map:
             self.unit_dict[i].func = func_dict[i]
 
     def parse_slk(self, path):
-        with open(path, 'r') as ifile:
+        with open(path, 'r', encoding='utf8') as ifile:
             lines = ifile.readlines()
             lines = [x.strip() for x in lines if x.strip()]
         lines = [x.strip() for x in lines if x.strip()]

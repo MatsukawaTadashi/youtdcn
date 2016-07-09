@@ -8,7 +8,8 @@ parser = argparse.ArgumentParser()
 parser.add_argument('-b','--base',type=str,required=True,help='The directory to the map.')
 parser.add_argument('-o','--output',type=str,help='The output file')
 args = parser.parse_args()
-
+#args.base = '../en_map'
+#args.output = 'en.txt'
 ytd = map(args.base)
 
 # 1. get towers from slk
