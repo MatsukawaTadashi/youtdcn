@@ -5812,8 +5812,8 @@ Description="|cff9BA0D0沉归沉，揍起来真狠.|n|n|cffFFFF80等级:|r 40|n|
 Name="|cffFFFFFF电磁炮|r"
 Hotkey=K
 Tip="|cffFFFFFF电磁炮|r"
-Ubertip="|cff9BA0D0被这把枪打到相当于一记重拳。|n|n|cffFFFF80等级:|r 79|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+60% |r伤害对人类|n|cffFFFF00+20% |r攻击力"
-Description="|cff9BA0D0被这把枪打到相当于一记重拳。|n|n|cffFFFF80等级:|r 79|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+60% |r伤害对人类|n|cffFFFF00+20% |r攻击力"
+Ubertip="|cff9BA0D0被这把枪打到的后果相当严重。|n|n|cffFFFF80等级:|r 79|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+60% |r伤害对人类|n|cffFFFF00+20% |r攻击力"
+Description="|cff9BA0D0被这把枪打到的后果相当严重。|n|n|cffFFFF80等级:|r 79|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+60% |r伤害对人类|n|cffFFFF00+20% |r攻击力"
 [Q0OD]
 Name="|cffFFFFFF矿灯|r"
 Hotkey=K
