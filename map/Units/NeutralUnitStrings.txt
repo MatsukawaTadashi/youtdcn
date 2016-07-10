@@ -511,19 +511,19 @@ Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss none"
 [cR2I]
-Name="女巫"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss large"
 [cR2J]
-Name="女巫"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss divine"
 [cR2G]
-Name="女巫"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss none"
 [cR2H]
-Name="女巫"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss small"
 [cR2E]
@@ -531,7 +531,7 @@ Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss divine"
 [cR2F]
-Name="女巫"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss medium"
 [cR2C]
