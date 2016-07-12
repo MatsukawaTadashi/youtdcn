@@ -4774,8 +4774,8 @@ Description="|cff9BA0D0背包里有着野外求生必备的物资。|n|n|cffFFFF
 Name="|cffFFFF00分享知识|r"
 Hotkey=K
 Tip="|cffFFFF00分享知识|r"
-Ubertip="|cff9BA0D0把你的知识分享给其他人!|n|n|cffFFFF80等级:|r 11|n|cffFFFF80作者:|r SternBogen|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分享知识|r|n每隔 |cffFFFF8015|r 秒，携带塔将损失|cffFFFF8010|r 点经验。为它 |cffFFFF80400|r 范围内的其他塔提供|cffFFFF808|r 点经验，由5最多个塔均分，每个受到影响的塔会额外获得 |cffFFFF80+1|r 经验。携带塔必须达到 |cffFFFF802|r 级才可以生效。这个效果不受经验获取率影响。"
-Description="|cff9BA0D0把你的知识分享给其他人!|n|n|cffFFFF80等级:|r 11|n|cffFFFF80作者:|r SternBogen|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分享知识|r|n每隔 |cffFFFF8015|r 秒，携带塔将损失|cffFFFF8010|r 点经验。为它 |cffFFFF80400|r 范围内的其他塔提供|cffFFFF808|r 点经验，由5最多个塔均分，每个受到影响的塔会额外获得 |cffFFFF80+1|r 经验。携带塔必须达到 |cffFFFF802|r 级才可以生效。这个效果不受经验获取率影响。"
+Ubertip="|cff9BA0D0把你的知识分享给其他人!|n|n|cffFFFF80等级:|r 11|n|cffFFFF80作者:|r SternBogen|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分享知识|r|n每 |cffFFFF8015|r 秒，携带塔将损失|cffFFFF8010|r 点经验。为它 |cffFFFF80400|r 范围内的其他塔提供|cffFFFF808|r 点经验，由5最多个塔均分，每个受到影响的塔会额外获得 |cffFFFF80+1|r 经验。携带塔必须达到 |cffFFFF802|r 级才可以生效。这个效果不受经验获取率影响。"
+Description="|cff9BA0D0把你的知识分享给其他人!|n|n|cffFFFF80等级:|r 11|n|cffFFFF80作者:|r SternBogen|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分享知识|r|n每 |cffFFFF8015|r 秒，携带塔将损失|cffFFFF8010|r 点经验。为它 |cffFFFF80400|r 范围内的其他塔提供|cffFFFF808|r 点经验，由5最多个塔均分，每个受到影响的塔会额外获得 |cffFFFF80+1|r 经验。携带塔必须达到 |cffFFFF802|r 级才可以生效。这个效果不受经验获取率影响。"
 [Q0LG]
 Name="|cffFFFF00野马杖|r"
 Hotkey=K
@@ -4960,8 +4960,8 @@ Description="|cff9BA0D0让身体变得灵活，头脑充满智慧。|n|n|cffFFFF
 Name="|cffFF00BF麻痹陷阱|r"
 Hotkey=K
 Tip="|cffFF00BF麻痹陷阱|r"
-Ubertip="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
-Description="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
+Ubertip="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启动陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
+Description="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启动陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
 [Q0KH]
 Name="|cffFFFFFF腐旧魔法书|r"
 Hotkey=K
@@ -5434,8 +5434,8 @@ Description="|cff9BA0D0这只球里束缚着一位恶魔，其中暗藏着无比
 Name="|cffFFFF00毁灭之拳|r"
 Hotkey=K
 Tip="|cffFFFF00毁灭之拳|r"
-Ubertip="|cff9BA0D0拳套里蕴藏着无比强大的恶魔力量，但是想要使用的话需要付出极大的代价。|n|n|cffFFFF80等级:|r 19|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+40% |r攻击力|n|cffFFFF00+40% |r法术伤害|n|n|cffCCFF00血债血偿|r|n每隔 |cffFFFF8010|r 秒 携带塔损失 |cffFFFF802|r 经验。"
-Description="|cff9BA0D0拳套里蕴藏着无比强大的恶魔力量，但是想要使用的话需要付出极大的代价。|n|n|cffFFFF80等级:|r 19|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+40% |r攻击力|n|cffFFFF00+40% |r法术伤害|n|n|cffCCFF00血债血偿|r|n每隔 |cffFFFF8010|r 秒 携带塔损失 |cffFFFF802|r 经验。"
+Ubertip="|cff9BA0D0拳套里蕴藏着无比强大的恶魔力量，但是想要使用的话需要付出极大的代价。|n|n|cffFFFF80等级:|r 19|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+40% |r攻击力|n|cffFFFF00+40% |r法术伤害|n|n|cffCCFF00血债血偿|r|n每 |cffFFFF8010|r 秒，携带塔损失 |cffFFFF802|r 经验。"
+Description="|cff9BA0D0拳套里蕴藏着无比强大的恶魔力量，但是想要使用的话需要付出极大的代价。|n|n|cffFFFF80等级:|r 19|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+40% |r攻击力|n|cffFFFF00+40% |r法术伤害|n|n|cffCCFF00血债血偿|r|n每 |cffFFFF8010|r 秒，携带塔损失 |cffFFFF802|r 经验。"
 [Q0MI]
 Name="|cff0080FF魔法望远镜|r"
 Hotkey=K
@@ -5908,8 +5908,8 @@ Description="|cff9BA0D0这个蛇形手杖的光芒点燃了周围人的怒火。
 Name="|cffFFFF00玩偶男孩|r"
 Hotkey=K
 Tip="|cffFFFF00玩偶男孩|r"
-Ubertip="|cff9BA0D0不跟我玩，我就杀你。|n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00跟我玩!|r|n玩偶男孩每隔 |cffFFFF8010|r 秒，强制控制该塔和他玩，减少该塔的攻击速度 |cffFFFF8050%|r 持续 |cffFFFF802|r 秒。"
-Description="|cff9BA0D0不跟我玩，我就杀你。|n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00跟我玩!|r|n玩偶男孩每隔 |cffFFFF8010|r 秒，强制控制该塔和他玩，减少该塔的攻击速度 |cffFFFF8050%|r 持续 |cffFFFF802|r 秒。"
+Ubertip="|cff9BA0D0不跟我玩，我就杀你。|n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00跟我玩!|r|n玩偶男孩每 |cffFFFF8010|r 秒强制控制该塔和他玩，减少该塔的攻击速度 |cffFFFF8050%|r 持续 |cffFFFF802|r 秒。"
+Description="|cff9BA0D0不跟我玩，我就杀你。|n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00跟我玩!|r|n玩偶男孩每 |cffFFFF8010|r 秒强制控制该塔和他玩，减少该塔的攻击速度 |cffFFFF8050%|r 持续 |cffFFFF802|r 秒。"
 [Q0PU]
 Name="|cffFFFF00强壮护符|r"
 Hotkey=K
