@@ -4960,8 +4960,8 @@ Description="|cff9BA0D0让身体变得灵活，头脑充满智慧。|n|n|cffFFFF
 Name="|cffFF00BF麻痹陷阱|r"
 Hotkey=K
 Tip="|cffFF00BF麻痹陷阱|r"
-Ubertip="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每隔 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，在范围 |cffFFFF801000|r 内，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
-Description="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每隔 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，在范围 |cffFFFF801000|r 内，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
+Ubertip="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
+Description="|cff9BA0D0这个陷阱被兽人用来眩晕他们的敌人，虽然不怎么可靠。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00激活陷阱|r|n每 |cffFFFF808|r 秒 这个陷阱将会眩晕 |cffFFFF803|r 名敌人，范围 |cffFFFF801000|r ，持续 |cffFFFF800.5|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.5|r 秒 眩晕持续时间在等级 |cffFFFF8025|r"
 [Q0KH]
 Name="|cffFFFFFF腐旧魔法书|r"
 Hotkey=K
@@ -5098,8 +5098,8 @@ Description="|cff9BA0D0准备攻击 ...|n|n|cffFFFF80等级:|r 23|n|cffFFFF80作
 Name="|cffFFFFFF重弩|r"
 Hotkey=K
 Tip="|cffFFFFFF重弩|r"
-Ubertip="|cff9BA0D0这把弩的箭矢击中敌人就像给了它一记重拳。|n|n|cffFFFF80等级:|r 42|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击速度|n|cffFFFF00+215|r 每秒伤害"
-Description="|cff9BA0D0这种弩的箭矢击中敌人就像给了它一记重拳。|n|n|cffFFFF80等级:|r 42|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击速度|n|cffFFFF00+215|r 每秒伤害"
+Ubertip="|cff9BA0D0这把弩的箭矢相当强劲。|n|n|cffFFFF80等级:|r 42|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击速度|n|cffFFFF00+215|r 每秒伤害"
+Description="|cff9BA0D0这把弩的箭矢相当强劲。|n|n|cffFFFF80等级:|r 42|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击速度|n|cffFFFF00+215|r 每秒伤害"
 [Q0MW]
 Name="|cff0080FF闪电靴|r"
 Hotkey=K
@@ -5134,8 +5134,8 @@ Description="|cff9BA0D0喝阿鲁卡的酒呼吸上帝的秘密烟雾。|n|n|cffF
 Name="|cffFFFF00仪式护身符|r"
 Hotkey=K
 Tip="|cffFFFF00仪式护身符|r"
-Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
-Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
+Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
 [Q0N9]
 Name="|cffFF00BF月光精华"
 Hotkey=K
@@ -5158,8 +5158,8 @@ Description="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我�
 Name="|cffFFFF00心灵吸取|r"
 Hotkey=K
 Tip="|cffFFFF00心灵吸取|r"
-Ubertip="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
-Description="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔上吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
+Description="|cff9BA0D0一件强大的物品，通常是用来将老巫师的知识传递给年轻巫师的。但是由于它内部的结构已经完全坏掉了，现在能够吸取一切生命体的经验。|n|n|cffFFFF80等级:|r 29|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00吸取知识|r|n从范围内的随机塔上吸收 |cffFFFF8015|r 到 |cffFFFF8060|r 点经验值给携带塔。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF00450|cffFFFF80 范围|r"
 [Q0NE]
 Name="|cff0080FF食人魔战斧|r"
 Hotkey=K
@@ -5212,8 +5212,8 @@ Description="|cff9BA0D0这副面罩能提高敏捷和速度，但会降低基础
 Name="|cffFF00BF时空穿越者|r"
 Hotkey=K
 Tip="|cffFF00BF时空穿越者|r"
-Ubertip="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
-Description="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 射程|r"
+Description="|cff9BA0D0空间传送装置，请谨慎使用。|n|n|cffFFFF80等级:|r 20|n|cffFFFF80作者:|r axllow|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00时空穿越|r|n让塔可以传送到范围内任意空地，|cffFFFF8010|r 秒后返回原处。期间增加其攻击速度 |cffFFFF8010%|r。|n|cffA4AFD9主动释放：|n|cffFFFF0030|cffFFFF80秒 冷却|r，|cffFFFF001500|cffFFFF80 射程|r"
 [Q0NJ]
 Name="|cffFFFF00诅咒之爪|r"
 Hotkey=K
@@ -5254,14 +5254,14 @@ Description="|cff9BA0D0这副发著紫光的手套能增加携带塔的攻击速
 Name="|cffFF00BF暗物质三叉戟|r"
 Hotkey=K
 Tip="|cffFF00BF暗物质三叉戟|r"
-Ubertip="|cff9BA0D0由一个神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
-Description="|cff9BA0D0由一个神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
+Ubertip="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
+Description="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
 [Q0M5]
 Name="|cff0080FF魔法链|r"
 Hotkey=K
 Tip="|cff0080FF魔法链|r"
-Ubertip="|cff9BA0D0这件物品能够作为向另一座塔传递经验的媒介。|n|n|cffFFFF80等级:|r 26|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00经验传递|r|n传递 |cffFFFF8030|r 点经验到其他塔上。|n启用：80秒冷却，80范围"
-Description="|cff9BA0D0这件物品能够作为向另一座塔传递经验的媒介。|n|n|cffFFFF80等级:|r 26|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00经验传递|r|n传递 |cffFFFF8030|r 点经验到其他塔上。|n启用：80秒冷却，80范围"
+Ubertip="|cff9BA0D0这件物品能够作为向另一座塔传递经验的媒介。|n|n|cffFFFF80等级:|r 26|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00经验传递|r|n传递 |cffFFFF8030|r 点经验到其他塔上。|n主动释放：|n|cffFFFF0060|cffFFFF80秒 冷却|r, |cffFFFF001200|cffFFFF80 射程|r"
+Description="|cff9BA0D0这件物品能够作为向另一座塔传递经验的媒介。|n|n|cffFFFF80等级:|r 26|n|cffFFFF80作者:|r MasterCassim|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00经验传递|r|n传递 |cffFFFF8030|r 点经验到其他塔上。|n主动释放：|n|cffFFFF0060|cffFFFF80秒 冷却|r, |cffFFFF001200|cffFFFF80 射程|r"
 [Q0LS]
 Name="|cff0080FF闪亮翡翠|r"
 Hotkey=K
@@ -5302,8 +5302,8 @@ Description="|cff9BA0D0简单的爆炸炮弹。对成群结队的敌人最为有
 Name="|cffFFFF00审判之剑|r"
 Hotkey=K
 Tip="|cffFFFF00审判之剑|r"
-Ubertip="|cff9BA0D0增加附近塔对亡灵的伤害。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00神威|r|n增加范围内所有塔 |cffFFFF807.5%|r 的伤害对亡灵，影响范围 |cffFFFF80200|r .|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.1%|r 伤害"
-Description="|cff9BA0D0增加附近塔对亡灵的伤害。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00神威|r|n增加范围内所有塔 |cffFFFF807.5%|r 的伤害对亡灵，影响范围 |cffFFFF80200|r .|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.1%|r 伤害"
+Ubertip="|cff9BA0D0增加附近塔对亡灵的伤害。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00神威|r|n增加附近塔 |cffFFFF807.5%|r 的伤害对亡灵，影响范围 |cffFFFF80200|r .|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.1%|r 伤害"
+Description="|cff9BA0D0增加附近塔对亡灵的伤害。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00神威|r|n增加附近塔 |cffFFFF807.5%|r 的伤害对亡灵，影响范围 |cffFFFF80200|r .|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.1%|r 伤害"
 [Q0M0]
 Name="|cffFFFFFF魔法精髓|r"
 Hotkey=K
@@ -5338,8 +5338,8 @@ Description="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF
 Name="|cffFFFF00微积分的基础知识|r"
 Hotkey=K
 Tip="|cffFFFF00微积分的基础知识|r"
-Ubertip="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
-Description="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
+Description="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
 [Q0M6]
 Name="|cffFFFF00力量卷轴|r"
 Hotkey=K
@@ -5368,8 +5368,8 @@ Description="|cff9BA0D0能提高伤害，尽管有缺陷…|n|n|cffFFFF80等级:
 Name="|cffFF00BF蓬勃头盔|r"
 Hotkey=K
 Tip="|cffFF00BF蓬勃头盔|r"
-Ubertip="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会鸡皮力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n启用：80秒冷却，80范围"
-Description="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会鸡皮力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n启用：80秒冷却，80范围"
+Ubertip="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+Description="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
 [Q0MC]
 Name="|cff0080FF闪亮法杖|r"
 Hotkey=K
@@ -5578,8 +5578,8 @@ Description="|cffFFFF80等级：|r 44|n|cffFFFF80作者：|rSirCoqaLot.|n|cffCCF
 Name="|cffFF00BFM.E.F.I.S.火箭弹|r"
 Hotkey=K
 Tip="|cffFF00BFM.E.F.I.S.火箭弹|r"
-Ubertip="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。攻击范围, 速度, 攻击力，攻击类型和携带者一样, 如果攻击类型为 |cffFF0080魔法|r, 造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
-Description="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。攻击范围, 速度, 攻击力，攻击类型和携带者一样, 如果攻击类型为 |cffFF0080魔法|r, 造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
+Ubertip="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
+Description="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
 [Q0PH]
 Name="|cffFFFF00艾尔神剑|r"
 Hotkey=K
@@ -5686,7 +5686,7 @@ Description="|cff9BA0D0小孩子最喜欢的玩偶。|n|n|cffFFFF80等级：|r 2
 Name="|cffFFFF00电磁场|r"
 Hotkey=K
 Tip="|cffFFFF00电磁场|r"
-Ubertip="|cff9BA0D0增加周围塔增益效果持续时间，降低周围塔负面效果持续时间。|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00电磁场|r|n增加 |cffFFFF80+10%|r 增益状态持续时间，降低 |cffFFFF80-15%|r 负面效果持续时间，效果反魏 |cffFFFF80200|r "
+Ubertip="|cff9BA0D0增加周围塔增益效果持续时间，降低周围塔负面效果持续时间。|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00电磁场|r|n增加 |cffFFFF80+10%|r 增益状态持续时间，降低 |cffFFFF80-15%|r 负面效果持续时间，效果范围 |cffFFFF80200|r "
 Description="|cff9BA0D0增加周围塔增益效果持续时间，降低周围塔负面效果持续时间。|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r DaveMatthews|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00电磁场|r|n增加 |cffFFFF80+10%|r 增益状态持续时间，降低 |cffFFFF80-15%|r 负面效果持续时间，效果范围|cffFFFF80200|r "
 [Q0NS]
 Name="|cff0080FF隐士权杖|r"
@@ -5737,17 +5737,17 @@ Tip="|cffFF00BF斯嘉蒂神器|r"
 Ubertip="|cff9BA0D0这件古老的神器是寒冬女神斯嘉蒂的。能减慢周围敌人的速度。|n|n|cffFFFF80等级:|r 28|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00斯嘉蒂效应|r|n减少范围 |cffFFFF80800|r 内的敌人移动速度 |cffFFFF8014%|r。"
 Description="|cff9BA0D0这件古老的神器是寒冬女神斯嘉蒂的。能减慢周围敌人的速度。|n|n|cffFFFF80等级:|r 28|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00斯嘉蒂效应|r|n减少范围 |cffFFFF80800|r 内的敌人移动速度 |cffFFFF8014%|r。"
 [Q0NO]
-Name="|cffFFFFFF巫毒面具|r"
+Name="|cffFFFFFF巨魔巫毒面具|r"
 Hotkey=K
-Tip="|cffFFFFFF巫毒面具|r"
+Tip="|cffFFFFFF巨魔巫毒面具|r"
 Ubertip="|cff9BA0D0曾由医疗队员们装备过的面具，现在仍充满着魔力。|n|n|cffFFFF80等级:|r 62|n|cffFFFF80作者:|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+30% |r法力|n|cffFFFF00+30% |r法力回复"
 Description="|cff9BA0D0曾由医疗队员们装备过的面具，现在仍充满着魔力。|n|n|cffFFFF80等级:|r 62|n|cffFFFF80作者:|r Neotopia|n|cffFFFF80特殊能力：|r|n|cffFFFF00+30% |r法力|n|cffFFFF00+30% |r法力回复"
 [Q0O0]
 Name="|cffFFFF00晕眩机|r"
 Hotkey=K
 Tip="|cffFFFF00晕眩机|r"
-Ubertip="|cff9BA0D0用来击晕敌人的先进器具.|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n当此物品的携带者伤害到一个单位时有 |cffFFFF8015%|r*基础攻击速度的几率击晕目标 |cffFFFF801|r 秒. 对于boss只有|cffFFFF801/3|r 正常几率触发!|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.25%|r几率"
-Description="|cff9BA0D0用来击晕敌人的先进器具.|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n当此物品的携带者伤害到一个单位时有 |cffFFFF8015%|r *基础攻击速度的几率击晕目标 |cffFFFF801|r 秒. 对于boss只有|cffFFFF801/3|r 正常几率触发!|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.25%|r几率"
+Ubertip="|cff9BA0D0用来击晕敌人的先进器具.|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n携带者在击中时有 |cffFFFF8015%|r*基础攻击速度的几率击晕目标 |cffFFFF801|r 秒. 对于boss的触发率只有|cffFFFF801/3|r |n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.25%|r几率"
+Description="|cff9BA0D0用来击晕敌人的先进器具.|n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n携带者在击中时有 |cffFFFF8015%|r*基础攻击速度的几率击晕目标 |cffFFFF801|r 秒. 对于boss的触发率只有|cffFFFF801/3|r |n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.25%|r几率"
 [Q0NR]
 Name="|cff0080FF火焰箭|r"
 Hotkey=K
@@ -5764,8 +5764,8 @@ Description="|cff9BA0D0加拉卡的精髓。|n|n|cffFFFF80等级:|r 28|n|cffFFFF
 Name="|cff0080FF巫师法杖|r"
 Hotkey=K
 Tip="|cff0080FF巫师法杖|r"
-Ubertip="|cff9BA0D0这把巫师法杖能增加携带塔的魔法。|n|n|cffFFFF80等级:|r 49|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r法力 (|cffFFFF00+1%|r/级)"
-Description="|cff9BA0D0这把巫师法杖能增加携带塔的魔法。|n|n|cffFFFF80等级:|r 49|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r法力 (|cffFFFF00+1%|r/级)"
+Ubertip="|cff9BA0D0这把巫师法杖能增加携带塔的法力。|n|n|cffFFFF80等级:|r 49|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r法力 (|cffFFFF00+1%|r/级)"
+Description="|cff9BA0D0这把巫师法杖能增加携带塔的法力。|n|n|cffFFFF80等级:|r 49|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r法力 (|cffFFFF00+1%|r/级)"
 [Q0O2]
 Name="|cffFFFF00巴特克之魂|r"
 Hotkey=K
@@ -5800,8 +5800,8 @@ Description="|cff9BA0D0提高携带者抵抗大自然中威胁的能力。|n|n|c
 Name="|cffFF00BF艾露恩之弓|r"
 Hotkey=K
 Tip="|cffFF00BF艾露恩之弓|r"
-Ubertip="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德，并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的伤害量不会因护甲或抗性而被降低至基础伤害值以下。"
-Description="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德，并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的伤害量不会因护甲或抗性而被降低至基础伤害值以下。"
+Ubertip="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德，并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。"
+Description="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德，并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。"
 [Q0NY]
 Name="|cffFFFF00花岗岩锤|r"
 Hotkey=K
