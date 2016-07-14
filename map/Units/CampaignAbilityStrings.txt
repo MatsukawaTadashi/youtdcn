@@ -66,7 +66,7 @@ Hotkey=Z
 [W01V]
 Name="v01F Autocast"
 Tip="火焰冲击"
-Ubertip="释放出一道魔法火焰，对目标附近 |cffFFFF80200|r 范围内的单位造成 |cffFFFF8060|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+3|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="释放一道魔法火焰，对主目标 |cffFFFF80200|r 范围内的单位造成 |cffFFFF8060|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+3|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W01W]
 Name="v01G Autocast"
@@ -81,7 +81,7 @@ Hotkey=V
 [W03D]
 Name="v025 Autocast"
 Tip="黑暗诅咒"
-Ubertip="增加目标受到的物理伤害 |cffFFFF8015%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="提高目标受到的物理伤害 |cffFFFF8015%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W03O]
 Name="v02B Autocast"
@@ -96,7 +96,7 @@ Hotkey=V
 [W02D]
 Name="v01M Autocast"
 Tip="暴风雪"
-Ubertip="召唤 |cffFFFF805|r 波暴风雪，每波造成 |cffFFFF8060|r 伤害，影响范围 |cffFFFF80200|r。被暴风雪击中的单位有 |cffFFFF8030%|r 几率减速 |cffFFFF807%|r 持续 |cffFFFF804|r 秒，并有 |cffFFFF8010%|r 几率眩晕敌人 |cffFFFF800.25|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+6|r 点伤害|n|cffFFFF80+0.1%|r 减速效果|n|cffFFFF80+1%|r 几率减速|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="召唤 |cffFFFF805|r 波暴风雪，每波造成 |cffFFFF8060|r 伤害，影响范围 |cffFFFF80200|r。被暴风雪击中的单位有 |cffFFFF8030%|r 几率减速 |cffFFFF807%|r 持续 |cffFFFF804|r 秒，并有 |cffFFFF8010%|r 几率眩晕 |cffFFFF800.25|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+6|r 点伤害|n|cffFFFF80+0.1%|r 减速效果|n|cffFFFF80+1%|r 几率减速|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [XTWI]
 Name="显示目标信息数据"
@@ -106,7 +106,7 @@ Hotkey=T
 [W031]
 Name="v01W Autocast"
 Tip="风切"
-Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8010%|r 并给予它攻击速度 x |cffFFFF8025%|r的几率释放雷云风暴，对 |cffFFFF803|r 名敌人造成 |cffFFFF80100|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+4|r 点法术伤害|n|cffFFFF80+1|r 个目标在等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
+Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8010%|r 并给予它基础攻击速度 x |cffFFFF8025%|r的几率释放连锁闪电，对 |cffFFFF803|r 名敌人造成 |cffFFFF80100|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+4|r 点法术伤害|n|cffFFFF80+1|r 个弹射目标 于等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
 Hotkey=V
 [W05T]
 Name="v03S Autocast"
@@ -116,7 +116,7 @@ Hotkey=V
 [W068]
 Name="v042 Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔释放一个增益状态，增加他的最大法力值 |cffFFFF8010%|r、法力回复 |cffFFFF8010%|r 和法术伤害 |cffFFFF805%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 法力回复 |n|cffFFFF80+0.6%|r 法力值 |n|cffFFFF80+0.3%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内的一座塔释放一个增益状态，增加他的最大法力值 |cffFFFF8010%|r、法力回复 |cffFFFF8010%|r 和法术伤害 |cffFFFF805%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 法力回复 |n|cffFFFF80+0.6%|r 法力值 |n|cffFFFF80+0.3%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W055]
 Name="v03D Autocast"
@@ -126,7 +126,7 @@ Hotkey=V
 [W052]
 Name="v03B Autocast"
 Tip="火焰冲击"
-Ubertip="释放出一道魔法火焰，对目标附近 |cffFFFF80200|r 范围内的单位造成 |cffFFFF80215|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+11|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="释放一道魔法火焰，对主目标 |cffFFFF80200|r 范围内的单位造成 |cffFFFF80215|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+11|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W053]
 Name="v03C Autocast"
@@ -135,13 +135,13 @@ Ubertip="释放一道闪电，对目标造成 |cffFFFF80250|r 点伤害。 |n|n|
 Hotkey=V
 [W089]
 Name="v055 Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加冰霜效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加冰霜效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W085]
 Name="v054 Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加妖火效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加妖火效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W07U]
 Name="v052 Autocast"
@@ -161,12 +161,12 @@ Hotkey=V
 [W06P]
 Name="v04C Autocast"
 Tip="风切"
-Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8015%|r 并给予它攻击速度 x |cffFFFF8025%|r 的几率释放雷云风暴，对 |cffFFFF803|r 名敌人造成 |cffFFFF80300|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+12|r 点法术伤害|n|cffFFFF80+1|r 个目标在等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
+Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8015%|r 并给予它基础攻击速度 x |cffFFFF8025%|r 的几率释放连锁闪电，对 |cffFFFF803|r 名敌人造成 |cffFFFF80300|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+12|r 点法术伤害|n|cffFFFF80+1|r 个弹射目标 于等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
 Hotkey=V
 [W09F]
 Name="v05K Autocast"
 Tip="暴风雪"
-Ubertip="召唤 |cffFFFF806|r 波暴风雪，每波造成 |cffFFFF80333|r 伤害，影响范围 |cffFFFF80300|r。被暴风雪击中的单位有 |cffFFFF8035%|r 几率减速 |cffFFFF809%|r 持续 |cffFFFF804.5|r 秒，并有 |cffFFFF8015%|r 几率眩晕敌人 |cffFFFF800.50|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+12|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="召唤 |cffFFFF806|r 波暴风雪，每波造成 |cffFFFF80333|r 伤害，影响范围 |cffFFFF80300|r。被暴风雪击中的单位有 |cffFFFF8035%|r 几率减速 |cffFFFF809%|r 持续 |cffFFFF804.5|r 秒，并有 |cffFFFF8015%|r 几率眩晕 |cffFFFF800.50|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+12|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W09P]
 Name="v05P Autocast"
@@ -180,28 +180,28 @@ Ubertip="重击一个单位,造成|cffffff80500|r法术伤害.有|cffffff8012.5%
 Hotkey=V
 [W08J]
 Name="v057 Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加腐蚀效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加腐蚀效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08N]
 Name="v058 Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加中毒效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加中毒效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08E]
 Name="v056 Autocast"
 Tip="闪电波涛"
-Ubertip="在接下来 |cffFFFF805|r 次攻击中攻击速度增加 |cffFFFF80100%|r. 如果没有攻击,该效果会在|cffFFFF808|r 秒后消失.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Ubertip="提高攻击速度 |cffFFFF80100%|r，持续 |cffFFFF805|r 次攻击或者|cffFFFF808|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W08R]
 Name="v059 Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加焚烧效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加焚烧效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W08V]
 Name="v05A Autocast"
-Tip="超负荷电池"
-Ubertip="以极快的速率攻击敌人，同时不断消耗法力值。使电池进入超负荷态。以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加电化效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电池过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。每次攻击(即使没有目标)消耗|cffFFFF8010|r点法力值，造成|cffFFFF80300|r点伤害并附加电化效果。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+12|r 法术伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [XLVK]
 Name="等级信息"
@@ -236,7 +236,7 @@ Hotkey=C
 [W0B6]
 Name="v06R Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔释放一个增益状态，增加他的最大法力值 |cffFFFF8020%|r、法力回复 |cffFFFF8020%|r 和法术伤害 |cffFFFF8010%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.2%|r 法力回复 |n|cffFFFF80+1.2%|r 法力值 |n|cffFFFF80+0.6%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内的一座塔释放一个增益状态，增加他的最大法力值 |cffFFFF8020%|r、法力回复 |cffFFFF8020%|r 和法术伤害 |cffFFFF8010%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.2%|r 法力回复 |n|cffFFFF80+1.2%|r 法力值 |n|cffFFFF80+0.6%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [XLVQ]
 Name="等级信息"
@@ -356,7 +356,7 @@ Hotkey=V
 [W0AB]
 Name="v069 Autocast"
 Tip="黑暗诅咒"
-Ubertip="增加目标受到的物理伤害 |cffFFFF8022%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="提高目标受到的物理伤害 |cffFFFF8022%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [XLVA]
 Name="等级信息"
@@ -367,12 +367,12 @@ Hotkey=C
 [W0CK]
 Name="v07G Autocast"
 Tip="刺针扫射"
-Ubertip="该塔能使用 |cffFFFF8030%|r 其攻击力的物理伤害攻击范围 |cffFFFF80800|r 内的所有敌人。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时， 下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存魔法以最大化该技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础攻击力|n |cffFFFF805%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF803%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
+Ubertip="对范围 |cffFFFF80800|r 内的所有敌人造成相当于其攻击力|cffFFFF8030%|r 的物理伤害。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时，下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存法力值以最大化技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础伤害|n |cffFFFF805%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF803%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
 Hotkey=V
 [W0DD]
 Name="v07S Autocast"
-Tip="吞噬之影"
-Ubertip="这个塔在黑暗中吞噬自己, 可以获得夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Tip="黑暗笼罩"
+Ubertip="这座塔被黑暗笼罩。可以获得和在夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W0CZ]
 Name="v07N Autocast"
@@ -382,7 +382,7 @@ Hotkey=V
 [W0C5]
 Name="v077 Autocast"
 Tip="风切"
-Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8020%|r 并给予它攻击速度 x |cffFFFF8025%|r 的几率释放雷云风暴，对 |cffFFFF803|r 名敌人造成 |cffFFFF80600|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+24|r 点法术伤害|n|cffFFFF80+1|r 个目标在等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
+Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8020%|r 并给予它基础攻击速度 x |cffFFFF8025%|r 的几率释放连锁闪电，对 |cffFFFF803|r 名敌人造成 |cffFFFF80600|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+24|r 点法术伤害|n|cffFFFF80+1|r 个弹射目标 于等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
 Hotkey=V
 [W0C8]
 Name="v078 Autocast"
@@ -392,7 +392,7 @@ Hotkey=V
 [W0BJ]
 Name="v06V Autocast"
 Tip="火焰冲击"
-Ubertip="释放出一道魔法火焰，对目标附近 |cffFFFF80200|r 范围内的单位造成 |cffFFFF80600|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+30|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="释放一道魔法火焰，对主目标 |cffFFFF80200|r 范围内的单位造成 |cffFFFF80600|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+30|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0BK]
 Name="v06W Autocast"
@@ -412,7 +412,7 @@ Hotkey=V
 [W0FI]
 Name="v08P Autocast"
 Tip="暴风雪"
-Ubertip="召唤 |cffFFFF807|r 波暴风雪，每波造成 |cffFFFF80572|r 伤害，影响范围 |cffFFFF80400|r。被暴风雪击中的单位有 |cffFFFF8040%|r 几率减速 |cffFFFF8011%|r 持续 |cffFFFF805|r 秒，并有 |cffFFFF8020%|r 几率眩晕敌人 |cffFFFF800.75|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+25|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="召唤 |cffFFFF807|r 波暴风雪，每波造成 |cffFFFF80572|r 伤害，影响范围 |cffFFFF80400|r。被暴风雪击中的单位有 |cffFFFF8040%|r 几率减速 |cffFFFF8011%|r 持续 |cffFFFF805|r 秒，并有 |cffFFFF8020%|r 几率眩晕 |cffFFFF800.75|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+25|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0DV]
 Name="v07Y Autocast"
@@ -422,42 +422,42 @@ Hotkey=V
 [W0DN]
 Name="v07X Autocast"
 Tip="震荡弹"
-Ubertip="为这座塔装备震荡弹，每次攻击使其 |cffFFFF80250|r 范围内敌人减速 |cffFFFF8015%|r 效果持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 减速效果|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备震荡弹，击中时减少主目标 |cffFFFF80250|r 范围内敌人的移动速度 |cffFFFF8015%|r ，持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 减速效果|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=V
 [W0DO]
 Name="v07X Autocast"
 Tip="酸蚀弹"
-Ubertip="为这座塔装备酸蚀弹，每次攻击减少 |cffFFFF80250|r 范围内敌人的护甲 |cffFFFF8010%|r 效果持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 护甲降低n|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备酸蚀弹，击中时减少主目标 |cffFFFF80250|r 范围内敌人的护甲 |cffFFFF8010%|r ，持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 护甲降低n|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=C
 [W0DP]
 Name="v07X Autocast"
 Tip="烟雾弹"
-Ubertip="为这座塔装备烟雾弹，每次攻击沉默 |cffFFFF80250|r 范围内敌人 |cffFFFF801|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.04|r 秒 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备烟雾弹，击中时沉默主目标 |cffFFFF80250|r 范围内的敌人，持续 |cffFFFF801|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.04|r 秒 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=X
 [W0EC]
 Name="v089 Autocast"
 Tip="闪电波涛"
-Ubertip="在接下来 |cffFFFF805|r 次攻击中攻击速度增加 |cffFFFF80150%|r. 如果没有攻击,该效果会在|cffFFFF808|r 秒后消失.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Ubertip="提高攻击速度 |cffFFFF80150%|r，持续 |cffFFFF805|r 次攻击或者|cffFFFF808|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W0GX]
 Name="v09A Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GP]
 Name="v098 Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GT]
 Name="v099 Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0HB]
 Name="v09I Autocast"
 Tip="风切"
-Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8025%|r 并给予它攻击速度 x |cffFFFF8025%|r 的几率释放雷云风暴，对 |cffFFFF803|r 名敌人造成 |cffFFFF801000|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+40|r 点法术伤害|n|cffFFFF80+1|r 个目标在等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
+Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8025%|r 并给予它基础攻击速度 x |cffFFFF8025%|r 的几率释放连锁闪电，对 |cffFFFF803|r 名敌人造成 |cffFFFF801000|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+40|r 点法术伤害|n|cffFFFF80+1|r 个弹射目标 于等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
 Hotkey=V
 [W0FV]
 Name="v08X Autocast"
@@ -476,28 +476,28 @@ Ubertip="将爱情药剂投向目标，降低其 |cffFFFF8036%|r 的移动速度
 Hotkey=V
 [W0GH]
 Name="v096 Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GL]
 Name="v097 Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0GD]
 Name="v095 Autocast"
-Tip="超负荷蓄电器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加霜冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄电器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF80750|r 点伤害并且附加霜冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8030|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0IV]
 Name="v0AJ Autocast"
 Tip="黑暗诅咒"
-Ubertip="增加目标受到的物理伤害 |cffFFFF8029%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="提高目标受到的物理伤害 |cffFFFF8029%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0J7]
 Name="v0AQ Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔释放一个增益状态，增加他的最大法力值 |cffFFFF8030%|r、法力回复 |cffFFFF8030%|r 和法术伤害 |cffFFFF8015%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.8%|r 法力回复 |n|cffFFFF80+1.8%|r 法力值 |n|cffFFFF80+0.9%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内的一座塔释放一个增益状态，增加他的最大法力值 |cffFFFF8030%|r、法力回复 |cffFFFF8030%|r 和法术伤害 |cffFFFF8015%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1.8%|r 法力回复 |n|cffFFFF80+1.8%|r 法力值 |n|cffFFFF80+0.9%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W0JA]
 Name="v0AR Autocast"
@@ -507,7 +507,7 @@ Hotkey=V
 [W0JC]
 Name="v0AT Autocast"
 Tip="火焰冲击"
-Ubertip="释放出一道魔法火焰，对目标附近 |cffFFFF80200|r 范围内的单位造成 |cffFFFF801200|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+60|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="释放一道魔法火焰，对主目标 |cffFFFF80200|r 范围内的单位造成 |cffFFFF801200|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+60|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0JD]
 Name="v0AU Autocast"
@@ -527,7 +527,7 @@ Hotkey=V
 [W0I6]
 Name="v09Z Autocast"
 Tip="献祭"
-Ubertip="此塔损失 |cffFFFF80100%|r 的攻击力来提高范围 |cffFFFF80500|r 内其中一座塔的每秒伤害，数值为损失攻击力的|cffFFFF8030%|r ，持续 |cffFFFF806|r 秒。对具有同名技能的塔无效。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
+Ubertip="此塔损失 |cffFFFF80100%|r 的攻击力来提高范围 |cffFFFF80500|r 内其中一座塔的每秒伤害，数值为损失攻击力的|cffFFFF8030%|r ，持续 |cffFFFF806|r 秒。对具有同名技能的塔无效。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 转化率|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r|n|cffFFFF80射程: |cffFFFF00500|r"
 Hotkey=V
 [W0HV]
 Name="v09U Autocast"
@@ -542,7 +542,7 @@ Hotkey=V
 [W0M2]
 Name="v0C0 Autocast"
 Tip="刺针扫射"
-Ubertip="该塔能使用 |cffFFFF8030%|r 其攻击力的物理伤害攻击范围 |cffFFFF80800|r 内的所有敌人。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时， 下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存魔法以最大化该技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础攻击力|n |cffFFFF807%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF805%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
+Ubertip="对范围 |cffFFFF80800|r 内的所有敌人造成相当于其攻击力|cffFFFF8030%|r 的物理伤害。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时，下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存法力值以最大化技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础伤害|n |cffFFFF807%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF805%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
 Hotkey=V
 [W0LR]
 Name="v0BX Autocast"
@@ -576,8 +576,8 @@ Ubertip="增加 |cffFFFF80150%|r攻击速度减少伤害 |cffFFFF8050%|r. 效果
 Hotkey=V
 [W0N5]
 Name="v0CJ Autocast"
-Tip="吞噬之影"
-Ubertip="这个塔在黑暗中吞噬自己, 可以获得夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Tip="黑暗笼罩"
+Ubertip="这座塔被黑暗笼罩。可以获得和在夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W0MW]
 Name="v0CG Autocast"
@@ -592,22 +592,22 @@ Hotkey=V
 [W0O2]
 Name="v0CW Autocast"
 Tip="震荡弹"
-Ubertip="为这座塔装备震荡弹. 每次攻击都将使 |cffFFFF80300|r 范围内的生物减慢 |cffFFFF8025%|r 效果持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r slow|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备震荡弹，击中时减少主目标 |cffFFFF80300|r 范围内敌人的移动速度 |cffFFFF8025%|r ，持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r slow|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=V
 [W0O3]
 Name="v0CW Autocast"
 Tip="酸蚀弹"
-Ubertip="为这座塔装备酸蚀弹. 每次攻击都将使 |cffFFFF80300|r 范围内的生物护甲降低 |cffFFFF8015%|r 持续 |cffFFFF804|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 装甲降低|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备酸蚀弹，击中时减少主目标 |cffFFFF80300|r 范围内敌人的护甲 |cffFFFF8015%|r ，持续 |cffFFFF804|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 装甲降低|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=C
 [W0O4]
 Name="v0CW Autocast"
 Tip="烟雾弹"
-Ubertip="为这座塔装备烟雾弹. 每次攻击都将使 |cffFFFF80300|r 范围内的生物沉默 |cffFFFF801.5|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.06|r 秒 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="为这座塔装备烟雾弹，击中时沉默主目标 |cffFFFF80300|r 范围内的敌人，持续 |cffFFFF801.5|r 秒. |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.06|r 秒 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=X
 [W0NT]
 Name="v0CS Autocast"
 Tip="神之恩惠"
-Ubertip="对友方目标塔释放增益状态，使目标攻击力和经验获取率增加 |cffFFFF8080%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+2%|r attack 点伤害 and 经验获取率 gain|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
+Ubertip="对友方目标塔释放增益状态，使目标攻击力和经验获取率增加 |cffFFFF8080%|r。该状态持续 |cffFFFF808|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间|n|cffFFFF80+2%|r 攻击力和经验获取|n|n|cffFFFF80冷却时间: |cffFFFF004 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
 Hotkey=V
 [W0NH]
 Name="v0CP Autocast"
@@ -642,7 +642,7 @@ Hotkey=V
 [W10V]
 Name="v0I5 Autocast"
 Tip="刺针扫射"
-Ubertip="该塔能使用 |cffFFFF8030%|r 其攻击力的物理伤害攻击范围 |cffFFFF80800|r 内的所有敌人。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时， 下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存魔法以最大化该技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础攻击力|n |cffFFFF809%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF807%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
+Ubertip="对范围 |cffFFFF80800|r 内的所有敌人造成相当于其攻击力|cffFFFF8030%|r 的物理伤害。当一名敌人在 |cffFFFF801.5|r 秒内连续受到刺针扫射时，下一次刺针扫射将额外造成 |cffFFFF8011%|r 的伤害。 该效果最多能叠加 |cffFFFF8040|r 次。 |n|n|cffFFFF80提示:|r 储存法力值以最大化技能效果。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.2%|r 基础伤害|n |cffFFFF809%|r 几率连续释放 2 次刺针扫射在等级 |cffFFFF8015|r |n |cffFFFF807%|r 几率连续释放 3 次刺针扫射在等级 |cffFFFF8025|r|n|n|cffFFFF80冷却时间: |cffFFFF000.2 秒|r"
 Hotkey=V
 [W0PQ]
 Name="v0DP Autocast"
@@ -657,7 +657,7 @@ Hotkey=V
 [W0PL]
 Name="v0DN Autocast"
 Tip="风切"
-Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8030%|r 并给予它攻击速度 x |cffFFFF8025%|r 的几率释放雷云风暴，对 |cffFFFF803|r 名敌人造成 |cffFFFF801800|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+72|r 点法术伤害|n|cffFFFF80+1|r 个目标在等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
+Ubertip="增加范围 |cffFFFF80300|r 内一座塔的攻击速度 |cffFFFF8030%|r 并给予它基础攻击速度 x |cffFFFF8025%|r 的几率释放连锁闪电，对 |cffFFFF803|r 名敌人造成 |cffFFFF801800|r 法术伤害，每次弹射减弱 |cffFFFF8025%|r 。效果持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80+72|r 点法术伤害|n|cffFFFF80+1|r 个弹射目标 于等级 |cffFFFF8020|r|n|cffFFFF80+0.1|r 持续时间|n|n|cffFFFF80冷却时间: |cffFFFF003 秒|r|n|cffFFFF80射程: |cffFFFF00300|r"
 Hotkey=V
 [W11N]
 Name="v0IG Autocast"
@@ -667,7 +667,7 @@ Hotkey=V
 [W0OA]
 Name="v0CY Autocast"
 Tip="闪电波涛"
-Ubertip="在接下来 |cffFFFF805|r 次攻击中攻击速度增加 |cffFFFF80200%|r. 如果没有攻击,该效果会在|cffFFFF808|r 秒后消失.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Ubertip="提高攻击速度 |cffFFFF80200%|r，持续 |cffFFFF805|r 次攻击或者|cffFFFF808|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W10B]
 Name="v0HY Autocast"
@@ -682,7 +682,7 @@ Hotkey=V
 [W0P0]
 Name="v0DC Autocast"
 Tip="黑暗诅咒"
-Ubertip="增加目标受到的物理伤害 |cffFFFF8036%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="提高目标受到的物理伤害 |cffFFFF8036%|r，诅咒持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 伤害加成 |n |cffFFFF80+0.1|r 秒持续时间.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0OQ]
 Name="v0D3 Autocast"
@@ -737,7 +737,7 @@ Hotkey=V
 [W0QA]
 Name="v0DY Autocast"
 Tip="暴风雪"
-Ubertip="召唤 |cffFFFF808|r 波暴风雪，每波造成 |cffFFFF801000|r 伤害，影响范围 |cffFFFF80500|r。被暴风雪击中的单位有 |cffFFFF8045%|r 几率减速 |cffFFFF8014%|r 持续 |cffFFFF805.5|r 秒，并有 |cffFFFF8025%|r 几率眩晕敌人 |cffFFFF801|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="召唤 |cffFFFF808|r 波暴风雪，每波造成 |cffFFFF801000|r 伤害，影响范围 |cffFFFF80500|r。被暴风雪击中的单位有 |cffFFFF8045%|r 几率减速 |cffFFFF8014%|r 持续 |cffFFFF805.5|r 秒，并有 |cffFFFF8025%|r 几率眩晕 |cffFFFF801|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 点伤害|n|cffFFFF80+0.01%|r 减速效果|n|cffFFFF80+1%|r 几率减速|r|n|cffFFFF80+0.1%|r 几率眩晕|n|n|cffFFFF80冷却时间: |cffFFFF0010 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0QD]
 Name="v0DZ Autocast"
@@ -772,7 +772,7 @@ Hotkey=V
 [W15Y]
 Name="v0JJ Autocast"
 Tip="灵魂风暴"
-Ubertip="此技能激活后，每|cffFFFF802|r秒就会出现|cffFFFF802|r个灵魂，灵魂接触目标时能对其造成|cffFFFF8014000|r点法术伤害。 每次接触都会降低灵魂|cffFFFF8050%|r的伤害。
+Ubertip="激活后，每|cffFFFF802|r秒就会放出|cffFFFF802|r个灵魂，灵魂接触目标时能对其造成|cffFFFF8014000|r点法术伤害。 每次接触都会降低灵魂|cffFFFF8050%|r的伤害。|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00600|r"
 Hotkey=V
 [W15L]
 Name="v0JF Autocast"
@@ -802,12 +802,12 @@ Hotkey=V
 [W14E]
 Name="v0J2 Autocast"
 Tip="加速"
-Ubertip="增加能量等级 |cffFFFF801|r. 最大能量等级为 |cffFFFF8050|r.|n|n|cffFFFF80冷却时间: |cffFFFF000.5 秒|r"
+Ubertip="提高能量等级 |cffFFFF801|r. 最大能量等级为 |cffFFFF8050|r.|n|n|cffFFFF80冷却时间: |cffFFFF000.5 秒|r"
 Hotkey=V
 [W14F]
 Name="v0J2 Autocast"
 Tip="减速"
-Ubertip="减少功率等级|cffFFFF801|r.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
+Ubertip="降低功率等级|cffFFFF801|r.|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r"
 Hotkey=C
 [W13Z]
 Name="v0IZ Autocast"
@@ -823,7 +823,7 @@ Hotkey=V
 Name="v0J7 Autocast"
 Tip="腐败领域"
 Ubertip="在指定地点设立腐败领域. 领域范围 |cffFFFF80250|r ，并折磨在错误时刻通过的敌人n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00800|r"
-Hotkey=R
+Hotkey=C
 [W0T5]
 Name="v0FK Autocast"
 Tip="灵魂复仇"
@@ -842,7 +842,7 @@ Hotkey=V
 [W0SJ]
 Name="v0FA Autocast"
 Tip="火焰冲击"
-Ubertip="释放出一道魔法火焰，对目标附近 |cffFFFF80200|r 范围内的单位造成 |cffFFFF802150|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+107|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
+Ubertip="释放一道魔法火焰，对主目标 |cffFFFF80200|r 范围内的单位造成 |cffFFFF802150|r 点伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+107|r 点伤害。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r|n|cffFFFF80射程: |cffFFFF00900|r"
 Hotkey=V
 [W0SK]
 Name="v0FB Autocast"
@@ -871,8 +871,8 @@ Ubertip="冰冻|cffFFFF80250|r范围内所有目标的灵魂,造成|cffFFFF80180
 Hotkey=V
 [W0VU]
 Name="v0GK Autocast"
-Tip="吞噬之影"
-Ubertip="这个塔在黑暗中吞噬自己, 可以获得夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Tip="黑暗笼罩"
+Ubertip="这座塔被黑暗笼罩。可以获得和在夜晚一样的能力，持续 |cffFFFF805|r 秒。|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W0W7]
 Name="v0GQ Autocast"
@@ -962,7 +962,7 @@ Hotkey=A
 [W0UR]
 Name="v0G6 Autocast"
 Tip="蛇之魅"
-Ubertip="对范围内塔释放一个增益状态，增加他的最大法力值 |cffFFFF8040%|r、法力回复 |cffFFFF8040%|r 和法术伤害 |cffFFFF8020%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+2.4%|r 法力回复 |n|cffFFFF80+2.4%|r 法力值 |n|cffFFFF80+1.2%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
+Ubertip="对范围内的一座塔释放一个增益状态，增加他的最大法力值 |cffFFFF8040%|r、法力回复 |cffFFFF8040%|r 和法术伤害 |cffFFFF8020%|r。该状态持续 |cffFFFF805|r 秒。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+2.4%|r 法力回复 |n|cffFFFF80+2.4%|r 法力值 |n|cffFFFF80+1.2%|r 法术伤害 |n|cffffff80+5|r 秒持续时间在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间: |cffFFFF005 秒|r|n|cffFFFF80射程: |cffFFFF00200|r"
 Hotkey=V
 [W0V3]
 Name="v0GA Autocast"
@@ -997,7 +997,7 @@ Hotkey=V
 [W0ZY]
 Name="v0HV Autocast"
 Tip="转换: 敏捷"
-Ubertip="激活'转换: 敏捷'。当拥有此状态时，本塔每次攻击增加|cffFFFF802%|r攻击速度，降低|cffFFFF802%|r基础攻击。最多叠加|cffFFFF8050|r次。激活时移除并重置'转换：力量'的增益效果。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="激活'转换: 敏捷'。当拥有此状态时，本塔每次攻击时增加|cffFFFF802%|r攻击速度，降低|cffFFFF802%|r基础攻击。最多叠加|cffFFFF8050|r次。激活时移除并重置'转换：力量'的增益效果。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=C
 [W0ZZ]
 Name="v0HV Autocast"
@@ -1007,42 +1007,42 @@ Hotkey=X
 [W0ZX]
 Name="v0HV Autocast"
 Tip="转换:力量"
-Ubertip="激活'转换: 力量'。当拥有此状态时，本塔每次攻击增加|cffFFFF802%|r基础攻击，降低|cffFFFF802%|r攻击速度。最多叠加|cffFFFF8050|r次。激活时移除并重置'转换：敏捷'的增益效果。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="激活'转换: 力量'。当拥有此状态时，本塔每次攻击时增加|cffFFFF802%|r基础攻击，降低|cffFFFF802%|r攻击速度。最多叠加|cffFFFF8050|r次。激活时移除并重置'转换：敏捷'的增益效果。|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0YL]
 Name="v0HI Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加冰冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加冰冻效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z0]
 Name="v0HM Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加中毒效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0YD]
 Name="v0HG Autocast"
 Tip="闪电波涛"
-Ubertip="在接下来 |cffFFFF805|r 次攻击中攻击速度增加 |cffFFFF80250%|r. 如果没有攻击,该效果会在|cffFFFF808|r 秒后消失.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
+Ubertip="提高攻击速度 |cffFFFF80250%|r，持续 |cffFFFF805|r 次攻击或者|cffFFFF808|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 攻击速度|n|cffFFFF80+1|r 攻击次数每 |cffFFFF805|r 级|n|n|cffFFFF80冷却时间: |cffFFFF006 秒|r"
 Hotkey=V
 [W0YP]
 Name="v0HJ Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加妖火效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z4]
 Name="v0HN Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加焚烧效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0YW]
 Name="v0HL Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加腐蚀效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [W0Z8]
 Name="v0HO Autocast"
-Tip="超负荷聚集器"
-Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直至魔法耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
+Tip="蓄能器过载"
+Ubertip="激活后，此塔将以每|cffFFFF800.2|r秒一次的频率不停地攻击|cffFFFF801200|r范围内的敌人，直到法力耗尽。 每次攻击（即使没有目标）消耗 |cffFFFF8010|r 法力值，并造成 |cffFFFF801800|r 点伤害并且附加电击效果。|n|n|cffFF8000等级加成：|r|n+|cffFFFF8072|r 点伤害|n|n|cffFFFF80冷却时间: |cffFFFF0020 秒|r"
 Hotkey=V
 [XEST]
 Name="开始下一波"

@@ -93,7 +93,7 @@ EditorName=致命缠绕
 [R02B]
 EditorName=Bat Swarm
 [R02K]
-Bufftip=霜冻新星
+Bufftip=霜冻光环
 Buffubertip=这个单位的移动速度降低。
 [R030]
 Bufftip=月光
@@ -162,9 +162,9 @@ Bufftip=能量场
 Buffubertip=这个单位受到风暴系塔的伤害提高。
 EditorName=能量场
 [R05D]
-Bufftip=磁力波
-Buffubertip=这个单位受到了磁力波的影响，当它移动时会受到伤害。
-EditorName=磁力波
+Bufftip=电磁脉冲
+Buffubertip=这个单位受到了电磁脉冲的影响，当它移动时会受到伤害。
+EditorName=电磁脉冲
 [R08A]
 Bufftip=致残
 Buffubertip=这个单位被致残，它的移动速度降低。

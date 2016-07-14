@@ -132,7 +132,7 @@ Bufftip=冰雪之爪
 Buffubertip=这个单位被冰雪之爪击中，它的移动速度降低，并且持续受到伤害。
 [R00S]
 Bufftip=风切
-Buffubertip=这个单位具有风切效果，它的攻击速度提高，并且在攻击时有几率释放闪电链。
+Buffubertip=这个单位具有风切效果，它的攻击速度提高，并且在攻击时有几率释放连锁闪电。
 [R00Z]
 Bufftip=元素之怒
 Buffubertip=这个单位的触发率提高了。
@@ -142,9 +142,9 @@ Bufftip=闪电之盾
 Buffubertip=这个单位的负面效果持续时间降低。
 [R01F]
 Bufftip=狂热
-Buffubertip=这个单位的攻击速度被附近的狂战士降低了。
+Buffubertip=这个单位的攻击速度被附近的狂热者降低了。
 [R01C]
-Bufftip=狂热
+Bufftip=热诚
 Buffubertip=这个单位的攻击速度提高了。
 [R01D]
 Bufftip=相位之刃

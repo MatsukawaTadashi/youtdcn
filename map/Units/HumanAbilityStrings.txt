@@ -838,8 +838,8 @@ Bufftip=神之恩惠
 Buffubertip=这个单位的攻击力和经验获取率提高。
 EditorName=神之恩惠
 [R02C]
-Bufftip=吞噬之影
-Buffubertip=这个单位被黑暗所吞噬。
+Bufftip=黑暗笼罩
+Buffubertip=这个单位被黑暗笼罩。
 [R02A]
 Bufftip=疲劳
 Buffubertip=这个单位的攻击速度降低了。
@@ -1051,7 +1051,7 @@ Buffubertip=这个单位受到了流冰的影响，它的增益持续时间提�
 EditorName=流冰
 [R03I]
 Bufftip=收集中
-Buffubertip=每当这座塔施法时，法术收集器将暂时变得更强。
+Buffubertip=这座塔施法时，法术收集器将暂时变得更强。
 EditorName=收集中
 [R03J]
 Bufftip=魔法弹幕

@@ -121,7 +121,7 @@ Buffubertip=这个单位的移动速度降低。
 EditorName=减速
 [R001]
 Bufftip=减速
-Buffubertip=这个单位感受到刺骨寒气，它的移动速度降低了。
+Buffubertip=这个单位感受到霜寒刺骨，它的移动速度降低了。
 EditorName=!减速
 [R02J]
 Bufftip=酸性炸弹
