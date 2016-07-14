@@ -4120,50 +4120,50 @@ Description="点击使用建造一座塔"
 Name="|cffFFFFFF神圣战斧|r"
 Hotkey=K
 Tip="|cffFFFFFF神圣战斧|r"
-Ubertip="|cff9BA0D0增加塔对亡灵的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对亡灵"
-Description="|cff9BA0D0增加塔对亡灵的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对亡灵"
+Ubertip="|cff9BA0D0增加塔对亡灵系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对亡灵"
+Description="|cff9BA0D0增加塔对亡灵系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对亡灵"
 [Q0J0]
 Name="|cffFF00BF便携式墓碑|r"
 Hotkey=K
 Tip="|cffFF00BF便携式墓碑|r"
-Ubertip="|cff9BA0D0有几率直接杀死低级生物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00墓穴诅咒|r|n该物品持有塔有 |cffFFFF800.25%|r x 攻击速度 几率直接杀死一个非BOSS和非精英的目标。|n|n|cffFF8000等级加成：|r|n +|cffFFFF800.01%|r 几率"
-Description="|cff9BA0D0有几率直接杀死低级生物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00墓穴诅咒|r|n该物品持有塔有 |cffFFFF800.25%|r x 攻击速度 几率直接杀死一个非BOSS和非精英的目标。|n|n|cffFF8000等级加成：|r|n +|cffFFFF800.01%|r 几率"
+Ubertip="|cff9BA0D0来自一个无人问津的墓地的黑暗造物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00墓穴诅咒|r|n攻击时有 |cffFFFF800.25%|r x 基础攻击速度的 几率直接杀死一个非BOSS和非精英的目标。|n|n|cffFF8000等级加成：|r|n +|cffFFFF800.01%|r 几率"
+Description="|cff9BA0D0来自一个无人问津的墓地的黑暗造物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00墓穴诅咒|r|n攻击时有 |cffFFFF800.25%|r x 基础攻击速度的 几率直接杀死一个非BOSS和非精英的目标。|n|n|cffFF8000等级加成：|r|n +|cffFFFF800.01%|r 几率"
 [Q0IN]
 Name="|cff0080FF采矿工具|r"
 Hotkey=K
 Tip="|cff0080FF采矿工具|r"
-Ubertip="|cff9BA0D0每一个矿工做他的工作时需要的基本配备。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00采矿|r|n每 |cffFFFF8015|r 秒有 |cffFFFF8040%|r 几率找到 |cffFFFF803|r 金币。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 几率|n|cffFFFF80+1|r 金于等级 |cffFFFF8025|r"
-Description="|cff9BA0D0每一个矿工做他的工作时需要的基本配备。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00采矿|r|n每 |cffFFFF8015|r 秒有 |cffFFFF8040%|r 几率找到 |cffFFFF803|r 金币。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 几率|n|cffFFFF80+1|r 金于等级 |cffFFFF8025|r"
+Ubertip="|cff9BA0D0矿工的基本装备。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00采矿|r|n每 |cffFFFF8015|r 秒有 |cffFFFF8040%|r 几率找到 |cffFFFF803|r 金币。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 几率|n|cffFFFF80+1|r 金于等级 |cffFFFF8025|r"
+Description="|cff9BA0D0矿工的基本装备。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00采矿|r|n每 |cffFFFF8015|r 秒有 |cffFFFF8040%|r 几率找到 |cffFFFF803|r 金币。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 几率|n|cffFFFF80+1|r 金于等级 |cffFFFF8025|r"
 [Q0IQ]
 Name="|cffFFFFFF亡灵之爪|r"
 Hotkey=K
 Tip="|cffFFFFFF亡灵之爪|r"
-Ubertip="|cff9BA0D0增加塔对自然的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对自然"
-Description="|cff9BA0D0增加塔对自然的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对自然"
+Ubertip="|cff9BA0D0增加塔对自然系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对自然"
+Description="|cff9BA0D0增加塔对自然系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对自然"
 [Q0J2]
 Name="|cff0080FF充能的圆盘|r"
 Hotkey=K
 Tip="|cff0080FF充能的圆盘|r"
-Ubertip="|cff9BA0D0这个圆盘发出浅蓝色的光芒。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80|n作者:|r |cffcc6600drol|r|n|n|cffCCFF00能量供给|r|n每次攻击造成相当于 |cffFFFF808%|r 他的黄金价格的法术攻击. 这个数值受攻击速度影响.|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.1%|r 黄金价格法术伤害"
-Description="|cff9BA0D0这个圆盘发出浅蓝色的光芒。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80|n作者:|r |cffcc6600drol|r|n|n|cffCCFF00能量供给|r|n每次攻击造成相当于 |cffFFFF808%|r 他的黄金价格的法术攻击. 这个数值受攻击速度影响.|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.1%|r 黄金价格法术伤害"
+Ubertip="|cff9BA0D0这个圆盘发出浅蓝色的光芒。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80|n作者:|r |cffcc6600drol|r|n|n|cffCCFF00能量供给|r|n击中时造成相当于 |cffFFFF808%|r 塔售价的法术伤害。 这个数值受基础攻击速度修正。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.1%|r 法术伤害比例"
+Description="|cff9BA0D0这个圆盘发出浅蓝色的光芒。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80|n作者:|r |cffcc6600drol|r|n|n|cffCCFF00能量供给|r|n击中时造成相当于 |cffFFFF808%|r 塔售价的法术伤害。 这个数值受基础攻击速度修正。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.1%|r 法术伤害比例"
 [Q0IP]
 Name="|cffFFFFFF树枝|r"
 Hotkey=K
 Tip="|cffFFFFFF树枝|r"
-Ubertip="|cff9BA0D0增加塔对兽人的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对兽人"
-Description="|cff9BA0D0增加塔对兽人的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对兽人"
+Ubertip="|cff9BA0D0增加塔对兽人系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对兽人"
+Description="|cff9BA0D0增加塔对兽人系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对兽人"
 [Q0J1]
 Name="|cffFFFF00小蜘蛛|r"
 Hotkey=K
 Tip="|cffFFFF00小蜘蛛|r"
-Ubertip="|cff9BA0D0一支小蜘蛛。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小蜘蛛毒|r|n携带塔有 |cffFFFF8025%|r x 攻击速度 的几率减慢敌人速度 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。"
-Description="|cff9BA0D0一支小蜘蛛。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小蜘蛛毒|r|n携带塔有 |cffFFFF8025%|r x 攻击速度 的几率减慢敌人速度 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。"
+Ubertip="|cff9BA0D0一只有毒的小蜘蛛。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00蜘蛛毒|r|n攻击时有 |cffFFFF8025%|r x 基础攻击速度 的几率减慢敌人速度 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。"
+Description="|cff9BA0D0一只有毒的小蜘蛛。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00蜘蛛毒|r|n攻击时有 |cffFFFF8025%|r x 基础攻击速度 的几率减慢敌人速度 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。"
 [Q0IK]
 Name="|cffFFFF00货币转换器|r"
 Hotkey=K
 Tip="|cffFFFF00货币转换器|r"
-Ubertip="|cff9BA0D0将你的经验转换为金币。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00转换|r|n每 |cffFFFF8015|r 秒转换 |cffFFFF802|r 点经验为 |cffFFFF807|r 金币。 |n|cffFF8000等级加成:|r|n|cffFFFF80-0.3|r 秒 冷却"
-Description="|cff9BA0D0将你的经验转换为金币。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00转换|r|n每 |cffFFFF8015|r 秒转换 |cffFFFF802|r 点经验为 |cffFFFF807|r 金币。 |n|cffFF8000等级加成:|r|n|cffFFFF80-0.3|r 秒 冷却"
+Ubertip="|cff9BA0D0将你的经验转换为金币。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00转换|r|n每 |cffFFFF8015|r 将持有者的 |cffFFFF802|r 点经验转换为为 |cffFFFF807|r 金币。 |n|cffFF8000等级加成:|r|n|cffFFFF80-0.3|r 秒 冷却"
+Description="|cff9BA0D0将你的经验转换为金币。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00转换|r|n每 |cffFFFF8015|r 秒将持有者的 |cffFFFF802|r 点经验转换为 |cffFFFF807|r 金币。 |n|cffFF8000等级加成:|r|n|cffFFFF80-0.3|r 秒 冷却"
 [Q0IJ]
 Name="荷兰人之墓"
 Hotkey=F
@@ -4180,14 +4180,14 @@ Description="|cff9BA0D0这把权杖发出点点星光，可能是因为我放了
 Name="|cff0080FF智慧之爪|r"
 Hotkey=K
 Tip="|cff0080FF智慧之爪|r"
-Ubertip="|cff9BA0D0让使用者能进行神祕的仪式，但不适用于战斗。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-16% |r攻击速度|n|cffFFFF00+80% |r经验获取率"
-Description="|cff9BA0D0让使用者能进行神祕的仪式，但不适用于战斗。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-16% |r攻击速度|n|cffFFFF00+80% |r经验获取率"
+Ubertip="|cff9BA0D0让持有者能进行神祕的仪式，但不适用于战斗。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-16% |r攻击速度|n|cffFFFF00+80% |r经验获取率"
+Description="|cff9BA0D0让持有者能进行神祕的仪式，但不适用于战斗。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-16% |r攻击速度|n|cffFFFF00+80% |r经验获取率"
 [Q0IW]
 Name="|cff0080FF精锐步枪|r"
 Hotkey=K
 Tip="|cff0080FF精锐步枪|r"
-Ubertip="|cff9BA0D0增加塔对人类的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对人类|n|cffFFFF00+2.5% |r攻击力"
-Description="|cff9BA0D0增加塔对人类的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对人类|n|cffFFFF00+2.5% |r攻击力"
+Ubertip="|cff9BA0D0增加塔对人类系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对人类|n|cffFFFF00+2.5% |r攻击力"
+Description="|cff9BA0D0增加塔对人类系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对人类|n|cffFFFF00+2.5% |r攻击力"
 [Q0J8]
 Name="|cffFFFFFF破旧长矛|r"
 Hotkey=K
@@ -4198,8 +4198,8 @@ Description="|cff9BA0D0这把长矛已经过了它的黄金时期了。|n|n|cffF
 Name="|cff0080FF神圣权杖|r"
 Hotkey=K
 Tip="|cff0080FF神圣权杖|r"
-Ubertip="|cff9BA0D0增加塔对亡灵的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对亡灵|n|cffFFFF00+2.5% |r攻击力"
-Description="|cff9BA0D0增加塔对亡灵的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对亡灵|n|cffFFFF00+2.5% |r攻击力"
+Ubertip="|cff9BA0D0增加塔对亡灵系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对亡灵|n|cffFFFF00+2.5% |r攻击力"
+Description="|cff9BA0D0增加塔对亡灵系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对亡灵|n|cffFFFF00+2.5% |r攻击力"
 [Q0J7]
 Name="|cffFFFFFF故事集|r"
 Hotkey=K
@@ -4210,74 +4210,74 @@ Description="|cff9BA0D0能告诉你一些别的地方学不到的知识。|n|n|c
 Name="|cff0080FF亡灵尖爪|r"
 Hotkey=K
 Tip="|cff0080FF亡灵尖爪|r"
-Ubertip="|cff9BA0D0增加塔对自然生物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对自然|n|cffFFFF00+2.5% |r攻击力"
-Description="|cff9BA0D0增加塔对自然生物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对自然|n|cffFFFF00+2.5% |r攻击力"
+Ubertip="|cff9BA0D0增加塔对自然系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对自然|n|cffFFFF00+2.5% |r攻击力"
+Description="|cff9BA0D0增加塔对自然系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对自然|n|cffFFFF00+2.5% |r攻击力"
 [Q0IX]
 Name="|cff0080FF粗树枝|r"
 Hotkey=K
 Tip="|cff0080FF粗树枝|r"
-Ubertip="|cff9BA0D0增加塔对兽人的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对兽人|n|cffFFFF00+2.5% |r攻击力"
-Description="|cff9BA0D0增加塔对兽人的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对兽人|n|cffFFFF00+2.5% |r攻击力"
+Ubertip="|cff9BA0D0增加塔对兽人系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对兽人|n|cffFFFF00+2.5% |r攻击力"
+Description="|cff9BA0D0增加塔对兽人系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对兽人|n|cffFFFF00+2.5% |r攻击力"
 [Q0J9]
 Name="|cffFFFFFF久远长笛|r"
 Hotkey=K
 Tip="|cffFFFFFF久远长笛|r"
-Ubertip="|cff9BA0D0尽管年代久远，这只笛子里仍然包含着强大的魔法力量。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6% |r法术伤害"
-Description="|cff9BA0D0尽管年代久远，这只笛子里仍然包含着强大的魔法力量。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6% |r法术伤害"
+Ubertip="|cff9BA0D0尽管年代久远，这只笛子仍然有一些魔力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6% |r法术伤害"
+Description="|cff9BA0D0尽管年代久远，这只笛子仍然有一些魔力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6% |r法术伤害"
 [Q0IS]
-Name="|cffFFFFFF树皮|r"
+Name="|cffFFFFFF铭刻树皮|r"
 Hotkey=K
-Tip="|cffFFFFFF树皮|r"
-Ubertip="|cff9BA0D0增加塔对魔法生物的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对魔法"
-Description="|cff9BA0D0增加塔对魔法生物的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对魔法"
+Tip="|cffFFFFFF铭刻树皮|r"
+Ubertip="|cff9BA0D0这片树皮上模糊地写了些什么。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对魔法"
+Description="|cff9BA0D0这片树皮上模糊地写了些什么。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对魔法"
 [Q0J4]
 Name="|cffFFFFFF帐簿|r"
 Hotkey=K
 Tip="|cffFFFFFF帐簿|r"
-Ubertip="|cff9BA0D0可以用来帮你记账。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r金钱获取率"
-Description="|cff9BA0D0可以用来帮你记账。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r金钱获取率"
+Ubertip="|cff9BA0D0上面的字迹大部分都褪色了。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r金钱获取率"
+Description="|cff9BA0D0上面的字迹大部分都褪色了。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r金钱获取率"
 [Q0IR]
 Name="|cffFFFFFF狙击手|r"
 Hotkey=K
 Tip="|cffFFFFFF狙击手|r"
-Ubertip="|cff9BA0D0增加携带塔对BOSS的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对Boss"
-Description="|cff9BA0D0增加携带塔对BOSS的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对Boss"
+Ubertip="|cff9BA0D0增加塔对BOSS的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对Boss"
+Description="|cff9BA0D0增加塔对BOSS的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对Boss"
 [Q0J3]
 Name="|cffFFFFFF短剑|r"
 Hotkey=K
 Tip="|cffFFFFFF短剑|r"
-Ubertip="|cff9BA0D0一把普通的短剑。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r攻击力"
-Description="|cff9BA0D0一把普通的短剑。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r攻击力"
+Ubertip="|cff9BA0D0增加携带塔的攻击力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r攻击力"
+Description="|cff9BA0D0增加携带塔的攻击力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r攻击力"
 [Q0IU]
 Name="|cff0080FF远古树皮|r"
 Hotkey=K
 Tip="|cff0080FF远古树皮|r"
-Ubertip="|cff9BA0D0增加塔对魔法生物的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对魔法|n|cffFFFF00+2.5% |r攻击力"
-Description="|cff9BA0D0增加塔对魔法生物的杀伤力。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对魔法|n|cffFFFF00+2.5% |r攻击力"
+Ubertip="|cff9BA0D0增加塔对魔法系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对魔法|n|cffFFFF00+2.5% |r攻击力"
+Description="|cff9BA0D0增加塔对魔法系怪物的伤害。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5% |r伤害对魔法|n|cffFFFF00+2.5% |r攻击力"
 [Q0J6]
 Name="|cffFF00BF黄金三叉戟|r"
 Hotkey=K
 Tip="|cffFF00BF黄金三叉戟|r"
-Ubertip="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时，将产生一些金币.|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加 |cffFFFF800.2|r 金币. 每次多重暴击增加额外的金币."
-Description="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时，将产生一些金币.|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加 |cffFFFF800.2|r 金币. 每次多重暴击增加额外的金币."
+Ubertip="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时，将产生一些金币.|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加 |cffFFFF800.2|r 金币. 多重暴击增加额外的金币."
+Description="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时，将产生一些金币.|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加 |cffFFFF800.2|r 金币. 多重暴击增加额外的金币."
 [Q0IT]
 Name="|cffFFFFFF生锈步枪|r"
 Hotkey=K
 Tip="|cffFFFFFF生锈步枪|r"
-Ubertip="|cff9BA0D0很不好使的武器。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对人类"
-Description="|cff9BA0D0很不好使的武器。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对人类"
+Ubertip="|cff9BA0D0不是很好使的武器。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对人类"
+Description="|cff9BA0D0不是很好使的武器。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r伤害对人类"
 [Q0J5]
-Name="|cffFFFFFF生锈矿铲|r"
+Name="|cffFFFFFF生锈的矿镐|r"
 Hotkey=K
-Tip="|cffFFFFFF生锈矿铲|r"
-Ubertip="|cff9BA0D0一支生锈的矿铲。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4% |r物品获取率"
-Description="|cff9BA0D0一支生锈的矿铲。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4% |r物品获取率"
+Tip="|cffFFFFFF生锈的矿镐|r"
+Ubertip="|cff9BA0D0这把矿镐能用于挖掘，但并不是很耐用。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4% |r物品获取率"
+Description="|cff9BA0D0这把矿镐能用于挖掘，但并不是很耐用。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4% |r物品获取率"
 [Q0JB]
-Name="|cff0080FF冲击法杖|r"
+Name="|cff0080FF冲击权杖|r"
 Hotkey=K
-Tip="|cff0080FF冲击法杖|r"
-Ubertip="|cff9BA0D0这把权杖是一位城主的礼物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冲击攻击|r|n这把法杖每秒都能发射一枚魔法飞弹，造成 |cffFFFF8060|r 法术伤害。影响范围 |cffFFFF801000|r。"
-Description="|cff9BA0D0这把权杖是一位城主的礼物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冲击攻击|r|n这把法杖每秒都能发射一枚魔法飞弹，造成 |cffFFFF8060|r 法术伤害。影响范围 |cffFFFF801000|r。"
+Tip="|cff0080FF冲击权杖|r"
+Ubertip="|cff9BA0D0这把权杖是一位城主的礼物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冲击攻击|r|n这把法杖每秒发射一枚魔法飞弹，造成 |cffFFFF8060|r 法术伤害。影响范围 |cffFFFF801000|r。"
+Description="|cff9BA0D0这把权杖是一位城主的礼物。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冲击攻击|r|n这把法杖每秒发射一枚魔法飞弹，造成 |cffFFFF8060|r 法术伤害。影响范围 |cffFFFF801000|r。"
 [Q0JA]
 Name="|cffFFFFFF木制假腿|r"
 Hotkey=K
@@ -4288,8 +4288,8 @@ Description="|cff9BA0D0如果你已经有了两条腿的话，这个东西就一
 Name="|cffFF00BF摄魂器|r"
 Hotkey=K
 Tip="|cffFF00BF摄魂器|r"
-Ubertip="|cff9BA0D0这台机器能够抽取死者的亡魂，并用其来击晕敌人。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00灵魂眩晕|r|n在杀死 |cffFFFF803|r 个敌人之后，携带塔将会眩晕下一个目标 |cffFFFF802|r 秒。"
-Description="|cff9BA0D0这台机器能够抽取死者的亡魂，并用其来击晕敌人。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00灵魂眩晕|r|n在杀死 |cffFFFF803|r 个敌人之后，携带塔将会眩晕下一个目标 |cffFFFF802|r 秒。"
+Ubertip="|cff9BA0D0这台机器能够抽取死者的亡魂，并用其来击晕敌人。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00灵魂眩晕|r|n在杀死 |cffFFFF803|r 个敌人之后，携带塔的下次攻击将会击晕目标 |cffFFFF802|r 秒。"
+Description="|cff9BA0D0这台机器能够抽取死者的亡魂，并用其来击晕敌人。|n|n|cffFFFF80等级:|r 0|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00灵魂眩晕|r|n在杀死 |cffFFFF803|r 个敌人之后，携带塔的下次攻击将会击晕目标 |cffFFFF802|r 秒。"
 [Q0JH]
 Name="|cff0080FF精神之触|r"
 Hotkey=K
@@ -4300,14 +4300,14 @@ Description="|cff9BA0D0能让持有者获得持续的战斗力。|n|n|cffFFFF80�
 Name="|cffFFFFFF钝棒|r"
 Hotkey=K
 Tip="|cffFFFFFF钝棒|r"
-Ubertip="|cff9BA0D0不是个很有效率的武器。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5% |r攻击力|n|cffFFFF00+1%|r 暴击几率"
-Description="|cff9BA0D0不是个很有效率的武器。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5% |r攻击力|n|cffFFFF00+1%|r 暴击几率"
+Ubertip="|cff9BA0D0不是个很有效的武器。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5% |r攻击力|n|cffFFFF00+1%|r 暴击几率"
+Description="|cff9BA0D0不是个很有效的武器。|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5% |r攻击力|n|cffFFFF00+1%|r 暴击几率"
 [Q0JJ]
 Name="|cff0080FF食人魔的智慧之杖|r"
 Hotkey=K
 Tip="|cff0080FF食人魔的智慧之杖|r"
-Ubertip="|cff9BA0D0我猛砸你！|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
-Description="|cff9BA0D0我猛砸你！|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
+Ubertip="|cff9BA0D0我 揍 你！|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
+Description="|cff9BA0D0我 揍 你！|n|n|cffFFFF80等级:|r 2|n|cffFFFF80作者:|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
 [Q0JI]
 Name="|cff0080FF观测镜|r"
 Hotkey=K
@@ -4318,8 +4318,8 @@ Description="|cff9BA0D0这只潜望镜能拓展持有者的视野，使其能够
 Name="|cff0080FF钢铁假腿|r"
 Hotkey=K
 Tip="|cff0080FF钢铁假腿|r"
-Ubertip="|cff9BA0D0更可靠的腿，但是如果你已经有两只了的话就没啥用了。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+1% |r攻击速度|n|cffFFFF00+1%|r 暴击几率"
-Description="|cff9BA0D0更可靠的腿，但是如果你已经有两只了的话就没啥用了。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+1% |r攻击速度|n|cffFFFF00+1%|r 暴击几率"
+Ubertip="|cff9BA0D0更可靠的腿，但是如果你已经有两条了的话就还是没啥用。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+1% |r攻击速度|n|cffFFFF00+1%|r 暴击几率"
+Description="|cff9BA0D0更可靠的腿，但是如果你已经有两条了的话就还是没啥用。|n|cffFFFF80等级:|r 0|cffFFFF80|n作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+1% |r攻击速度|n|cffFFFF00+1%|r 暴击几率"
 [Q0JC]
 Name="|cff0080FF炽热杀手箭|r"
 Hotkey=K
@@ -4588,8 +4588,8 @@ Description="|cff9BA0D0这件武器对空能力很低。|n|n|cffFFFF80等级:|r 
 Name="|cffFF00BF牧师雕像|r"
 Hotkey=K
 Tip="|cffFF00BF牧师雕像|r"
-Ubertip="|cff9BA0D0这个小型雕像闪耀着光芒，让他们能获取更多经验。|n|n|cffFFFF80等级:|r 4|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启发|r|n当携带塔攻击一个目标时，有 |cffFFFF8020%|r x 攻击速度的几率让该目标提供 |cffFFFF805%|r 的额外经验。此效果永久存在，并可以叠加。"
-Description="|cff9BA0D0这个小型雕像闪耀着光芒，让他们能获取更多经验。|n|n|cffFFFF80等级:|r 4|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启发|r|n当携带塔攻击一个目标时，有 |cffFFFF8020%|r x 攻击速度的几率让该目标提供 |cffFFFF805%|r 的额外经验。此效果永久存在，并可以叠加。"
+Ubertip="|cff9BA0D0这个小型雕像闪耀着光芒，让他们能获取更多经验。|n|n|cffFFFF80等级:|r 4|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启发|r|n当携带塔攻击一个目标时，有 |cffFFFF8020%|r x 基础攻击速度的几率让该目标提供 |cffFFFF805%|r 的额外经验。此效果永久存在，并可以叠加。"
+Description="|cff9BA0D0这个小型雕像闪耀着光芒，让他们能获取更多经验。|n|n|cffFFFF80等级:|r 4|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00启发|r|n当携带塔攻击一个目标时，有 |cffFFFF8020%|r x 基础攻击速度的几率让该目标提供 |cffFFFF805%|r 的额外经验。此效果永久存在，并可以叠加。"
 [Q0L4]
 Name="|cff0080FF废墟之手|r"
 Hotkey=K
@@ -4888,8 +4888,8 @@ Description="|cff9BA0D0一副古老的手套，绝大多数能力都已丧失。
 Name="|cff0080FF神秘贝壳|r"
 Hotkey=K
 Tip="|cff0080FF神秘贝壳|r"
-Ubertip="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。|n|n|cffFFFF80等级:|r 5|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔 |cffFFFF8010%|r x 攻击速度 对目标释放一个负面状态，增加目标受到的所有法术伤害 |cffFFFF8015%|r 持续 |cffFFFF805|r 秒。"
-Description="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。|n|n|cffFFFF80等级:|r 5|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔 |cffFFFF8010%|r x 攻击速度 对目标释放一个负面状态，增加目标受到的所有法术伤害 |cffFFFF8015%|r 持续 |cffFFFF805|r 秒。"
+Ubertip="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。|n|n|cffFFFF80等级:|r 5|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔 |cffFFFF8010%|r x 基础攻击速度 对目标释放一个负面状态，增加目标受到的所有法术伤害 |cffFFFF8015%|r 持续 |cffFFFF805|r 秒。"
+Description="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。|n|n|cffFFFF80等级:|r 5|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔 |cffFFFF8010%|r x 基础攻击速度 对目标释放一个负面状态，增加目标受到的所有法术伤害 |cffFFFF8015%|r 持续 |cffFFFF805|r 秒。"
 [Q0JT]
 Name="|cffFFFFFF魔法手套|r"
 Hotkey=K
@@ -5044,8 +5044,8 @@ Description="|cff9BA0D0增加攻击力|n|n|cffFFFF80等级:|r 46|n|cffFFFF80作�
 Name="|cffFF00BF幸运宝石|r"
 Hotkey=K
 Tip="|cffFF00BF幸运宝石|r"
-Ubertip="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
-Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
+Ubertip="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
+Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
 [Q0N5]
 Name="|cffFFFF00能量灌注护符|r"
 Hotkey=K
@@ -5062,8 +5062,8 @@ Description="|cff9BA0D0熊掌里不仅有着熊的力量，还有着熊的智慧
 Name="|cffFFFF00角鹰蛋|r"
 Hotkey=K
 Tip="|cffFFFF00角鹰蛋|r"
-Ubertip="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
-Description="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
+Ubertip="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
+Description="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
 [Q0MN]
 Name="|cffFFFF00水晶箭|r"
 Hotkey=K
@@ -5362,8 +5362,8 @@ Description="|cff9BA0D0这个玩偶加持了巫毒魔法，小心！|n|n|cffFFFF
 Name="|cffFFFF00液体黄金|r"
 Hotkey=K
 Tip="|cffFFFF00液体黄金|r"
-Ubertip="|cff9BA0D0能提高伤害，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
-Description="|cff9BA0D0能提高伤害，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
+Ubertip="|cff9BA0D0能提高伤害，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
+Description="|cff9BA0D0能提高伤害，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
 [Q0M8]
 Name="|cffFF00BF蓬勃头盔|r"
 Hotkey=K
