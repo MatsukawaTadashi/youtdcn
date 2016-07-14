@@ -5152,8 +5152,8 @@ Description="|cff9BA0D0图上标有一个'x' ，是不是那里有什么财宝�
 Name="|cffFFFF00退魔法杖|r"
 Hotkey=K
 Tip="|cffFFFF00退魔法杖|r"
-Ubertip="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我就没蓝了!——怪物甲|n|n|cffFFFF80等级:|r 27|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00消魔|r|n携带塔每次攻击减少目标|cffFFFF808|r点法力值,减少的量按携带塔的攻击速度和射程修正。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6|r 法力"
-Description="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我就没蓝了!——怪物甲|n|n|cffFFFF80等级:|r 27|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00消魔|r|n携带塔每次攻击减少目标|cffFFFF808|r点法力值,减少的量按携带塔的攻击速度和射程修正。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6|r 法力"
+Ubertip="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我就没蓝了!——怪物甲|n|n|cffFFFF80等级:|r 27|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00消魔|r|n击中时燃烧目标|cffFFFF808|r点法力值,燃烧量按携带塔的基础攻击速度和射程修正。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6|r 法力"
+Description="|cff9BA0D0当时就像这样出来一大波紫色闪电,然后我就没蓝了!——怪物甲|n|n|cffFFFF80等级:|r 27|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00消魔|r|n击中时燃烧目标|cffFFFF808|r点法力值,燃烧量按携带塔的基础攻击速度和射程修正。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6|r 法力"
 [Q0NF]
 Name="|cffFFFF00心灵吸取|r"
 Hotkey=K
@@ -5314,14 +5314,14 @@ Description="|cff9BA0D0暗夜精灵们自古以来就在使用着这些来强化
 Name="|cffFFFF00硫磺头盔|r"
 Hotkey=K
 Tip="|cffFFFF00硫磺头盔|r"
-Ubertip="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00火焰呼吸|r|n这个物品可以使携带塔的攻击类型变成|cffFF8000元素|r,消耗|cffFFFF80100|r充能,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
-Description="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00火焰呼吸|r|n这个物品可以使携带塔的攻击类型变成|cffFF8000元素|r,消耗|cffFFFF80100|r充能,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
+Ubertip="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00火焰呼吸|r|n攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cffFF8000元素|r,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
+Description="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00火焰呼吸|r|n攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cffFF8000元素|r,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
 [Q0LY]
 Name="|cffFFFF00巫妖面具|r"
 Hotkey=K
 Tip="|cffFFFF00巫妖面具|r"
-Ubertip="|cff9BA0D0它可以用来开个很好的舞会,虽然它会熔掉你的脸.|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00凋零呼吸|r|n这个物品可以使携带塔的攻击类型变成|cff808000凋零|r,消耗|cffFFFF80100|r充能,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
-Description="|cff9BA0D0它可以用来开个很好的舞会,虽然它会熔掉你的脸.|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00凋零呼吸|r|n这个物品可以使携带塔的攻击类型变成|cff808000凋零|r,消耗|cffFFFF80100|r充能,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
+Ubertip="|cff9BA0D0它可以用来开个很好的舞会,虽然它会熔掉你的脸.|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00凋零呼吸|r|n攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cff808000凋零|r,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
+Description="|cff9BA0D0它可以用来开个很好的舞会,虽然它会熔掉你的脸.|n|n|cffFFFF80等级:|r 16|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cff808000凋零|r,每次攻击回复|cffFFFF8050|r充能.这个效果在塔的面板上不可见.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 充能回复"
 [Q0LV]
 Name="|cff0080FF坚硬战锤|r"
 Hotkey=K
@@ -5362,8 +5362,8 @@ Description="|cff9BA0D0这个玩偶加持了巫毒魔法，小心！|n|n|cffFFFF
 Name="|cffFFFF00液体黄金|r"
 Hotkey=K
 Tip="|cffFFFF00液体黄金|r"
-Ubertip="|cff9BA0D0能提高攻击力，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
-Description="|cff9BA0D0能提高攻击力，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00后遗症|r|n每次攻击有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
+Ubertip="|cff9BA0D0能提高攻击力，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00宿醉|r|n攻击时有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
+Description="|cff9BA0D0能提高攻击力，尽管有缺陷…|n|n|cffFFFF80等级:|r 15|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r攻击力|n|n|cffCCFF00宿醉|r|n攻击时有 |cffFFFF8010%|r x 基础攻击速度 的几率使携带塔宿醉，减少其攻击速度 |cffFFFF8030%|r 持续 |cffFFFF808|r 秒，之后眩晕 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击速度|n|cffFFFF80-0.1|r 秒眩晕持续时间"
 [Q0M8]
 Name="|cffFF00BF蓬勃头盔|r"
 Hotkey=K
@@ -5596,8 +5596,8 @@ Description="|cff9BA0D0消除区域内所有的负面魔法.|n|n|cffFFFF80等级
 Name="|cffFF00BF洛基之矛|r"
 Hotkey=K
 Tip="|cffFF00BF洛基之矛|r"
-Ubertip="|cff9BA0D0这是一个诡异的武器，来自北方的神--洛基。有强大的力量也有缺点。|n|n|cffFFFF80等级:|r 43|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00诡异武器|r|n每次攻击有 |cffFFFF8015%|r 眩晕自己 |cffFFFF801|r 秒。"
-Description="|cff9BA0D0这是一个诡异的武器，来自北方的神--洛基。有强大的力量也有缺点。|n|n|cffFFFF80等级:|r 43|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00诡异武器|r|n每次攻击有 |cffFFFF8015%|r 眩晕自己 |cffFFFF801|r 秒。"
+Ubertip="|cff9BA0D0这是一个诡异的武器，来自北方的神--洛基。有强大的力量也有缺点。|n|n|cffFFFF80等级:|r 43|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00诡异武器|r|n攻击时有 |cffFFFF8015%|r 眩晕携带者 |cffFFFF801|r 秒。"
+Description="|cff9BA0D0这是一个诡异的武器，来自北方的神--洛基。有强大的力量也有缺点。|n|n|cffFFFF80等级:|r 43|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r攻击力 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00诡异武器|r|n攻击时有 |cffFFFF8015%|r 眩晕携带者 |cffFFFF801|r 秒。"
 [Q0PA]
 Name="|cff0080FF猛兽头颅|r"
 Hotkey=K
@@ -5680,8 +5680,8 @@ Description="|cff9BA0D0仍然很烫手!|n|n|cffFFFF80等级:|r 69|n|cffFFFF80作
 Name="|cffFF00BF迷你熊怪|r"
 Hotkey=K
 Tip="|cffFF00BF迷你熊怪|r"
-Ubertip="|cff9BA0D0小孩子最喜欢的玩偶。|n|n|cffFFFF80等级：|r 24|n|cffFFFF80作者：|r cedi|n|cffCCFF00狂暴|r|n每次攻击都有 |cffFFFF8014%|r*基础攻击速度的几率增加塔的攻击速度 |cffFFFF8025%|r ，多重暴击次数 |cffFFFF801|r，暴击伤害|cffFFFF80x0.40|r 以及暴击几率 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。无法在处于狂暴状态时再次触发。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 持续时间|n|cffFFFF80+0.4%|r 攻击速度"
-Description="|cff9BA0D0小孩子最喜欢的玩偶。|n|n|cffFFFF80等级：|r 24|n|cffFFFF80作者：|r cedi|n|cffCCFF00狂暴|r|n每次攻击都有 |cffFFFF8014%|r*基础攻击速度的几率增加塔的攻击速度 |cffFFFF8025%|r ，多重暴击次数 |cffFFFF801|r，暴击伤害|cffFFFF80x0.40|r 以及暴击几率 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。无法在处于狂暴状态时再次触发。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 持续时间|n|cffFFFF80+0.4%|r 攻击速度"
+Ubertip="|cff9BA0D0小孩子最喜欢的玩偶。|n|n|cffFFFF80等级：|r 24|n|cffFFFF80作者：|r cedi|n|cffCCFF00狂暴|r|n攻击时有 |cffFFFF8014%|r*基础攻击速度的几率增加塔的攻击速度 |cffFFFF8025%|r ，多重暴击次数 |cffFFFF801|r，暴击伤害|cffFFFF80x0.40|r 以及暴击几率 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。无法在处于狂暴状态时再次触发。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 持续时间|n|cffFFFF80+0.4%|r 攻击速度"
+Description="|cff9BA0D0小孩子最喜欢的玩偶。|n|n|cffFFFF80等级：|r 24|n|cffFFFF80作者：|r cedi|n|cffCCFF00狂暴|r|n攻击时有 |cffFFFF8014%|r*基础攻击速度的几率增加塔的攻击速度 |cffFFFF8025%|r ，多重暴击次数 |cffFFFF801|r，暴击伤害|cffFFFF80x0.40|r 以及暴击几率 |cffFFFF805%|r 持续 |cffFFFF804|r 秒。无法在处于狂暴状态时再次触发。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.08|r 持续时间|n|cffFFFF80+0.4%|r 攻击速度"
 [Q0O5]
 Name="|cffFFFF00电磁场|r"
 Hotkey=K
@@ -5926,8 +5926,8 @@ Description="|cff9BA0D0曾属于一位天使。|n|n|cffFFFF80等级：|r 83|n|cf
 Name="|cffFF00BF愤怒之戒|r"
 Hotkey=K
 Tip="|cffFF00BF愤怒之戒|r"
-Ubertip="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。|n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n每次攻击将会触发愤怒持续 |cffFFFF801.5|r 秒 ，增加 |cffFFFF800.5%|r 攻击速度，增加 |cffFFFF801%|r 物理伤害和 |cffFFFF800.25%|r 法术伤害。该效果可以叠加 |cffFFFF80120|r 次。"
-Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。|n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n每次攻击将会触发愤怒持续 |cffFFFF801.5|r 秒 ，增加 |cffFFFF800.5%|r 攻击速度，增加 |cffFFFF801%|r 物理伤害和 |cffFFFF800.25%|r 法术伤害。该效果可以叠加 |cffFFFF80120|r 次。"
+Ubertip="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。|n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒 |cffFFFF801.5|r 秒 ，增加 |cffFFFF800.5%|r 攻击速度，增加 |cffFFFF801%|r 攻击力和 |cffFFFF800.25%|r 法术伤害。可以叠加 |cffFFFF80120|r 次。"
+Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。|n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒 |cffFFFF801.5|r 秒 ，增加 |cffFFFF800.5%|r 攻击速度，增加 |cffFFFF801%|r 攻击力和 |cffFFFF800.25%|r 法术伤害。可以叠加 |cffFFFF80120|r 次。"
 [Q0PW]
 Name="|cffFF00BF变色龙阔剑|r"
 Hotkey=K
@@ -5980,8 +5980,8 @@ Description="|cff9BA0D0这个装着幸运骰子的口袋能提升塔的运气。
 Name="|cffFF00BF机敏的垂饰|r"
 Hotkey=K
 Tip="|cffFF00BF机敏的垂饰|r"
-Ubertip="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n攻击需要花费很大的代价. 携带者每次攻击花费 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
-Description="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n攻击需要花费很大的代价. 携带者每次攻击花费 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
+Ubertip="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n有代价的急速攻击。攻击时燃烧携带者 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
+Description="|cff9BA0D0撕裂时空，让携带者拥有不可思议的速度.|n|n|cffFFFF80等级:|r 76|n|cffFFFF80作者:|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n有代价的急速攻击。攻击时燃烧携带者 |cffFFFF807%|r 最大法力值。没有法力则不能攻击."
 [Q0PZ]
 Name="|cffFF00BF至尊连击之刃|r"
 Hotkey=K
