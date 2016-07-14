@@ -6271,13 +6271,13 @@ Ubertip="民兵守卫同时向至多 |cffFFFF803|r 个敌人掷出战斧,但每�
 Name="|cff0080FF愤怒精髓|r"
 Hotkey=T
 Tip="|cff0080FF愤怒精髓|r"
-Ubertip=|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF008|r每秒伤害，|cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n|cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF008|r每秒伤害，|cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n|cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
 ##Item
 [Q01Q]
 Name="愤怒精髓"
 Hotkey=F
 Tip="购买 愤怒精髓"
-Ubertip=一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻: |cffFFFF008|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻: |cffFFFF008|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W02P]
@@ -6323,13 +6323,13 @@ Ubertip="这座塔破坏了生物的心脏. 被击中的生物每秒受到 |cffF
 Name="|cff0080FF狂怒精髓"|r"
 Hotkey=T
 Tip="|cff0080FF狂怒精髓"|r"
-Ubertip=|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻 击: |cffFFFF0031|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹跳攻击:|n  |cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻 击: |cffFFFF0031|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹跳攻击:|n  |cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
 ##Item
 [Q05R]
 Name="狂怒精髓"
 Hotkey=F
 Tip="购买 狂怒精髓"
-Ubertip=一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF0031|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF0031|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W09Z]
@@ -10367,7 +10367,7 @@ Ubertip="攻击时使目标受到来自黑暗系塔的伤害提高 |cffffff806%|
 Name="|cffFFFF00寂静地穴|r"
 Hotkey=T
 Tip="|cffFFFF00寂静地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00356|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹.|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00356|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹.|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 ##Item
 [Q05Q]
 Name="寂静地穴"
@@ -10383,7 +10383,7 @@ Ubertip="攻击时有 |cffFFFF8030%|r 的几率额外射击一次,额外的射�
 [W09X]
 Name="v05U Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并减速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并减速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 ##Buffs
 [R01U]
 Bufftip=肠液覆盖
@@ -10394,7 +10394,7 @@ Buffubertip=这个单位被肠液覆盖，它移动的更慢，并且受到来�
 Name="|cffFFFF00遗弃地穴|r"
 Hotkey=T
 Tip="|cffFFFF00遗弃地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00759|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00759|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 ##Item
 [Q09K]
 Name="遗弃地穴"
@@ -10417,7 +10417,7 @@ Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cf
 Name="|cffFFFF00不死地穴|r"
 Hotkey=T
 Tip="|cffFFFF00不死地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001237|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001237|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 ##Item
 [Q0CZ]
 Name="不死地穴"
@@ -10433,14 +10433,14 @@ Ubertip="攻击时有 |cffFFFF8030%|r 的几率额外射击一次,额外的射�
 [W0PB]
 Name="v0DG Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8013%|r 额外伤害,并减速 |cffFFFF8013%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.4%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8013%|r 额外伤害,并减速 |cffFFFF8013%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.4%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 
 ##Tower
 [v0ID]
 Name="|cffFFFF00无情地穴|r"
 Hotkey=T
 Tip="|cffFFFF00无情地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001838|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001838|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 ##Item
 [Q0HL]
 Name="无情地穴"
@@ -10456,7 +10456,7 @@ Ubertip="攻击时有 |cffFFFF8030%|r 的几率额外射击一次,额外的射�
 [W11D]
 Name="v0ID Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8020%|r 额外伤害,并减速 |cffFFFF8020%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.6%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8020%|r 额外伤害,并减速 |cffFFFF8020%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.6%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 
 ##Tower
 [v06D]
@@ -10999,7 +10999,7 @@ Hotkey=V
 [W0VO]
 Name="v0GH Tower Aura"
 Tip="血的教训"
-Ubertip=|cffFFFF80350|r 范围内每一座低于 |cffFFFF8020|r 级的塔在暴击时都能获取 |cffFFFF801|r 点经验.获取量受到基础攻击速度和射程修正.萨满自己不受到等级限制.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 等级上限每 |cffFFFF805|r 级"
+Ubertip="|cffFFFF80350|r 范围内每一座低于 |cffFFFF8020|r 级的塔在暴击时都能获取 |cffFFFF801|r 点经验.获取量受到基础攻击速度和射程修正.萨满自己不受到等级限制.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 等级上限每 |cffFFFF805|r 级"
 
 ##Tower
 [v072]
@@ -11680,7 +11680,7 @@ Hotkey=V
 [W0DE]
 Name="v07S On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF80600|r 法术伤害，在白天造成 |cffFFFF80200|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+15|r 伤害在夜间 |r|n|cffFFFF80+5|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF80600|r 法术伤害，在白天造成 |cffFFFF80200|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+15|r 伤害在夜间 |r|n|cffFFFF80+5|r 伤害在白天"
 ##Buffs
 [R02C]
 Bufftip=黑暗笼罩
@@ -11712,7 +11712,7 @@ Hotkey=V
 [W0N6]
 Name="v0CJ On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF801650|r 法术伤害，在白天造成 |cffFFFF80550|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+45|r 伤害在夜间 |r|n|cffFFFF80+15|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF801650|r 法术伤害，在白天造成 |cffFFFF80550|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+45|r 伤害在夜间 |r|n|cffFFFF80+15|r 伤害在白天"
 
 ##Tower
 [v0GK]
@@ -11740,7 +11740,7 @@ Hotkey=V
 [W0VV]
 Name="v0GK On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF802700|r 法术伤害，在白天造成 |cffFFFF80900|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+90|r 伤害在夜间 |r|n|cffFFFF80+30|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF802700|r 法术伤害，在白天造成 |cffFFFF80900|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+90|r 伤害在夜间 |r|n|cffFFFF80+30|r 伤害在白天"
 
 ##Tower
 [v07W]

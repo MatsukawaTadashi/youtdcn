@@ -1018,7 +1018,7 @@ Ubertip="|cffFFFF00-50% |r伤害对亡灵|n|cffFFFF00+25% |r伤害对兽人|n|cf
 [W09X]
 Name="v05U Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并减速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF805%|r 额外伤害,并减速 |cffFFFF805%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.2%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 [W09Z]
 Name="v05V abils"
 Tip="特殊能力"
@@ -1363,7 +1363,7 @@ Ubertip="这座塔在夜间造成 |cffFFFF80150%|r 的伤害,在白天造成 |cf
 [W0DE]
 Name="v07S On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF80600|r 法术伤害，在白天造成 |cffFFFF80200|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+15|r 伤害在夜间 |r|n|cffFFFF80+5|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF80600|r 法术伤害，在白天造成 |cffFFFF80200|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+15|r 伤害在夜间 |r|n|cffFFFF80+5|r 伤害在白天"
 [W0DG]
 Name="v07T abils"
 Tip="特殊能力"
@@ -2330,7 +2330,7 @@ Ubertip="这个幽魂的攻击类型是变动的,它有几率打出克制目标�
 [W0N6]
 Name="v0CJ On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF801650|r 法术伤害，在白天造成 |cffFFFF80550|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+45|r 伤害在夜间 |r|n|cffFFFF80+15|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF801650|r 法术伤害，在白天造成 |cffFFFF80550|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+45|r 伤害在夜间 |r|n|cffFFFF80+15|r 伤害在白天"
 [W0MV]
 Name="v0CF On Attack"
 Tip="元素之怒"
@@ -2524,7 +2524,7 @@ Ubertip="攻击时，剑圣高速冲向战场，在他凯旋而归之前出剑�
 [W0PB]
 Name="v0DG Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8013%|r 额外伤害,并减速 |cffFFFF8013%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.4%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8013%|r 额外伤害,并减速 |cffFFFF8013%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.4%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 [W0PC]
 Name="v0DH On Attack"
 Tip="萎缩"
@@ -2540,7 +2540,7 @@ Ubertip="击中时减少目标的移动速度 |cffFFFF8015%|r.减速效果持续
 [W11D]
 Name="v0ID Header"
 Tip="尸体爆炸"
-Ubertip=引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8020%|r 额外伤害,并减速 |cffFFFF8020%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.6%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
+Ubertip="引爆这座塔 |cffFFFF801000|r 范围内的一具尸体,其范围 |cffFFFF80300|r 内所有敌人受到来自黑暗系塔的 |cffFFFF8020%|r 额外伤害,并减速 |cffFFFF8020%|r ,持续 |cffFFFF808|r 秒.|cffFFFF805|r 秒冷却时间.这个效果不会影响空军.|n|n|cffFF8000等级加成:|r|n |cffFFFF80+0.6%|r 减速和所受伤害.|n|cffFFFF80+0.25|r 持续时间"
 [W0PE]
 Name="愤怒攻击"
 [W0PF]
@@ -3719,7 +3719,7 @@ Ubertip="击中时有|cffFFFF8020%|r几率使目标单位受到的法术伤害�
 [W0VV]
 Name="v0GK On Attack"
 Tip="蝙蝠群"
-Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF802700|r 法术伤害，在白天造成 |cffFFFF80900|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+90|r 伤害在夜间 |r|n|cffFFFF80+30|r 伤害在白天
+Ubertip="攻击时有 |cffFFFF8015%|r 几率释放一群蝙蝠, 在夜间造成 |cffFFFF802700|r 法术伤害，在白天造成 |cffFFFF80900|r 法术伤害。攻击范围呈锥形，半径从初始 |cffFFFF80100|r  扩大到|cffFFFF80300|r 。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r 几率 |r|n|cffFFFF80+90|r 伤害在夜间 |r|n|cffFFFF80+30|r 伤害在白天"
 [W0W8]
 Name="v0GQ Tower Aura"
 Tip="恶魔赦令"
@@ -3743,7 +3743,7 @@ Ubertip="|cffFFFF0015%|r 暴击几率|n"
 [W0VO]
 Name="v0GH Tower Aura"
 Tip="血的教训"
-Ubertip=|cffFFFF80350|r 范围内每一座低于 |cffFFFF8020|r 级的塔在暴击时都能获取 |cffFFFF801|r 点经验.获取量受到基础攻击速度和射程修正.萨满自己不受到等级限制.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 等级上限每 |cffFFFF805|r 级"
+Ubertip="|cffFFFF80350|r 范围内每一座低于 |cffFFFF8020|r 级的塔在暴击时都能获取 |cffFFFF801|r 点经验.获取量受到基础攻击速度和射程修正.萨满自己不受到等级限制.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 等级上限每 |cffFFFF805|r 级"
 [W0W0]
 Name="v0GN On Damage"
 Tip="守护者之怒"

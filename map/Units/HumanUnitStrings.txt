@@ -504,7 +504,7 @@ Ubertip="|cff9BA0D0这里简直是一片荒芜，发臭的毒液四处漫涌，�
 Name="|cffFFFF00不死地穴|r"
 Hotkey=T
 Tip="|cffFFFF00不死地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001237|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001237|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 [v0DD]
 Name="|cffFFFFFF灵魂牢笼|r"
 Hotkey=T
@@ -1675,7 +1675,7 @@ Ubertip="|cff9BA0D0这座塔杀死敌人时会进入狂暴状态，并且每次�
 Name="|cffFFFF00无情地穴|r"
 Hotkey=T
 Tip="|cffFFFF00无情地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001838|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001838|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 [v0IB]
 Name="|cffFF00BF剑圣|r"
 Hotkey=T
@@ -2146,7 +2146,7 @@ Ubertip="|cff9BA0D0基础塔，有一点溅射伤害。|n|n|cffFFFF80作者：|r
 Name="|cff0080FF愤怒精髓|r"
 Hotkey=T
 Tip="|cff0080FF愤怒精髓|r"
-Ubertip=|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF008|r每秒伤害，|cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n|cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF008|r每秒伤害，|cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n|cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
 [v025]
 Name="|cff0080FF次级骷髅法师|r"
 Hotkey=T
@@ -2894,7 +2894,7 @@ Ubertip="|cff9BA0D0这座塔能让目标受到的物理伤害提高。|n|n|cffFF
 Name="|cffFFFF00寂静地穴|r"
 Hotkey=T
 Tip="|cffFFFF00寂静地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00356|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹.|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00356|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹.|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 [v066]
 Name="|cffFFFFFF中型寒冰守卫|r"
 Hotkey=T
@@ -2904,7 +2904,7 @@ Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cff
 Name="|cff0080FF狂怒精髓"|r"
 Hotkey=T
 Tip="|cff0080FF狂怒精髓"|r"
-Ubertip=|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻 击: |cffFFFF0031|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹跳攻击:|n  |cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻 击: |cffFFFF0031|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹跳攻击:|n  |cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害."
 [v067]
 Name="|cffFFFFFF中型星辰守卫|r"
 Hotkey=T
@@ -3549,7 +3549,7 @@ Ubertip="|cff9BA0D0牺牲自己以强化附近的塔。|n|n|cffFFFF80作者：|r
 Name="|cffFFFF00遗弃地穴|r"
 Hotkey=T
 Tip="|cffFFFF00遗弃地穴|r"
-Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00759|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。
+Ubertip="|cff9BA0D0凋零的身体和深沉的邪恶，组成了地穴里的黑暗支柱。伤害输出相当可靠，还拥有尸体爆炸技能。|n|n|cffFFFF80作者：|r eMoo|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00759|r每秒伤害，|cff808000凋零|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00临界物质|r|攻击时有几率发射多颗子弹|n|n|cffCCFF00尸体爆炸|r|n引爆一具尸体，对附近单位造成减速与易伤。"
 [v09X]
 Name="|cffFFFFFF巨型黑暗火坑|r"
 Hotkey=T

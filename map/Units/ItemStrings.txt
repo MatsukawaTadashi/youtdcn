@@ -526,7 +526,7 @@ Description="点击使用建造一座塔"
 Name="愤怒精髓"
 Hotkey=F
 Tip="购买 愤怒精髓"
-Ubertip=一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻: |cffFFFF008|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻: |cffFFFF008|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q022]
 Name="次级骷髅法师"
@@ -1342,7 +1342,7 @@ Description="点击使用建造一座塔"
 Name="狂怒精髓"
 Hotkey=F
 Tip="购买 狂怒精髓"
-Ubertip=一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF0031|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒.|n|n|cffFFFF80作者:|r Killamasta|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击: |cffFFFF0031|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 [Q063]
 Name="中型星辰守卫"
