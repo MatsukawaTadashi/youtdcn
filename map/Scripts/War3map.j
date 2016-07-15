@@ -7114,7 +7114,7 @@ endfunction
 function Q7 takes integer p returns nothing
 call TimerStart(ry[p],oy[p],false,function q7)
 if GetLocalPlayer()==Wj[p]then
-call TimerDialogSetTitle(ay[p],"|cffD8C53DAutospawn in|r")
+call TimerDialogSetTitle(ay[p],"|cffD8C53D自动出怪 在|r")
 call TimerDialogDisplay(ay[p],true)
 endif
 endfunction
@@ -8002,10 +8002,10 @@ endif
 set vWv=(LoadInteger(Z,0,GetHandleId((b))))
 if FD[vWv]then
 set FD[vWv]=false
-call DisplayTimedTextToForce(bj_FORCE_ALL_PLAYERS,90.,"Disabled "+DD[vWv])
+call DisplayTimedTextToForce(bj_FORCE_ALL_PLAYERS,90.,"禁用 "+DD[vWv])
 else
 set FD[vWv]=true
-call DisplayTimedTextToForce(bj_FORCE_ALL_PLAYERS,90.,"|cffFFFF00Enabled |r"+DD[vWv]+"|cffFFFF00: "+fD[vWv]+"|r")
+call DisplayTimedTextToForce(bj_FORCE_ALL_PLAYERS,90.,"|cffFFFF00启用 |r"+DD[vWv]+"|cffFFFF00: "+fD[vWv]+"|r")
 endif
 call vwv(kD)
 endfunction
@@ -8490,9 +8490,9 @@ exitwhen i>=Sv
 set c=Qv[i]
 if Cf[c]==eQv then
 if eQv!=cf[c]then
-call DisplayTextToForce(bj_FORCE_ALL_PLAYERS,"|cffFFFF00|r"+bf[GetRandomInt(0,3)]+Yj[p]+" (|cffFFFF00aka |r|cffFF8200"+cf[c]+"|cffFFFF00, YouTD contribution score: |r|cffFF8200"+I2S(df[c])+"|r)"+bf[GetRandomInt(0,3)+4])
+call DisplayTextToForce(bj_FORCE_ALL_PLAYERS,"|cffFFFF00|r"+bf[GetRandomInt(0,3)]+Yj[p]+" (|cffFFFF00aka |r|cffFF8200"+cf[c]+"|cffFFFF00, YouTD 贡献度: |r|cffFF8200"+I2S(df[c])+"|r)"+bf[GetRandomInt(0,3)+4])
 else
-call DisplayTextToForce(bj_FORCE_ALL_PLAYERS,"|cffFFFF00|r"+bf[GetRandomInt(0,3)]+Yj[p]+" (|cffFFFF00YouTD contribution score: |r|cffFF8200"+I2S(df[c])+"|r)"+bf[GetRandomInt(0,3)+4])
+call DisplayTextToForce(bj_FORCE_ALL_PLAYERS,"|cffFFFF00|r"+bf[GetRandomInt(0,3)]+Yj[p]+" (|cffFFFF00YouTD 贡献度: |r|cffFF8200"+I2S(df[c])+"|r)"+bf[GetRandomInt(0,3)+4])
 endif
 call AddSpecialEffectTarget("Abilities\\Weapons\\DragonHawkMissile\\DragonHawkMissile.mdl",dJ[p],"overhead")
 if df[c]>$A then
@@ -9516,7 +9516,7 @@ call DisplayTextToPlayer(oKv,.0,.0,"你不能从其他玩家的箱子中购买�
 set oLv=true
 endif
 if(FD[JD[1]]and GetUnitAbilityLevel(DJ[rG[okv]],'XRND')>0)then
-call DisplayTextToPlayer(oKv,.0,.0,"You must roll your own starting towers before buying from the shared stashes!")
+call DisplayTextToPlayer(oKv,.0,.0,"在你从共享箱子购买塔前，你必须先随机自己的起始塔!")
 set oLv=true
 endif
 if oLv then
@@ -13287,7 +13287,7 @@ set VTv=VTv-1
 call TriggerSleepAction(((.01)*1.))
 endloop
 if xp==-1 then
-call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF0000Invalid code!|r"))
+call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF0000无效代码!|r"))
 else
 call nxv(p,xp,wK[VTv])
 endif
@@ -13305,7 +13305,7 @@ set c=VQv(p,xp)
 if c==-1 then
 call aFv(p,"|cffFF0000抱歉,在单人模式下不能保存积分!|r",$4B0)
 elseif xp==0 then
-call aFv(p,"|cffFF0000You gathered |cff80FF000|cffFF0000 XP so no save code was generated.|r",$4B0)
+call aFv(p,"|cffFF0000你获得了 |cff80FF000|cffFF0000 点经验，所以没有生成代码。|r",$4B0)
 else
 call aFv(p,"|cffFFFF00你获得了 |cff80FF00"+I2S(xp)+"|cffFFFF00 点经验. 下次游戏输入 \"-load\" 和如下代码:
 "+lK[c]+"|r",1200.)
@@ -18065,7 +18065,7 @@ return false
 endif
 if(Ht[(yt[ojv])]==2)and(GetUnitPointValue((xT))>99999)then
 call UnitDropItemPoint(xT,eT,GetUnitX(xT),GetUnitY(xT))
-call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF8000You cannot put consumables into a tower!|r"))
+call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF8000消耗品不能放入塔的物品栏里!|r"))
 return false
 endif
 if vT[ojv]!=0 then
@@ -26000,8 +26000,8 @@ endfunction
 function HUv takes unit u returns nothing
 local integer p=(wj[GetPlayerId((GetOwningPlayer(u)))])
 if not IsPointInRegion(jJ[p],GetOrderPointX(),GetOrderPointY())then
-call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF0000You cannot build there, the point is not in your build region.
-If this area belongs to a team member, ask him to -allow you to build there|r"))
+call DisplayTextToPlayer(Wj[(p)],.0,.0,("|cffFF0000你不能在这里建造, 这里不属于你的建造区域。
+如果这里属于你的队友, 你可以让他使用 -allow 命令允许你在这里建造|r"))
 call IssueImmediateOrderById(u,$D0004)
 call PauseUnit(u,true)
 call r7(.1)
