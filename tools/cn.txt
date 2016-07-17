@@ -5750,7 +5750,7 @@ Ubertip="攻击时有|cffFFFF8010%|r 几率降低自身攻击速度 |cffFFFF8060
 
 ##Tower
 [v0EG]
-Name="|cff0080FF久远遗忘之魂||r"
+Name="|cff0080FF久远遗忘之魂|r"
 Hotkey=T
 Tip="|cff0080FF久远遗忘之魂|r"
 Ubertip="|cff9BA0D0一座诡计多端的塔，会选择同敌人两败俱伤|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001044|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00暗影打击|r|n攻击时有一定几率造成额外的法术伤害。|n|n|cffCCFF00灵魂散落|r|n攻击时能使目标对法术更加敏感，但是也会降低塔自身的攻击速度。"
@@ -9137,13 +9137,13 @@ Hotkey=V
 Name="|cffFFFF00狂热者|r"
 Hotkey=T
 Tip="|cffFFFF00狂热者|r"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
 ##Item
 [Q04Z]
 Name="狂热者"
 Hotkey=F
 Tip="购买 狂热者"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00553|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W07W]
@@ -9177,13 +9177,13 @@ Buffubertip=这个单位的攻击速度被附近的狂热者降低了。
 Name="|cffFFFF00专注的狂热者|r"
 Hotkey=T
 Tip="|cffFFFF00专注的狂热者|r"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
 ##Item
 [Q08E]
 Name="专注的狂热者"
 Hotkey=F
 Tip="购买 专注的狂热者"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001231|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W0FD]
@@ -9204,13 +9204,13 @@ Ubertip="攻击时会陷入更大的狂热,其范围 |cffFFFF80175|r 内的每�
 Name="|cffFFFF00暴怒的狂热者|r"
 Hotkey=T
 Tip="|cffFFFF00暴怒的狂热者|r"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
 ##Item
 [Q0C2]
 Name="暴怒的狂热者"
 Hotkey=F
 Tip="购买 暴怒的狂热者"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF001965|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W0MX]
@@ -9231,13 +9231,13 @@ Ubertip="攻击时会陷入更大的狂热,其范围 |cffFFFF80175|r 内的每�
 Name="|cffFFFF00狂怒的狂热者|r"
 Hotkey=T
 Tip="|cffFFFF00狂怒的狂热者|r"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者：|r dzk87|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之刃|r|n每次攻击相同的怪物将增加对该目标的伤害，效果可叠加。|n|n|cffCCFF00闪电盾|r|n每层热诚都会减少该塔受负面状态的持续时间。|n|n|cffCCFF00热诚|r|n攻击时会陷入更大的狂热，增加其攻击速度但减缓其周围其它塔的攻击速度。效果可叠加。"
 ##Item
 [Q0GN]
 Name="狂怒的狂热者"
 Hotkey=F
 Tip="购买 狂怒的狂热者"
-Ubertip="||cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cffFFFF80作者:|r dzk87|n|cffFFFF80元素:|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002996|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00875|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W0XQ]
