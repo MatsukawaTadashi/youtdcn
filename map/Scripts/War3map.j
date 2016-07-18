@@ -1,4 +1,4 @@
-globals
+﻿globals
 real X
 real O
 real R
@@ -19967,11 +19967,11 @@ set XU[(e8v)]=(Bzv)
 call Btv(e8v,"evasion")
 call Btv(e8v,"immune-evasion")
 set e8v=Blv("幽灵","幽灵","|cff1C32FF",.23,64,$8C,false)
-set wu[(e8v)]=("这波敌人有90%几率忽略非魔法类型的普通攻击")
+set wu[(e8v)]=("这波敌人有90%几率忽略非法术或非魔法攻击类型造成的伤害")
 call Buv(e8v,true,true,true,true)
 set Bzv=RKv()
 set XU[(e8v)]=(Bzv)
-set Wu[(e8v)]=("必须要保留一些具有技能伤害或法术攻击的塔")
+set Wu[(e8v)]=("必须要保留一些具有法术伤害或魔法攻击类型的塔")
 call Rqv(Bzv,(18),.9,.0)
 call v8((Aq[(Bzv)]),z7((Rkv(ZP,((19))))))
 call Btv(e8v,"evasion")
@@ -20591,7 +20591,7 @@ call v8((Iq[(Bo)]),z7((((64)))))
 endfunction
 function cqv takes integer cxv returns nothing
 local integer ac
-set ac=(rmv(("Chrono Jump"),((65)),('W16Y'),"ITEM",(4),(0),(($5DC)*1.),(($5DC)*1.),((30)*1.),((0)*1.),(true)))
+set ac=(rmv(("时空穿越"),((65)),('W16Y'),"ITEM",(4),(0),(($5DC)*1.),(($5DC)*1.),((30)*1.),((0)*1.),(true)))
 call ruv(ac)
 call Ruv(cxv,ac)
 endfunction
@@ -22309,12 +22309,12 @@ call IIv(Oa,'W0BI','R021')
 endfunction
 function DTv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Bloodlust",(297),'W0BF',"spies",0,Wv,500.,500.,5.,$F,false)
+set ac=rmv("嗜血",(297),'W0BF',"spies",0,Wv,500.,500.,5.,$F,false)
 set hh[(ac)]=(Xa)
 set Bh[(ac)]=(1)
 set gh[(ac)]=("Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl")
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Bloody Experience",$FA,Oa,Wv,true,1,0,1,0))
+call Rtv(bt,Alv("血的教训",$FA,Oa,Wv,true,1,0,1,0))
 endfunction
 function Duv takes integer bt returns nothing
 local integer ac
@@ -23025,12 +23025,12 @@ call Ruv(bt,ac)
 endfunction
 function f9v takes integer bt returns nothing
 local integer ac
-set ac=rmv("Bloodlust",(345),'W0JH',"roar",0,Wv,500.,500.,5.,$F,false)
+set ac=rmv("嗜血",(345),'W0JH',"roar",0,Wv,500.,500.,5.,$F,false)
 set hh[(ac)]=(Xa)
 set Bh[(ac)]=(1)
 set gh[(ac)]=("Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl")
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Bloody Experience",300,Oa,Wv,true,1,0,1,0))
+call Rtv(bt,Alv("血的教训",300,Oa,Wv,true,1,0,1,0))
 endfunction
 function Fvv takes nothing returns nothing
 local integer m=(g3())
@@ -23053,14 +23053,14 @@ call IIv(fn,'W0JY','R03A')
 endfunction
 function Fxv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Divine Teachings",(346),'W0JV',"spies",0,Wv,500,500,5,30,false)
+set ac=rmv("神圣教育",(346),'W0JV',"spies",0,Wv,500,500,5,30,false)
 set hh[(ac)]=(fn)
 set Ch[(ac)]=not(true)
 set gh[(ac)]=("Abilities\\Spells\\Other\\Charm\\CharmTarget.mdl")
 set Fh[(ac)]=("Abilities\\Spells\\Items\\AIim\\AIimTarget.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Divine Research",900,Dn,wv,false,0,1,0,1))
+call Rtv(bt,Alv("神圣研究",900,Dn,wv,false,0,1,0,1))
 endfunction
 function Fov takes nothing returns nothing
 set Fn=RWv("abilities\\weapons\\catapult\\catapultmissile.mdl",4.,.0)
@@ -23101,11 +23101,11 @@ call IIv(Jn,'W0KM','R03F')
 endfunction
 function Fnv takes integer bt returns nothing
 local integer ac
-set ac=rmv("阳光普照",(350),'W0KJ',"web",3,wv,$3E8,850,20,90,false)
+set ac=rmv("光爆",(350),'W0KJ',"web",3,wv,$3E8,850,20,90,false)
 set Fh[(ac)]=("Abilities\\Spells\\Other\\Awaken\\Awaken.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Glimmer of Hope",500,jn,Wv,true,1,1,1,1))
+call Rtv(bt,Alv("希望之光",500,jn,Wv,true,1,1,1,1))
 endfunction
 function FVv takes integer bt returns nothing
 local integer ac
@@ -23240,7 +23240,7 @@ call Rlv(Un,(362),1)
 endfunction
 function Ffv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Charge",(363),'W0LZ',"roar",0,Wv,$4B0,$4B0,5,20,false)
+set ac=rmv("充能",(363),'W0LZ',"roar",0,Wv,$4B0,$4B0,5,20,false)
 set hh[(ac)]=(Un)
 set Bh[(ac)]=(3)
 call Ruv(bt,ac)
@@ -23278,7 +23278,7 @@ set xQ[(Wn)]=(m)
 endfunction
 function FHv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Burning Mark",0,'W0MC',"taunt",0,Wv,500,500,2.,20,false)
+set ac=rmv("燃烧印记",0,'W0MC',"taunt",0,Wv,500,500,2.,20,false)
 set hh[(ac)]=(Wn)
 set Bh[(ac)]=(3)
 set gh[(ac)]=("Abilities\\Spells\\Other\\Doom\\DoomDeath.mdl")
@@ -23469,11 +23469,11 @@ set cj[Cj[(IV)]+(0)]=("魔力需求")
 endfunction
 function FZv takes integer bt returns nothing
 local integer ac
-call Rtv(bt,Alv("Cloud of Absorption",$3E8,EV,wv,false,1,1,1,1))
+call Rtv(bt,Alv("吸收云雾",$3E8,EV,wv,false,1,1,1,1))
 set ac=rmv("雷霆云殿",(377),'W0NH',"taunt",4,0,0,0,.01,$3E8,false)
 call ruv(ac)
 call Ruv(bt,ac)
-set ac=rmv("Adjust Autocast Threshold",(378),'W0NI',"web",4,0,0,0,.01,0,false)
+set ac=rmv("调整自动施放阈值",(378),'W0NI',"web",4,0,0,0,.01,0,false)
 call ruv(ac)
 call Ruv(bt,ac)
 endfunction
@@ -23983,7 +23983,7 @@ set Ch[(ac)]=not(true)
 set Fh[(ac)]=("Abilities\\Spells\\Human\\Polymorph\\PolyMorphDoneGround.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Gust",800,BE,Wv,true,0,1,0,1))
+call Rtv(bt,Alv("阵风",800,BE,Wv,true,0,1,0,1))
 endfunction
 function gTv takes integer t returns nothing
 local integer p
@@ -24072,12 +24072,12 @@ call Rtv(bt,Alv("宁静",450.,fE,Wv,true,0,1,0,1))
 endfunction
 function gZv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Bloodlust",(431),'W0VN',"roar",0,Wv,500.,500.,5.,$F,false)
+set ac=rmv("嗜血",(431),'W0VN',"roar",0,Wv,500.,500.,5.,$F,false)
 set hh[(ac)]=(Xa)
 set Bh[(ac)]=(1)
 set gh[(ac)]=("Abilities\\Spells\\Orc\\Bloodlust\\BloodlustTarget.mdl")
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Bloody Experience",350,Oa,Wv,true,1,0,1,0))
+call Rtv(bt,Alv("血的教训",350,Oa,Wv,true,1,0,1,0))
 endfunction
 function g_v takes integer bt returns nothing
 local integer ac
@@ -24232,7 +24232,7 @@ set cj[Cj[(wE)]+(0)]=("存储的生命之力")
 endfunction
 function Grv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Eden's Wrath",(451),'W0X2',"taunt",3,wv,800,800,10.,0,false)
+set ac=rmv("伊甸园之怒",(451),'W0X2',"taunt",3,wv,800,800,10.,0,false)
 set Fh[(ac)]=("none.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
@@ -24521,7 +24521,7 @@ set xQ[(jX)]=(m)
 endfunction
 function Gpv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Hammer Fall",(474),'W0ZJ',"web",2,wv,900.,900.,10.,50,false)
+set ac=rmv("落锤",(474),'W0ZJ',"web",2,wv,900.,900.,10.,50,false)
 call Ruv(bt,ac)
 endfunction
 function GPv takes integer bt returns nothing
@@ -24582,11 +24582,11 @@ set cj[Cj[(sX)]+(1)]=("进化程度")
 endfunction
 function GSv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Morph: Might",(481),'W0ZX',"spies",4,0,0,0,1,0,false)
+set ac=rmv("转换: 力量",(481),'W0ZX',"spies",4,0,0,0,1,0,false)
 call Ruv(bt,ac)
-set ac=rmv("Morph: Swiftness",(482),'W0ZY',"taunt",4,0,0,0,1,0,false)
+set ac=rmv("转换: 敏捷",(482),'W0ZY',"taunt",4,0,0,0,1,0,false)
 call Ruv(bt,ac)
-set ac=rmv("Adapt",(483),'W0ZZ',"web",4,0,0,0,1,0,false)
+set ac=rmv("适应",(483),'W0ZZ',"web",4,0,0,0,1,0,false)
 call Ruv(bt,ac)
 endfunction
 function Gtv takes nothing returns nothing
@@ -24618,7 +24618,7 @@ call v8((Iq[(WX)]),z7((((485)))))
 endfunction
 function Guv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Astral Eruption",(486),'W10B',"roar",3,wv,0,700,35,$3E8,false)
+set ac=rmv("星辰爆发",(486),'W10B',"roar",3,wv,0,700,35,$3E8,false)
 call Ruv(bt,ac)
 endfunction
 function GUv takes nothing returns nothing
@@ -24665,7 +24665,7 @@ set cj[Cj[(ZX)]+(1)]=("法术伤害")
 endfunction
 function GWv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Mystical Trance",(487),'W10R',"spies",0,Wv,500,500,2,50,false)
+set ac=rmv("出神入化",(487),'W10R',"spies",0,Wv,500,500,2,50,false)
 set hh[(ac)]=(YX)
 set Bh[(ac)]=(1)
 set Fh[(ac)]=("Abilities\\Spells\\Items\\AIre\\AIreTarget.mdl")
@@ -24797,7 +24797,7 @@ set IO=x2v(1)
 endfunction
 function hrv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Energy Conversion",(496),'W11H',"web",3,wv,.0,650.,12.,$4B0,true)
+set ac=rmv("能量转换",(496),'W11H',"web",3,wv,.0,650.,12.,$4B0,true)
 set Fh[(ac)]=("Abilities\\Spells\\Human\\MassTeleport\\MassTeleportCaster.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
@@ -24810,7 +24810,7 @@ call v8((Iq[(AO)]),z7((((498)))))
 endfunction
 function hav takes integer bt returns nothing
 local integer ac
-set ac=rmv("Shock",(499),'W11N',"roar",2,wv,900.,900.,15.,50,false)
+set ac=rmv("震动",(499),'W11N',"roar",2,wv,900.,900.,15.,50,false)
 call Ruv(bt,ac)
 endfunction
 function hnv takes integer A9v returns nothing
@@ -24926,7 +24926,7 @@ set cj[Cj[(HO)]+(2)]=("法术暴击率加成")
 endfunction
 function hcv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Lightmare",(508),'W12H',"spies",3,wv,1500.,1500.,10.5,$3E8,false)
+set ac=rmv("光魇",(508),'W12H',"spies",3,wv,1500.,1500.,10.5,$3E8,false)
 call Ruv(bt,ac)
 endfunction
 function hCv takes integer T,integer B returns nothing
@@ -24978,11 +24978,11 @@ set Yq[(KO)]=((77))
 endfunction
 function hgv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Dimensional Link",(515),'W12T',"taunt",4,0,800,800,1,0,false)
+set ac=rmv("维度连接",(515),'W12T',"taunt",4,0,800,800,1,0,false)
 set gh[(ac)]=(".mdl")
 call ruv(ac)
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Dimensional Distortion Field",2150.,jO,wv,false,0,1,0,1))
+call Rtv(bt,Alv("维度扭曲力场",2150.,jO,wv,false,0,1,0,1))
 endfunction
 function hGv takes nothing returns nothing
 local integer m=(g3())
@@ -25006,7 +25006,7 @@ call IIv(MO,'W133','R06U')
 endfunction
 function hhv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Will of the Undying",(517),'W12Z',"web",3,wv,900,900,$A,50,false)
+set ac=rmv("不朽的意志",(517),'W12Z',"web",3,wv,900,900,$A,50,false)
 set Fh[(ac)]=("Abilities\\Spells\\Other\\HowlOfTerror\\HowlCaster.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
@@ -25176,11 +25176,11 @@ set cj[Cj[(nR)]+(1)]=("受影响的塔")
 endfunction
 function huv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Speed Up",(535),'W14E',"spies",4,0,0,.0,.5,0,false)
+set ac=rmv("加速",(535),'W14E',"spies",4,0,0,.0,.5,0,false)
 call Ruv(bt,ac)
-set ac=rmv("Speed Down",(536),'W14F',"taunt",4,0,0,.0,5.,0,false)
+set ac=rmv("减速",(536),'W14F',"taunt",4,0,0,.0,5.,0,false)
 call Ruv(bt,ac)
-call Rtv(bt,Alv("Steam Power",450.,aR,Wv,false,1,1,1,1))
+call Rtv(bt,Alv("蒸汽能量",450.,aR,Wv,false,1,1,1,1))
 endfunction
 function hUv takes integer j5,integer A9v returns nothing
 local real hwv=(b8(bL[(A9v)]))
@@ -25239,8 +25239,8 @@ set xQ[(OR)]=(m)
 endfunction
 function h0v takes integer bt returns nothing
 local integer ac
-call Rtv(bt,Alv("Evil Device",$96,ER,x2v(2+65536+ee+ve),false,1,0,1,0))
-set ac=rmv("Awaken",(542),'W14M',"web",3,wv,500,500,4,50,true)
+call Rtv(bt,Alv("邪恶装置",$96,ER,x2v(2+65536+ee+ve),false,1,0,1,0))
+set ac=rmv("觉醒",(542),'W14M',"web",3,wv,500,500,4,50,true)
 set Fh[(ac)]=("Objects\\Spawnmodels\\Undead\\UCancelDeath\\UCancelDeath.mdl")
 call ruv(ac)
 call Ruv(bt,ac)
@@ -25301,7 +25301,7 @@ function h4v takes integer bt returns nothing
 local integer ac
 call Rtv(bt,Alv("熔炉之心",350,IR,x2v(2+zv+ee+ve),false,1,0,1,0))
 call Rtv(bt,Alv("喂食烈焰",0,NR,x2v(4+zv),true,1,0,1,0))
-set ac=rmv("Intense Heat",(549),'W14U',"roar",3,wv,750,750,5,'d',true)
+set ac=rmv("酷热",(549),'W14U',"roar",3,wv,750,750,5,'d',true)
 call ruv(ac)
 call Ruv(bt,ac)
 endfunction
@@ -25330,10 +25330,10 @@ set cj[Cj[(BR)]+(0)]=("法伤加成")
 endfunction
 function Hvv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Recreation Field",(551),'W153',"taunt",4,0,800,0,5,0,true)
+set ac=rmv("休养领域",(551),'W153',"taunt",4,0,800,0,5,0,true)
 call ruv(ac)
 call Ruv(bt,ac)
-set ac=rmv("Corruption Field",(552),'W154',"web",4,0,800,0,5,0,true)
+set ac=rmv("腐败领域",(552),'W154',"web",4,0,800,0,5,0,true)
 call ruv(ac)
 call Ruv(bt,ac)
 endfunction
@@ -25480,7 +25480,7 @@ call R2v(cR,(555),.25)
 endfunction
 function HRv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Targeted Run",(556),'W157',"roar",2,wv,$3E8,$3E8,$F,0,false)
+set ac=rmv("目标追踪",(556),'W157',"roar",2,wv,$3E8,$3E8,$F,0,false)
 call ruv(ac)
 call Ruv(bt,ac)
 endfunction
@@ -25521,8 +25521,8 @@ set BM[(FR)]=((220.)*1.)
 endfunction
 function HNv takes integer bt returns nothing
 local integer ac
-call Rtv(bt,Alv("Conduit",$96,fR,x2v(2+Zv+ee+ve),false,1,0,1,0))
-set ac=rmv("Unleash",(560),'W15G',"spies",0,wv,1200.,1200.,.5,400,false)
+call Rtv(bt,Alv("传导",$96,fR,x2v(2+Zv+ee+ve),false,1,0,1,0))
+set ac=rmv("释放",(560),'W15G',"spies",0,wv,1200.,1200.,.5,400,false)
 set hh[(ac)]=(0)
 set Bh[(ac)]=(1)
 call ruv(ac)
@@ -25670,7 +25670,7 @@ set cj[Cj[(pR)]+(0)]=("灵魂数")
 endfunction
 function Hkv takes integer bt returns nothing
 local integer ac
-set ac=rmv("Soul Storm",(569),'W15Y',"roar",4,0,600.,600.,5.,0,false)
+set ac=rmv("灵魂风暴",(569),'W15Y',"roar",4,0,600.,600.,5.,0,false)
 call Ruv(bt,ac)
 endfunction
 function HKv takes nothing returns nothing
@@ -32350,7 +32350,7 @@ set it=A_v('Q0KU',308,cxv,7,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 set cxv=L5()
 set it=A_v('Q0KV',354,cxv,7,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 call civ()
-call Rtv((cxv),Alv("Grace",150.,yx,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("优雅",150.,yx,Wv,true,0,1,0,1))
 set cxv=L5()
 set m=(g3())
 call t6(m,34,-.2,0)
@@ -32511,7 +32511,7 @@ call Rtv((cxv),Alv("神圣愤怒",$C8,xo,Wv,true,0,1,0,1))
 set cxv=L5()
 set it=A_v('Q0LP',400,cxv,$D,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 call cRv()
-call Rtv((cxv),Alv("Rot",$C8,oo,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("腐烂",$C8,oo,Wv,true,0,1,0,1))
 set cxv=L5()
 set it=A_v('Q0LQ',424,cxv,20,1,"war3mapImported\\Bag2.mdx",80,80,$FF,2.25)
 set cxv=L5()
@@ -32882,14 +32882,14 @@ set it=A_v('Q0NK',$89,cxv,21,3,"war3mapImported\\Bag2.mdx",$FF,0,$FF,2.75)
 set cxv=L5()
 set it=A_v('Q0NL',$B3,cxv,21,3,"war3mapImported\\Bag2.mdx",$FF,0,$FF,2.75)
 call csv()
-call Rtv((cxv),Alv("Motivation",$3E8,Co,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("激励",$3E8,Co,Wv,true,0,1,0,1))
 set cxv=L5()
 call v8((Aq[(cxv)]),z7((Rkv(ZP,(($AA))))))
 call Rmv(cxv,($AB),1.,.0)
 call v8((Aq[(cxv)]),z7((Rkv(1,(($AC))))))
 set it=A_v('Q0NM',273,cxv,31,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 call cSv()
-call Rtv((cxv),Alv("Mana Aura",$C8,do,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("辉煌光环",$C8,do,Wv,true,0,1,0,1))
 set cxv=L5()
 call RPv(cxv,($AD),1.,.0)
 set it=A_v('Q0NN',413,cxv,21,3,"war3mapImported\\Bag2.mdx",$FF,0,$FF,2.75)
@@ -33006,7 +33006,7 @@ call t6(m,83,-.7,0)
 set bq[(cxv)]=(m)
 set it=A_v('Q0O7',439,cxv,40,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 call czv()
-call Rtv((cxv),Alv("Bestial Rage",$C8,ko,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("野性狂怒",$C8,ko,Wv,true,0,1,0,1))
 set cxv=L5()
 set m=(g3())
 call t6(m,34,.125,0)
@@ -33280,7 +33280,7 @@ call c7v()
 set cxv=L5()
 set it=A_v('Q0PG',265,cxv,67,2,"war3mapImported\\Bag1.mdx",$FF,$FF,0,2.5)
 call c8v()
-call Rtv((cxv),Alv("",$C8,Uo,Wv,true,0,1,0,1))
+call Rtv((cxv),Alv("力场",$C8,Uo,Wv,true,0,1,0,1))
 set cxv=L5()
 set m=(g3())
 call t6(m,5,.1,.01)
@@ -52111,7 +52111,7 @@ call v8((l),z7((x5v("Abilities\\Weapons\\DragonHawkMissile\\DragonHawkMissile.md
 call v8((l),z7((x5v("Doodads\\Icecrown\\Rocks\\Icecrown_Crystal\\Icecrown_Crystal4.mdl",3.188,-2.741,-44.8,.8,3.466,$B4,$B4,$FF,$FF,0))))
 set Nu[t]=l
 call fRv()
-call Rtv((bt),Alv("Frost Aura",800,qa,wv,false,$96,4,$96,4))
+call Rtv((bt),Alv("霜冻光环",800,qa,wv,false,$96,4,$96,4))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,((813))))))
 call RPv(bt,(814),1.,.0)
@@ -52143,7 +52143,7 @@ call v8((l),z7((x5v("Doodads\\Northrend\\Props\\NorthrendTombstone\\NorthrendTom
 call v8((l),z7((x5v("Doodads\\Northrend\\Props\\NorthrendTombstone\\NorthrendTombstone0.mdl",10.57,48.41,0,.25,5.358,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call fIv()
-call Rtv((bt),Alv("",$3E8,Qa,wv,false,1,0,1,0))
+call Rtv((bt),Alv("灵魂复仇",$3E8,Qa,wv,false,1,0,1,0))
 set bt=RKv()
 call RPv(bt,(817),1.,.0)
 set bq[(bt)]=(Sc)
@@ -54628,7 +54628,7 @@ call v8((l),z7((x5v("Doodads\\Underground\\Structures\\UndergroundArchway1\\Unde
 call v8((l),z7((x5v("Doodads\\Underground\\Structures\\UndergroundArchway1\\UndergroundArchway1.mdl",3.484,5.392,108.8,.2,4.712,$FF,$FF,$FF,$FF,3.14))))
 set Nu[t]=l
 call FGv()
-call Rtv((bt),Alv("",900,wn,wv,false,1,0,1,0))
+call Rtv((bt),Alv("熔化",900,wn,wv,false,1,0,1,0))
 call TriggerExecute(yz[(28)])
 return true
 endfunction
@@ -55099,7 +55099,7 @@ call v8((l),z7((x5v("Doodads\\Northrend\\Props\\NorthrendTombstone\\NorthrendTom
 call v8((l),z7((x5v("units\\undead\\Shade\\Shade.mdl",-2.982,-37.97,0,.3,3.187,$FF,$FF,$FF,$FF,0))))
 call v8((l),z7((x5v("units\\undead\\Shade\\Shade.mdl",37.17,8.315,0,.3,.8739,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
-call Rtv((bt),Alv("",$3E8,Qa,wv,false,1,0,1,0))
+call Rtv((bt),Alv("灵魂复仇",$3E8,Qa,wv,false,1,0,1,0))
 set bt=RKv()
 call RPv(bt,($3F3),.15,.0)
 set m=(g3())
@@ -55862,7 +55862,7 @@ call v8((l),z7((x5v("Doodads\\Ruins\\Props\\RuinsObelisk\\RuinsObelisk1.mdl",52.
 call v8((l),z7((x5v("Doodads\\Ruins\\Props\\RuinsObelisk\\RuinsObelisk1.mdl",-1.869,-56.56,0,.45,4.734,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call giv()
-call Rtv((bt),Alv("Timesurge",600,gV,Wv,false,300,6,300,6))
+call Rtv((bt),Alv("时间奔涌",600,gV,Wv,false,300,6,300,6))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($417))))))
 call Rlv(bt,($418),5.)
@@ -58016,7 +58016,7 @@ call v8((l),z7((x5v("Abilities\\Spells\\Items\\HealingSalve\\HealingSalveTarget.
 call v8((l),z7((x5v("Abilities\\Spells\\Items\\HealingSalve\\HealingSalveTarget.mdl",-35.75,14.5,0,.3,5.882,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call g3v()
-call Rtv((bt),Alv("Strike the Unprepared",$AF,kE,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("攻其不备",$AF,kE,Wv,true,0,1,0,1))
 set bt=RKv()
 set m=(g3())
 call t6(m,20,.1375,.015)
@@ -58154,7 +58154,7 @@ call v8((l),z7((x5v("Doodads\\Icecrown\\Rocks\\Icecrown_Crystal\\Icecrown_Crysta
 call v8((l),z7((x5v("Doodads\\Icecrown\\Rocks\\Icecrown_Crystal\\Icecrown_Crystal5.mdl",-10.54,-11.32,0,.4,4.014,'x','x',$FF,$FF,.7))))
 call v8((l),z7((x5v("Abilities\\Weapons\\LichMissile\\LichMissile.mdl",-3.189,3.037,0,3.485,3.578,$FF,$FF,$FF,$FF,1.57))))
 set Nu[t]=l
-call Rtv((bt),Alv("Frost Aura",$44C,qa,wv,false,$FA,6,$FA,6))
+call Rtv((bt),Alv("霜冻光环",$44C,qa,wv,false,$FA,6,$FA,6))
 set bt=RKv()
 call RPv(bt,($49C),1.,.0)
 set bq[(bt)]=(Sc)
@@ -58210,7 +58210,7 @@ call v8((l),z7((x5v("Doodads\\Ruins\\Plants\\RuinsTreeDoodad\\RuinsTreeDoodad3.m
 call v8((l),z7((x5v("Abilities\\Spells\\NightElf\\FaerieFire\\FaerieFireTarget.mdl",4.589,10.84,32,.7,5.568,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call Gvv()
-call Rtv((bt),Alv("Gift of Nature",$AF,TE,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("自然赠礼",$AF,TE,Wv,true,0,1,0,1))
 set bt=RKv()
 call RPv(bt,($49D),1.,.0)
 set bq[(bt)]=(Sc)
@@ -58224,7 +58224,7 @@ call v8((l),z7((x5v("Doodads\\Terrain\\CliffDoodad\\Waterfall\\Waterfall.mdl",-1
 call v8((l),z7((x5v("Doodads\\Barrens\\Rocks\\Barrens_Rocks\\Barrens_Rocks9.mdl",39.5,-26.95,12.8,.5,.1212,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call Gxv()
-call Rtv((bt),Alv("Earthquake Aura",$96,UE,Wv,true,0,0,0,0))
+call Rtv((bt),Alv("地震光环",$96,UE,Wv,true,0,0,0,0))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($49E))))))
 call RPv(bt,($49F),1.,.0)
@@ -58281,7 +58281,7 @@ call v8((l),z7((x5v("units\\undead\\Shade\\Shade.mdl",-35.85,-8.189,0,.3,3.187,$
 call v8((l),z7((x5v("units\\undead\\Shade\\Shade.mdl",39.83,.09732,0,.3,6.117,$FF,$FF,$FF,$FF,0))))
 call v8((l),z7((x5v("units\\undead\\Shade\\Shade.mdl",-.3005,32.71,0,.3,3.152,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
-call Rtv((bt),Alv("",$3E8,Qa,wv,false,1,0,1,0))
+call Rtv((bt),Alv("灵魂复仇",$3E8,Qa,wv,false,1,0,1,0))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($4A2))))))
 call Rlv(bt,($4A3),.1)
@@ -58424,7 +58424,7 @@ call v8((l),z7((x5v("Doodads\\Ruins\\Props\\RuinsObelisk\\RuinsObelisk0.mdl",-23
 call v8((l),z7((x5v("Doodads\\Ruins\\Props\\RuinsObelisk\\RuinsObelisk0.mdl",-52.11,2.366,0,.29,5.497,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call Gav()
-call Rtv((bt),Alv("Presence of the Rift",750,yE,wv,false,0,1,0,1))
+call Rtv((bt),Alv("永恒裂隙",750,yE,wv,false,0,1,0,1))
 set bt=RKv()
 set bq[(bt)]=(Sc)
 set t=bfv('v0H7',$4AA,0,.0,$550,2.,$4B0,$BB8,0,bt,'Q0GJ',1,0,false,$3F6,KB,.0)
@@ -58491,7 +58491,7 @@ call v8((l),z7((x5v("Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl",-13.25,
 call v8((l),z7((x5v("Abilities\\Spells\\Orc\\Purge\\PurgeBuffTarget.mdl",-13.25,-7.575,0,.75,.1222,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call GEv()
-call Rtv((bt),Alv("Static Field",350,vX,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("静态力场",350,vX,Wv,true,0,1,0,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($4B0))))))
 set m=(g3())
@@ -59026,7 +59026,7 @@ call v8((l),z7((x5v("Doodads\\Felwood\\Plants\\Felwood_Thorns\\Felwood_Thorns6.m
 call v8((l),z7((x5v("Doodads\\Felwood\\Plants\\Felwood_Thorns\\Felwood_Thorns6.mdl",1.139,-.73,0,1,2.673,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call GQv()
-call Rtv((bt),Alv("Arcane Aura",350,JX,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("奥术光环",350,JX,Wv,true,0,1,0,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($4E3))))))
 call RPv(bt,($4E4),.2,.006)
@@ -59073,7 +59073,7 @@ call v8((l),z7((ovv('v0HX',-37.4,-11.3,44.8,.4,5.875,$FF,$FF,$FF,$FF,"stand",1))
 call v8((l),z7((x5v("Doodads\\Ruins\\Rocks\\Ruins_Rock\\Ruins_Rock0.mdl",-49.04,-1.892,0,.4,4.683,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call Gtv()
-call Rtv((bt),Alv("Calming Noises",$FA,SX,Wv,true,1,1,1,1))
+call Rtv((bt),Alv("平静之音",$FA,SX,Wv,true,1,1,1,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($4E8))))))
 call RPv(bt,($4E9),1.,.0)
@@ -59275,7 +59275,7 @@ call v8((l),z7((x5v("Abilities\\Spells\\Items\\OrbDarkness\\OrbDarkness.mdl",5.8
 call v8((l),z7((x5v("Abilities\\Spells\\Items\\OrbDarkness\\OrbDarkness.mdl",6.894,47.53,0,1.8,4.712,$FF,$FF,$FF,$FF,4.71))))
 set Nu[t]=l
 call Gzv()
-call Rtv((bt),Alv("Dark Shroud",300,vO,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("黑暗帷幕",300,vO,Wv,true,0,1,0,1))
 set bt=RKv()
 call RPv(bt,($4F5),.3,.0)
 set m=(g3())
@@ -59557,7 +59557,7 @@ call v8((l),z7((x5v("Doodads\\Ruins\\Props\\Ruins_NagaCircle\\Ruins_NagaCircle.m
 call v8((l),z7((x5v("Doodads\\Ruins\\Props\\LibraryShelf\\LibraryShelf2.mdl",2.453,56.52,0,.55,4.695,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call hRv()
-call Rtv((bt),Alv("Global Silence",350,CO,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("全领域静默",350,CO,Wv,true,0,1,0,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($50B))))))
 call RPv(bt,($50C),.1,.002)
@@ -59593,7 +59593,7 @@ call v8((l),z7((x5v("Doodads\\Cinematic\\FireTrapUp\\FireTrapUp.mdl",1.651,.2518
 call v8((l),z7((x5v("Doodads\\Cinematic\\FireTrapUp\\FireTrapUp.mdl",-4.629,4.816,64,.3,.7854,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call hNv()
-call Rtv((bt),Alv("",900,gO,wv,false,1,0,1,0))
+call Rtv((bt),Alv("熔化",900,gO,wv,false,1,0,1,0))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($50F))))))
 call RPv(bt,($510),.2,.008)
@@ -59738,7 +59738,7 @@ call v8((l),z7((x5v("Abilities\\Spells\\Human\\FlameStrike\\FlameStrikeEmbers.md
 call v8((l),z7((x5v("Abilities\\Spells\\Orc\\CommandAura\\CommandAura.mdl",3.797,-14.94,0,1,3.648,$FF,50,$FF,$FF,0))))
 set Nu[t]=l
 call hHv()
-call Rtv((bt),Alv("Heat Aura",700,PO,wv,false,0,1,1,1))
+call Rtv((bt),Alv("热量光环",700,PO,wv,false,0,1,1,1))
 set bt=RKv()
 set m=(g3())
 call t6(m,Ov,.2,.008)
@@ -59808,7 +59808,7 @@ call v8((l),z7((x5v("Doodads\\LordaeronSummer\\Props\\SkullPile\\SkullPile0.mdl"
 call v8((l),z7((x5v("Doodads\\LordaeronSummer\\Props\\SkullPile\\SkullPile0.mdl",21.2,25.88,0,.4,1.553,$BE,$9B,$FF,$FF,0))))
 set Nu[t]=l
 call hlv()
-call Rtv((bt),Alv("Flesh of Ymir",.0,UO,Wv,true,0,1,0,1))
+call Rtv((bt),Alv("伊米尔之身",.0,UO,Wv,true,0,1,0,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($52D))))))
 call Rlv(bt,($52E),4.)
@@ -59921,7 +59921,7 @@ call v8((l),z7((x5v("Doodads\\Cityscape\\Props\\CrystalLamp\\CrystalLamp.mdl",20
 call v8((l),z7((x5v("Doodads\\Dalaran\\Terrain\\DalaranBuilding\\DalaranBuilding1.mdl",1.768,2.194,-19.2,.12,3.805,$FF,$FF,$FF,$FF,0))))
 set Nu[t]=l
 call hQv()
-call Rtv((bt),Alv("Storm Power",900.,rR,wv,false,0,1,0,1))
+call Rtv((bt),Alv("风暴之力",900.,rR,wv,false,0,1,0,1))
 set bt=RKv()
 call v8((Aq[(bt)]),z7((Rkv(ZP,(($539))))))
 call Rlv(bt,($53A),1.)
