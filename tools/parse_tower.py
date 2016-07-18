@@ -38,6 +38,9 @@ for id in abil_dict:
         abil_cnt[x] += 1
 
 basic_abilities = set([x for x in abil_cnt if abil_cnt[x] > 1])
+for x in abil_cnt:
+    if x.startswith('A00'):
+        basic_abilities.add(x)
 
 # This will get 706 towers (include base towers) and their abilities
 
