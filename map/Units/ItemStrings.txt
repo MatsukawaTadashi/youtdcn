@@ -4576,8 +4576,8 @@ Description="|cff9BA0D0教导携带者如何烹饪和吃掉上当者的脑子.|n
 Name="|cffFFFF00变色龙之魂|r"
 Hotkey=K
 Tip="|cffFFFF00变色龙之魂|r"
-Ubertip="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级:|r 6|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00转变|r|n|cffFFFF80+35%|r 经验对星辰|n|cffFFFF80+15%|r 法术伤害对黑暗|n|cffFFFF80+3.5%|r 暴击几率对自然|n|cffFFFF80+12.5%|r 伤害对火焰|n|cffFFFF80+17.5%|r 增益状态持续时间寒冰|n|cffFFFF80+7.5%|r 攻击速度对风暴|n|cffFFFF80+10%|r 物品获取率对钢铁"
-Description="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级:|r 6|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00转变|r|n|cffFFFF80+35%|r 经验对星辰|n|cffFFFF80+15%|r 法术伤害对黑暗|n|cffFFFF80+3.5%|r 暴击几率对自然|n|cffFFFF80+12.5%|r 伤害对火焰|n|cffFFFF80+17.5%|r 增益状态持续时间寒冰|n|cffFFFF80+7.5%|r 攻击速度对风暴|n|cffFFFF80+10%|r 物品获取率对钢铁"
+Ubertip="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级:|r 6|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00转变|r|n|cffFFFF80+35%|r 经验对星辰|n|cffFFFF80+15%|r 法术伤害对黑暗|n|cffFFFF80+3.5%|r 暴击几率对自然|n|cffFFFF80+12.5%|r 攻击力对火焰|n|cffFFFF80+17.5%|r 增益状态持续时间寒冰|n|cffFFFF80+7.5%|r 攻击速度对风暴|n|cffFFFF80+10%|r 物品获取率对钢铁"
+Description="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级:|r 6|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00转变|r|n|cffFFFF80+35%|r 经验对星辰|n|cffFFFF80+15%|r 法术伤害对黑暗|n|cffFFFF80+3.5%|r 暴击几率对自然|n|cffFFFF80+12.5%|r 攻击力对火焰|n|cffFFFF80+17.5%|r 增益状态持续时间寒冰|n|cffFFFF80+7.5%|r 攻击速度对风暴|n|cffFFFF80+10%|r 物品获取率对钢铁"
 [Q0L1]
 Name="|cffFFFFFF地雷|r"
 Hotkey=K
