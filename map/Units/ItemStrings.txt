@@ -4762,8 +4762,8 @@ Description="|cff9BA0D0一个致命的废弃产品，对自然系生物非常有
 Name="|cffFFFF00闪光岩石|r"
 Hotkey=K
 Tip="|cffFFFF00闪光岩石|r"
-Ubertip="|cff9BA0D0有了这块石头,你会像丹尼一样阳光.|n|n|cffFFFF80等级:|r 10|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00不安定的力量|r|n给予携带塔|cffFFFF80100|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80100|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF80100|r点."
-Description="|cff9BA0D0有了这块石头,你会像丹尼一样阳光.|n|n|cffFFFF80等级:|r 10|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00不安定的力量|r|n给予携带塔|cffFFFF80100|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80100|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF80100|r点."
+Ubertip="|cff9BA0D0有了这块石头,你会像丹尼一样阳光.|n|n|cffFFFF80等级:|r 10|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00不安定的力量|r|n给予携带塔|cffFFFF80100|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80100|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80100|r点."
+Description="|cff9BA0D0有了这块石头,你会像丹尼一样阳光.|n|n|cffFFFF80等级:|r 10|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00不安定的力量|r|n给予携带塔|cffFFFF80100|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80100|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80100|r点."
 [Q0LE]
 Name="|cff0080FF求生背包|r"
 Hotkey=K
@@ -4996,8 +4996,8 @@ Description="|cff9BA0D0这朵花在魔法的作用下，生长得特别快。|n|
 Name="|cff0080FF灵魂之球|r"
 Hotkey=K
 Tip="|cff0080FF灵魂之球|r"
-Ubertip="|cff9BA0D0在这个小球里你会看见无数受折磨的灵魂在不停地旋转.|n|n|cffFFFF80等级:|r 7|n|cffFFFF80作者:|r |c006969FFSunken|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00飘渺的知识|r|n给予携带塔|cffFFFF8050|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF8050|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF8050|r点."
-Description="|cff9BA0D0在这个小球里你会看见无数受折磨的灵魂在不停地旋转.|n|n|cffFFFF80等级:|r 7|n|cffFFFF80作者:|r |c006969FFSunken|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00飘渺的知识|r|n给予携带塔|cffFFFF8050|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF8050|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF8050|r点."
+Ubertip="|cff9BA0D0在这个小球里你会看见无数受折磨的灵魂在不停地旋转.|n|n|cffFFFF80等级:|r 7|n|cffFFFF80作者:|r |c006969FFSunken|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00飘渺的知识|r|n给予携带塔|cffFFFF8050|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF8050|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF8050|r点."
+Description="|cff9BA0D0在这个小球里你会看见无数受折磨的灵魂在不停地旋转.|n|n|cffFFFF80等级:|r 7|n|cffFFFF80作者:|r |c006969FFSunken|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00飘渺的知识|r|n给予携带塔|cffFFFF8050|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF8050|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF8050|r点."
 [Q0KF]
 Name="|cffFFFFFF漂浮印记|r"
 Hotkey=K
@@ -5044,8 +5044,8 @@ Description="|cff9BA0D0增加攻击力|n|n|cffFFFF80等级:|r 46|n|cffFFFF80作�
 Name="|cffFF00BF幸运宝石|r"
 Hotkey=K
 Tip="|cffFF00BF幸运宝石|r"
-Ubertip="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
-Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕 |cffFFFF800.5|r 秒 |n 减速 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减速护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
+Ubertip="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕目标 |cffFFFF800.5|r 秒 |n 减速目标 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减少目标护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
+Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00幸运!|r|n携带塔有 |cffFFFF8020%|r x 基础攻击速度 的几率获得一个随机的攻击效果：|n 增加 |cffFFFF801|r 经验 |n 增加 |cffFFFF8010|r 金钱 |n 眩晕目标 |cffFFFF800.5|r 秒 |n 减速目标 |cffFFFF8010%|r 持续 |cffFFFF803|r 秒。|n 减少目标护甲 |cffFFFF805|r 持续 |cffFFFF803|r 秒。"
 [Q0N5]
 Name="|cffFFFF00能量灌注护符|r"
 Hotkey=K
@@ -5062,8 +5062,8 @@ Description="|cff9BA0D0熊掌里不仅有着熊的力量，还有着熊的智慧
 Name="|cffFFFF00角鹰蛋|r"
 Hotkey=K
 Tip="|cffFFFF00角鹰蛋|r"
-Ubertip="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
-Description="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰攻击目标，造成 |cffFFFF801250|r 法术伤害在 |cffFFFF80200|r 范围内的所有目标。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
+Ubertip="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰，对主目标|cffFFFF80200|r 范围内的所有目标造成 |cffFFFF801250|r 法术伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
+Description="|cff9BA0D0这枚蛋能孵化成一只小角鹰，帮助携带塔战斗。|n|n|cffFFFF80等级:|r 22|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00小角鹰|r|n给予 |cffFFFF8015%|r x 基础攻击速度 几率在攻击时释放一个角鹰，对主目标|cffFFFF80200|r 范围内的所有目标造成 |cffFFFF801250|r 法术伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+50|r 法术伤害"
 [Q0MN]
 Name="|cffFFFF00水晶箭|r"
 Hotkey=K
@@ -5134,14 +5134,14 @@ Description="|cff9BA0D0喝阿鲁卡的酒，呼吸上帝的秘密烟雾。|n|n|c
 Name="|cffFFFF00仪式护身符|r"
 Hotkey=K
 Tip="|cffFFFF00仪式护身符|r"
-Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
-Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 额外经验和 |cffFFFF8010%|r 的伤害，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 经验获取率和|cffFFFF8010%|r 攻击力，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
+Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。|n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加 |cffFFFF8020%|r 经验获取率和|cffFFFF8010%|r 攻击力，持续 |cffFFFF8010|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
 [Q0N9]
 Name="|cffFF00BF月光精华"
 Hotkey=K
 Tip="|cffFF00BF月光精华"
-Ubertip="|cff9BA0D0精华里蕴含着强大的知识。|n|cffFFFF80等级:|r 16|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80200|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF80200|r点."
-Description="|cff9BA0D0精华里蕴含着强大的知识。|n|cffFFFF80等级:|r 16|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80200|r,该物品会从下一个带上它塔上吸取经验以达到|cffFFFF80200|r点."
+Ubertip="|cff9BA0D0精华里蕴含着强大的知识。|n|cffFFFF80等级:|r 16|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80200|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80200|r点."
+Description="|cff9BA0D0精华里蕴含着强大的知识。|n|cffFFFF80等级:|r 16|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验,和物品绑定,拿下该物品时已获得的经验会失去.如果塔在拿下该物品时的经验低于|cffFFFF80200|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80200|r点."
 [Q0ND]
 Name="|cffFFFFFF海盗图|r"
 Hotkey=K
@@ -5254,8 +5254,8 @@ Description="|cff9BA0D0这副发著紫光的手套能增加携带塔的攻击速
 Name="|cffFF00BF暗物质三叉戟|r"
 Hotkey=K
 Tip="|cffFF00BF暗物质三叉戟|r"
-Ubertip="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
-Description="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n每当道具携带者击中怪物时，此塔获 |cffFFFF802%|r 的攻击速度并缓速目标 |cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
+Ubertip="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n击中时，携带塔提高 |cffFFFF802%|r 的攻击速度并减速目标|cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
+Description="|cff9BA0D0由一种神秘的材料制成。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00物理能量汲取|r|n击中时，携带塔提高 |cffFFFF802%|r 的攻击速度并减速目标|cffFFFF802%|r. 两个效果持续 |cffFFFF805|r 秒，最多可叠加20次。效果根据攻击速度调整。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.1|r 秒持续时间"
 [Q0M5]
 Name="|cff0080FF魔法链|r"
 Hotkey=K
@@ -5278,8 +5278,8 @@ Description="|cff9BA0D0精工细作，宝石环绕。|n|cffFFFF80等级:|r 35|cf
 Name="|cffFFFF00月牙石|r"
 Hotkey=K
 Tip="|cffFFFF00月牙石|r"
-Ubertip="|cff9BA0D0这块石头上刻着的符文在满月时亮起来了。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00大地与月亮|r|n每 |cffFFFF8015|r 秒携带者的触发几率增加 |cffFFFF8025%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r触发几率"
-Description="|cff9BA0D0这块石头上刻着的符文在在满月时亮起来了。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00大地与月亮|r|n每 |cffFFFF8015|r 秒携带者的触发几率增加 |cffFFFF8025%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r触发几率"
+Ubertip="|cff9BA0D0这块石头上刻着的符文在满月时亮起来了。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00大地与月亮|r|n每 |cffFFFF8015|r 秒，携带者的触发几率增加 |cffFFFF8025%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r触发几率"
+Description="|cff9BA0D0这块石头上刻着的符文在在满月时亮起来了。|n|n|cffFFFF80等级:|r 13|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00大地与月亮|r|n每 |cffFFFF8015|r 秒，携带者的触发几率增加 |cffFFFF8025%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r触发几率"
 [Q0LM]
 Name="|cffFF00BF忠诚法杖|r"
 Hotkey=K
@@ -5338,8 +5338,8 @@ Description="|cff9BA0D0这个卷轴能短时间提高攻击速度。|n|n|cffFFFF
 Name="|cffFFFF00微积分的基础知识|r"
 Hotkey=K
 Tip="|cffFFFF00微积分的基础知识|r"
-Ubertip="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
-Description="|cff9BA0D0包含你需要完善你攻击的所有信息，以一个非常抽象的方式。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0以一个非常抽象的方式囊括了可以用来完善你的攻击的所有资料。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
+Description="|cff9BA0D0以一个非常抽象的方式囊括了可以用来完善你的攻击的所有资料。|n|n|cffFFFF80等级:|r 14|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00学习|r|n给予某塔 |cffFFFF801|r 点经验值。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.04|r 点经验值|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80秒 冷却|r, |cffFFFF00200|cffFFFF80 射程|r"
 [Q0M6]
 Name="|cffFFFF00力量卷轴|r"
 Hotkey=K
@@ -5355,7 +5355,7 @@ Description="|cff9BA0D0被用作为功绩的证明，该道具显示了拥有者
 [Q0M9]
 Name="|cffFF00BF丛林漫步者的玩偶|r"
 Hotkey=K
-Tip="|cffFF00BF丛林	漫步者的玩偶|r"
+Tip="|cffFF00BF丛林漫步者的玩偶|r"
 Ubertip="|cff9BA0D0这个玩偶加持了巫毒魔法，小心！|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)|n|n|cffCCFF00嗜血|r|n当携带塔杀死一个单位后开始嗜血，持续 |cffFFFF803|r 秒。嗜血期间增加 |cffFFFF8020%|r 的 攻击速度。不能重复触发!|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 攻击速度"
 Description="|cff9BA0D0这个玩偶加持了巫毒魔法，小心！|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00+2.5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)|n|n|cffCCFF00嗜血|r|n当携带塔杀死一个单位后开始嗜血，持续 |cffFFFF803|r 秒。嗜血期间增加 |cffFFFF8020%|r 的 攻击速度。不能重复触发!|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 攻击速度"
 [Q0LW]
@@ -5368,8 +5368,8 @@ Description="|cff9BA0D0能提高攻击力，尽管有缺陷…|n|n|cffFFFF80等�
 Name="|cffFF00BF蓬勃头盔|r"
 Hotkey=K
 Tip="|cffFF00BF蓬勃头盔|r"
-Ubertip="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
-Description="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽。精疲力尽的时候你只能造成 |cffFFFF8050%|r 的伤害在下 |cffFFFF8016|r 次攻击。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽，下 |cffFFFF8016|r 次攻击只能造成 |cffFFFF8050%|r 的伤害。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+Description="|cff9BA0D0让你雄起一段时间，之后你会陷入疲软状态。|n|n|cffFFFF80等级:|r 12|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00疯狂之力|r|n当物品能力启用时，下 |cffFFFF8012|r 次攻击将会造成 |cffFFFF80200%|r 的伤害，不过之后你将会精疲力尽，下 |cffFFFF8016|r 次攻击只能造成 |cffFFFF8050%|r 的伤害。|n主动释放：|n|cffFFFF00120|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
 [Q0MC]
 Name="|cff0080FF闪亮法杖|r"
 Hotkey=K
@@ -5512,8 +5512,8 @@ Description="|cff9BA0D0只看你一眼，我就知道要害在哪里。|n|n|cffF
 Name="|cffFFFF00永无止境的桶|r"
 Hotkey=K
 Tip="|cffFFFF00永无止境的桶|r"
-Ubertip="|cff9BA0D0哈，你觉得你已经醉了，就因为碰到这桶子？|n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.65|r 暴击伤害|n|cffFFFF00+1|r x 多重暴击|n|n|cffCCFF00酒醉!|r|n这座塔的攻击有 |cffFFFF8010%|r 几率丢失。"
-Description="|cff9BA0D0哈，你觉得你已经醉了，就因为碰到这桶子？|n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.65|r 暴击伤害|n|cffFFFF00+1|r x 多重暴击|n|n|cffCCFF00酒醉!|r|n这座塔的攻击有 |cffFFFF8010%|r 几率丢失。"
+Ubertip="|cff9BA0D0哈，就因为碰到这桶子，你就已经醉了？|n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.65|r 暴击伤害|n|cffFFFF00+1|r x 多重暴击|n|n|cffCCFF00酒醉!|r|n这座塔的攻击有 |cffFFFF8010%|r 几率丢失。"
+Description="|cff9BA0D0哈，就因为碰到这桶子，你就已经醉了？|n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.65|r 暴击伤害|n|cffFFFF00+1|r x 多重暴击|n|n|cffCCFF00酒醉!|r|n这座塔的攻击有 |cffFFFF8010%|r 几率丢失。"
 [Q0P1]
 Name="|cff0080FF娜迦族三叉戟|r"
 Hotkey=K
@@ -5524,14 +5524,14 @@ Description="|cff9BA0D0娜迦强化了制作三叉戟的钢铁，它们不会生
 Name="|cff0080FF龙之爪|r"
 Hotkey=K
 Tip="|cff0080FF龙之爪|r"
-Ubertip="|cff9BA0D0增加塔的暴击几率和攻击伤害。|n|n|cffFFFF80等级:|r 72|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击力 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)"
-Description="|cff9BA0D0增加塔的暴击几率和攻击伤害。|n|n|cffFFFF80等级:|r 72|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击力 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)"
+Ubertip="|cff9BA0D0增加塔的暴击几率和攻击力。|n|n|cffFFFF80等级:|r 72|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击力 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)"
+Description="|cff9BA0D0增加塔的暴击几率和攻击就因为碰到这桶子，你就已经醉了？。|n|n|cffFFFF80等级:|r 72|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r攻击力 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+5%|r 暴击几率 (|cffFFFF00+0.1%|r/级)"
 [Q0P4]
 Name="|cff0080FF血冠|r"
 Hotkey=K
 Tip="|cff0080FF血冠|r"
-Ubertip="|cff9BA0D0宝石镶在皇冠上，如同由血所重铸一样。|n|n|cffFFFF80等级:|r 82|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r攻击力|n|cffFFFF00+55% |r金钱获取率"
-Description="|cff9BA0D0宝石镶在皇冠上，如同由血所重铸一样。|n|n|cffFFFF80等级:|r 82|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r攻击力|n|cffFFFF00+55% |r金钱获取率"
+Ubertip="|cff9BA0D0宝石镶在皇冠上，如同由血所铸。|n|n|cffFFFF80等级:|r 82|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r攻击力|n|cffFFFF00+55% |r金钱获取率"
+Description="|cff9BA0D0宝石镶在皇冠上，如同由血所铸。|n|n|cffFFFF80等级:|r 82|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15% |r攻击力|n|cffFFFF00+55% |r金钱获取率"
 [Q0OR]
 Name="|cff0080FF心灵之钥|r"
 Hotkey=K
@@ -5590,8 +5590,8 @@ Description="|cff9BA0D0传说中的艾尔神剑! ( 魔*争霸3和哥*王国3 ？
 Name="|cffFFFF00力场产生器|r"
 Hotkey=K
 Tip="|cffFFFF00力场产生器|r"
-Ubertip="|cff9BA0D0消除区域内所有的负面魔法.|n|n|cffFFFF80等级:|r 67|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间.|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1%|r 负面状态持续时间"
-Description="|cff9BA0D0消除区域内所有的负面魔法.|n|n|cffFFFF80等级:|r 67|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间.|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1%|r 负面状态持续时间"
+Ubertip="|cff9BA0D0消除区域内所有的负面魔法。|n|n|cffFFFF80等级:|r 67|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间.|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1%|r 负面状态持续时间"
+Description="|cff9BA0D0消除区域内所有的负面魔法。|n|n|cffFFFF80等级:|r 67|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间.|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1%|r 负面状态持续时间"
 [Q0PB]
 Name="|cffFF00BF洛基之矛|r"
 Hotkey=K
@@ -5872,8 +5872,8 @@ Description="|cff9BA0D0只有最有钱的地主才能穿。|n|n|cffFFFF80等级:
 Name="|cff0080FF巨魔符咒|r"
 Hotkey=K
 Tip="|cff0080FF巨魔符咒|r"
-Ubertip="|cff9BA0D0这是一只腐烂的手|n|n|cffFFFF80等级:|r 78|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5%|r 暴击几率|n|cffFFFF00+30% |r增益持续时间"
-Description="|cff9BA0D0这是一只腐烂的手|n|n|cffFFFF80等级:|r 78|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5%|r 暴击几率|n|cffFFFF00+30% |r增益持续时间"
+Ubertip="|cff9BA0D0这是一只腐烂的手。|n|n|cffFFFF80等级:|r 78|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5%|r 暴击几率|n|cffFFFF00+30% |r增益持续时间"
+Description="|cff9BA0D0这是一只腐烂的手。|n|n|cffFFFF80等级:|r 78|n|cffFFFF80作者:|r SirCoqaLot。|n|cffFFFF80特殊能力：|r|n|cffFFFF00+5%|r 暴击几率|n|cffFFFF00+30% |r增益持续时间"
 [Q0ON]
 Name="|cff0080FF磁化器|r"
 Hotkey=K
@@ -5992,8 +5992,8 @@ Description="|cff9BA0D0不要被忽悠了，这玩意儿根本就没有额外伤
 Name="|cffFF00BF破碎轮回|r"
 Hotkey=K
 Tip="|cffFF00BF破碎轮回|r"
-Ubertip="|cffFFFF80等级:|r60|n|cffFFFF80作者:|rDreamStrider|n|cffCCFF00破碎轮回|r|n携带塔在造成伤害时有|cffFFFF8040%|r几率对主目标|cffFFFF80500|r范围内的另外|cffFFFF802|r个目标发射弹片,造成|cffFFFF8045%|r的伤害。被弹片击中的单位在|cffFFFF805|r秒内受到的其他弹片和溅射攻击的伤害提高|cffFFFF8040%|r."
-Description="|cffFFFF80等级:|r60|n|cffFFFF80作者:|rDreamStrider|n|cffCCFF00破碎轮回|r|n携带塔在造成伤害时有|cffFFFF8040%|r几率对主目标|cffFFFF80500|r范围内的另外|cffFFFF802|r个目标发射弹片,造成|cffFFFF8045%|r的伤害。被弹片击中的单位在|cffFFFF805|r秒内受到的其他弹片和溅射攻击的伤害提高|cffFFFF8040%|r."
+Ubertip="|cffFFFF80等级:|r60|n|cffFFFF80作者:|rDreamStrider|n|cffCCFF00破碎轮回|r|n携带塔在击中目标时有|cffFFFF8040%|r几率对主目标|cffFFFF80500|r范围内的另外|cffFFFF802|r个目标发射弹片,造成|cffFFFF8045%|r的伤害。被弹片击中的单位在|cffFFFF805|r秒内受到的其他弹片和溅射攻击的伤害提高|cffFFFF8040%|r."
+Description="|cffFFFF80等级:|r60|n|cffFFFF80作者:|rDreamStrider|n|cffCCFF00破碎轮回|r|n携带塔在击中目标时有|cffFFFF8040%|r几率对主目标|cffFFFF80500|r范围内的另外|cffFFFF802|r个目标发射弹片,造成|cffFFFF8045%|r的伤害。被弹片击中的单位在|cffFFFF805|r秒内受到的其他弹片和溅射攻击的伤害提高|cffFFFF8040%|r."
 [IC06]
 Name="|cffFF00BF可食用哈比人|r"
 Hotkey=O
