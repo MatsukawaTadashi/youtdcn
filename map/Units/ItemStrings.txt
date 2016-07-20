@@ -5578,8 +5578,8 @@ Description="|cffFFFF80等级：|r 44|n|cffFFFF80作者：|rSirCoqaLot.|n|cffCCF
 Name="|cffFF00BFM.E.F.I.S.火箭弹|r"
 Hotkey=K
 Tip="|cffFF00BFM.E.F.I.S.火箭弹|r"
-Ubertip="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
-Description="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
+Ubertip="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
+Description="|cff9BA0D0但愿我还记得把说明书扔哪儿了。|n|n|cffFFFF80等级:|r 44|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80特殊能力：|r|n|cffCCFF00魔法免疫者克星火箭弹|r|n发射一枚自动跟踪魔法免疫者的火箭弹。射程,攻速, 攻击力，攻击类型和携带者一样, 如果携带者的攻击类型为 |cffFF0080魔法|r, 物品会造成 |cff80FF00精髓|r 伤害。攻击力会受到携带者 |cffFFFF8020%|r 的法术伤害百分比加成。|n|cffFF8000等级奖励:|r|n|cffFFFF80+0.8%|r 加成比例"
 [Q0PH]
 Name="|cffFFFF00艾尔神剑|r"
 Hotkey=K
