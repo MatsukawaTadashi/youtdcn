@@ -5167,9 +5167,9 @@ Tip="|cff0080FF食人魔战斧|r"
 Ubertip="|cff9BA0D0将持有者变成人类真正的威胁。|n|n|cffFFFF80等级：|r 42|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对人类 (|cffFFFF00+1%|r/级)|n|cffFFFF00+5%|r 暴击几率"
 Description="|cff9BA0D0将持有者变成人类真正的威胁。|n|n|cffFFFF80等级：|r 42|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对人类 (|cffFFFF00+1%|r/级)|n|cffFFFF00+5%|r 暴击几率"
 [Q0NB]
-Name="|cffFF00BF荼毒匕首|r"
+Name="|cffFF00B淬毒匕首|r"
 Hotkey=K
-Tip="|cffFF00BF荼毒匕首|r"
+Tip="|cffFF00BF淬毒匕首|r"
 Ubertip="|cff9BA0D0这把匕首渗出致命的剧毒。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00bfffF12ight|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00致命毒药|r|n使携带塔的攻击对目标造成 |cffFFFF8015%|r x 基础攻击力/秒的法术伤害，持续 |cffFFFF804|r 秒。"
 Description="|cff9BA0D0这把匕首渗出致命的剧毒。|n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00bfffF12ight|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00致命毒药|r|n使携带塔的攻击对目标造成 |cffFFFF8015%|r x 基础攻击力/秒的法术伤害，持续 |cffFFFF804|r 秒。"
 [Q0NA]
@@ -5710,8 +5710,8 @@ Description="|cff9BA0D0兽人们都畏惧这魔幻般的野草。|n|n|cffFFFF80�
 Name="|cffFFFF00染血之钥"
 Hotkey=K
 Tip="|cffFFFF00染血之钥"
-Ubertip="|cff9BA0D0呼应着过去的浩大战争。|n|cffFFFF80等级:|r 40|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|cffCCFF00野性狂怒|r|n提高 |cffFFFF80200|r 范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r ，每秒伤害 |cffFFFF80100|r|n|cffFF8000等级加成:|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
-Description="|cff9BA0D0呼应着过去的浩大战争。|n|cffFFFF80等级:|r 40|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|cffCCFF00野性狂怒|r|n提高 |cffFFFF80200|r 范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r ，每秒伤害 |cffFFFF80100|r|n|cffFF8000等级加成:|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
+Ubertip="|cff9BA0D0呼应着过去的浩大战争。|n|cffFFFF80等级:|r 40|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|cffCCFF00野性狂怒|r|n提高 |cffFFFF80200|r 范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r和每秒伤害 |cffFFFF80100|r|n|cffFF8000等级加成:|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
+Description="|cff9BA0D0呼应着过去的浩大战争。|n|cffFFFF80等级:|r 40|cffFFFF80|n作者:|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|cffCCFF00野性狂怒|r|n提高 |cffFFFF80200|r 范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r和每秒伤害 |cffFFFF80100|r|n|cffFF8000等级加成:|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
 [Q0NU]
 Name="|cff0080FF水晶法杖|r"
 Hotkey=K
