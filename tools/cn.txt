@@ -573,7 +573,7 @@ Ubertip="|cffCCFF00溅射攻击:|n   |cffFFFF00320|r 范围内|cffFFFF0050%|r �
 Name="|cffFFFFFF冰霜树根|r"
 Hotkey=T
 Tip="|cffFFFFFF冰霜树根|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0025|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0025|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q005]
 Name="冰霜树根"
@@ -585,14 +585,14 @@ Description="点击使用建造一座塔"
 [W005]
 Name="v005 On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF8025|r 点法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF8025|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法术伤害"
 
 ##Tower
 [v01S]
 Name="|cffFFFFFF冰霜杂草|r"
 Hotkey=T
 Tip="|cffFFFFFF冰霜杂草|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0076|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0076|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q01P]
 Name="冰霜杂草"
@@ -604,14 +604,14 @@ Description="点击使用建造一座塔"
 [W02O]
 Name="v01S On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80125|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80125|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 法术伤害"
 
 ##Tower
 [v03U]
 Name="|cffFFFFFF冷冻藤蔓|r"
 Hotkey=T
 Tip="|cffFFFFFF冷冻藤蔓|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00227|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00227|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q03R]
 Name="冷冻藤蔓"
@@ -623,14 +623,14 @@ Description="点击使用建造一座塔"
 [W05W]
 Name="v03U On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80375|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80375|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 法术伤害"
 
 ##Tower
 [v05T]
 Name="|cffFFFFFF冰晶触须|r"
 Hotkey=T
 Tip="|cffFFFFFF冰晶触须|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00454|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00454|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q05P]
 Name="冰晶触须"
@@ -642,14 +642,14 @@ Description="点击使用建造一座塔"
 [W09V]
 Name="v05T On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80750|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+30|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80750|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+30|r 法术伤害"
 
 ##Tower
 [v090]
 Name="|cffFFFFFF冰川攀缘植物|r"
 Hotkey=T
 Tip="|cffFFFFFF冰川攀缘植物|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00905|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00905|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q08O]
 Name="冰川攀缘植物"
@@ -661,14 +661,14 @@ Description="点击使用建造一座塔"
 [W0G1]
 Name="v090 On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF801500|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+60|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF801500|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+60|r 法术伤害"
 
 ##Tower
 [v0CV]
 Name="|cffFFFFFF极地常春藤|r"
 Hotkey=T
 Tip="|cffFFFFFF极地常春藤|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 ##Item
 [Q0CF]
 Name="极地常春藤"
@@ -680,7 +680,7 @@ Description="点击使用建造一座塔"
 [W0O1]
 Name="v0CV On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF802500|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+100|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF802500|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+100|r 法术伤害"
 
 ##Tower
 [v006]
@@ -1728,7 +1728,7 @@ Ubertip="击中时降低目标|cffFFFF809.6|r的护甲,持续|cffFFFF803|r秒.|n
 Name="|cffFFFFFF发光太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF发光太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+25% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
 ##Item
 [Q00G]
 Name="发光太阳球体"
@@ -1779,7 +1779,7 @@ Ubertip="击中时有 |cffFFFF805%|r 几率降低目标护甲 |cffFFFF803|r 持�
 Name="|cffFFFFFF炽热太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF炽热太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+35% |r伤害对亡灵 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r伤害对亡灵 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
 ##Item
 [Q05T]
 Name="炽热太阳球体"
@@ -4847,7 +4847,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者:|r DreamSt
 Name="炙热犬"
 Hotkey=F
 Tip="购买 炙热犬"
-Ubertip="|这只战犬又在吼叫了。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF0068|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击: |cffFFFF0068|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W01S]
@@ -8444,7 +8444,7 @@ Ubertip="|cffFFFF0015%|r 暴击几率 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00x1.7|r 
 Name="|cff0080FF古老火盆|r"
 Hotkey=T
 Tip="|cff0080FF古老火盆|r"
-Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001135|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|r x 多重暴击"
+Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001135|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|r x 多重暴击"
 ##Item
 [Q0BO]
 Name="古老火盆"
@@ -8463,7 +8463,7 @@ Ubertip="|cffFFFF0015%|r 暴击几率 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00x1.7|r 
 Name="|cff0080FF景仰火盆|r"
 Hotkey=T
 Tip="|cff0080FF景仰火盆|r"
-Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001882|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|rx 多重暴击"
+Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001882|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|rx 多重暴击"
 ##Item
 [Q0G2]
 Name="景仰火盆"
@@ -8928,7 +8928,7 @@ Ubertip="攻击时有|cffFFFF8025%|r几率对|cffFFFF80900|r范围内的|cffFFFF
 Name="|cffFFFF00霜冻之魂|r"
 Hotkey=T
 Tip="|cffFFFF00霜冻之魂|r"
-Ubertip="|cff9BA0D0生活在极北之地的寒冰之魂，可以召唤寒冰新星。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00506|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊 能力：|r|n|n|cffCCFF00新星风暴|r|n对敌人释放多个霜冻新星。"
+Ubertip="|cff9BA0D0生活在极北之地的寒冰之魂，可以召唤寒冰新星。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00506|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00新星风暴|r|n对敌人释放多个霜冻新星。"
 ##Item
 [Q0GD]
 Name="霜冻之魂"
@@ -10014,7 +10014,7 @@ Ubertip="|cffFFFF00+8% |r伤害对精英 (|cffFFFF00+0.6%|r/级)|n|cffFFFF00+10%
 [W092]
 Name="v05E On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.4|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.4|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 砸中几率."
 
 ##Tower
 [v0AA]
@@ -10037,7 +10037,7 @@ Ubertip="|cffFFFF00+10% |r伤害对精英 (|cffFFFF00+0.7%|r/级)|n|cffFFFF00+12
 [W0IH]
 Name="v0AA On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.25%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.25%|r 砸中几率."
 
 ##Tower
 [v0GM]
@@ -10060,7 +10060,7 @@ Ubertip="|cffFFFF00+12% |r伤害对精英 (|cffFFFF00+0.8%|r/级)|n|cffFFFF00+15
 [W0VY]
 Name="v0GM On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF801|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.4%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF801|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.4%|r 砸中几率."
 
 ##Tower
 [v05F]
@@ -10840,7 +10840,7 @@ Ubertip="|cffFFFF00+20% |r伤害对自然 (|cffFFFF00+1%|r/级)|n"
 [W0BB]
 Name="v06T Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80100|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0BC]
 Name="v06T On Attack"
@@ -10873,7 +10873,7 @@ Ubertip="|cffFFFF00+20% |r伤害对自然 (|cffFFFF00+1%|r/级)|n"
 [W0LI]
 Name="v0BT Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1.5%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80260|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1.5%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0LJ]
 Name="v0BT On Attack"
@@ -10901,7 +10901,7 @@ Ubertip="|cffFFFF00+20% |r伤害对自然 (|cffFFFF00+1%|r/级)|n"
 [W0V3]
 Name="v0GA Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-2%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80440|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-2%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0V4]
 Name="v0GA On Attack"
@@ -11403,11 +11403,11 @@ Ubertip="|cffFFFF00+20% |r伤害对空军|n"
 [W0CP]
 Name="v07I On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF802|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80380|r,会自动跟踪|cffFFFF80275|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+2|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF802|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80380|r,会自动追踪|cffFFFF80275|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+2|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0CQ]
 Name="v07I On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 
 ##Tower
 [v0CA]
@@ -11430,11 +11430,11 @@ Ubertip="|cffFFFF00+25% |r伤害对空军|n"
 [W0MM]
 Name="v0CA On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80390|r,会自动跟踪|cffFFFF80290|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+4|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80390|r,会自动追踪|cffFFFF80290|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+4|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0MN]
 Name="v0CA On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 
 ##Tower
 [v0GD]
@@ -11457,18 +11457,18 @@ Ubertip="|cffFFFF00+25% |r伤害对空军|n"
 [W0VG]
 Name="v0GD On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80400|r,会自动跟踪|cffFFFF80310|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+8|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80400|r,会自动追踪|cffFFFF80310|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+8|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0VH]
 Name="v0GD On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF801400|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF801400|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 
 ##Tower
 [v07J]
 Name="|cffFFFF00寒冷冰尖|r"
 Hotkey=T
 Tip="|cffFFFF00寒冷冰尖|r"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并降低它们的生命回复速度.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击力: |cffFFFF00572|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF001100|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00寒冷|r|n攻击时有几率冻结它的目标，并且降低其生命回复速度。"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并降低它们的生命回复速度.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击力: |cffFFFF00572|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF001100|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00寒冷|r|n击中时有几率冻结它的目标，并且降低其生命回复速度。"
 ##Item
 [Q07C]
 Name="寒冷冰尖"
@@ -11491,7 +11491,7 @@ Buffubertip=这个单位被冻住了，它无法移动。
 Name="|cffFFFF00霜冻冰尖|r"
 Hotkey=T
 Tip="|cffFFFF00霜冻冰尖|r"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻结目标并且降低它们的生命回复速度。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+35% |r伤害对人类 (|cffFFFF00+2%|r/级)|n|n|cffCCFF00寒冷|r|n攻击时有几率冻结它的目标，并且降低其生命回复速度。"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻结目标并且降低它们的生命回复速度。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r伤害对人类 (|cffFFFF00+2%|r/级)|n|n|cffCCFF00寒冷|r|n击中时有几率冻结它的目标，并且降低其生命回复速度。"
 ##Item
 [Q0DS]
 Name="霜冻冰尖"
@@ -15079,16 +15079,16 @@ EditorName=喷溅
 
 ##Tower
 [v0HY]
-Name="|cffFF00BF虚拟现实之门|r"
+Name="|cffFF00BF位面之门|r"
 Hotkey=T
-Tip="|cffFF00BF虚拟现实之门|r"
-Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光数字。|n|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00星辰爆发|r|n削弱位面之间的界限，允许更多的能量通过。|n|cffA4AFD9主动释放：|n|cffFFFF001000|cffFFFF80法力|r，|cffFFFF0035|cffFFFF80秒 冷却|r|n|n|cffCCFF00位面变换|r|n从星界召唤一只猎鹰，对敌人造成多次弹跳伤害。"
+Tip="|cffFF00BF位面之门|r"
+Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光符号。|n|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00星辰爆发|r|n削弱位面之间的界限，允许更多的能量通过。|n|cffA4AFD9主动释放：|n|cffFFFF001000|cffFFFF80法力|r，|cffFFFF0035|cffFFFF80秒 冷却|r|n|n|cffCCFF00位面变换|r|n从星界召唤一只猎鹰，对敌人造成多次弹跳伤害。"
 ##Item
 [Q0H9]
-Name="虚拟现实之门"
+Name="位面之门"
 Hotkey=F
-Tip="购买 虚拟现实之门"
-Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光数字。|n|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 位面之门"
+Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光符号。|n|n|cffFFFF80作者:|r |cff87cefaMajildian|r|n|cffFFFF80元素:|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W10B]
@@ -15226,7 +15226,7 @@ Ubertip="|cffFFFF00+10% |r攻击力/级|n"
 [W11A]
 Name="v0IB On Attack"
 Tip="无敌斩"
-Ubertip="攻击时，剑圣高速冲向战场，在他凯旋而归之前出剑至多 |cffFFFF8020|r 次.每次对目标造成 |cffFFFF805%|r 的普通攻击伤害并永久增加目标受到的 |cffC0C0C0物理|r 系伤害 |cffFFFF802%|r.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 攻击次数每 |cffFFFF805|r 级"
+Ubertip="攻击时，剑圣高速冲向战场，在他凯旋而归之前出剑至多 |cffFFFF8020|r 次.每次对目标造成 |cffFFFF805%|r 的攻击伤害并永久提高目标受到的 |cffC0C0C0物理|r 系伤害 |cffFFFF802%|r.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 攻击次数每 |cffFFFF805|r 级"
 ##Buffs
 [R06H]
 Bufftip=切割
@@ -15262,13 +15262,13 @@ Hotkey=V
 Name="|cffFF00BF抓斗机器人|r"
 Hotkey=T
 Tip="|cffFF00BF抓斗机器人|r"
-Ubertip="|cff9BA0D0看起来很脆弱？没错，不过它也是一台毁灭机器。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素： |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n  |cffFFFF0075|r 范围： |cff00FF00100%|r 伤害|r|n  |cffFFFF00100|r 范围：|cffFFFF0066%|r 伤害|r|n  |cffFFFF00125|r 范围：|cffFF800033%|r 伤害|r|n|n|cffCCFF00抓钩|r|n攻击时能抓住敌人。|n|n|cffCCFF00震慑|r|n击晕目标及其附近的单位。|n|cffA4AFD9主动释放： |n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF0015|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0看起来很脆弱？没错。不过它也是一台毁灭机器。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素： |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n  |cffFFFF0075|r 范围： |cff00FF00100%|r 伤害|r|n  |cffFFFF00100|r 范围：|cffFFFF0066%|r 伤害|r|n  |cffFFFF00125|r 范围：|cffFF800033%|r 伤害|r|n|n|cffCCFF00抓钩|r|n攻击时能抓住敌人。|n|n|cffCCFF00震慑|r|n击晕目标及其附近的单位。|n|cffA4AFD9主动释放： |n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF0015|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 范围|r"
 ##Item
 [Q0HO]
 Name="抓斗机器人"
 Hotkey=F
 Tip="购买 抓斗机器人"
-Ubertip="|cff9BA0D0看起来很脆弱？没错，不过它也是一台毁灭机器。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0看起来很脆弱？没错。不过它也是一台毁灭机器。|n|n|cffFFFF80作者:|r cedi|n|cffFFFF80元素:|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击使用建造一座塔"
 ##Abilities
 [W11L]

@@ -296,7 +296,7 @@ Hotkey=C
 [W0BB]
 Name="v06T Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80100|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0BF]
 Name="v06U Autocast"
@@ -552,7 +552,7 @@ Hotkey=V
 [W0LI]
 Name="v0BT Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1.5%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80260|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1.5%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0JV]
 Name="v0B3 Autocast"
@@ -967,7 +967,7 @@ Hotkey=V
 [W0V3]
 Name="v0GA Autocast"
 Tip="喷发"
-Ubertip="当凤凰火焰的持续时间结束时，它会喷发。目标每损失1护甲，就会对其 |cffFFFF80200|r 范围内的所有敌人造成 |cffFFFF80100|r 点元素伤害，离目标越远的伤害越小。此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-2%|r 破甲|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
+Ubertip="当凤凰火焰的持续时间结束时，它会喷发，对受影响单位 |cffFFFF80200|r 范围内的所有敌人造成和攻击力相关的元素伤害。目标每损失1护甲会额外受到 |cffFFFF80440|r 点伤害。离目标越远的伤害越小，此外目标会恢复 |cffFFFF8070%|r 所损失的护甲值。手动释放该技能可以立即引爆凤凰火焰。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-2%|r 护甲恢复|n|n|cffFFFF80冷却时间: |cffFFFF001 秒|r"
 Hotkey=V
 [W0XF]
 Name="v0H7 Autocast"

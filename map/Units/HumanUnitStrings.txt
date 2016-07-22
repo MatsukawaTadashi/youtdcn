@@ -599,7 +599,7 @@ Ubertip="|cff9BA0D0基础塔，攻击时有几率缠绕目标。|n|n|cffFFFF80�
 Name="|cffFFFFFF极地常春藤|r"
 Hotkey=T
 Tip="|cffFFFFFF极地常春藤|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001509|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v0D7]
 Name="|cff0080FF冰川|r"
 Hotkey=T
@@ -694,7 +694,7 @@ Ubertip="|cff9BA0D0这座塔杀死敌人时会进入狂暴状态，并且每次�
 Name="|cffFFFF00地狱猪圈|r"
 Hotkey=T
 Tip="|cffFFFF00地狱猪圈|r"
-Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00500|r每秒伤害，|cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军 |n|n|cffCCFF00怒猪狂击|r|n用 |cffFFFF803|r 只会爆炸的猪攻击。"
+Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00500|r每秒伤害，|cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军 |n|n|cffCCFF00怒猪狂击|r|n攻击时释放 |cffFFFF803|r 只会爆炸的猪。|n|n|cffCCFF00自发|r|n有一定数量的怪物路过时会触发怒猪狂击。"
 [v0CB]
 Name="|cff0080FF毁灭狂风|r"
 Hotkey=T
@@ -824,7 +824,7 @@ Ubertip="|cff9BA0D0耐兹拉的恶魔之火毁灭了半个世界。数年后伟�
 Name="|cff0080FF古老火盆|r"
 Hotkey=T
 Tip="|cff0080FF古老火盆|r"
-Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001135|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|r x 多重暴击"
+Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001135|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|r x 多重暴击"
 [v0FB]
 Name="|cffFFFFFF大型避雷针|r"
 Hotkey=T
@@ -1054,7 +1054,7 @@ Ubertip="|cff9BA0D0基础塔，射程很远。|n|n|cffFFFF80作者：|r geX|n|cf
 Name="|cffFFFF00霜冻冰尖|r"
 Hotkey=T
 Tip="|cffFFFF00霜冻冰尖|r"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻结目标并且降低它们的生命回复速度。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+35% |r伤害对人类 (|cffFFFF00+2%|r/级)|n|n|cffCCFF00寒冷|r|n攻击时有几率冻结它的目标，并且降低其生命回复速度。"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻结目标并且降低它们的生命回复速度。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001715|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001100|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r伤害对人类 (|cffFFFF00+2%|r/级)|n|n|cffCCFF00寒冷|r|n击中时有几率冻结它的目标，并且降低其生命回复速度。"
 [v0ED]
 Name="|cffFFFF00活人献祭|r"
 Hotkey=T
@@ -1280,12 +1280,12 @@ Ubertip="|cff9BA0D0一座有着优秀射程的塔，能有效克制BOSS，但对
 Name="|cffFFFF00霜冻之魂|r"
 Hotkey=T
 Tip="|cffFFFF00霜冻之魂|r"
-Ubertip="|cff9BA0D0生活在极北之地的寒冰之魂，可以召唤寒冰新星。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00506|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊 能力：|r|n|n|cffCCFF00新星风暴|r|n对敌人释放多个霜冻新星。"
+Ubertip="|cff9BA0D0生活在极北之地的寒冰之魂，可以召唤寒冰新星。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素 ：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00506|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00新星风暴|r|n对敌人释放多个霜冻新星。"
 [v0GP]
 Name="|cff0080FF景仰火盆|r"
 Hotkey=T
 Tip="|cff0080FF景仰火盆|r"
-Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001882|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|rx 多重暴击"
+Ubertip="|cff9BA0D0一座基础塔，有很高的攻击速度和多重暴击几率。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素 ：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001882|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00865|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF0030%|r 暴击几率|n|cffFFFF00x1.75|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF002|rx 多重暴击"
 [v0H1]
 Name="|cffFF00BF伊甸园|r"
 Hotkey=T
@@ -1360,7 +1360,7 @@ Ubertip="|cff9BA0D0可恶, 这里没有树。|n|n|cffFFFF80作者:|r cedi|n|cffF
 Name="|cffFFFF00炼狱猪圈|r"
 Hotkey=T
 Tip="|cffFFFF00炼狱猪圈|r"
-Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰 |r|n|cffFFFF80攻击力: |cffFFFF00800|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军|n|n|cffCCFF00怒猪狂击|r|n用 |cffFFFF803|r 只会爆炸的猪攻击。"
+Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰 |r|n|cffFFFF80攻击力: |cffFFFF00800|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军|n|n|cffCCFF00怒猪狂击|r|n攻击时释放 |cffFFFF803|r 只会爆炸的猪。|n|n|cffCCFF00自发|r|n有一定数量的怪物路过时会触发怒猪狂击。"
 [v0GA]
 Name="|cffFFFF00强力凤凰|r"
 Hotkey=T
@@ -1715,7 +1715,7 @@ Ubertip="|cff9BA0D0嘘…沉默是金…|n|n|cffFFFF80作者：|r |cff00CD00i_mO
 Name="|cffFF00BF抓斗机器人|r"
 Hotkey=T
 Tip="|cffFF00BF抓斗机器人|r"
-Ubertip="|cff9BA0D0看起来很脆弱？没错，不过它也是一台毁灭机器。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素： |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n  |cffFFFF0075|r 范围： |cff00FF00100%|r 伤害|r|n  |cffFFFF00100|r 范围：|cffFFFF0066%|r 伤害|r|n  |cffFFFF00125|r 范围：|cffFF800033%|r 伤害|r|n|n|cffCCFF00抓钩|r|n攻击时能抓住敌人。|n|n|cffCCFF00震慑|r|n击晕目标及其附近的单位。|n|cffA4AFD9主动释放： |n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF0015|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 范围|r"
+Ubertip="|cff9BA0D0看起来很脆弱？没错。不过它也是一台毁灭机器。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素： |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n  |cffFFFF0075|r 范围： |cff00FF00100%|r 伤害|r|n  |cffFFFF00100|r 范围：|cffFFFF0066%|r 伤害|r|n  |cffFFFF00125|r 范围：|cffFF800033%|r 伤害|r|n|n|cffCCFF00抓钩|r|n攻击时能抓住敌人。|n|n|cffCCFF00震慑|r|n击晕目标及其附近的单位。|n|cffA4AFD9主动释放： |n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF0015|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 范围|r"
 [v0IH]
 Name="|cffFFFF00黄金女王|r"
 Hotkey=T
@@ -1802,10 +1802,10 @@ Hotkey=T
 Tip="|cffFF00BF核导弹发射器|r"
 Ubertip="|cff9BA0D0人造的纯毁灭性设施。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001777|r 每秒伤害，|cff80FF00精髓|r|r，|cffFFFF002400|r 射程|n|cffFFFF80特殊能力：|r|n|cffFF0000只能攻击地面|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00400|r 范围：|cff00FF00100%|r 伤害|r|n   |cffFFFF00500|r 范围：|cffFFFF0075%|r 伤害|r|n   |cffFFFF00600|r 范围：|cffFF800050%|r 伤害|r"
 [v0HY]
-Name="|cffFF00BF虚拟现实之门|r"
+Name="|cffFF00BF位面之门|r"
 Hotkey=T
-Tip="|cffFF00BF虚拟现实之门|r"
-Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光数字。|n|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00星辰爆发|r|n削弱位面之间的界限，允许更多的能量通过。|n|cffA4AFD9主动释放：|n|cffFFFF001000|cffFFFF80法力|r，|cffFFFF0035|cffFFFF80秒 冷却|r|n|n|cffCCFF00位面变换|r|n从星界召唤一只猎鹰，对敌人造成多次弹跳伤害。"
+Tip="|cffFF00BF位面之门|r"
+Ubertip="|cff9BA0D0一座通往星芒层的门，能在它的另一侧看到无数飞舞着的发光符号。|n|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001429|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00700|r 射程|n|cffFFFF80法力：|cffFFFF001200|r (+|cffFFFF0012|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00星辰爆发|r|n削弱位面之间的界限，允许更多的能量通过。|n|cffA4AFD9主动释放：|n|cffFFFF001000|cffFFFF80法力|r，|cffFFFF0035|cffFFFF80秒 冷却|r|n|n|cffCCFF00位面变换|r|n从星界召唤一只猎鹰，对敌人造成多次弹跳伤害。"
 [v0HV]
 Name="|cffFF00BF变体精灵|r"
 Hotkey=T
@@ -2051,7 +2051,7 @@ Ubertip="|cff9BA0D0一棵具有高额范围伤害的小型沙漠植物，对人�
 Name="|cffFFFFFF冰霜树根|r"
 Hotkey=T
 Tip="|cffFFFFFF冰霜树根|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0025|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0025|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v002]
 Name="|cffFFFFFF寒冰砾石|r"
 Hotkey=T
@@ -2136,7 +2136,7 @@ Ubertip="|cff9BA0D0在这些废墟中仍然有魔法在闪光。|n|n|cffFFFF80�
 Name="|cffFFFFFF冰霜杂草|r"
 Hotkey=T
 Tip="|cffFFFFFF冰霜杂草|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0076|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0076|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v024]
 Name="|cffFFFFFF炽热石块|r"
 Hotkey=T
@@ -2306,7 +2306,7 @@ Ubertip="|cff9BA0D0小心,有毒.|n|n|cffFFFF80作者:|r DreamStrider|n|cffFFFF8
 Name="|cffFFFFFF发光太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF发光太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+25% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
 [v00T]
 Name="|cffFFFFFF触手幼生|r"
 Hotkey=T
@@ -2493,7 +2493,7 @@ Ubertip="|cff9BA0D0这座燃烧建筑能和其它火焰塔配合。|n|n|cffFFFF8
 Name="|cffFFFFFF冷冻藤蔓|r"
 Hotkey=T
 Tip="|cffFFFFFF冷冻藤蔓|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00227|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00227|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v046]
 Name="|cff0080FF火间歇泉|r"
 Hotkey=T
@@ -2884,7 +2884,7 @@ Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cff
 Name="|cffFFFFFF炽热太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF炽热太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊 能力：|r|n|cffFFFF00+35% |r伤害对亡灵 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35% |r伤害对亡灵 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00-25% |r伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
 [v069]
 Name="|cff0080FF骷髅法师|r"
 Hotkey=T
@@ -2924,7 +2924,7 @@ Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cff
 Name="|cffFFFFFF冰晶触须|r"
 Hotkey=T
 Tip="|cffFFFFFF冰晶触须|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00454|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00454|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v065]
 Name="|cffFFFFFF中型自然守卫|r"
 Hotkey=T
@@ -3304,12 +3304,12 @@ Ubertip="|cff9BA0D0你听到风暴的咆哮了吗?|n|n|cffFFFF80作者:|r DreamS
 Name="|cffFFFF00罪孽猪圈|r"
 Hotkey=T
 Tip="|cffFFFF00罪孽猪圈|r"
-Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰 |r|n|cffFFFF80攻击力: |cffFFFF00240|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军|n|n|cffCCFF00怒猪狂击|r|n用 |cffFFFF802|r 只会爆炸的猪攻击。"
+Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFFFF5300火焰 |r|n|cffFFFF80攻击力: |cffFFFF00240|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF00950|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+25% |r伤害对空军|n|n|cffCCFF00怒猪狂击|r|n攻击时释放 |cffFFFF802|r 只会爆炸的猪。|n|n|cffCCFF00自发|r|n有一定数量的怪物路过时会触发怒猪狂击。"
 [v07J]
 Name="|cffFFFF00寒冷冰尖|r"
 Hotkey=T
 Tip="|cffFFFF00寒冷冰尖|r"
-Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并降低它们的生命回复速度.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击力: |cffFFFF00572|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF001100|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00寒冷|r|n攻击时有几率冻结它的目标，并且降低其生命回复速度。"
+Ubertip="|cff9BA0D0一座高级的寒冰塔，能够冻住目标并降低它们的生命回复速度.|n|n|cffFFFF80作者:|r SirCoqaLot.|n|cffFFFF80元素: |cFF00FFFF寒冰|r|n|cffFFFF80攻击力: |cffFFFF00572|r 每秒伤害， |cffFF8000元素|r|r, |cffFFFF001100|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00寒冷|r|n击中时有几率冻结它的目标，并且降低其生命回复速度。"
 [v07G]
 Name="|cffFFFF00织棘者豪猪|r"
 Hotkey=T
@@ -3689,7 +3689,7 @@ Ubertip="|cff9BA0D0被狂热所驱使，这个单位非常善于肉搏。|n|n|cf
 Name="|cffFFFFFF冰川攀缘植物|r"
 Hotkey=T
 Tip="|cffFFFFFF冰川攀缘植物|r"
-Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00905|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n每次伤害时有几率造成额外的法术伤害。"
+Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00905|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00冰冻荆棘|r|n击中时有几率造成额外的法术伤害。"
 [v08Z]
 Name="|cff0080FF憎恨精髓|r"
 Hotkey=T

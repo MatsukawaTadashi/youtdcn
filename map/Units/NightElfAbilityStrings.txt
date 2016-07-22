@@ -140,7 +140,7 @@ Ubertip="|cffCCFF00溅射攻击:|n   |cffFFFF00320|r 范围内|cffFFFF0050%|r �
 [W005]
 Name="v005 On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF8025|r 点法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF8025|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法术伤害"
 [W006]
 Name="v006 On Damage"
 Tip="预热"
@@ -518,7 +518,7 @@ Ubertip="民兵守卫同时向至多 |cffFFFF803|r 个敌人掷出战斧,但每�
 [W02O]
 Name="v01S On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80125|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80125|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+5|r 法术伤害"
 [W030]
 Name="v01W abils"
 Tip="特殊能力"
@@ -584,7 +584,7 @@ Ubertip="|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+0.6%|r/级)|n|cffFFFF00+20% 
 [W05W]
 Name="v03U On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80375|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80375|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+15|r 法术伤害"
 [W05X]
 Name="v03V On Damage"
 Tip="寒冰长矛"
@@ -1038,7 +1038,7 @@ Ubertip="攻击时使目标受到来自黑暗系塔的伤害提高 |cffffff802%|
 [W09V]
 Name="v05T On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80750|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+30|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF80750|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+30|r 法术伤害"
 [W09W]
 Name="v05U On Attack"
 Tip="临界物质"
@@ -1115,7 +1115,7 @@ Ubertip="击中时点燃目标，使其每秒受到|cffFFFF80120|r 点法术伤�
 [W092]
 Name="v05E On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.4|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.4|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 砸中几率."
 [W093]
 Name="v05F Tower Aura"
 Tip="愤怒之火"
@@ -1343,7 +1343,7 @@ Ubertip="每次攻击消耗 |cffffff801|r 点法力值.没有法力时无法攻�
 [W0CP]
 Name="v07I On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF802|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80380|r,会自动跟踪|cffFFFF80275|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+2|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF802|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80380|r,会自动追踪|cffFFFF80275|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+2|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0D1]
 Name="v07O On Damage"
 Tip="墓穴诅咒"
@@ -1351,7 +1351,7 @@ Ubertip="这座塔有 |cffFFFF801.4%|r 几率在击中时直接杀死一个除bo
 [W0CQ]
 Name="v07I On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会对其释放一只发狂的猪。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 [W0D2]
 Name="v07P abils"
 Tip="特殊能力"
@@ -1842,7 +1842,7 @@ Ubertip="这座塔破坏了生物的心脏. 被击中的生物每秒受到 |cffF
 [W0G1]
 Name="v090 On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF801500|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+60|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF801500|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+60|r 法术伤害"
 [W0FQ]
 Name="v08S Tower Aura"
 Tip="净化水"
@@ -2066,7 +2066,7 @@ Ubertip="|cffFF0000只能攻击空军|r|n"
 [W0IH]
 Name="v0AA On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.25%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.6|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.25%|r 砸中几率."
 [W0II]
 Name="v0AB abils"
 Tip="特殊能力"
@@ -2374,7 +2374,7 @@ Ubertip="当有敌人在这座塔范围  |cFFFFFF801000|r 内死亡时，它获�
 [W0O1]
 Name="v0CV On Damage"
 Tip="冰冻荆棘"
-Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF802500|r 点额外的法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+100|r 法术伤害"
+Ubertip="击中时有 |cffFFFF8015%|r 几率造成 |cffFFFF802500|r 点额外法术伤害.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+100|r 法术伤害"
 [W0NR]
 Name="v0CS abils"
 Tip="特殊能力"
@@ -2452,11 +2452,11 @@ Ubertip="|cffFFFF00+25% |r伤害对空军|n"
 [W0MM]
 Name="v0CA On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80390|r,会自动跟踪|cffFFFF80290|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+4|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80390|r,会自动追踪|cffFFFF80290|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+4|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0MN]
 Name="v0CA On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会对其释放一只发狂的猪。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF80900|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 [W0MO]
 Name="v0CB On Attack"
 Tip="排斥"
@@ -2520,7 +2520,7 @@ Ubertip="攻击时有 |cffFFFF8030%|r 的几率额外射击一次,额外的射�
 [W11A]
 Name="v0IB On Attack"
 Tip="无敌斩"
-Ubertip="攻击时，剑圣高速冲向战场，在他凯旋而归之前出剑至多 |cffFFFF8020|r 次.每次对目标造成 |cffFFFF805%|r 的普通攻击伤害并永久增加目标受到的 |cffC0C0C0物理|r 系伤害 |cffFFFF802%|r.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 攻击次数每 |cffFFFF805|r 级"
+Ubertip="攻击时，剑圣高速冲向战场，在他凯旋而归之前出剑至多 |cffFFFF8020|r 次.每次对目标造成 |cffFFFF805%|r 的攻击伤害并永久提高目标受到的 |cffC0C0C0物理|r 系伤害 |cffFFFF802%|r.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 攻击次数每 |cffFFFF805|r 级"
 [W0PB]
 Name="v0DG Header"
 Tip="尸体爆炸"
@@ -3691,11 +3691,11 @@ Ubertip="|cffFFFF00+25% |r伤害对空军|n"
 [W0VG]
 Name="v0GD On Attack"
 Tip="怒猪狂击"
-Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80400|r,会自动跟踪|cffFFFF80310|r范围内的单位.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+8|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
+Ubertip="攻击时释放|cffFFFF803|r只地狱来的怒猪。猪会自动寻找目标并发生爆炸，对主目标造成塔的攻击伤害并在|cffFFFF80375|r范围内造成相当于|cffFFFF8015%|r攻击力的法术伤害。法术伤害部分由所有受影响的怪物分摊。猪的移动速度是|cffFFFF80400|r,会自动追踪|cffFFFF80310|r范围内的单位。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2|r 追踪距离|n|cffFFFF80+0.4%|r 溅射伤害|n|cffFFFF80+8|r 猪移动速度|n|cffFFFF80+1|r 只猪 于等级 |cffFFFF805|r 与 |cffFFFF8015|r"
 [W0VH]
 Name="v0GD On Unit Comes In Range"
 Tip="自发"
-Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF81400|r 范围内时, 猪圈会对其释放一只发狂的猪。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
+Ubertip="每第 |cffFFFF8016|r 次有怪物进入这座塔的 |cffFFFF801400|r 范围内时, 猪圈会释放一次怒猪狂击。|n猪圈杀死的怪物也会被当作进入范围内来计数。|n对于体型超过杂兵的怪物，放猪的频率也会提升。"
 [W0VI]
 Name="v0GE abils"
 Tip="特殊能力"
@@ -3731,7 +3731,7 @@ Ubertip="|cffFFFF00+12% |r伤害对精英 (|cffFFFF00+0.8%|r/级)|n|cffFFFF00+15
 [W0VY]
 Name="v0GM On Attack"
 Tip="恶毒的雪球"
-Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff额头压碎者|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF801|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.4%|r 砸中几率."
+Ubertip="当目标没有面对这座塔时，他在攻击时会扔出一个雪球高速砸向其脑袋。雪球只有 |cffFFFF8020%|r 几率砸中，效果由命中的角度决定。|n|n|cff9b32ff碎颅|r : 如果砸中侧脸, 造成相当于 |cffFFFF80120%|r 攻击力的法术伤害,眩晕 |cffFFFF801|r 秒.|n|n|cff00ff9b击倒|r : 如果砸中后脑, 造成相当于 |cffFFFF8040%|r 攻击力的法术伤害,眩晕 |cffFFFF800.8|r 秒.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1.4%|r 砸中几率."
 [W0VZ]
 Name="v0GN abils"
 Tip="特殊能力"
