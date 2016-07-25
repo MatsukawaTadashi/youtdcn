@@ -5050,8 +5050,8 @@ Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。|n|
 Name="|cffFFFF00能量灌注护符|r"
 Hotkey=K
 Tip="|cffFFFF00能量灌注护符|r"
-Ubertip="|cff9BA0D0这个护符将恢复能力灌注在攻击之中。|n|n|cffFFFF80等级:|r 24|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00灌注恢复之力|r|n携带者造成的每第 |cffFFFF805|r次攻击伤害会获得提高，提高比例等于它的法力回复百分比。"
-Description="|cff9BA0D0这个护符将恢复能力灌注在攻击之中。|n|n|cffFFFF80等级:|r 24|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00灌注恢复之力|r|n携带者造成的每第 |cffFFFF805|r次攻击伤害会获得提高，提高比例等于它的法力回复百分比。"
+Ubertip="|cff9BA0D0这个护符将恢复能力灌注在攻击之中。|n|n|cffFFFF80等级:|r 24|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00灌注恢复之力|r|n携带者造成的每第 |cffFFFF805|r次攻击伤害会获得提高，提高比例等于|cffFFFF80200%|r+法力回复百分比。"
+Description="|cff9BA0D0这个护符将恢复能力灌注在攻击之中。|n|n|cffFFFF80等级:|r 24|n|cffFFFF80作者:|r cedi|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00灌注恢复之力|r|n携带者造成的每第 |cffFFFF805|r次攻击伤害会获得提高，提高比例等于|cffFFFF80200%|r+法力回复百分比。"
 [Q0MO]
 Name="|cff0080FF熊掌|r"
 Hotkey=K
