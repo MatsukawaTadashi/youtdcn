@@ -101,7 +101,7 @@ Globalmessage=
 Globalsound=
 [R00B]
 Bufftip=灼热煤块
-Buffubertip=这个单位受到了灼热煤块效果的影响，它的暴击率提高了。
+Buffubertip=这个单位受到了灼热煤块效果的影响, 它的暴击率提高了。
 EditorName=灼热煤块
 [R00P]
 Bufftip=蚀心剧毒
@@ -115,24 +115,24 @@ EditorSuffix=
 EditorName=森林之馈赠
 [R01X]
 Bufftip=暴怒
-Buffubertip=这个单位处于暴怒状态，它的攻击速度大幅度提高了。
+Buffubertip=这个单位处于暴怒状态, 它的攻击速度大幅度提高了。
 [R026]
 Bufftip=灵魂链接
 Buffubertip=这个单位的灵魂与其他单位连接。
 [R027]
 Bufftip=嗜血
-Buffubertip=这个单位受到嗜血效果的影响，它的攻击速度提高了。
+Buffubertip=这个单位受到嗜血效果的影响, 它的攻击速度提高了。
 EditorName=嗜血
 [R01S]
 Bufftip=紧张
-Buffubertip=这个单位的攻击力提高，但是攻击速度降低。
+Buffubertip=这个单位的攻击力提高, 但是攻击速度降低。
 EditorName=紧张
 [R00Y]
 Bufftip=冰雪之爪
-Buffubertip=这个单位被冰雪之爪击中，它的移动速度降低，并且持续受到伤害。
+Buffubertip=这个单位被冰雪之爪击中, 它的移动速度降低, 并且持续受到伤害。
 [R00S]
 Bufftip=风切
-Buffubertip=这个单位具有风切效果，它的攻击速度提高，并且在攻击时有几率释放连锁闪电。
+Buffubertip=这个单位具有风切效果, 它的攻击速度提高, 并且在攻击时有几率释放连锁闪电。
 [R00Z]
 Bufftip=元素之怒
 Buffubertip=这个单位的触发率提高了。
@@ -151,11 +151,11 @@ Bufftip=相位之刃
 Buffubertip=这个单位受到来自狂热者更多的伤害。
 [R04I]
 Bufftip=士气提升
-Buffubertip=这个单位受到了士气提升效果的影响，它的攻击力和攻击速度提高了。
+Buffubertip=这个单位受到了士气提升效果的影响, 它的攻击力和攻击速度提高了。
 EditorName=士气提升
 [R04R]
 Bufftip=哨兵
-Buffubertip=这个单位处于警戒状态，攻击力提高。
+Buffubertip=这个单位处于警戒状态, 攻击力提高。
 EditorName=哨兵
 [R04P]
 Bufftip=地狱火
@@ -166,19 +166,19 @@ Bufftip=暗藏杀机
 Buffubertip=这个单位的法术伤害和法术暴击几率提高。
 [R03C]
 Bufftip=兴奋剂
-Buffubertip=这个单位使用了兴奋剂，攻击速度提高。
+Buffubertip=这个单位使用了兴奋剂, 攻击速度提高。
 EditorName=兴奋剂
 [R03D]
 Bufftip=手榴弹碎片
-Buffubertip=这个单位被手榴弹的碎片击中，受到的物理伤害提高。
+Buffubertip=这个单位被手榴弹的碎片击中, 受到的物理伤害提高。
 EditorName=手榴弹碎片
 [R03G]
 Bufftip=绿龙之力
-Buffubertip=这个单位受到了绿龙之力的影响，它的多重暴击数提高了。
+Buffubertip=这个单位受到了绿龙之力的影响, 它的多重暴击数提高了。
 EditorName=绿龙之力
 [R03S]
 Bufftip=燃烧印记
-Buffubertip=这个单位受到了燃烧印记的影响，它的攻击强度提高了。
+Buffubertip=这个单位受到了燃烧印记的影响, 它的攻击强度提高了。
 EditorName=燃烧印记
 [R044]
 Bufftip=双修
@@ -188,7 +188,7 @@ Bufftip=双修
 Buffubertip=这座塔的物理暴击率提高。
 [R03Q]
 Bufftip=充能
-Buffubertip=这个单位被充能，它的攻击速度提高了。
+Buffubertip=这个单位被充能, 它的攻击速度提高了。
 EditorName=充能
 [R06M]
 Bufftip=急速施法
