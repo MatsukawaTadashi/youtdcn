@@ -121,7 +121,7 @@ Buffubertip=这个单位的移动速度降低。
 EditorName=减速
 [R001]
 Bufftip=减速
-Buffubertip=这个单位感受到霜寒刺骨, 它的移动速度降低了。
+Buffubertip=这个单位感受到霜寒刺骨，它的移动速度降低了。
 EditorName=!减速
 [R02J]
 Bufftip=酸性炸弹
@@ -148,10 +148,10 @@ Buffubertip=这个单位被减速了。
 EditorName=减速
 [R00U]
 Bufftip=新星之寒
-Buffubertip=这个单位被冰霜新星击中, 它的移动速度降低。
+Buffubertip=这个单位被冰霜新星击中，它的移动速度降低。
 [R014]
 Bufftip=绝对零度
-Buffubertip=这个单位被暴风雪击中, 它的移动速度降低。
+Buffubertip=这个单位被暴风雪击中，它的移动速度降低。
 [R01H]
 Bufftip=霜冻
 Buffubertip=这个单位被减速了。

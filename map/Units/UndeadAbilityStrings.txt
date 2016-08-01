@@ -81,14 +81,14 @@ Bufftip=灵魂散落
 Buffubertip=这座塔的攻击速度降低。
 [R000]
 Bufftip=萎缩
-Buffubertip=这个单位正在萎缩, 它的移动速度降低了。
+Buffubertip=这个单位正在萎缩，它的移动速度降低了。
 EditorName=萎缩
 [R029]
 Bufftip=冰冻
-Buffubertip=这个单位被冻住了, 它无法移动。
+Buffubertip=这个单位被冻住了，它无法移动。
 [R024]
 Bufftip=致命缠绕
-Buffubertip=这个单位受到了致命缠绕的影响, 它对人类和兽人怪物的伤害提高。
+Buffubertip=这个单位受到了致命缠绕的影响，它对人类和兽人怪物的伤害提高。
 EditorName=致命缠绕
 [R02B]
 EditorName=Bat Swarm
@@ -97,21 +97,21 @@ Bufftip=霜冻光环
 Buffubertip=这个单位的移动速度降低。
 [R030]
 Bufftip=月光
-Buffubertip=这个单位受到更多的法术伤害, 并且受到来自某些元素的塔的额外伤害。
+Buffubertip=这个单位受到更多的法术伤害，并且受到来自某些元素的塔的额外伤害。
 [R02L]
 Bufftip=灵魂复仇
-Buffubertip=这个单位死亡时, 附近的灵魂大厅系塔会获得经验值和攻击力。
+Buffubertip=这个单位死亡时，附近的灵魂大厅系塔会获得经验值和攻击力。
 [R00T]
 Bufftip=黑暗诅咒
 Buffubertip=这个单位受到的物理伤害提高。
 EditorName=黑暗诅咒
 [R023]
 Bufftip=削弱
-Buffubertip=这个单位被削弱, 它的移动速度降低, 并且受到的法术伤害提高。
+Buffubertip=这个单位被削弱，它的移动速度降低，并且受到的法术伤害提高。
 EditorName=削弱
 [R04A]
 Bufftip=残废
-Buffubertip=这个单位残废了, 它的移动速度会持续降低。
+Buffubertip=这个单位残废了，它的移动速度会持续降低。
 EditorName=残废
 [R04O]
 Bufftip=科多兽的粪便
@@ -119,10 +119,10 @@ Buffubertip=这个单位从燃烧着的科多粪中获得了能量。
 EditorName=科多兽的粪便
 [R02Z]
 Bufftip=阳光
-Buffubertip=这个单位的护甲降低, 并且受到来自某些元素的塔的额外伤害。
+Buffubertip=这个单位的护甲降低，并且受到来自某些元素的塔的额外伤害。
 [R06B]
 Bufftip=星界转移
-Buffubertip=这个单位被强化的猎鹰击中, 它会受到来自星辰系塔的额外伤害。
+Buffubertip=这个单位被强化的猎鹰击中，它会受到来自星辰系塔的额外伤害。
 [R06A]
 Bufftip=星辰爆发
 Buffubertip=星辰爆发刚刚通过了传送门
@@ -132,7 +132,7 @@ Buffubertip=这座塔的法术伤害提高。
 EditorName=魔力爆发
 [R070]
 Bufftip=依米尔之血
-Buffubertip=这个单位受到了依米尔之血的影响, 受到来自寒冰系塔的额外伤害。
+Buffubertip=这个单位受到了依米尔之血的影响，受到来自寒冰系塔的额外伤害。
 EditorName=依米尔之血
 [R06T]
 Bufftip=不朽的意志
@@ -142,7 +142,7 @@ Bufftip=冷血
 Buffubertip=这个单位的攻击速度提高。
 [R06U]
 Bufftip=凋零的存在
-Buffubertip=这个单位的生命恢复速度降低, 并且受到来自黑暗系塔的额外伤害。
+Buffubertip=这个单位的生命恢复速度降低，并且受到来自黑暗系塔的额外伤害。
 [R076]
 Bufftip=冰冷触摸
 Buffubertip=这个单位被减速。
@@ -163,7 +163,7 @@ Buffubertip=这个单位受到风暴系塔的伤害提高。
 EditorName=能量场
 [R05D]
 Bufftip=电磁脉冲
-Buffubertip=这个单位受到了电磁脉冲的影响, 当它移动时会受到伤害。
+Buffubertip=这个单位受到了电磁脉冲的影响，当它移动时会受到伤害。
 EditorName=电磁脉冲
 [R08A]
 Bufftip=致残
@@ -175,7 +175,7 @@ Buffubertip=下一个被此塔击杀的怪物一定会掉落物品。
 EditorName=寻宝背包效果
 [R07L]
 Bufftip=缓慢凋零
-Buffubertip=这个单位的生命力被缓慢吸收, 当它的血量低于某个百分比时会直接死亡。
+Buffubertip=这个单位的生命力被缓慢吸收，当它的血量低于某个百分比时会直接死亡。
 EditorName=缓慢凋零
 [R07U]
 Bufftip=吹起

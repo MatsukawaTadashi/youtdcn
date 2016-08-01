@@ -1435,19 +1435,19 @@ Name=Inventory
 EditorSuffix=""
 [R01Y]
 Bufftip=古代魔法
-Buffubertip=这个单位受到古代魔法效果影响, 它的法术暴击几率增加了。
+Buffubertip=这个单位受到古代魔法效果影响，它的法术暴击几率增加了。
 EditorName=古代魔法
 [R01Z]
 Bufftip=极度寒冷
-Buffubertip=这个单位受到极度寒冷效果的影响, 它的移动速度降低, 效果消失后会进入眩晕状态。
+Buffubertip=这个单位受到极度寒冷效果的影响，它的移动速度降低，效果消失后会进入眩晕状态。
 EditorName=极度寒冷
 [R02D]
 Bufftip=警戒
-Buffubertip=这座塔处于警戒状态, 它的基础攻击力增加了。
+Buffubertip=这座塔处于警戒状态，它的基础攻击力增加了。
 EditorName=警戒
 [R02E]
 Bufftip=非法入侵
-Buffubertip=这个单位非法入侵, 它的护甲被降低了。
+Buffubertip=这个单位非法入侵，它的护甲被降低了。
 EditorName=非法入侵
 [R02M]
 Bufftip=光明光环
@@ -1455,20 +1455,20 @@ Buffubertip=这个单位对亡灵造成更多伤害。
 EditorName=光明光环
 [R019]
 Bufftip=新星风暴
-Buffubertip=这个单位被新星风暴击中, 它的移动速度降低了。
+Buffubertip=这个单位被新星风暴击中，它的移动速度降低了。
 EditorName=新星风暴
 [R04T]
 Bufftip=灵魂偷取
-Buffubertip=这个单位的灵魂被囚禁在穹窿中, 它会受到更多法术伤害。
+Buffubertip=这个单位的灵魂被囚禁在穹窿中，它会受到更多法术伤害。
 [R04U]
 EditorName=Item Change Time of Day
 [R04Q]
 Bufftip=液态火
-Buffubertip=这个单位持续受到伤害, 并且受到火焰系塔的伤害提高。
+Buffubertip=这个单位持续受到伤害，并且受到火焰系塔的伤害提高。
 EditorName=液态火
 [R03A]
 Bufftip=神圣教育
-Buffubertip=这个单位将越来越聪明, 获得额外的经验值。
+Buffubertip=这个单位将越来越聪明，获得额外的经验值。
 EditorName=神圣教育
 [BSIL]
 Bufftip=沉默
@@ -1484,7 +1484,7 @@ EditorSuffix=
 EditorName=冰冻之雾
 [R06V]
 Bufftip=热量光环
-Buffubertip=这个单位受到高温影响, 不断流失生命, 死亡时会发生爆炸
+Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会发生爆炸
 EditorSuffix=
 EditorName=热量光环
 [R071]
