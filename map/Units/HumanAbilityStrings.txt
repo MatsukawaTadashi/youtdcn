@@ -469,7 +469,7 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AO]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0A7]
 Name="多重射击"
@@ -497,7 +497,7 @@ Ubertip="Moo."
 [W0F1]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0F3]
 Name="多重射击"
@@ -567,12 +567,12 @@ Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0R6]
 Name="多重射击"
 Tip="多重射击"
-Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
 Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W15C]
 Name="吸收能量"
 Tip="吸收能量"
-Ubertip="同时攻击|cffFFFF8010|r个目标，但是不造成伤害。每次击中时有|cffFFFF8010%|r几率获得能量，回复|cffFFFF8050|r法力，如果被攻击的目标有法力，目标会丢失|cffFFFF8050|r法力。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
+Ubertip="同时攻击|cffFFFF8010|r个目标，但是不造成伤害。每次击中时有|cffFFFF8010%|r几率获得能量，回复|cffFFFF8050|r法力，如果被攻击的目标有法力，目标会丢失|cffFFFF8050|r法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
 Untip="同时攻击 |cffFFFF8010|r 个目标，但是不造成伤害。击中时有几率回复法力。"
 [W0TY]
 Name="地狱火"
@@ -592,7 +592,7 @@ Unubertip="同时攻击 |cffFFFF805|r 个目标"
 [W14I]
 Name="灵魂之火"
 Tip="灵魂之火"
-Ubertip="同时攻击|cffffff808|r个目标，击中时有|cffffff805%|r几率点燃它的灵魂，每秒造成|cffffff801000|r法术伤害，持续|cffffff805|r秒。这个效果可以叠加。|n|n|cffff8000等级加成:|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
+Ubertip="同时攻击|cffffff808|r个目标，击中时有|cffffff805%|r几率点燃它的灵魂，每秒造成|cffffff801000|r法术伤害，持续|cffffff805|r秒。这个效果可以叠加。|n|n|cffff8000等级加成：|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
 [W0T8]
 Name="火势蔓延"
 Tip="火势蔓延"
