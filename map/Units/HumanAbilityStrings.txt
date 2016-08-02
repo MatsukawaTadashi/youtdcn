@@ -893,7 +893,7 @@ Buffubertip=这个单位在攻击时会燃烧目标的法力。
 EditorName=消魔力场
 [R01B]
 Bufftip=被震动
-Buffubertip=这个单位被震动。它的攻击速度增加并在攻击时附加法术和攻击伤害。This unit has been jolted。Its attackspeed is increased and it deals additional spell and attack damage on attack。
+Buffubertip=这个单位被震动。它的攻击速度增加并在攻击时附加法术和攻击伤害。
 EditorName=被震动
 [R01I]
 Bufftip=闪电波涛

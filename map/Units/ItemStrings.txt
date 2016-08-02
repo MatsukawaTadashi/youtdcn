@@ -1198,7 +1198,7 @@ Description="点击以建造一座塔"
 Name="能量枢纽"
 Hotkey=F
 Tip="购买 能量枢纽"
-Ubertip="|cff9BA0D0只能攻击空军的辅助塔。增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00650|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0只能攻击空军的辅助塔。可以增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00650|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q04V]
 Name="魔触蜉蝣"
@@ -2134,7 +2134,7 @@ Description="点击以建造一座塔"
 Name="能量隧道"
 Hotkey=F
 Tip="购买 能量隧道"
-Ubertip="|cff9BA0D0只能攻击空军的辅助塔。增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001688|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0只能攻击空军的辅助塔。可以增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001688|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q09H]
 Name="小偷大师"
@@ -2284,7 +2284,7 @@ Description="点击以建造一座塔"
 Name="绿色雷霆"
 Hotkey=F
 Tip="购买 绿色雷霆"
-Ubertip="|cff9BA0D0这座塔通过攻击来获取法力值，消耗法力来获得攻击速度提升。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击: |cffFFFF00456|r 每秒伤害，|cff00FFFF魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80法力: |cffFFFF0065|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80特殊能力:|r|n|cffFFFF00+20%|r 法力伤害|n|n|cffCCFF00闪电爆裂|r|n攻击有几率造成额外法术伤害，重置“魔力摄取”的法术暴击率加成。|n|n|cffCCFF00闪电浪潮|r|n接下来几次攻击加快攻速。|n|cffA4AFD9活跃 的:|n|cffFFFF0060|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80s 冷却|r|n|n|cffCCFF00魔法消耗|r|n这座塔能通过攻击获取法力并且加大魔法暴击。"
+Ubertip="|cff9BA0D0这座塔通过攻击来获取法力值，消耗法力来获得攻击速度提升。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击: |cffFFFF00456|r 每秒伤害，|cff00FFFF魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80法力: |cffFFFF0065|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80特殊能力:|r|n|cffFFFF00+20%|r 法力伤害|n|n|cffCCFF00闪电爆裂|r|n攻击有几率造成额外法术伤害，重置“魔力摄取”的法术暴击率加成。|n|n|cffCCFF00闪电浪潮|r|n接下来几次攻击加快攻速。|n|cffA4AFD9活跃 的:|n|cffFFFF0060|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80s 冷却|r|n|n|cffCCFF00魔法消耗|r|n这座塔能通过攻击获取法力 并且加大魔法暴击。"
 Description="点击以建造一座塔"
 [Q08F]
 Name="冰霜巨魔"
@@ -2881,9 +2881,9 @@ Tip="购买 巨型狼巢"
 Ubertip="|cff9BA0D0一座辅助塔，能提高周围塔的攻击速度。|n|n|cffFFFF80作者:|r ColdRocker|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001546|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00700|r 射程|n|n|cffFFFF80光环范围：|r 300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CM]
-Name="北极漫游者|r"
+Name="极地漫游者|r"
 Hotkey=F
-Tip="北极漫游者|r"
+Tip="极地漫游者|r"
 Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者:|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r |n|cffFFFF80攻击: |cffFFFF001338|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力: |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CL]
@@ -2908,7 +2908,7 @@ Description="点击以建造一座塔"
 Name="能量放大器"
 Hotkey=F
 Tip="购买 能量放大器"
-Ubertip="|cff9BA0D0只能攻击空军的辅助塔。增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF002728|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0只能攻击空军的辅助塔。可以增加其它塔的攻速并在其攻击中附加一些物理和法术伤害。|n|n|cffFFFF80作者:|r SirCoqaLot|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF002728|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00500|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CY]
 Name="污染之地"
@@ -5134,8 +5134,8 @@ Description="|cff9BA0D0喝阿鲁卡的酒, 呼吸上帝的秘密烟雾。 |n|n|c
 Name="|cffFFFF00仪式护身符|r"
 Hotkey=K
 Tip="|cffFFFF00仪式护身符|r"
-Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。 |n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加|cffFFFF8020%|r经验获取率和|cffFFFF8010%|r攻击力,持续|cffFFFF8010|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
-Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。 |n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|n|cffCCFF00萨满仪式|r|n对附近塔施放萨满的祝福。增加|cffFFFF8020%|r经验获取率和|cffFFFF8010%|r攻击力,持续|cffFFFF8010|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0神秘的萨满仪式中所使用的护身符。 |n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|n|cffCCFF00萨满仪式|r|n对目标塔施放萨满的祝福。增加|cffFFFF8020%|r经验获取率和|cffFFFF8010%|r攻击力,持续|cffFFFF8010|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
+Description="|cff9BA0D0神秘的萨满仪式中所使用的护身符。 |n|n|cffFFFF80等级:|r 21|n|cffFFFF80作者:|r |cffcc6600drol|r|n|n|cffCCFF00萨满仪式|r|n对目标塔施放萨满的祝福。增加|cffFFFF8020%|r经验获取率和|cffFFFF8010%|r攻击力,持续|cffFFFF8010|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 经验|n|cffFFFF80+0.2%|r 伤害|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80秒 冷却|r, |cffFFFF00450|cffFFFF80 射程|r"
 [Q0N9]
 Name="|cffFF00BF月光精华"
 Hotkey=K
@@ -5662,8 +5662,8 @@ Description="|cff9BA0D0一块古老的附魔齿轮, 能增加携带塔的攻击�
 Name="|cffFF00BF青蛙长笛|r"
 Hotkey=K
 Tip="|cffFF00BF青蛙长笛|r"
-Ubertip="|cff9BA0D0长笛中发出青蛙无法反抗的声音。 |n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00青蛙吹笛者|r|n攻击时有|cffFFFF8020%|r几率召唤|cffFFFF802|r只青蛙,对敌人造成|cffFFFF80100%|r攻击伤害。|n|青蛙不能攻击天空。 "
-Description="|cff9BA0D0长笛中发出青蛙无法反抗的声音。 |n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00青蛙吹笛者|r|n攻击时有 |cffFFFF8020%|r几率召唤 |cffFFFF802|r 只青蛙, 对敌人造成 |cffFFFF80100%|r 攻击伤害。 |n|青蛙不能攻击天空。 "
+Ubertip="|cff9BA0D0长笛中发出青蛙无法反抗的声音。 |n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00青蛙吹笛者|r|n攻击时有|cffFFFF8020%|r几率召唤|cffFFFF802|r只青蛙,对敌人造成|cffFFFF80100%|r攻击力的伤害。|n青蛙不能攻击天空。 "
+Description="|cff9BA0D0长笛中发出青蛙无法反抗的声音。 |n|n|cffFFFF80等级:|r 48|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00青蛙吹笛者|r|n攻击时有 |cffFFFF8020%|r几率召唤 |cffFFFF802|r 只青蛙, 对敌人造成 |cffFFFF80100%|r 攻击力的伤害。 |n青蛙不能攻击天空。 "
 [Q0PL]
 Name="|cffFFFF00精英火枪手|r"
 Hotkey=K
@@ -5806,8 +5806,8 @@ Description="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德, 并�
 Name="|cffFFFF00花岗岩锤|r"
 Hotkey=K
 Tip="|cffFFFF00花岗岩锤|r"
-Ubertip="|cff9BA0D0沉归沉, 揍起来真狠。 |n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00重武器|r|n每 |cffFFFF805th|r 次攻击必定暴击。 "
-Description="|cff9BA0D0沉归沉, 揍起来真狠。 |n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00重武器|r|n每 |cffFFFF805th|r 次攻击必定暴击。 "
+Ubertip="|cff9BA0D0沉归沉, 揍起来真狠。 |n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00重武器|r|n每第 |cffFFFF805|r 次攻击必定暴击。 "
+Description="|cff9BA0D0沉归沉, 揍起来真狠。 |n|n|cffFFFF80等级:|r 40|n|cffFFFF80作者:|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00重武器|r|n每第 |cffFFFF805|r 次攻击必定暴击。 "
 [Q0OE]
 Name="|cffFFFFFF电磁炮|r"
 Hotkey=K
@@ -5926,8 +5926,8 @@ Description="|cff9BA0D0曾属于一位天使。 |n|n|cffFFFF80等级：|r 83|n|c
 Name="|cffFF00BF愤怒之戒|r"
 Hotkey=K
 Tip="|cffFF00BF愤怒之戒|r"
-Ubertip="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒|cffFFFF801.5|r秒,增加|cffFFFF800.5%|r攻击速度,增加|cffFFFF801%|r攻击力和|cffFFFF800.25%|r法术伤害。可以叠加|cffFFFF80120|r次。"
-Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒 |cffFFFF801.5|r 秒 , 增加 |cffFFFF800.5%|r 攻击速度, 增加 |cffFFFF801%|r 攻击力和 |cffFFFF800.25%|r 法术伤害。 可以叠加 |cffFFFF80120|r 次。 "
+Ubertip="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒|cffFFFF801.5|r秒,增加|cffFFFF800.5%|r攻击速度,|cffFFFF801%|r攻击力和|cffFFFF800.25%|r法术伤害。效果可以叠加|cffFFFF80120|r次。"
+Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级:|r 60|n|cffFFFF80作者:|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒 |cffFFFF801.5|r 秒 , 增加 |cffFFFF800.5%|r 攻击速度,  |cffFFFF801%|r 攻击力和 |cffFFFF800.25%|r 法术伤害。效果可以叠加 |cffFFFF80120|r 次。 "
 [Q0PW]
 Name="|cffFF00BF变色龙阔剑|r"
 Hotkey=K
@@ -5968,8 +5968,8 @@ Description="|cff9BA0D0震力十足, 对吧？|n|n|cffFFFF80等级:|r 81|n|cffFF
 Name="|cffFF00BF巴尔的精髓|r"
 Hotkey=K
 Tip="|cffFF00BF巴尔的精髓|r"
-Ubertip="|cff9BA0D0毁灭之王的精髓。 |n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-60% |r负面状态持续时间|n|n|cffCCFF00恐惧光环|r|n在范围|cffFFFF80650|r内的所有敌人移动速度减少|cffFFFF8010%|r并减少其护甲|cffFFFF804|r。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.2%|r 减速|r|n+|cffFFFF800.2|r 破甲"
-Description="|cff9BA0D0毁灭之王的精髓。 |n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-60% |r负面状态持续时间|n|n|cffCCFF00恐惧光环|r|n在范围 |cffFFFF80650|r 内的所有敌人移动速度减少 |cffFFFF8010%|r 并减少其护甲 |cffFFFF804|r。 |n|n|cffFF8000等级加成：|r|n+|cffFFFF800.2%|r 减速|r|n+|cffFFFF800.2|r 破甲"
+Ubertip="|cff9BA0D0毁灭之王的精髓。 |n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-60% |r负面状态持续时间|n|n|cffCCFF00恐惧光环|r|n范围|cffFFFF80650|r内的所有敌人移动速度降低|cffFFFF8010%|r，护甲降低|cffFFFF804|r。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.2%|r 减速|r|n+|cffFFFF800.2|r 破甲"
+Description="|cff9BA0D0毁灭之王的精髓。 |n|n|cffFFFF80等级:|r 83|n|cffFFFF80作者:|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-60% |r负面状态持续时间|n|n|cffCCFF00恐惧光环|r|n范围|cffFFFF80650|r内的所有敌人移动速度降低|cffFFFF8010%|r，护甲降低|cffFFFF804|r。|n|n|cffFF8000等级加成：|r|n+|cffFFFF800.2%|r 减速|r|n+|cffFFFF800.2|r 破甲"
 [Q0PS]
 Name="|cffFFFF00幸运骰子|r"
 Hotkey=K
