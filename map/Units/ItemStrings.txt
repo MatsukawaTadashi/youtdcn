@@ -5944,8 +5944,8 @@ Description="|cff9BA0D0由最强的金属锻造的刀刃, 能切断任何东西�
 Name="|cffFF00BF附魔刀|r"
 Hotkey=K
 Tip="|cffFF00BF附魔刀|r"
-Ubertip="|cff9BA0D0这些小刀曾属于一位著名的暗夜精灵游侠。它们能同时攻击多个目标。|n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50% |r攻击速度|n|n|cffCCFF00多重射击|r|n同时攻击 |cffFFFF803|r 个目标。 "
-Description="|cff9BA0D0这些小刀曾属于一位著名的暗夜精灵游侠。 它们能同时攻击多个目标。 |n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50% |r攻击速度|n|n|cffCCFF00多重射击|r|n同时攻击 |cffFFFF803|r 个目标。 "
+Ubertip="|cff9BA0D0这些小刀曾属于一位著名的暗夜精灵游侠。它们能同时攻击多个目标。|n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50% |r攻击速度|n|n|cffCCFF00多重射击|r|n同时攻击 |cffFFFF803|r 个目标。"
+Description="|cff9BA0D0这些小刀曾属于一位著名的暗夜精灵游侠。 它们能同时攻击多个目标。 |n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50% |r攻击速度|n|n|cffCCFF00多重射击|r|n同时攻击 |cffFFFF803|r 个目标。"
 [Q0PQ]
 Name="|cffFFFF00墨斐之矛|r"
 Hotkey=K
@@ -5986,8 +5986,8 @@ Description="|cff9BA0D0撕裂时空, 让携带者拥有不可思议的速度。 
 Name="|cffFF00BF至尊连击之刃|r"
 Hotkey=K
 Tip="|cffFF00BF至尊连击之刃|r"
-Ubertip="|cff9BA0D0不要被忽悠了,这玩意儿根本就没有额外伤害。|n|n|cffFFFF80等级：|r 63|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00连击|r|n每当此塔攻击时,有|cffFFFF8010%|r几率获得|cffFFFF80300%|r的攻击速度,持续1次攻击。下次攻击必定暴击,但仅造成|cffFFFF8050%|r伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|n|cffFFFF80+4%|r 攻击速度|n|cffFFFF80+1%|r 伤害"
-Description="|cff9BA0D0不要被忽悠了, 这玩意儿根本就没有额外伤害。 |n|n|cffFFFF80等级：|r 63|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00连击|r|n每当此塔攻击时, 有 |cffFFFF8010%|r 几率获得 |cffFFFF80300%|r 的攻击速度, 持续1次攻击。 下次攻击必定暴击, 但仅造成 |cffFFFF8050%|r 伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|n|cffFFFF80+4%|r 攻击速度|n|cffFFFF80+1%|r 伤害"
+Ubertip="|cff9BA0D0不要被忽悠了,这玩意儿根本就没有额外伤害。|n|n|cffFFFF80等级：|r 63|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00连击|r|n攻击时有|cffFFFF8010%|r几率提高|cffFFFF80300%|r的攻击速度,持续1次攻击。下次攻击必定暴击,但仅造成|cffFFFF8050%|r伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|n|cffFFFF80+4%|r 攻击速度|n|cffFFFF80+1%|r 伤害"
+Description="|cff9BA0D0不要被忽悠了, 这玩意儿根本就没有额外伤害。 |n|n|cffFFFF80等级：|r 63|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00连击|r|n攻击时有 |cffFFFF8010%|r 几率提高|cffFFFF80300%|r的攻击速度, 持续1次攻击。下次攻击必定暴击,但仅造成 |cffFFFF8050%|r伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|n|cffFFFF80+4%|r 攻击速度|n|cffFFFF80+1%|r 伤害"
 [Q0PY]
 Name="|cffFF00BF破碎轮回|r"
 Hotkey=K
