@@ -15796,15 +15796,6 @@ Tip="Buy The Steam Engine"
 Ubertip="|cff9BA0D0One of the greatest inventions of the dwarves.|n|n|cffFFFF80Author:|r |cffff6347Glowackos|r/cedi|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF000|r dps, |cffFF0080Magic|r|r, |cffFFFF000|r range|n|cffFFFF80Mana: |cffFFFF001000|r (+|cffFFFF0010|r/s)|r|n|n|cffFFFF80Aura Range:|r 450.0|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="Used to create a tower"
 ##Abilities
-[A009]
-Name="Non Turning Tower"
-Tip=|cffffcc00R|root
-Ubertip="Burrows the Ancient's roots into the ground, rendering it immobile, but allowing it to build units. For the Ancient Protector, this allows it to hurl enormous rocks through the air to damage enemy units. Also gives the Ancient Fortified armor."
-Hotkey=R
-Untip=Up|cffffcc00r|root
-Unubertip="Allows the Ancient to pull itself up out of the ground so that it can move and engage units in melee combat. Also gives the Ancient Heavy armor."
-Unhotkey=R
-EditorSuffix=""
 [W14C]
 Name="v0J2 abils"
 Tip="Specials"
