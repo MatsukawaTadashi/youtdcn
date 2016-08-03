@@ -1695,7 +1695,7 @@ Ubertip="|cff9BA0D0一个同时精于物理和魔法攻击的斗士。|n|n|cffFF
 Name="|cffFF00BFGenis圣贤|r"
 Hotkey=T
 Tip="|cffFF00BFGenis圣贤|r"
-Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00洪流|r|n有几率消耗法力举起敌人。|n|n|cffCCFF00急速施法|r|nGenis 在使用技能时，有几率增加触发几率和攻击速度。|n|n|cffCCFF00魔力爆发|r|n有几率消耗一些法力增加周围塔的法术伤害。|n|n|cffCCFF00水刀|r|nGenis有几率消耗一些法力发出水刀攻击敌人。"
+Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00洪流|r|n有几率消耗法力举起敌人。|n|n|cffCCFF00急速施法|r|nGenis在使用技能时，有几率增加触发几率和攻击速度。|n|n|cffCCFF00魔力爆发|r|n有几率消耗一些法力增加周围塔的法术伤害。|n|n|cffCCFF00水刀|r|nGenis有几率消耗一些法力发出水刀攻击敌人。"
 [v0IL]
 Name="|cffFFFF00被囚禁的地狱火|r"
 Hotkey=T

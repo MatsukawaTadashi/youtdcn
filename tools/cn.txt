@@ -4626,7 +4626,7 @@ Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸战士寻求新的挑战。|n|n
 Name="猛犸战士"
 Hotkey=F
 Tip="购买 猛犸战士"
-Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸战士寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF0067|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸战士寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF0067|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W01O]
@@ -4645,7 +4645,7 @@ Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸掠夺者寻求新的挑战。|
 Name="猛犸掠夺者"
 Hotkey=F
 Tip="购买 猛犸掠夺者"
-Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸掠夺者寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF00286|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸掠夺者寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF00286|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W05X]
@@ -4664,7 +4664,7 @@ Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸破坏者寻求新的挑战。|
 Name="猛犸破坏者"
 Hotkey=F
 Tip="购买 猛犸破坏者"
-Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸破坏者寻求新的挑战|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF00656|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸破坏者寻求新的挑战|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF00656|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0BL]
@@ -4683,7 +4683,7 @@ Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸灵魂猎手寻求新的挑战�
 Name="猛犸灵魂猎手"
 Hotkey=F
 Tip="购买 猛犸灵魂猎手"
-Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸灵魂猎手寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF001474|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸灵魂猎手寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF001474|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0LG]
@@ -4702,7 +4702,7 @@ Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸天体猎人寻求新的挑战�
 Name="猛犸天体猎人"
 Hotkey=F
 Tip="购买 猛犸天体猎人"
-Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸天体猎人寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF002535|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0漫步在冰冻废土，猛犸天体猎人寻求新的挑战。|n|n|cffFFFF80作者：|r |cffcc6600drol|r/|cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF002535|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0V5]
@@ -4721,7 +4721,7 @@ Ubertip="|cff9BA0D0你听到风暴的咆哮了吗?|n|n|cffFFFF80作者：|r Drea
 Name="风暴犬"
 Hotkey=F
 Tip="购买 风暴犬"
-Ubertip="|cff9BA0D0你听到风暴的咆哮了吗?|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击： |cffFFFF0066|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0你听到风暴的咆哮了吗?|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击： |cffFFFF0066|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W01P]
@@ -4847,7 +4847,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="炙热犬"
 Hotkey=F
 Tip="购买 炙热犬"
-Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF0068|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF0068|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W01S]
@@ -4871,7 +4871,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="燃烧犬"
 Hotkey=F
 Tip="购买 燃烧犬"
-Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00196|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00196|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W04O]
@@ -4894,7 +4894,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="地狱犬"
 Hotkey=F
 Tip="购买 地狱犬"
-Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00750|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00750|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0CT]
@@ -4917,7 +4917,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="恶魔犬"
 Hotkey=F
 Tip="购买 恶魔犬"
-Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF001426|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF001426|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0LK]
@@ -4940,7 +4940,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="战争猎犬"
 Hotkey=F
 Tip="购买 战争猎犬"
-Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF002707|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF002707|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W112]
@@ -11393,7 +11393,7 @@ Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFF
 Name="炼狱猪圈"
 Hotkey=F
 Tip="购买 炼狱猪圈"
-Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00240|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r 射程|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0从炼狱中召唤愤怒的猪进行爆炸攻击。|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00240|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0CO]
@@ -11665,7 +11665,7 @@ Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|c
 Name="地狱蝙蝠"
 Hotkey=F
 Tip="购买 地狱蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0DC]
@@ -11697,7 +11697,7 @@ Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|c
 Name="噩梦蝙蝠"
 Hotkey=F
 Tip="购买 噩梦蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF001550|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF001550|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0N4]
@@ -11725,7 +11725,7 @@ Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|c
 Name="恶魔蝙蝠"
 Hotkey=F
 Tip="购买 恶魔蝙蝠"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF002250|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF002250|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0VT]
@@ -13360,7 +13360,7 @@ Ubertip="|cff9BA0D0这座塔能够从敌人处榨取经验，并从法术中提�
 Name="光之皇后"
 Hotkey=F
 Tip="购买 光之皇后"
-Ubertip="|cff9BA0D0这座塔能够从敌人处榨取经验，并从法术中提取能量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击： |cffFFFF002259|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80魔法： |cffFFFF0030|r (+|cffFFFF001.5|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这座塔能够从敌人处榨取经验，并从法术中提取能量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击： |cffFFFF002259|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001000|r 射程|n|cffFFFF80魔法： |cffFFFF0030|r (+|cffFFFF001.5|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W0ZM]
@@ -15366,13 +15366,13 @@ EditorName=全领域静默
 Name="|cffFF00BFGenis圣贤|r"
 Hotkey=T
 Tip="|cffFF00BFGenis圣贤|r"
-Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00洪流|r|n有几率消耗法力举起敌人。|n|n|cffCCFF00急速施法|r|nGenis 在使用技能时，有几率增加触发几率和攻击速度。|n|n|cffCCFF00魔力爆发|r|n有几率消耗一些法力增加周围塔的法术伤害。|n|n|cffCCFF00水刀|r|nGenis有几率消耗一些法力发出水刀攻击敌人。"
+Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00洪流|r|n有几率消耗法力举起敌人。|n|n|cffCCFF00急速施法|r|nGenis在使用技能时，有几率增加触发几率和攻击速度。|n|n|cffCCFF00魔力爆发|r|n有几率消耗一些法力增加周围塔的法术伤害。|n|n|cffCCFF00水刀|r|nGenis有几率消耗一些法力发出水刀攻击敌人。"
 ##Item
 [Q0HS]
 Name="Genis圣贤"
 Hotkey=F
 Tip="购买 Genis圣贤"
-Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个强大的魔法师，擅长使用水魔法。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF001261|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00900|r 射程|n|cffFFFF80魔法： |cffFFFF00200|r (+|cffFFFF003|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 ##Abilities
 [W123]
