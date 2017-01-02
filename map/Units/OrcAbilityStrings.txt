@@ -1,4 +1,4 @@
-﻿[Absk]
+[Absk]
 Name=Berserk
 Tip="|cffffcc00B|rerserk"
 Ubertip="Causes this unit to attack <Absk,DataB1,%>% faster, but take <Absk,DataC1,%>% more damage."
@@ -54,11 +54,11 @@ EditorName=Building Damage - Orc Medium
 [Xfol]
 EditorName=Building Damage - Orc Large
 [XTOG]
-Name="切换积分面板"
-Tip="切换积分面板 (|cffffcc00esc|r)"
-Ubertip="在普通模式和统计模式间切换。"
+Name="Toggle Scoreboard"
+Tip="Toggle Scoreboard (|cffffcc00esc|r)"
+Ubertip="Toggles between the normal and the statistics multiboard."
 Hotkey=
-[W02H]
+[W02J]
 Name="Chainlightning"
 Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
 Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
@@ -66,7 +66,7 @@ Hotkey=C
 Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
 Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
 Researchhotkey=C
-[W064]
+[W06A]
 Name="Chainlightning"
 Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
 Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
@@ -74,7 +74,7 @@ Hotkey=C
 Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
 Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
 Researchhotkey=C
-[W0ET]
+[W0F7]
 Name="Chainlightning"
 Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
 Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
@@ -82,7 +82,7 @@ Hotkey=C
 Researchtip="Learn |cffffcc00C|rhain Lightning - [|cffffcc00Level %d|r]"
 Researchubertip="Hurls a bolt of damaging lightning at a target enemy that jumps to nearby enemies. Each jump deals less damage. |n|n|cffffcc00Level 1|r - <AOcl,DataA1> damage, jumps <AOcl,DataB1> times. |n|cffffcc00Level 2|r - <AOcl,DataA2> damage, jumps <AOcl,DataB2> times. |n|cffffcc00Level 3|r - <AOcl,DataA3> damage, jumps <AOcl,DataB3> times."
 Researchhotkey=C
-[W0RA]
+[W0RV]
 Name="Chainlightning"
 Tip="This tower has a chance to damage a few units with a chainlightning.","|cffffcc00C|rhain Lightning - [|cffffcc00Level 2|r]","|cffffcc00C|rhain Lightning - [|cffffcc00Level 3|r]"
 Ubertip="Has a 16% chance to hit up to 3 units with a chainlightning. Each jump reduces the damage done by 16%.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB2> times, dealing <AOcl,DataA2> damage on the primary target. Each jump deals less damage.","Calls forth a bolt of lightning that bounces up to <AOcl,DataB3> times, dealing <AOcl,DataA3> damage on the primary target. Each jump deals less damage."
@@ -100,157 +100,157 @@ Researchhotkey=R
 Globalmessage=
 Globalsound=
 [R00B]
-Bufftip=灼热煤块
-Buffubertip=这个单位受到了灼热煤块效果的影响，它的暴击率提高了。
-EditorName=灼热煤块
+Bufftip=Hot Coals
+Buffubertip=This unit is under the effect of hot coals, it has increased crit chance.
+EditorName=Hot Coals
 [R00P]
-Bufftip=蚀心剧毒
-Buffubertip=这个单位持续受到伤害！
+Bufftip=Poisoned heart
+Buffubertip=This unit takes damage over time!
 EditorSuffix=
-EditorName=蚀心剧毒
-[R01W]
-Bufftip=森林之馈赠
-Buffubertip=这个单位被森林之馈赠减速了。
+EditorName=Poisoned_heart
+[R01Y]
+Bufftip=Gift of The Forest
+Buffubertip=This unit is slowed by gift of the forest.
 EditorSuffix=
-EditorName=森林之馈赠
-[R01X]
-Bufftip=暴怒
-Buffubertip=这个单位处于暴怒状态，它的攻击速度大幅度提高了。
-[R026]
-Bufftip=灵魂链接
-Buffubertip=这个单位的灵魂与其他单位连接。
-[R027]
-Bufftip=嗜血
-Buffubertip=这个单位受到嗜血效果的影响，它的攻击速度提高了。
-EditorName=嗜血
-[R01S]
-Bufftip=紧张
-Buffubertip=这个单位的攻击力提高，但是攻击速度降低。
-EditorName=紧张
+EditorName=Gift of The Forest
+[R01Z]
+Bufftip=Rampage
+Buffubertip=This unit is raging, gaining enormous attack speed
+[R028]
+Bufftip=Soul Link
+Buffubertip=This unit's soul is linked to the souls of other units.
+[R029]
+Bufftip=Bloodthirst
+Buffubertip=This unit has Bloodthirst, its attackspeed is increased.
+EditorName=Bloodthirst
+[R01T]
+Bufftip=Cold Feet
+Buffubertip=This units attackdamage is increrased and its attackspeed is slowed.
+EditorName=Cold Feet
 [R00Y]
-Bufftip=冰雪之爪
-Buffubertip=这个单位被冰雪之爪击中，它的移动速度降低，并且持续受到伤害。
+Bufftip=Ice Claw
+Buffubertip=This unit is hit by Ice Claw; it is slowed and suffers damage over time.
 [R00S]
-Bufftip=风切
-Buffubertip=这个单位具有风切效果，它的攻击速度提高，并且在攻击时有几率释放连锁闪电。
+Bufftip=Wind Shear
+Buffubertip=This unit has Wind Shear; its attackspeed is increased and it has a chance to release a chain of lightning.
 [R00Z]
-Bufftip=元素之怒
-Buffubertip=这个单位的触发率提高了。
-EditorName=元素之怒
+Bufftip=Elemental Wrath
+Buffubertip=This unit has increased triggerchance.
+EditorName=Elemental Wrath
+[R01G]
+Bufftip=Fanaticism
+Buffubertip=This unit's attack speed is reduced by a nearby Zealot.
 [R01E]
-Bufftip=闪电之盾
-Buffubertip=这个单位的负面效果持续时间降低。
+Bufftip=Phase Blade
+Buffubertip=This unit is taking more damage from a Zealot.
 [R01F]
-Bufftip=狂热
-Buffubertip=这个单位的攻击速度被附近的狂热者降低了。
-[R01C]
-Bufftip=热诚
-Buffubertip=这个单位的攻击速度提高了。
+Bufftip=Lightning Shield
+Buffubertip=This unit has reduced debuff duration.
 [R01D]
-Bufftip=相位之刃
-Buffubertip=这个单位受到来自狂热者更多的伤害。
-[R04I]
-Bufftip=士气提升
-Buffubertip=这个单位受到了士气提升效果的影响，它的攻击力和攻击速度提高了。
-EditorName=士气提升
-[R04R]
-Bufftip=哨兵
-Buffubertip=这个单位处于警戒状态，攻击力提高。
-EditorName=哨兵
-[R04P]
-Bufftip=地狱火
-Buffubertip=这座塔的攻击速度提高并且具有多重射击。
-EditorName=地狱火
-[R035]
-Bufftip=暗藏杀机
-Buffubertip=这个单位的法术伤害和法术暴击几率提高。
-[R03C]
-Bufftip=兴奋剂
-Buffubertip=这个单位使用了兴奋剂，攻击速度提高。
-EditorName=兴奋剂
-[R03D]
-Bufftip=手榴弹碎片
-Buffubertip=这个单位被手榴弹的碎片击中，受到的物理伤害提高。
-EditorName=手榴弹碎片
+Bufftip=Zeal
+Buffubertip=This unit's attack speed is increased.
+[R03W]
+Bufftip=Burning Mark
+Buffubertip=This unit is under the effect of Burning Mark. Its attack is enchanced.
+EditorName=Burning Mark
+[R048]
+Bufftip=Twin Disciplines
+Buffubertip=This tower has its critical chance increased.
+[R03U]
+Bufftip=Charged
+Buffubertip=This unit is charged; its attackspeed is increased.
+EditorName=Charged
+[R047]
+Bufftip=Twin Disciplines
+Buffubertip=This tower has its spell critical chance increased.
+[R04L]
+Bufftip=Morale Boost
+Buffubertip=This unit is under the effect of a morale boost; it has increased attackspeed and damage.
+EditorName=Morale Boost
+[R04U]
+Bufftip=Sentry
+Buffubertip=This unit is alerted and has increased bonus damage.
+EditorName=Sentry
+[R04S]
+Bufftip=Hellfire
+Buffubertip=The buffed tower has bonus attackpeed and a multishot.
+EditorName=Hellfire
+[R038]
+Bufftip=Sparks
+Buffubertip=This unit's spell damage and spell critical strike chance are increased.
+[R03J]
+Bufftip=Green Dragon Force
+Buffubertip=This unit is under the effects of Green Dragon Force. It has increased multi crit.
+EditorName=Green Dragon Force
 [R03G]
-Bufftip=绿龙之力
-Buffubertip=这个单位受到了绿龙之力的影响，它的多重暴击数提高了。
-EditorName=绿龙之力
-[R03S]
-Bufftip=燃烧印记
-Buffubertip=这个单位受到了燃烧印记的影响，它的攻击强度提高了。
-EditorName=燃烧印记
-[R044]
-Bufftip=双修
-Buffubertip=这座塔的法术暴击率提高。
-[R045]
-Bufftip=双修
-Buffubertip=这座塔的物理暴击率提高。
-[R03Q]
-Bufftip=充能
-Buffubertip=这个单位被充能，它的攻击速度提高了。
-EditorName=充能
-[R06M]
-Bufftip=急速施法
-Buffubertip=圣贤的触发几率提高。
-EditorName=急速施法
-[R077]
-Bufftip=疾风
-Buffubertip=这个单位受到了疾风的影响。
-EditorName=疾风
-EditorSuffix=ZV
+Bufftip=Grenade Shrapnel
+Buffubertip=This unit has been hit by grenade shrapnel; any attack damage it receives is amplified.
+EditorName=Grenade Shrapnel
+[R03F]
+Bufftip=Stim
+Buffubertip=This unit has stimmed and has increased attackspeed.
+EditorName=Stim
+[R06S]
+Bufftip=Electrified
+Buffubertip=This unit damages other nearby units.
+EditorName=Electrified
 [R06P]
-Bufftip=带电
-Buffubertip=这个单位对附近的单位造成伤害。
-EditorName=带电
-[R05N]
-Bufftip=静态力场
-Buffubertip=这座塔对魔免怪物造成更多伤害。
-EditorName=静态力场
-[R08C]
-Bufftip=法力光环
-Buffubertip=这个单位受到法力光环的影响，法力回复速度提高了。
-[R08N]
-Bufftip=战歌巨鼓
-Buffubertip=这座塔的攻击速度提高。
-EditorName=战歌巨鼓
-[R08L]
-Bufftip=凋零
-Buffubertip=这座塔在腐蚀精华附近，攻击速度降低。
-[R08M]
-Bufftip=凋零
-Buffubertip=这个单位在腐蚀精华附近，受到的伤害提高。
-[R08U]
-Bufftip=力场
-Buffubertip=这座塔的负面效果持续时间降低。
-[R07O]
-Bufftip=蜘蛛毒
-Buffubertip=这个单位中毒了。
-EditorSuffix=
-EditorName=蜘蛛毒
-[R080]
-Bufftip=宿醉
-Buffubertip=这座塔的攻击速度降低，效果结束时会眩晕一小会儿。
-EditorName=宿醉
-[R088]
-Bufftip=致命毒药
-Buffubertip=这个单位受到致命毒药的影响，持续受到伤害。
+Bufftip=Speed Cast
+Buffubertip=Genis' trigger chances are increased.
+EditorName=Speed Cast
+[R05R]
+Bufftip=Static Presence
+Buffubertip=This tower will deal more damage to immune creeps.
+EditorName=Static Presence
+[R07Y]
+Bufftip=Magic Conductor
+Buffubertip=This tower is hit by a spell and has increased attackspeed.
+EditorName=Magic Conductor
+[R08H]
+Bufftip=Mana Aura
+Buffubertip=This unit is under the effect of Mana Aura; it has additional mana regeneration.
+[R08D]
+Bufftip=Deadly Poison
+Buffubertip=This unit is afflicted with dealy poison; it will take damage over time.
 EditorSuffix=(Stacking)
-[R086]
-Bufftip=萨满仪式
-Buffubertip=这座塔的攻击力和经验获取率提高。
-EditorName=萨满仪式
-[R07V]
-Bufftip=大地与月亮
-Buffubertip=这座塔的触发几率提高。
+[R08B]
+Bufftip=Shamanistic Ritual
+Buffubertip=This tower gains more experience and deals more damage.
+EditorName=Shamanistic Ritual
+[R08Q]
+Bufftip=Decay
+Buffubertip=This tower is near a source of decay and has decreased attackspeed.
+[R08R]
+Bufftip=Decay
+Buffubertip=This creep is near a source of rot and takes more damage.
+[R08S]
+Bufftip=Warsong Double Bass
+Buffubertip=This tower has it's attackspeed increased.
+EditorName=Warsong Double Bass
+[R07A]
+Bufftip=Strong Wind
+Buffubertip=This unit is affected by the Strong Wind.
+EditorName=Strong Wind
+EditorSuffix=ZV
+[R080]
+Bufftip=Earth and Moon
+Buffubertip=This unit's trigger chances have been increased.
+[R07W]
+Bufftip=Libram of Grace
+Buffubertip=This unit has increased Exp gain.
+[R088]
+Bufftip=Bloodthirst
+Buffubertip=This unit has Bloothirst, it's attackspeed is increased.
+EditorName=Bloodthirst
 [R07T]
-Bufftip=魔法导体
-Buffubertip=这座塔被魔法效果击中，它的攻击速度提高。
-EditorName=魔法导体
-[R07R]
-Bufftip=优雅圣契
-Buffubertip=这个单位的经验获取率提高。
-[R083]
-Bufftip=嗜血
-Buffubertip=这个单位受到嗜血效果的影响，它的攻击速度提高了。
-EditorName=嗜血
+Bufftip=Spiderling Poison
+Buffubertip=This unit is poisoned by a spiderling.
+EditorSuffix=
+EditorName=Spiderling Poison
+[R085]
+Bufftip=Hangover
+Buffubertip=This towers attackspeed is reduced and on expire it will be stunned for a short period.
+EditorName=Hangover
+[R08Z]
+Bufftip=Forcefield
+Buffubertip=Debuffs cast onto this tower have a reduced duration.

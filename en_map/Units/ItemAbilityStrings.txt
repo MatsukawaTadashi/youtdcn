@@ -138,19 +138,19 @@ EditorSuffix=""
 [Aas3]
 Name="Attack Speed-2"
 EditorSuffix=""
-[W0AC]
+[W0AM]
 Name="Buff Spikes"
 EditorSuffix=(+1)
-[W0K2]
+[W0KJ]
+Name="Buff Spikes"
+EditorSuffix=(+1)
+[W0KI]
 Name="Buff Fire"
 EditorSuffix=(+1)
-[W0K3]
+[W0U6]
 Name="Buff Spikes"
 EditorSuffix=(+1)
-[W0TI]
-Name="Buff Spikes"
-EditorSuffix=(+1)
-[W0UJ]
+[W0V7]
 Name=Change Time of Day
 [Adm9]
 Name="Damage4"
@@ -272,11 +272,11 @@ Name="Base Damage -2048"
 Bufftip=Afterglow
 Buffubertip=This unit has reduced armor.
 EditorName=!ArmoryReduction
-[R03N]
+[R03R]
 Bufftip=Golden
 Buffubertip=This unit's bounty gain is increased.
 EditorName=Golden
-[R085]
+[R08A]
 Bufftip=Gem Armor
 Buffubertip=This unit's armor is decreased by a lucky gem.
 EditorName=Gem Armor

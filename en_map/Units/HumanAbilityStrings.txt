@@ -415,7 +415,7 @@ Ubertip="Attacks up to |cffffff802|r targets at the same time."
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF802|r targets at the same time."
-[W02B]
+[W02D]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
 Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
@@ -423,23 +423,23 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
-[W05C]
+[W05I]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W04V]
+[W04U]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF802|r targets at the same time."
+[W04Z]
 Name="Acient Effect"
-[W04X]
+[W051]
 Name="Magical Sight"
 Tip="Magical Sight"
 Ubertip="Can see invisible enemy units in |cffFFFF80700|r range."
 EditorSuffix=(Flying Machine)
 Untip="Reveals nearby invisible units"
-[W04Q]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF802|r targets at the same time."
-[W09D]
+[W09J]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
 Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
@@ -447,63 +447,63 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
-[W0AR]
+[W0B1]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W0AH]
+[W0AR]
 Name="Spreading Flames"
 Tip="Spreading Flames"
 Ubertip="This tower attacks |cffFFFF804|r targets at once."
-[W0AK]
+[W0AU]
 Name="Magical Sight"
 Tip="Magical Sight"
 Ubertip="Can see invisible enemy units in |cffFFFF80750|r range."
 EditorSuffix=(Flying Machine)
 Untip="Reveals nearby invisible units"
-[W0AN]
+[W0AH]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
+[W0AK]
+Name="Acient Effect"
+[W0AX]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
 Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
-[W0AO]
+[W0AY]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
 Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W0A7]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-[W0AA]
-Name="Acient Effect"
-[W0EN]
+[W0F1]
 Name="Darkness"
 Tip="Mister Fireflies"
 Ubertip="Moo."
-[W0EO]
+[W0F2]
 Name="Fire"
 Tip="Mister Fireflies"
 Ubertip="Moo."
-[W0F0]
+[W0F3]
+Name="Storm"
+Tip="Mister Fireflies"
+Ubertip="Moo."
+[W0FE]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
 Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
-[W0EP]
-Name="Storm"
-Tip="Mister Fireflies"
-Ubertip="Moo."
-[W0F1]
+[W0FF]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
 Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W0F3]
+[W0FH]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
-[W0FG]
+[W0FU]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
 Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
@@ -511,47 +511,61 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
-[W0HN]
+[W0IU]
+Name="Acient Effect"
+[W0I3]
 Name="Spreading Flames"
 Tip="Spreading Flames"
 Ubertip="This tower attacks |cffFFFF804|r targets at once."
-[W0HC]
+[W0HU]
 Name="Magical Sight"
 Tip="Magical Sight"
 Ubertip="Can see invisible enemy units in |cffFFFF80800|r range."
 EditorSuffix=(Flying Machine)
 Untip="Reveals nearby invisible units"
-[W0HZ]
+[W0IF]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W0IE]
-Name="Acient Effect"
-[W0KH]
+[W0KX]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffffff803|r targets at the same time."
-[W0NQ]
-Name=Sphere
-[W11E]
-Name=Phoenix Fire
-Tip=Phoenix Fire
-Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
-[W10X]
+[W100]
+Name="Burning Barrage"
+Tip="Burning Barrage"
+Ubertip="Attacks up to |cffFFFF8014|r targets at once."
+[W11P]
 Name="a"
 Tip=Phoenix Fire
 Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
-[W0PI]
+[W0Q3]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
-[W0PM]
+[W126]
+Name=Phoenix Fire
+Tip=Phoenix Fire
+Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
+[W0Q7]
 Name="Multishot"
 Tip="Multishot"
 Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-[W0RF]
+[W0OB]
+Name=Sphere
+[W0RQ]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
+[W0RR]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W0S0]
 Name="Acient Effect"
-[W0Q8]
+[W0QR]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
 Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
@@ -559,159 +573,25 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
-[W0R5]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
-[W0R6]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W15C]
+[W15G]
 Name="Absorb Energy"
 Tip="Absorb Energy"
 Ubertip="Attacks hit up to |cffFFFF8010|r enemies, but do no damage. There is a |cffFFFF8010%|r chance per hit to gather energy, restoring |cffFFFF8050|r mana to the tower and the target will lose |cffFFFF8050|r mana if it has mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r mana|n|cffFFFF80+0.2%|r chance"
-Untip="Attacks hit up to |cffFFFF806|r enemies but do no damage. There is a chance to gain mana per enemy hit."
-[W0TY]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF807|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF807|r targets at the same time."
-[W0TZ]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF806|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF806|r targets at the same time."
-[W0U0]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF805|r targets at the same time."
-[W14I]
-Name="Soulfire"
-Tip="Soulfire"
-Ubertip="Attacks hit up to |cffffff808|r enemies in range and have a |cffffff805%|r chance to ignite the enemy's soul, dealing |cffffff801000|r spell damage per second for |cffffff805|r seconds. This effect stacks.|n|n|cffff8000Level Bonus:|r|n|cffffff80+0.2%|r chance|n|cffffff80+20|r spell damage"
-[W0T8]
+Untip="Attacks hit up to |cffFFFF8010|r enemies but do no damage. There is a chance to gain mana per enemy hit."
+[W0TW]
 Name="Spreading Flames"
 Tip="Spreading Flames"
 Ubertip="This tower attacks |cffFFFF804|r targets at once."
-[W17G]
-Name="Overgrowth"
-Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
-Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
-Hotkey=B
-Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
-Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
-Researchhotkey=B
-[W0VK]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80850|r range."
-EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
-[W17U]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17V]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17W]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17X]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17Y]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17Z]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17N]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17O]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W180]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17P]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W181]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17Q]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W182]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17R]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W183]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17S]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W184]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W17T]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W185]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
-[W16E]
+[W15N]
+Name="Soulfire"
+Tip="Soulfire"
+Ubertip="Attacks hit up to |cffffff808|r enemies in range and have a |cffffff8020%|r chance to ignite the enemy's soul, dealing |cffffff801000|r spell damage per second for |cffffff805|r seconds. This effect stacks.|n|n|cffff8000Level Bonus:|r|n|cffffff80+0.4%|r chance|n|cffffff80+40|r spell damage"
+[W17C]
 Name="Nermind's Eye"
 Tip="Nermind's Eye"
 Ubertip="Reveals nearby invisible units."
 EditorSuffix=""
-[W0V6]
+[W0VU]
 Name="Leaf Storm"
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
 Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
@@ -719,15 +599,135 @@ Hotkey=B
 Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
-[W16S]
+[W0W8]
+Name="Magical Sight"
+Tip="Magical Sight"
+Ubertip="Can see invisible enemy units in |cffFFFF80850|r range."
+EditorSuffix=(Flying Machine)
+Untip="Reveals nearby invisible units"
+[W17Q]
 Name="Eye of True Sight"
 Tip="Detection"
 Ubertip="Reveals nearby invisible units."
 EditorSuffix=""
-[W0ZA]
-Name="Burning Barrage"
-Tip="Burning Barrage"
-Ubertip="Attacks up to |cffFFFF8014|r targets at once."
+[W0UM]
+Name="Hellfire"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF807|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF807|r targets at the same time."
+[W0UN]
+Name="Hellfire"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF806|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF806|r targets at the same time."
+[W0UO]
+Name="Hellfire"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF805|r targets at the same time."
+[W18F]
+Name="Overgrowth"
+Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
+Ubertip="Calls down <AHbz,DataA1> freezing ice shard waves; each wave deals <AHbz,DataB1> damage to units in an area.","Calls down <AHbz,DataA2> freezing ice shard waves; each wave deals <AHbz,DataB2> damage to units in an area.","Calls down <AHbz,DataA3> freezing ice shard waves; each wave deals <AHbz,DataB3> damage to units in an area."
+Hotkey=B
+Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
+Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
+Researchhotkey=B
+[W18M]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18V]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18W]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18X]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18Y]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18Z]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18N]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18O]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W190]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18P]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W191]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18Q]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W192]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18R]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W193]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18S]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W194]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18T]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+[W18U]
+Name="Multishot"
+Tip="Multishot"
+Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
 [WC03]
 Name="Slow Aura caster effect"
 Tip=Brilliance Aura - [|cffffcc00Level 1|r],Brilliance Aura - [|cffffcc00Level 2|r],Brilliance Aura - [|cffffcc00Level 3|r]
@@ -789,15 +789,12 @@ EditorName=Roar
 Bufftip=Thunderous Roar
 Buffubertip=This tower has increased attack speed.
 EditorName=Thunderous Roar
-[R011]
-Bufftip=Treasure Seeker
-Buffubertip=The bounty gain of this tower is increased.
 [R00Q]
 Bufftip=Ignited
 Buffubertip=This unit is set on fire; it suffers damage every second and is slowed.
 [R012]
-Bufftip=Slumering Parasite
-Buffubertip=This unit is host to a parasite; it has increased vulnerability to nature towers and will receive damage when the parasite surfaces.
+Bufftip=Treasure Seeker
+Buffubertip=The bounty gain of this tower is increased.
 [R00N]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
@@ -818,600 +815,597 @@ EditorSuffix=meins
 [BSEL]
 Bufftip=Sell
 Buffubertip=This unit is about to be sold!
-[R028]
-Bufftip=Quill Sprayed
-Buffubertip=This unit has been hit by a Quillspray the next Quillspray will deal increased damage.
-EditorName=Quill Sprayed
-[R01U]
-Bufftip=Gut Coated
-Buffubertip=This unit is coated with guts; it moves slower and takes more damage from darkness towers.
-[R01V]
+[R01X]
 Bufftip=Ignited
 Buffubertip=This unit is ignited it is dealt spell damage over time and receives additional damage from fire towers.
 EditorName=Ignited
-[R01T]
+[R01U]
 Bufftip=Empowered Darkness
 Buffubertip=This unit receives additional damage from darkness towers.
 EditorName=Empowered Darkness
-[R025]
+[R01V]
+Bufftip=Gut Coated
+Buffubertip=This unit is coated with guts; it moves slower and takes more damage from darkness towers.
+[R027]
 Bufftip=For the God
 Buffubertip=This tower has an increased attack damage and experience gain.
 EditorName=For the God
+[R024]
+Bufftip=Bloodlust
+Buffubertip=This tower has increased crit damage and attackspeed.
+EditorName=Bloodlust
 [R02C]
-Bufftip=Engulfing Darkness
-Buffubertip=This unit is engulfed in darkness.
-[R02A]
 Bufftip=Fatigue
 Buffubertip=This unit has its attack speed reduced.
-[R033]
-Bufftip=Sacrifice
-Buffubertip=This unit has its attack damage increased.
-[R034]
-Bufftip=Sacrifice
-Buffubertip=This unit has its attack damage reduced.
-[R02P]
+[R02A]
+Bufftip=Quill Sprayed
+Buffubertip=This unit has been hit by a Quillspray the next Quillspray will deal increased damage.
+EditorName=Quill Sprayed
+[R02E]
+Bufftip=Engulfing Darkness
+Buffubertip=This unit is engulfed in darkness.
+[R02R]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
-[R031]
-Bufftip=Blood Spill
-Buffubertip=This unit has its attack speed increased.
-[R02Q]
+[R02S]
 Bufftip=Blizzard
 Buffubertip=This unit is damaged by blizzard.
 EditorName=Blizzard
 EditorSuffix=meins
-[R032]
+[R034]
 Bufftip=Blood Spill
-Buffubertip=This unit has its attack speed reduced.
-[R02N]
+Buffubertip=This unit has its attack speed increased.
+[R02P]
 Bufftip=Shadow Glaive
 Buffubertip=This tower has a very high attack speed bonus until next attack and will crit for sure.
 EditorName=Shadow Glaive
-[R02O]
+[R02Q]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
 [R00X]
 Bufftip=Soul Split
 Buffubertip=The attack speed of this tower is increased.
 EditorName=Soul Split
-[R017]
-Bufftip=Wolven Tenacity
-Buffubertip=This unit has had its attackspeed increased by a nearby wolf.
 [R00W]
 Bufftip=Love Potion
 Buffubertip=This creature is in love. It moves slower and it has a higher chance to drop an item.
 EditorName=Love Potion
-[R015]
+[R018]
+Bufftip=Wolven Tenacity
+Buffubertip=This unit has had its attackspeed increased by a nearby wolf.
+[R016]
 Bufftip=Nature's Gift
 Buffubertip=This unit has increased stats depending on its element.
 [R00R]
 Bufftip=Poisonous Spittle
 Buffubertip=This unit gains damage over time.
-[R01A]
+[R013]
+Bufftip=Slumering Parasite
+Buffubertip=This unit is host to a parasite; it has increased vulnerability to nature towers and will receive damage when the parasite surfaces.
+[R01B]
 Bufftip=Mana Distortion Field
 Buffubertip=This unit will burn a portion of its target's mana on attack.
 EditorName=Mana Distortion Field
-[R01B]
+[R01J]
+Bufftip=Lightning Surge
+Buffubertip=Attackspeed has been increased for the next few attacks.
+[R01H]
+Bufftip=Faerie Fire
+Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
+EditorName=Faerie Fire
+[R01C]
 Bufftip=Jolted
 Buffubertip=This unit has been jolted. Its attackspeed is increased and it deals additional spell and attack damage on attack.
 EditorName=Jolted
-[R01I]
-Bufftip=Lightning Surge
-Buffubertip=Attackspeed has been increased for the next few attacks.
-[R01G]
-Bufftip=Faerie Fire
-Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
-EditorName=Faerie Fire
 [R01Q]
-Bufftip=Blizzard
-Buffubertip=This unit is damaged by blizzard.
-EditorName=Blizzard
+EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R022]
-Bufftip=Bloodlust
-Buffubertip=This tower has increased crit damage and attackspeed.
-EditorName=Bloodlust
-[R01O]
-EditorName=Blizzard (Effect)
-EditorSuffix=meins
-[R020]
 Bufftip=Melting Armor
 Buffubertip=This unit's armor is melting.
 EditorName=Phoenixfire
-[R01P]
-EditorName=Blizzard (Caster)
-EditorSuffix=meins
-[R021]
-Bufftip=Bloody Experience
-Buffubertip=This tower gains experience as it spills blood.
-EditorName=Bloody Experience
-[R01N]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
-EditorName=Fire of Fury
-[R01K]
-Bufftip=Poison
-Buffubertip=This unit takes damage over time and is slowed down.
-EditorName=Poison
-[R03Y]
-Bufftip=Torture
-Buffubertip=This unit receives additional spell damage whenever it is damaged.
-EditorName=Torture
-[R03Z]
-Bufftip=For the God
-Buffubertip=This tower has an increased attack damage and experience gain.
-EditorName=For the God
-[R03W]
-Bufftip=Cloud of Obsorption
-Buffubertip=The damage wasted on this units death will be absorbed.
-EditorName=Cloud of Absorption
-[R048]
+[R01R]
 Bufftip=Blizzard
 Buffubertip=This unit is damaged by blizzard.
 EditorName=Blizzard
 EditorSuffix=meins
-[R03X]
-Bufftip=Attraction
-Buffubertip=This unit has a chance to attract a meteor on attack or when it casts a spell.
-EditorName=Attraction
-[R03U]
-Bufftip=Fatigue
-Buffubertip=This unit has its attack speed reduced.
-[R046]
+[R023]
+Bufftip=Bloody Experience
+Buffubertip=This tower gains experience as it spills blood.
+EditorName=Bloody Experience
+[R01O]
+Bufftip=Fire of Fury
+Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+EditorName=Fire of Fury
+[R01P]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
-[R047]
-EditorName=Blizzard (Caster)
+[R01L]
+Bufftip=Poison
+Buffubertip=This unit takes damage over time and is slowed down.
+EditorName=Poison
+[R03Z]
+Bufftip=Cloud of Obsorption
+Buffubertip=The damage wasted on this units death will be absorbed.
+EditorName=Cloud of Absorption
+[R049]
+EditorName=Blizzard (Effect)
 EditorSuffix=meins
-[R04D]
-Bufftip=Cursed
-Buffubertip=This unit has been cursed by a Lich King; buffs placed on this unit will last longer than usual.
-EditorName=Cursed
+[R046]
+Bufftip=Timesurge
+Buffubertip=This unit has a higher chance to trigger percentbased abilities.
+[R03V]
+Bufftip=Heat
+Buffubertip=This unit takes damage over time and has decreased armor.
+EditorName=Heat
 [R04E]
-Bufftip=Ruled
-Buffubertip=A Lich King rules over this unit; it will suffer damage if it leaves the king's area of authority.
-EditorName=Ruled
-[R04B]
 Bufftip=Plague
 Buffubertip=This creep takes damage over time and is highly infectious!
 EditorName=Plague
-[R04C]
-Bufftip=Army of the Damned
-Buffubertip=This tower has increased attack speed and an increased plague infection rate.
-EditorName=Army of the Damned
-[R04L]
-Bufftip=Probability Field Emitter
-Buffubertip=This tower has increased trigger chances.
-EditorName=Probability Field Emitter
-[R04J]
+[R04B]
+Bufftip=Blizzard
+Buffubertip=This unit is damaged by blizzard.
+EditorName=Blizzard
+EditorSuffix=meins
+[R04A]
+EditorName=Blizzard (Caster)
+EditorSuffix=meins
+[R04M]
 Bufftip=Concussed
 Buffubertip=This creep's movement speed is slowed.
 EditorName=Concussed
-[R04K]
-Bufftip=Clockwork Engineer
-Buffubertip=This tower has increased attack speed and damage.
-EditorName=Clockwork Engineer
-[R055]
-Bufftip=Thorned
-Buffubertip=This unit takes more damage from nature towers.
-EditorName=Thorned
+[R04H]
+Bufftip=Ruled
+Buffubertip=A Lich King rules over this unit; it will suffer damage if it leaves the king's area of authority.
+EditorName=Ruled
+[R04F]
+Bufftip=Army of the Damned
+Buffubertip=This tower has increased attack speed and an increased plague infection rate.
+EditorName=Army of the Damned
+[R04G]
+Bufftip=Cursed
+Buffubertip=This unit has been cursed by a Lich King; buffs placed on this unit will last longer than usual.
+EditorName=Cursed
 [R056]
-Bufftip=Protectress Wrath
-Buffubertip=This unit is extremly strong slowed.
-EditorName=Protectress Wrath
-[R053]
 Bufftip=Leaf Storm
 Buffubertip=This unit was hit by a leaf storm. It is slowed.
 EditorName=Leaf Storm
-[R04S]
-Bufftip=Vault's Presence
-Buffubertip=This unit fears a nearby Soul Vault and has it's armor reduced.
-[R054]
-EditorName=Blizzard (Caster)
-[R051]
-Bufftip=Leaf Storm
-Buffubertip=This unit takes damage and is slowed.
-EditorName=Blizzard
-[R050]
+[R053]
 Bufftip=Tranquility
 Buffubertip=This tower has a decreased attack speed but increased damage.
 EditorName=Tranquility
-[R039]
-Bufftip=Divine Research
-Buffubertip=This unit is under the effects of Divine Research; it gives more experience.
-EditorName=Divine Research
-[R02V]
-Bufftip=Faerie Fire
-Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
-EditorName=Faerie Fire
-[R037]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
-EditorName=Fire of Fury
-[R038]
-Bufftip=Dwarven Polish
-Buffubertip=This tower has an increased item quality ratio.
-[R02T]
-Bufftip=Lightning Charge
-Buffubertip=This unit has increased spelldamage.
-[R036]
-Bufftip=Twister
-Buffubertip=This unit takes additional damage from Storm towers.
-[R03B]
-Bufftip=Coconutted
-Buffubertip=This unit can't get stunned by Coco Sapling or Palm for 1.5 seconds.
-EditorName=Coconutted
-[R03K]
-Bufftip=Bronzefication
-Buffubertip=This unit is bronzeficated.
-EditorName=Bronzefication
-[R03L]
-Bufftip=Flowing Frost
-Buffubertip=This unit is under the effects of Flowing Frost, its buff duration is increased.
-EditorName=Flowing Frost
-[R03I]
-Bufftip=Gathering
-Buffubertip=Each time this tower casts a spell the Spell Collector temporarily grows stronger.
-EditorName=Gathering
-[R03J]
-Bufftip=Magical Barrage
-Buffubertip=This tower is charged.
-EditorName=Magical Barrage
-[R03H]
-Bufftip=Fear the Dark
-Buffubertip=This unit takes increased damage.
-EditorName=Fear the Dark
-[R03E]
-Bufftip=Glimmer of Hope
-Buffubertip=This unit has its debuff duration reduced.
-[R03F]
-Bufftip=Sunlight Burst
-Buffubertip=Stunned.
-[R042]
-Bufftip=Energy Absorption
-Buffubertip=This unit has increased mana regeneration.
-EditorName=Energy Absorption
-[R03R]
-Bufftip=Heat
-Buffubertip=This unit takes damage over time and has decreased armor.
-EditorName=Heat
-[R043]
-Bufftip=Timesurge
-Buffubertip=This unit has a higher chance to trigger percentbased abilities.
-[R03O]
-Bufftip=Extract Experience
-Buffubertip=Whenever a tower damages this creep there is a chance it will gain experience.
-EditorName=Extract Experience
-[R040]
-Bufftip=Weakened
-Buffubertip=This unit has decreased attackspeed.
-EditorName=Weakened
-[R03P]
-Bufftip=Channel Energy
-Buffubertip=This unit has increased damage.
-EditorName=Channel Energy
-[R041]
-Bufftip=Electrified
-Buffubertip=This unit is slowed.
-EditorName=Electrified
-[R05Z]
-Bufftip=Burn!
-Buffubertip=This unit burns! It is slowed and takes damage over time.
-EditorName=Burn!
-[R068]
-Bufftip=Calming Noises
-Buffubertip=This tower has increased spell crit chance.
-EditorName=Calming Noises
-[R069]
-Bufftip=Splash
-Buffubertip=This unit takes more spell damage.
-EditorName=Splash
-[R06F]
-Bufftip=Darkness Imbued
-Buffubertip=A portion of this towers damage will be dealt as decay damage
-EditorName=Dark Shroud
-[R06G]
-Bufftip=Launcher Target
-Buffubertip=This unit is targeted by a Nuclear Missle Launcher.
-[R06D]
-Bufftip=Mystical Trance
-Buffubertip=This tower deals increased spell damage and has increased chance to trigger his abilities.
-[R06E]
-Bufftip=Fungus Strike
-Buffubertip=This creep receives additional spell damage.
-[R06C]
-Bufftip=Magic Spores
-Buffubertip=This tower deals increased spell damage and has increased trigger chances.
-[R06O]
-Bufftip=Heat
-Buffubertip=This unit takes damage over time and has decreased armor.
-EditorName=Heat
-[R06L]
-Bufftip=Global Silence
-Buffubertip=This tower has a chance to silence creeps it attacks.
-EditorName=Global Silence
-[R06J]
-Bufftip=Grappled
-Buffubertip=This unit is grappled; it cannot move.
-[R06K]
-Bufftip=Acid Goo
-Buffubertip=The armor of this unit is decreased.
-EditorName=Acid Goo
-[R06H]
-Bufftip=Sliced
-Buffubertip=This creep take additional damage from physical attacks.
-EditorName=Sliced
-[R06I]
-Bufftip=Orbed!
-Buffubertip=This unit is hit by an energy orb
-[R06W]
-Bufftip=Slow
-Buffubertip=This unit is slowed by the sorceress.
-EditorName=Slow
-[R078]
-Bufftip=Steam Power
-Buffubertip=This tower has increased attackspeed and damage.
-EditorName=Steam Power
-[R06R]
-Bufftip=Dimensional Link
-Buffubertip=This tower is under the effect of a dimensional link.
-EditorName=Dimensional Link
-[R073]
-Bufftip=Liquide Ice
-Buffubertip=This unit takes increased damage from ice towers.
-EditorName=Liquide Ice
-[R074]
-Bufftip=Time Twist
-Buffubertip=This tower is inside a twisted timestream.
-[R06Q]
-Bufftip=Dimensional Distorted
-Buffubertip=This unit is in a dimensional distortion field.
-EditorName=Dimensional Distorted
-[R04Z]
+[R054]
+Bufftip=Leaf Storm
+Buffubertip=This unit takes damage and is slowed.
+EditorName=Blizzard
+[R052]
 EditorName=Blizzard (Effect)
-[R04X]
+[R04N]
+Bufftip=Clockwork Engineer
+Buffubertip=This tower has increased attack speed and damage.
+EditorName=Clockwork Engineer
+[R04O]
+Bufftip=Probability Field Emitter
+Buffubertip=This tower has increased trigger chances.
+EditorName=Probability Field Emitter
+[R050]
 Bufftip=Freezing Gust
 Buffubertip=The effect of gust on this tower is improved and it has bonus damage against air.
 EditorName=Freezing Gust
-[R059]
-Bufftip=Maledict
-Buffubertip=This unit receives additional spell damage when targeted by a spell.
-[R04V]
-Bufftip=Dreadlord ' s Awekening
-Buffubertip=The Dreadlord has his attackspeed and his mana regeneration increased.
-[R057]
-Bufftip=Strike the Unprepared
-Buffubertip=This tower's attack crit chance is increased.
-EditorName=Strike the Unprepared
-[R04W]
-Bufftip=Gust
-Buffubertip=This tower deals more damage based on how strong it is against air units.
-EditorName=Gust
-[R058]
-Bufftip=Impenetrable Darkness
-Buffubertip=This unit is taking spell damage over time and takes reduced damage from attacks.
-[R05C]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
-EditorName=Fire of Fury
-[R05A]
-Bufftip=Demonic Edict
-Buffubertip=This unit has its mana regeneration increased.
-[R05B]
-Bufftip=Demonic Edict
-Buffubertip=This unit is affected by Demonic Edict.
-[R05K]
-Bufftip=Chaos
-Buffubertip=This unit has no armor.
-EditorName=Chaos
-[R05L]
-Bufftip=Presence of the Rift
-Buffubertip=This unit is in the presence of the Rift and is getting damaged every second.
-EditorName=Presence of the Rift
-[R05I]
-Bufftip=Ground Smash
-Buffubertip=This Unit has been hit by a nearby Mud Golem it has decrased movementspeed.
-EditorName=Ground Smash
-[R05J]
-Bufftip=Earthquake Aura
-Buffubertip=This unit has a chance to trigger the Mud Golem's Ground Slam.
-EditorName=Earthquake Aura
-[R05H]
-Bufftip=Gift of Nature
-Buffubertip=This tower has received a gift of nature; its attacks have a chance to entangle the enemy.
-EditorName=Gift of Nature
-[R066]
-Bufftip=Morphling Strike
-Buffubertip=This unit is slowed and takes more damage from nature.
-[R05V]
+[R02X]
 Bufftip=Faerie Fire
 Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
 EditorName=Faerie Fire
-[R067]
-Bufftip=Morphling Strike
-Buffubertip=This unit is taking spell damage over time.
-[R05S]
-Bufftip=We Will Not Fall!
-Buffubertip=This tower deals increased spell and attack damage.
-EditorName=We Will Not Fall!
-[R064]
-Bufftip=Might
-Buffubertip=This tower gains damage and loses attack speed on attack.
-[R05T]
+[R039]
+Bufftip=Twister
+Buffubertip=This unit takes additional damage from Storm towers.
+[R02V]
+Bufftip=Lightning Charge
+Buffubertip=This unit has increased spelldamage.
+[R037]
+Bufftip=Sacrifice
+Buffubertip=This unit has its attack damage reduced.
+[R035]
+Bufftip=Blood Spill
+Buffubertip=This unit has its attack speed reduced.
+[R036]
+Bufftip=Sacrifice
+Buffubertip=This unit has its attack damage increased.
+[R03C]
+Bufftip=Divine Research
+Buffubertip=This unit is under the effects of Divine Research; it gives more experience.
+EditorName=Divine Research
+[R03A]
+Bufftip=Fire of Fury
+Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+EditorName=Fire of Fury
+[R03B]
+Bufftip=Dwarven Polish
+Buffubertip=This tower has an increased item quality ratio.
+[R03K]
+Bufftip=Fear the Dark
+Buffubertip=This unit takes increased damage.
+EditorName=Fear the Dark
+[R03L]
+Bufftip=Gathering
+Buffubertip=Each time this tower casts a spell the Spell Collector temporarily grows stronger.
+EditorName=Gathering
+[R03I]
+Bufftip=Sunlight Burst
+Buffubertip=Stunned.
+[R03H]
+Bufftip=Glimmer of Hope
+Buffubertip=This unit has its debuff duration reduced.
+[R03E]
+Bufftip=Coconutted
+Buffubertip=This unit can't get stunned by Coco Sapling or Palm for 1.5 seconds.
+EditorName=Coconutted
+[R03S]
+Bufftip=Extract Experience
+Buffubertip=Whenever a tower damages this creep there is a chance it will gain experience.
+EditorName=Extract Experience
+[R044]
+Bufftip=Electrified
+Buffubertip=This unit is slowed.
+EditorName=Electrified
+[R03T]
+Bufftip=Channel Energy
+Buffubertip=This unit has increased damage.
+EditorName=Channel Energy
+[R045]
+Bufftip=Energy Absorption
+Buffubertip=This unit has increased mana regeneration.
+EditorName=Energy Absorption
+[R042]
+Bufftip=For the God
+Buffubertip=This tower has an increased attack damage and experience gain.
+EditorName=For the God
+[R043]
+Bufftip=Weakened
+Buffubertip=This unit has decreased attackspeed.
+EditorName=Weakened
+[R03O]
+Bufftip=Flowing Frost
+Buffubertip=This unit is under the effects of Flowing Frost, its buff duration is increased.
+EditorName=Flowing Frost
+[R040]
+Bufftip=Attraction
+Buffubertip=This unit has a chance to attract a meteor on attack or when it casts a spell.
+EditorName=Attraction
+[R041]
+Bufftip=Torture
+Buffubertip=This unit receives additional spell damage whenever it is damaged.
+EditorName=Torture
+[R03M]
+Bufftip=Magical Barrage
+Buffubertip=This tower is charged.
+EditorName=Magical Barrage
+[R03N]
+Bufftip=Bronzefication
+Buffubertip=This unit is bronzeficated.
+EditorName=Bronzefication
+[R05Y]
+Bufftip=Faerie Fire
+Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
+EditorName=Faerie Fire
+[R05W]
 Bufftip=Valor's Light
 Buffubertip=This unit takes spell damage over time and its movement speed is decreased.
 EditorName=Valor's Light
-[R065]
+[R068]
 Bufftip=Adapt
 Buffubertip=Cancels the effect of morphs.
-[R05Q]
-Bufftip=Fatigue
-Buffubertip=This unit has its attack speed reduced.
-[R062]
-Bufftip=Awakened
-Buffubertip=Harby has been recently targeted by a spell; he is termporarily able to attack.
-[R05R]
-Bufftip=Last Line of Defense
-Buffubertip=This unit takes increased spell and attack damage.
-EditorName=Last Line of Defense
-[R063]
-Bufftip=Swiftness
-Buffubertip=This tower gains attack speed and loses damage on attack.
-[R05O]
-Bufftip=Fresh Fish!
-Buffubertip=This tower has increased attack damage.
-EditorName=Fresh Fish!
-[R060]
-Bufftip=Hammer Fall
-Buffubertip=This tower has decreased attack damage.
-EditorName=Hammer Fall
-[R05P]
-Bufftip=Caught!
-Buffubertip=This creep's movement speed is decreased.
-EditorName=Caught!
-[R061]
-Bufftip=Arcane Aura
-Buffubertip=This tower has a chance to replenish a portion of its mana when it casts a spell.
-[R07Y]
-Bufftip=Physical Energy Drained
-Buffubertip=This unit has decreased movement speed.
-EditorName=Physical Energy Drained
-[R07Z]
-Bufftip=Physical Energy Drained
-Buffubertip=This tower has increased attackspeed.
-EditorName=Physical Energy Drained
-[R08H]
-Bufftip=Even More Magical Hammer
-Buffubertip=This unit is in range of an even more magical hammer.
-EditorName=Even More Magical Hammer
-[R08I]
-Bufftip=Beastial Rage
-Buffubertip=This unit is under the effects of Beastial Rage; it deals increased damage to orc and humanoid creeps and also has increased dps.
-EditorName=Beastial Rage
-[R08F]
-Bufftip=Magnetic Field
-Buffubertip=This unit has its buff duration increased and debuff duration reduced.
-[R08G]
-Bufftip=Epic Equipment
-Buffubertip=This tower carries an even more magical hammer!
-EditorName=Epic Equipment
-[R08D]
-Bufftip=Rampage
-Buffubertip=This tower has increased attack speed and multicrit count.
-EditorName=Rampage
-[R08E]
-Bufftip=Skadi's Influence
-Buffubertip=This unit is under Skadi's Influence, it's slowed.
-EditorName=Skadi's Influence
-[R08B]
-Bufftip=Motivation
-Buffubertip=This unit is under the effects of motivation; it has increased attackspeed.
-EditorName=Motivation
-[R08P]
-Bufftip=Ensign's Touch
-Buffubertip=This unit is demotivated, it has decreased armor.
-EditorName=Ensign's Touch
-[R08Q]
-Bufftip=Entangling Roots
-Buffubertip=This unit is entangled; it cannot move and takes spelldamage over time.
-EditorName=Entangling Roots
-[R08O]
-Bufftip=Power of the Sword
-Buffubertip=This unit has its armor reduced by the legendary sword excalibur.
-EditorName=Power of the Sword
-[R090]
-Bufftip=The Divine Wings of Tragedy
-Buffubertip=This unit has increased attackspeed and damage.
-EditorName=The Divine Wings of Tragedy
-[R08J]
-Bufftip=Flames of Fury
-Buffubertip=This unit is under the effect of Flames of Fury; it has increased crit chance.
-EditorName=Flames of Fury
-[R08K]
-Bufftip=Spider Broach
-Buffubertip=If this unit drops an item upon dying; its quality is increased.
-[R08X]
-Bufftip=Fragmentation Round
-Buffubertip=This unit takes increased damage from splash and fragments.
-EditorName=Fragmentation Round
-[R08Y]
-Bufftip=Glaive of Surpreme Follow Up
-Buffubertip=This tower has massive attackspeed until its next attack.
-EditorName=Glaive of Surpreme Follow Up
-[R08V]
-Bufftip=Playing
-Buffubertip=This tower's attack speed is decreased.
-EditorName=Playing
-[R08T]
-EditorName=Overgrowth (Zaubernder)
-[R08R]
-EditorName=Overgrowth (Effekt)
-[R08S]
-Bufftip=Overgrowth
-Buffubertip=This unit is moving through overgrowth.
-EditorName=Overgrowth
-[R06Z]
-Bufftip=Spell Vulnerability
-Buffubertip=The sorceress increased this unit's spell vulnerability.
-EditorName=Spell Vulnerability
-[R06X]
-Bufftip=Armor Reduction
-Buffubertip=The sorceress decreased this unit's armor.
-EditorName=Armor Reduction
-[R079]
-Bufftip=Soulfire
-Buffubertip=This unit's soul is burning.
-[R06Y]
+[R069]
+Bufftip=Morphling Strike
+Buffubertip=This unit is slowed and takes more damage from nature.
+[R06F]
+Bufftip=Magic Spores
+Buffubertip=This tower deals increased spell damage and has increased trigger chances.
+[R06G]
+Bufftip=Mystical Trance
+Buffubertip=This tower deals increased spell damage and has increased chance to trigger his abilities.
+[R06B]
+Bufftip=Calming Noises
+Buffubertip=This tower has increased spell crit chance.
+EditorName=Calming Noises
+[R06C]
+Bufftip=Splash
+Buffubertip=This unit takes more spell damage.
+EditorName=Splash
+[R06A]
+Bufftip=Morphling Strike
+Buffubertip=This unit is taking spell damage over time.
+[R06N]
+Bufftip=Acid Goo
+Buffubertip=The armor of this unit is decreased.
+EditorName=Acid Goo
+[R06O]
+Bufftip=Global Silence
+Buffubertip=This tower has a chance to silence creeps it attacks.
+EditorName=Global Silence
+[R06L]
+Bufftip=Orbed!
+Buffubertip=This unit is hit by an energy orb
+[R06M]
+Bufftip=Grappled
+Buffubertip=This unit is grappled; it cannot move.
+[R06J]
+Bufftip=Launcher Target
+Buffubertip=This unit is targeted by a Nuclear Missle Launcher.
+[R06K]
+Bufftip=Sliced
+Buffubertip=This creep take additional damage from physical attacks.
+EditorName=Sliced
+[R06H]
+Bufftip=Fungus Strike
+Buffubertip=This creep receives additional spell damage.
+[R06I]
+Bufftip=Darkness Imbued
+Buffubertip=A portion of this towers damage will be dealt as decay damage
+EditorName=Dark Shroud
+[R078]
+Bufftip=Liquide Ice
+Buffubertip=This unit takes increased damage from ice towers.
+EditorName=Liquide Ice
+[R06T]
+Bufftip=Dimensional Distorted
+Buffubertip=This unit is in a dimensional distortion field.
+EditorName=Dimensional Distorted
+[R06U]
+Bufftip=Dimensional Link
+Buffubertip=This tower is under the effect of a dimensional link.
+EditorName=Dimensional Link
+[R06R]
+Bufftip=Heat
+Buffubertip=This unit takes damage over time and has decreased armor.
+EditorName=Heat
+[R073]
 Bufftip=Regeneration Reduction
 Buffubertip=The sorceress decreases this unit's health regeneration.
 EditorName=Regeneration Reduction
-[R07E]
-Bufftip=Intense Heat
-Buffubertip=Increased attack crit chance.
-[R07C]
-Bufftip=Lingering Flame
-Buffubertip=Burning; generating mana for the tower.
-[R07D]
-Bufftip=Heart of the Forge
-Buffubertip=Stats increased by nearby Furnace.
-[R07A]
+[R074]
+Bufftip=Spell Vulnerability
+Buffubertip=The sorceress increased this unit's spell vulnerability.
+EditorName=Spell Vulnerability
+[R071]
+Bufftip=Slow
+Buffubertip=This unit is slowed by the sorceress.
+EditorName=Slow
+[R072]
+Bufftip=Armor Reduction
+Buffubertip=The sorceress decreased this unit's armor.
+EditorName=Armor Reduction
+[R04Z]
+Bufftip=Gust
+Buffubertip=This tower deals more damage based on how strong it is against air units.
+EditorName=Gust
+[R04Y]
+Bufftip=Dreadlord ' s Awekening
+Buffubertip=The Dreadlord has his attackspeed and his mana regeneration increased.
+[R04V]
+Bufftip=Vault's Presence
+Buffubertip=This unit fears a nearby Soul Vault and has it's armor reduced.
+[R057]
+EditorName=Blizzard (Caster)
+[R058]
+Bufftip=Thorned
+Buffubertip=This unit takes more damage from nature towers.
+EditorName=Thorned
+[R05E]
+Bufftip=Protectress Wrath
+Buffubertip=This unit is extremly strong slowed.
+EditorName=Protectress Wrath
+[R05F]
+Bufftip=Strike the Unprepared
+Buffubertip=This tower's attack crit chance is increased.
+EditorName=Strike the Unprepared
+[R05C]
+Bufftip=Demonic Edict
+Buffubertip=This unit has its mana regeneration increased.
+[R05D]
+Bufftip=Demonic Edict
+Buffubertip=This unit is affected by Demonic Edict.
+[R05A]
+Bufftip=Impenetrable Darkness
+Buffubertip=This unit is taking spell damage over time and takes reduced damage from attacks.
+[R05B]
+Bufftip=Maledict
+Buffubertip=This unit receives additional spell damage when targeted by a spell.
+[R05M]
+Bufftip=Ground Smash
+Buffubertip=This Unit has been hit by a nearby Mud Golem it has decrased movementspeed.
+EditorName=Ground Smash
+[R05N]
+Bufftip=Earthquake Aura
+Buffubertip=This unit has a chance to trigger the Mud Golem's Ground Slam.
+EditorName=Earthquake Aura
+[R05L]
+Bufftip=Gift of Nature
+Buffubertip=This tower has received a gift of nature; its attacks have a chance to entangle the enemy.
+EditorName=Gift of Nature
+[R05G]
+Bufftip=Fire of Fury
+Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+EditorName=Fire of Fury
+[R05U]
+Bufftip=Last Line of Defense
+Buffubertip=This unit takes increased spell and attack damage.
+EditorName=Last Line of Defense
+[R066]
+Bufftip=Swiftness
+Buffubertip=This tower gains attack speed and loses damage on attack.
+[R05V]
+Bufftip=We Will Not Fall!
+Buffubertip=This tower deals increased spell and attack damage.
+EditorName=We Will Not Fall!
+[R067]
+Bufftip=Might
+Buffubertip=This tower gains damage and loses attack speed on attack.
+[R05S]
+Bufftip=Fresh Fish!
+Buffubertip=This tower has increased attack damage.
+EditorName=Fresh Fish!
+[R064]
+Bufftip=Arcane Aura
+Buffubertip=This tower has a chance to replenish a portion of its mana when it casts a spell.
+[R05T]
+Bufftip=Caught!
+Buffubertip=This creep's movement speed is decreased.
+EditorName=Caught!
+[R065]
+Bufftip=Awakened
+Buffubertip=Harby has been recently targeted by a spell; he is termporarily able to attack.
+[R062]
+Bufftip=Burn!
+Buffubertip=This unit burns! It is slowed and takes damage over time.
+EditorName=Burn!
+[R063]
+Bufftip=Hammer Fall
+Buffubertip=This tower has decreased attack damage.
+EditorName=Hammer Fall
+[R05O]
+Bufftip=Chaos
+Buffubertip=This unit has no armor.
+EditorName=Chaos
+[R05P]
+Bufftip=Presence of the Rift
+Buffubertip=This unit is in the presence of the Rift and is getting damaged every second.
+EditorName=Presence of the Rift
+[R08I]
+Bufftip=Rampage
+Buffubertip=This tower has increased attack speed and multicrit count.
+EditorName=Rampage
+[R08G]
+Bufftip=Motivation
+Buffubertip=This unit is under the effects of motivation; it has increased attackspeed.
+EditorName=Motivation
+[R08E]
+Bufftip=Jump Effect
+Buffubertip=This tower attackspeed is increased.
+[R08P]
+Bufftip=Spider Broach
+Buffubertip=If this unit drops an item upon dying; its quality is increased.
+[R092]
+Bufftip=Fragmentation Round
+Buffubertip=This unit takes increased damage from splash and fragments.
+EditorName=Fragmentation Round
+[R08N]
+Bufftip=Beastial Rage
+Buffubertip=This unit is under the effects of Beastial Rage; it deals increased damage to orc and humanoid creeps and also has increased dps.
+EditorName=Beastial Rage
+[R08O]
+Bufftip=Flames of Fury
+Buffubertip=This unit is under the effect of Flames of Fury; it has increased crit chance.
+EditorName=Flames of Fury
+[R090]
+Bufftip=Playing
+Buffubertip=This tower's attack speed is decreased.
+EditorName=Playing
+[R08L]
+Bufftip=Epic Equipment
+Buffubertip=This tower carries an even more magical hammer!
+EditorName=Epic Equipment
+[R08M]
+Bufftip=Even More Magical Hammer
+Buffubertip=This unit is in range of an even more magical hammer.
+EditorName=Even More Magical Hammer
+[R08J]
+Bufftip=Skadi's Influence
+Buffubertip=This unit is under Skadi's Influence, it's slowed.
+EditorName=Skadi's Influence
+[R08K]
+Bufftip=Magnetic Field
+Buffubertip=This unit has its buff duration increased and debuff duration reduced.
+[R08X]
+Bufftip=Overgrowth
+Buffubertip=This unit is moving through overgrowth.
+EditorName=Overgrowth
+[R08Y]
+EditorName=Overgrowth (Zaubernder)
+[R08V]
+Bufftip=Entangling Roots
+Buffubertip=This unit is entangled; it cannot move and takes spelldamage over time.
+EditorName=Entangling Roots
+[R08W]
+EditorName=Overgrowth (Effekt)
+[R08T]
+Bufftip=Power of the Sword
+Buffubertip=This unit has its armor reduced by the legendary sword excalibur.
+EditorName=Power of the Sword
+[R095]
+Bufftip=The Divine Wings of Tragedy
+Buffubertip=This unit has increased attackspeed and damage.
+EditorName=The Divine Wings of Tragedy
+[R08U]
+Bufftip=Ensign's Touch
+Buffubertip=This unit is demotivated, it has decreased armor.
+EditorName=Ensign's Touch
+[R093]
+Bufftip=Glaive of Surpreme Follow Up
+Buffubertip=This tower has massive attackspeed until its next attack.
+EditorName=Glaive of Surpreme Follow Up
+[R079]
+Bufftip=Time Twist
+Buffubertip=This tower is inside a twisted timestream.
+[R07G]
+Bufftip=Soulfire
+Buffubertip=This unit's soul is burning.
+[R07H]
 Bufftip=Evil Device
 Buffubertip=Attack and trigger stats increased by nearby Soulflame Device.
-[R07B]
-Bufftip=Awaken
-Buffubertip=Greatly increased attack speed.
-[R07N]
-Bufftip=Panic
-Buffubertip=This unit is in panic. It has dramatically decreased armor but increased movement speed.
-EditorName=Panic
-[R07K]
+[R07E]
+Bufftip=Conduit
+Buffubertip=Spell and trigger stats increased by nearby Conduit.
+[R07F]
+Bufftip=Unleash
+Buffubertip=Increased spell crit damage.
+[R07D]
+Bufftip=Steam Power
+Buffubertip=This tower has increased attackspeed and damage.
+EditorName=Steam Power
+[R07P]
 Bufftip=Maledict
 Buffubertip=This unit suffers from Maledict; it will be dealt spell damage when Maledict ends or is purged.
 EditorName=Maledict
-[R07I]
-Bufftip=Conduit
-Buffubertip=Spell and trigger stats increased by nearby Conduit.
-[R07J]
-Bufftip=Unleash
-Buffubertip=Increased trigger chances.
-[R07W]
+[R081]
 Bufftip=Holy Wrath
 Buffubertip=This unit is under the effects of Holy Wrath; it deals increased damage to undead creeps.
 EditorName=Holy Wrath
+[R07K]
+Bufftip=Flames of the Forge
+Buffubertip=Stats increased by nearby Furnace.
+[R07L]
+Bufftip=Intense Heat
+Buffubertip=Increased attack crit chance.
+[R07I]
+Bufftip=Awaken
+Buffubertip=Greatly increased attack speed.
+[R07J]
+Bufftip=Lingering Flame
+Buffubertip=Burning; generating mana for the tower.
 [R07X]
-Bufftip=Rot
-Buffubertip=This unit is under the effects of Rot; it deals increased damage to nature creeps.
-EditorName=Rot
-[R089]
-Bufftip=Jump Effect
-Buffubertip=This tower attackspeed is increased.
-[R07S]
 Bufftip=Charity Aura
 Buffubertip=This unit is under the effects of charity; it has an increased max mana spell damage and trigger chance.
 EditorName=Charity Aura
-[R07Q]
+[R07V]
 Bufftip=Resonance
 Buffubertip=This unit receives increased spelldamage.
+[R07S]
+Bufftip=Panic
+Buffubertip=This unit is in panic. It has dramatically decreased armor but increased movement speed.
+EditorName=Panic
+[R084]
+Bufftip=Physical Energy Drained
+Buffubertip=This tower has increased attackspeed.
+EditorName=Physical Energy Drained
+[R082]
+Bufftip=Rot
+Buffubertip=This unit is under the effects of Rot; it deals increased damage to nature creeps.
+EditorName=Rot
+[R083]
+Bufftip=Physical Energy Drained
+Buffubertip=This unit has decreased movement speed.
+EditorName=Physical Energy Drained
 [BMAN]
 Bufftip=Drained
 Buffubertip=This unit's mana regeneration is greatly reduced.

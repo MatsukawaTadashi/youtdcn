@@ -123,64 +123,64 @@ EditorName=Slowed
 Bufftip=Slowed
 Buffubertip=This unit has been chilled to the bone; it has reduced movespeed.
 EditorName=!Slow
-[R02J]
-Bufftip=Acid Bomb
-Buffubertip=This unit has its armor reduced.
-[R02H]
-Bufftip=Concussive Bomb
-Buffubertip=This unit is slowed.
-[R02I]
-Bufftip=Smoke Bomb
-Buffubertip=This unit is equipped with smoke bombs.
-[R02F]
-Bufftip=Concussive Bomb
-Buffubertip=This unit is equipped with concussive bombs.
-[R02G]
-Bufftip=Acid Bomb
-Buffubertip=This unit is equipped with acid bombs.
-[R02R]
+[R01S]
 Bufftip=Slowed
 Buffubertip=This unit has decreased movement speed.
 EditorName=Slowed
+[R02J]
+Bufftip=Concussive Bomb
+Buffubertip=This unit is slowed.
+[R02K]
+Bufftip=Smoke Bomb
+Buffubertip=This unit is equipped with smoke bombs.
+[R02H]
+Bufftip=Concussive Bomb
+Buffubertip=This unit is equipped with concussive bombs.
+[R02I]
+Bufftip=Acid Bomb
+Buffubertip=This unit is equipped with acid bombs.
+[R02L]
+Bufftip=Acid Bomb
+Buffubertip=This unit has its armor reduced.
 [R00V]
 Bufftip=Slowed
 Buffubertip=This unit is slowed.
 EditorName=Slowed
+[R015]
+Bufftip=Absolute Zero
+Buffubertip=This unit was hit with a cloud of freezing snow; its movement speed is reduced.
 [R00U]
 Bufftip=Nova Chill
 Buffubertip=This unit was hit by an ice nova so it moves slower.
-[R014]
-Bufftip=Absolute Zero
-Buffubertip=This unit was hit with a cloud of freezing snow; its movement speed is reduced.
-[R01H]
+[R01I]
 Bufftip=Frost
 Buffubertip=This creep is slowed down.
-[R01R]
-Bufftip=Slowed
-Buffubertip=This unit has decreased movement speed.
-EditorName=Slowed
-[R01M]
+[R01N]
 Bufftip=Electrified
 Buffubertip=The creep has a chance to take extra damage.
-[R049]
+[R04C]
 Bufftip=Slowed
 Buffubertip=This unit has decreased movement speed.
 EditorName=Slowed
-[R04M]
-Bufftip=Slowed
-Buffubertip=This unit is slowed and moves slower.
-EditorName=!Slow
-[R04G]
+[R04J]
 Bufftip=Cursed
 Buffubertip=This creep has a chance to have its susceptibility to fire increased when damaged.
-[R04N]
+[R04P]
 Bufftip=Slowed
 Buffubertip=This unit is slowed and moves slower.
 EditorName=!Slow
-[R02U]
+[R04Q]
+Bufftip=Slowed
+Buffubertip=This unit is slowed and moves slower.
+EditorName=!Slow
+[R02W]
 Bufftip=Frost
 Buffubertip=This creep is slowed down.
-[R05U]
+[R02T]
+Bufftip=Slowed
+Buffubertip=This unit has decreased movement speed.
+EditorName=Slowed
+[R05X]
 Bufftip=Frost
 Buffubertip=This creep is slowed down.
 [BSTU]

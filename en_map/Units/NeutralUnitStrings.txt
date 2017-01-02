@@ -30,76 +30,100 @@ EditorSuffix="Mass"
 Name="Skeleton"
 Tip=Hire Razormane Brute
 EditorSuffix="Normal"
-[vCSL]
-Name="Sunken"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSM]
-Name="YouJizzTD"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSJ]
-Name="Kricz"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSK]
-Name="TopBanana"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSH]
-Name="hokkei"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSI]
-Name="Nubz"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSF]
-Name="F12ight"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSG]
-Name="axllow"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCST]
-Name="KySoto"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSU]
+[vCSZ]
 Name="zed"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSR]
-Name="Bartuck"
+[vCSX]
+Name="Sunken"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSS]
+[vCSY]
 Name="Zloj"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSP]
-Name="Ranakastrasz"
+[vCSV]
+Name="Bartuck"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSQ]
+[vCSW]
 Name="LordHellHunter"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSN]
-Name="Khlox-NL-"
+[vCSL]
+Name="axllow"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSO]
+[vCSM]
+Name="Guennter"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSJ]
+Name="hokkei"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSK]
+Name="F12ight"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSH]
+Name="limfa"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSI]
+Name="SymphonyX"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSF]
+Name="Coldrocker"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSG]
+Name="the-red-terror"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCST]
+Name="YouJizzTD"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSU]
 Name="Cyrganth"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
+[vCSR]
+Name="Ranakastrasz"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSS]
+Name="Khlox-NL-"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSP]
+Name="Ely"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSQ]
+Name="TopBanana"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSN]
+Name="Kricz"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSO]
+Name="Nubz"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCT0]
+Name="KySoto"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
 [vCRY]
-Name="Lapsus"
+Name="Ashbringer"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRZ]
-Name="poussix"
+Name="Lapsus"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRW]
@@ -107,7 +131,7 @@ Name="His_Shadow"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS8]
-Name="Shaddow"
+Name="BetrayedKnight"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRX]
@@ -115,7 +139,7 @@ Name="Chronos"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS9]
-Name="D1000"
+Name="Killamasta"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRU]
@@ -123,7 +147,7 @@ Name="Neotopia"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS6]
-Name="Killamasta"
+Name="Monolith"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRV]
@@ -131,27 +155,27 @@ Name="Palandu"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS7]
-Name="BetrayedKnight"
+Name="KublaiKhan1"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSD]
-Name="McDoNaLdGaNgStA"
+Name="βά~βά~βά~"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSE]
-Name="SymphonyX"
+Name="McDoNaLdGaNgStA"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSB]
-Name="Coldrocker"
+Name="Shaddow"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSC]
-Name="Ashbringer"
+Name="D1000"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSA]
-Name="ΓΆΓ~ΓΆΓ~ΓΆΓ~"
+Name="Joe"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRK]
@@ -191,7 +215,7 @@ Name="der_kleine_Tomy"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS4]
-Name="KublaiKhan1"
+Name="Deikorim"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRT]
@@ -203,7 +227,7 @@ Name="ShyGnome"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRQ]
-Name="Velex"
+Name="Deemzul"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS2]
@@ -211,11 +235,11 @@ Name="Cyony"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRR]
-Name="Deemzul"
+Name="Velex"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS3]
-Name="Monolith"
+Name="IamanEvilMan"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRO]
@@ -231,7 +255,7 @@ Name="DaveMatthews"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS1]
-Name="IamanEvilMan"
+Name="poussix"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRM]
