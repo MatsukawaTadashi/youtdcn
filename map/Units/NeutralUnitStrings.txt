@@ -159,7 +159,7 @@ Name="KublaiKhan1"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSD]
-Name="βά~βά~βά~"
+Name="βββ"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSE]

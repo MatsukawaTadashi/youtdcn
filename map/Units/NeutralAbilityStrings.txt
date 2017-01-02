@@ -116,7 +116,6 @@ EditorSuffix= (Air Transports)
 Tip=|cffffcc00U|rnload All
 Ubertip="Unloads all carried units at a target location."
 Hotkey=U
-EditorSuffix= (Goblin Zeppelin)
 [Sdro]
 Name=Unload
 EditorSuffix= (Sea Transports)

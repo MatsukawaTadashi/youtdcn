@@ -2,15 +2,15 @@ import argparse
 import re
 import bisect
 import sys
-from lib.io import map
+from lib.io import War3Map
 
 parser = argparse.ArgumentParser()
-parser.add_argument('-b','--base',type=str,required=True,help='The directory to the map.')
-parser.add_argument('-o','--output',type=str,help='The output file')
+# parser.add_argument('-b','--base', type=str, required=True, help='The directory to the map.')
+# parser.add_argument('-o','--output', type=str, help='The output file')
 args = parser.parse_args()
-#args.base = '../en_map'
-#args.output = 'en.txt'
-ytd = map(args.base)
+args.base = '../en_map'
+args.output = 'en.txt'
+ytd = War3Map(args.base)
 
 # 1. get towers from slk
 # Tower has the XSEL(Sell) ability
@@ -42,7 +42,7 @@ for x in abil_cnt:
     if x.startswith('A00'):
         basic_abilities.add(x)
 
-# This will get 706 towers (include base towers) and their abilities
+# 108b: This will get 706 towers (include base towers) and their abilities
 
 for id in abil_dict:
     abil_dict[id] = set([x for x in abil_dict[id] if x not in basic_abilities])
@@ -51,7 +51,7 @@ for id in abil_dict:
 # The bfv function register the tower with its item
 item_dict = {}
 bfv_list = []
-r_bfv = r"bfv\('(\w{4})'.*?'(\w{4})'.*?\)"
+r_bfv = r"cIv\('(\w{4})'.*?'(\w{4})'.*?\)"
 for i, line in enumerate(ytd.jass):
     match = re.search(r_bfv, line)
     if match:
@@ -60,7 +60,7 @@ for i, line in enumerate(ytd.jass):
         item_dict[id] = item_id
         bfv_list.append(i)
 
-# This will get 668 towers (without base towers)
+# 108b: This will get 668 towers (without base towers)
 base_towers = set([x for x in abil_dict if x not in item_dict])
 towers = set([x for x in item_dict])
 
@@ -69,21 +69,23 @@ for id in base_towers:
 
 
 # 3. get tower's upgrade from func.txt
-r_upgrade = r"Upgrade=(\w{4})"
+key_upgrade = "Upgrade"
 upgrade_dict = {}
 for id in towers:
-    lines = ytd.unit_dict[id].func.text
-    for line in lines:
-        match = re.search(r_upgrade, line)
-        if match:
-            upgrade_id = match.group(1)
-            assert(id not in upgrade_dict)
-            upgrade_dict[id] = upgrade_id
+    attr_dict = ytd.unit_collection[id].func_text.attr_dict
+    if key_upgrade in attr_dict:
+        upgrade_id = attr_dict[key_upgrade][1]
+        if not upgrade_id:
+            continue
+        assert len(upgrade_id) == 4
+        assert id not in upgrade_dict
+        upgrade_dict[id] = upgrade_id
+
 
 # 4. get tower's buff from jass
 # IIv function linked buff with its effect ability
 buff_dict = {}
-r_iiv = r"IIv\(.*?'\w{4}'.*?'(\w{4})'\)"
+r_iiv = r"Azv\(.*?'\w{4}'.*?'(\w{4})'\)"
 
 for id in towers:
     buff_dict.setdefault(id, set())
@@ -128,18 +130,25 @@ for i, line in enumerate(ytd.jass):
     # get call
     if function_name not in call_dict:
         continue
-    assert(len(call_dict[function_name]) == 1)
-    line_number = call_dict[function_name][0]
-    j = bisect.bisect_left(bfv_list, line_number)
-    k = bisect.bisect_left(function_list, line_number)
-    if j and k and bfv_list[j - 1] > function_list[k - 1]:
-        bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
-        if bfv_match:
-            id = bfv_match.group(1)
-            buff_dict[id].add(buff_id)
 
+    id = None
+    for line_number in call_dict[function_name]:
+        j = bisect.bisect_left(bfv_list, line_number)
+        k = bisect.bisect_left(function_list, line_number)
+        if j and k and bfv_list[j - 1] > function_list[k - 1]:
+            bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
+            if bfv_match:
+                res = bfv_match.group(1)
+                if id is not None and id != res:
+                    assert False;
+                id = res
+    if id:
+        tower_name = ytd.unit_collection[id].string_text.attr_dict['Name'][1]
+        buff_name = ytd.unit_collection[buff_id].string_text.attr_dict['Bufftip'][1]
+        print('Tower Name: {0} Buff Name: {1}'.format(tower_name, buff_name), file=sys.stderr)
+        buff_dict[id].add(buff_id)
 # 4.5 active abil
-r_rmv = "rmv\(.*?,.*?,.*?'(\w{4})'"
+r_rmv = "avv\(.*?,.*?,.*?'(\w{4})'"
 for i, line in enumerate(ytd.jass):
     match = re.search(r_rmv, line)
     if not match:
@@ -159,16 +168,23 @@ for i, line in enumerate(ytd.jass):
     # get call
     if function_name not in call_dict:
         continue
-    assert(len(call_dict[function_name]) == 1)
-    line_number = call_dict[function_name][0]
-    j = bisect.bisect_left(bfv_list, line_number)
-    k = bisect.bisect_left(function_list, line_number)
-    if j and k and bfv_list[j - 1] > function_list[k - 1]:
-        bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
-        if bfv_match:
-            id = bfv_match.group(1)
-            abil_dict[id].add(abil_id)
 
+    id = None
+    for line_number in call_dict[function_name]:
+        j = bisect.bisect_left(bfv_list, line_number)
+        k = bisect.bisect_left(function_list, line_number)
+        if j and k and bfv_list[j - 1] > function_list[k - 1]:
+            bfv_match = re.search(r_bfv, ytd.jass[bfv_list[j-1]])
+            if bfv_match:
+                res = bfv_match.group(1)
+                if id is not None and id != res:
+                    assert False
+                id = res
+    if id:
+        tower_name = ytd.unit_collection[id].string_text.attr_dict['Name'][1]
+        abil_name = ytd.unit_collection[abil_id].string_text.attr_dict['Tip'][1]
+        print('Tower Name: {0} Ability Name: {1}'.format(tower_name, abil_name), file=sys.stderr)
+        abil_dict[id].add(abil_id)
 
 # step 5 output
 if not args.output:
@@ -186,17 +202,17 @@ for id in towers:
     while True:
         processed.add(cur_id)
         print('##Tower', file=ofile)
-        ytd.unit_dict[cur_id].print(ofile)
+        print(ytd.unit_collection[cur_id].string_text.to_string(), file=ofile)
         print('##Item', file=ofile)
-        ytd.unit_dict[item_dict[cur_id]].print(ofile)
+        print(ytd.unit_collection[item_dict[cur_id]].string_text.to_string(), file=ofile)
         if abil_dict[cur_id]:
             print('##Abilities', file=ofile)
             for abil in sorted(abil_dict[cur_id]):
-                ytd.unit_dict[abil].print(ofile)
+                print(ytd.unit_collection[abil].string_text.to_string(), file=ofile)
         if len(buff_dict[cur_id]):
             print('##Buffs', file=ofile)
             for buff in sorted(buff_dict[cur_id]):
-                ytd.unit_dict[buff].print(ofile)
+                print(ytd.unit_collection[buff].string_text.to_string(), file=ofile)
         print(file=ofile)
         if cur_id in upgrade_dict:
             cur_id = upgrade_dict[cur_id]

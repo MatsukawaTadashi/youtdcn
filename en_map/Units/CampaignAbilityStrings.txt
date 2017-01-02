@@ -1,6 +1,5 @@
 [ANha]
 Name=Harvest
-EditorSuffix= (Neutral)
 Tip=|cffffcc00G|rather
 Ubertip="Mines gold from gold mines and harvests lumber from trees."
 Untip=R|cffffcc00e|rturn Resources

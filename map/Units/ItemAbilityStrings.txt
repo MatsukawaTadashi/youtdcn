@@ -20,10 +20,6 @@ Name=Item Firebolt
 Name=Item Attack Fire Bonus
 [AItp]
 Name=Item Town Portal
-[AIaa]
-Name=Item Permanent Damage Gain
-[AImi]
-Name=Item Permanent Life Gain
 [AIab]
 Name=Item Hero Stat Bonus
 [AIml]
@@ -84,9 +80,6 @@ Name=Staff of Sanctuary
 [BNsa]
 Bufftip=Sanctuary
 Buffubertip="This unit is under the effects of a Staff of Sanctuary; its hit points will regenerate over time, but it cannot move, attack or cast spells."
-[Bdet]
-Bufftip=Dust of Appearance
-Buffubertip="The Dust of Appearance reveals invisible units to enemy players."
 [AIdd]
 Name=Passive Defense
 [Btrv]

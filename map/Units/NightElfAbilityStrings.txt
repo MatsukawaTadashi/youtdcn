@@ -106,7 +106,6 @@ Name=Lightning Attack
 [Bbar]
 Bufftip=Barkskin
 Buffubertip="This unit has Barkskin; it has increased armor."
-[Atol]
 [Bgra]
 EditorName=War Club
 [Bult]

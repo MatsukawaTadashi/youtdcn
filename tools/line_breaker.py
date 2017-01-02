@@ -1,14 +1,17 @@
 import re
 ifile = open('ItemStrings.txt', 'r', encoding='utf8')
 ofile = open('ItemStrings2.txt', 'w', encoding='utf8')
-fmt = 'Ubertip="{0}"\n'
+fmt = r"^((Ubertip=)|(Description=))"
 threshold = 18
 
-def clear_escape(s: str):
+
+def clear_escape(s):
     s = re.sub(r"\|r",'',s)
     s = re.sub(r"\|c\w{8}", '', s)
     return s
-def word_cnt(s: str):
+
+
+def word_cnt(s):
     cnt = 0
     s = clear_escape(s)
     if not any([i.isalpha() and not (i.islower() or i.isupper()) for i in s]):
@@ -19,20 +22,22 @@ def word_cnt(s: str):
         else:
             cnt += 0.5
     return cnt
-for line in ifile:
-    if line.startswith('Ubertip='):
-        fq = line.find('"')
-        lq = line.rfind('"')
-        target = line[fq + 1: lq]
-        splited = target.split('|n')
-        for i in range(len(splited)):
-            if word_cnt(splited[i]) > threshold:
-                if ' ' in splited[i] and not ('作者' in splited[i] or '模组' in splited[i]):
-                    splited[i] = splited[i].replace(' ','')
-                    print(splited[i])
-        line = line[:fq + 1] + '|n'.join(splited) + line[lq:]
 
-    ofile.write(line)
+if __name__ == '__main__':
+    for line in ifile:
+        if re.match(fmt, line):
+            fq = line.find('"')
+            lq = line.rfind('"')
+            target = line[fq + 1: lq]
+            splited = target.split('|n')
+            for i in range(len(splited)):
+                if word_cnt(splited[i]) > threshold:
+                    if ' ' in splited[i] and not ('作者' in splited[i] or '模组' in splited[i]):
+                        splited[i] = splited[i].replace(' ','')
+                        print(splited[i])
+            line = line[:fq + 1] + '|n'.join(splited) + line[lq:]
 
-ifile.close()
-ofile.close()
+        ofile.write(line)
+
+    ifile.close()
+    ofile.close()

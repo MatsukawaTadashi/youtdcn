@@ -1,4 +1,4 @@
-[TWN1]
+﻿[TWN1]
 Name=Town Hall or Great Hall or Tree of Life or Necropolis
 [TWN2]
 Name=Keep or Stronghold or Tree of Ages or Halls of the Dead
@@ -14,7 +14,6 @@ Ubertip="Increases the Intelligence of the Hero by 6 when worn."
 Description=Provides a bonus to Intelligence.
 [mdpb]
 Name=Medusa Pebble
-Purchase Medusa Pebble
 Hotkey=P
 Tip=Purchase Medusa |cffffcc00P|rebble
 Ubertip="Turns the targeted enemy non-Hero unit into stone when used. A unit turned to stone by the Medusa Pebble is removed from the game permanently."

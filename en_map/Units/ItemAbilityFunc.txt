@@ -22,8 +22,6 @@ Targetattach=overhead
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
 Casterart=Abilities\Spells\Items\AIta\CrystalBallCaster.mdl
 Casterattach=overhead
-[Bdet]
-Buffart=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
 [AIfi]
 Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
 Missilespeed=900
