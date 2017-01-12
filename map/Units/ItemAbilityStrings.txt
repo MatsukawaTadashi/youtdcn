@@ -262,14 +262,14 @@ Name="Base Damage -1024"
 [ADNL]
 Name="Base Damage -2048"
 [R003]
-Bufftip=Afterglow
-Buffubertip=This unit has reduced armor.
+Bufftip=余辉
+Buffubertip=这个单位的护甲降低。
 EditorName=!ArmoryReduction
 [R03R]
-Bufftip=Golden
-Buffubertip=This unit's bounty gain is increased.
+Bufftip=金色感化
+Buffubertip=这个单位的金钱获取率提高。
 EditorName=Golden
 [R08A]
-Bufftip=Gem Armor
-Buffubertip=This unit's armor is decreased by a lucky gem.
+Bufftip=宝石护甲
+Buffubertip=这个单位的护甲被幸运宝石降低了。
 EditorName=Gem Armor

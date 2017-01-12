@@ -1,3 +1,4 @@
 # User-specific stuff:
 tools/.idea/*
+tools/__pycache__/*
 tools/lib/__pycache__/*

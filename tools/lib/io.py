@@ -16,14 +16,13 @@ class UnitText:
         self.attr_list = []
 
         for line in lines:
+            if '=' not in line:
+                print('Warning: Illegal attribute:',id, line, file=sys.stderr)
+                continue
             splited = line.split('=')
-            if len(splited) != 2:
-                print('Warning: Illegal unit attribute.')
-                print('ID: {0} Line: {1}'.format(self.id, line),file=sys.stderr)
-                print(file=sys.stderr)
 
             key = splited[0]
-            val = splited[1]
+            val = '='.join(splited[1:])
             if key in self.attr_dict:
                 print('Warning: Unit attribute multiple assignment.', file=sys.stderr)
                 print('ID: {0} Line: {1}'.format(self.id, line), file=sys.stderr)
@@ -34,9 +33,10 @@ class UnitText:
                 self.attr_dict[key] = x
                 self.attr_list.append(x)
 
-    def to_string(self):
+    def to_string(self, with_id=True):
         res = []
-        res.append('[{0}]\n'.format(self.id))
+        if with_id:
+            res.append('[{0}]\n'.format(self.id))
         for attr in self.attr_list:
             key = attr[0]
             val = attr[1]
@@ -84,10 +84,12 @@ class UnitTextFile:
 class Unit:
     def __init__(self, x, string_file, func_file):
         self.id = x
+        self.string_text = None
         self.string_text_file = string_file
         if string_file:
             self.string_text = string_file.unit_dict[x]
 
+        self.func_text = None
         self.func_text_file = func_file
         if func_file:
             self.func_text = func_file.unit_dict[x]
@@ -101,7 +103,7 @@ class War3Map:
         self.unit_text_file_collection = {}
         self.unit_collection = {}
 
-        print('Reading map: {0}'.format(root_path))
+        print('Reading map: {0}'.format(root_path), file=sys.stderr)
 
         # 1.jass
         jass_path = os.path.join(root_path, jass_dir)

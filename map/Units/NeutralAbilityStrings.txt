@@ -82,15 +82,15 @@ EditorSuffix= (Slow Aura)
 [Arng]
 Name=Revenge
 [Adtg]
-Name=True Sight
+Name=真实视野
 EditorSuffix= (Neutral 1)
 Tip=True Sight
-Ubertip="Reveals nearby invisible units."
+Ubertip="显示附近的隐形单位。"
 [ANtr]
-Name=True Sight
+Name=真实视野
 EditorSuffix= (Neutral 2)
 Tip=True Sight
-Ubertip="Reveals nearby invisible units."
+Ubertip="显示附近的隐形单位。"
 [Abgm]
 Name=Blighted Gold Mine Ability
 [Aegm]
@@ -196,10 +196,10 @@ EditorSuffix= (Neutral)
 [AUmd]
 Name=Dark Summoning (Malganis)
 [Aarm]
-Name=Mana Regeneration Aura
+Name=法力回复光环
 [Barm]
-Bufftip=Mana Regeneration Aura
-Buffubertip="This unit is under the effects of Mana Regeneration Aura; it has an increased mana regeneration rate."
+Bufftip=法力回复光环
+Buffubertip="这个单位受到了法力回复光环的影响，它的法力回复速度提高了。"
 [ANre]
 Name=Life Regeneration Aura
 EditorSuffix= (Neutral)
@@ -250,19 +250,19 @@ Ubertip="Loads a targeted friendly land unit."
 Hotkey=L
 EditorSuffix=(Orc Burrow)
 [ACmi]
-Name=Spell Immunity
-Tip=Spell Immunity
-Ubertip="Renders this unit immune to all spells."
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
 EditorSuffix=(Neutral Hostile)
 [ACm2]
-Name=Spell Immunity
-Tip=Spell Immunity
-Ubertip="Renders this unit immune to all spells."
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
 EditorSuffix=(Archimonde)
 [ACm3]
-Name=Spell Immunity
-Tip=Spell Immunity
-Ubertip="Renders this unit immune to all spells."
+Name=魔法免疫
+Tip=魔法免疫
+Ubertip="这个单位免疫魔法"
 EditorSuffix=(Dragon)
 [Ahrp]
 Name=Repair
@@ -278,9 +278,9 @@ Name=Sell Items
 Tip=Sell Items
 Ubertip="Permits the sale of items."
 [Asud]
-Name=Sell Units
-Tip=Sell Units
-Ubertip="Permits the sale of units."
+Name=出售单位
+Tip=出售单位
+Ubertip="允许出售单位"
 [ACsw]
 EditorSuffix=(Neutral Hostile)
 [ACpv]
@@ -1454,74 +1454,74 @@ Buffubertip=
 Bufftip=Firestorm
 Buffubertip=
 [R02F]
-Bufftip=Alert
-Buffubertip=This tower has been alerted; it has bonus base percent damage.
+Bufftip=警戒
+Buffubertip=这座塔处于警戒状态，它的基础攻击力增加了。
 EditorName=Alert
 [R02G]
-Bufftip=Trespassing
-Buffubertip=This unit is trespassing; it has its armor reduced.
+Bufftip=非法入侵
+Buffubertip=这个单位非法入侵，它的护甲被降低了。
 EditorName=Trespassing
 [R02O]
-Bufftip=Aura of Light
-Buffubertip=This tower deals increased damage to undead creeps.
+Bufftip=光明光环
+Buffubertip=这个单位对亡灵造成更多伤害。
 EditorName=Aura of Light
 [R01A]
-Bufftip=Nova Storm
-Buffubertip=This creep has been hit by a nova storm; its movement speed is reduced.
+Bufftip=新星风暴
+Buffubertip=这个单位被新星风暴击中，它的移动速度降低了。
 EditorName=Nova Storm
 [R020]
-Bufftip=Ancient Magic
-Buffubertip=This tower is under the effect of ancient magic, its spell crit chance is increased.
+Bufftip=古代魔法
+Buffubertip=这个单位受到古代魔法效果影响，它的法术暴击几率增加了。
 EditorName=Ancient Magic
 [R021]
-Bufftip=Breath of Frost
-Buffubertip=This unit is under the effect of extreme cold; it is slowed and will get stunned when the buff expires.
+Bufftip=极度寒冷
+Buffubertip=这个单位受到极度寒冷效果的影响，它的移动速度降低，效果消失后会进入眩晕状态。
 EditorName=Extreme Cold
 [R03X]
-Bufftip=Nerubian Poison
-Buffubertip=This unit has been injected with Nerubian poison.
+Bufftip=地穴剧毒
+Buffubertip=这个单位被地穴剧毒感染
 EditorName=Nerubian Poison
 [R04T]
-Bufftip=Liquid Fire
-Buffubertip=This creep suffers damage over time and takes extra damage from fire towers.
+Bufftip=液态火
+Buffubertip=这个单位持续受到伤害，并且受到火焰系塔的伤害提高。
 EditorName=Liquid Fire
 [R03D]
-Bufftip=Divine Teachings
-Buffubertip=This unit is getting smarter. It gains bonus experience.
+Bufftip=神圣教育
+Buffubertip=这个单位将越来越聪明，获得额外的经验值。
 EditorName=Divine Teachings
 [BSIL]
-Bufftip=Silenced
-Buffubertip=This unit is unable to cast spells.
+Bufftip=沉默
+Buffubertip=这个单位不能使用技能
 [R03Q]
 Bufftip=Firestorm
 Buffubertip=
 [R03P]
-Bufftip=Freezing Mist
-Buffubertip=This unit is slowed by a freezing mist.
+Bufftip=冰冻之雾
+Buffubertip=这个单位被冰冻之雾减速了
 EditorSuffix=
 EditorName=Freezing Mist
 [R070]
-Bufftip=Heat Aura
-Buffubertip=This unit is under the effect of Heat Aura. It will lose health with every second and has a chance to explode when it dies.
+Bufftip=热量光环
+Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会发生爆炸
 EditorSuffix=
 EditorName=Heat Aura
 [R077]
-Bufftip=Wrath of Ymir
-Buffubertip=This unit is slowed by Wrath of Ymir.
+Bufftip=伊米尔之怒
+Buffubertip=这个单位被伊米尔之怒减速了。
 EditorName=Wrath of Ymir
 [R076]
 EditorName=Flesh of Ymir
-Buffubertip=Ymir's ancient flesh decreases debuff duration.
-Bufftip=Flesh of Ymir
+Buffubertip=伊米尔的古老肉体可以减少的负面状态持续时间。
+Bufftip=伊米尔之身
 [R04X]
 EditorName=Item Change Time of Day
 [R059]
 Bufftip=Firestorm
 Buffubertip=
 [R04W]
-Bufftip=Soulsteal
-Buffubertip=This unit's soul has been locked in the vault and it will recieve more magic damage.
+Bufftip=灵魂偷取
+Buffubertip=这个单位的灵魂被囚禁在穹窿中，它会受到更多法术伤害。
 [R07R]
-Bufftip=Under Attack
-Buffubertip=This unit takes damage.
+Bufftip=遭受攻击
+Buffubertip=这个单位受到伤害
 EditorName=Under Attack

@@ -93,7 +93,7 @@ Researchhotkey=F
 Bufftip=Flame Strike
 Buffubertip="This unit is in a Flame Strike, and is taking damage over time."
 [AHbn]
-Name=Banish
+Name=虚无
 Tip=|cffffcc00B|ranish - [|cffffcc00Level 1|r],|cffffcc00B|ranish - [|cffffcc00Level 2|r],|cffffcc00B|ranish - [|cffffcc00Level 3|r]
 Ubertip="Turns a non-mechanical unit ethereal and slows its movement speed by <AHbn,DataA1,%>% for <AHbn,Dur1> seconds. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect.","Turns a unit ethereal and slows its movement speed by <AHbn,DataA2,%>% for <AHbn,Dur2> seconds. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect.","Turns a unit ethereal and slows its movement speed by <AHbn,DataA3,%>% for <AHbn,Dur3> seconds. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect."
 Hotkey=B
@@ -101,8 +101,8 @@ Researchtip="Learn |cffffcc00B|ranish - [|cffffcc00Level %d|r]"
 Researchubertip="Turns a non-mechanical unit ethereal and slows its movement speed by <AHbn,DataA1,%>% for a short duration. Ethereal creatures cannot attack, but they can cast spells and certain spells cast upon them will have a greater effect. |n|n|cffffcc00Level 1|r - <AHbn,Cost1> mana, lasts <AHbn,Dur1> seconds. |n|cffffcc00Level 2|r - <AHbn,Cost2> mana, lasts <AHbn,Dur2> seconds. |n|cffffcc00Level 3|r - <AHbn,Cost3> mana, lasts <AHbn,Dur3> seconds."
 Researchhotkey=B
 [BHbn]
-Bufftip=Banish
-Buffubertip="This unit is Banished; Banished creatures cannot attack, but they can cast spells and will take extra damage from Magic attacks and spells."
+Bufftip=虚无
+Buffubertip="这个单位被虚无了，不会受到物理伤害，但是魔法攻击和法术会对其造成额外伤害。"
 [AHpx]
 Name=Phoenix
 Tip=Phoeni|cffffcc00x|r
@@ -117,9 +117,9 @@ Name=Phoenix Morphing (Egg Related)
 Bufftip=Phoenix
 Buffubertip="The power of the Phoenix unfolds."
 [Apxf]
-Name=Phoenix Fire
-Tip=Phoenix Fire
-Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
+Name=凤凰火焰
+Tip=凤凰火焰
+Ubertip="射出流焰，点燃附近的敌人。"
 [Bpxf]
 Bufftip=Phoenix Fire
 Buffubertip="This unit is being burned by Phoenix Fire; it will take damage over time."
@@ -402,19 +402,19 @@ Unubertip="|cffc3dbffRight-click to deactivate auto-casting.|r"
 Hotkey=
 Unhotkey=
 [W019]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80650|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到|cffFFFF80650|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W00T]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffffff802|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffffff802|r 个目标"
 [W00G]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF802|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF802|r 个目标"
 [W02D]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
@@ -424,21 +424,21 @@ Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
 [W05I]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
 [W04U]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF802|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF802|r 个目标"
 [W04Z]
 Name="Acient Effect"
 [W051]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80700|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到 |cffFFFF80700|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W09J]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
@@ -448,35 +448,35 @@ Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
 [W0B1]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0AR]
-Name="Spreading Flames"
-Tip="Spreading Flames"
-Ubertip="This tower attacks |cffFFFF804|r targets at once."
+Name="火势蔓延"
+Tip="火势蔓延"
+Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W0AU]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80750|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到 |cffFFFF80750|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W0AH]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AK]
 Name="Acient Effect"
 [W0AX]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF804|r 个目标"
+Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0AY]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0F1]
 Name="Darkness"
 Tip="Mister Fireflies"
@@ -490,19 +490,19 @@ Name="Storm"
 Tip="Mister Fireflies"
 Ubertip="Moo."
 [W0FE]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF804|r 个目标"
+Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0FF]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0FH]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF805|r 个目标"
 [W0FU]
 Name=Blizzard
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
@@ -514,55 +514,55 @@ Researchhotkey=B
 [W0IU]
 Name="Acient Effect"
 [W0I3]
-Name="Spreading Flames"
-Tip="Spreading Flames"
-Ubertip="This tower attacks |cffFFFF804|r targets at once."
+Name="火势蔓延"
+Tip="火势蔓延"
+Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W0HU]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80800|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到 |cffFFFF80800|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W0IF]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0KX]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffffff803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffffff803|r 个目标"
 [W100]
-Name="Burning Barrage"
-Tip="Burning Barrage"
-Ubertip="Attacks up to |cffFFFF8014|r targets at once."
+Name="燃烧弹幕"
+Tip="燃烧弹幕"
+Ubertip="同时攻击 |cffFFFF8014|r 个目标。"
 [W11P]
 Name="a"
-Tip=Phoenix Fire
-Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
+Tip=凤凰火焰
+Ubertip="射出流焰，点燃附近的敌人。"
 [W0Q3]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF805|r 个目标"
 [W126]
-Name=Phoenix Fire
-Tip=Phoenix Fire
-Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
+Name=凤凰火焰
+Tip=凤凰火焰
+Ubertip="射出流焰，点燃附近的敌人。"
 [W0Q7]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0OB]
 Name=Sphere
 [W0RQ]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF804|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF804|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF804|r 个目标"
+Unubertip="同时攻击 |cffFFFF804|r 个目标"
 [W0RR]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r target at level |cffFFFF8015|r"
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 目标 于等级 |cffFFFF8015|r"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W0S0]
 Name="Acient Effect"
 [W0QR]
@@ -574,22 +574,22 @@ Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
 [W15G]
-Name="Absorb Energy"
-Tip="Absorb Energy"
-Ubertip="Attacks hit up to |cffFFFF8010|r enemies, but do no damage. There is a |cffFFFF8010%|r chance per hit to gather energy, restoring |cffFFFF8050|r mana to the tower and the target will lose |cffFFFF8050|r mana if it has mana.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r mana|n|cffFFFF80+0.2%|r chance"
-Untip="Attacks hit up to |cffFFFF8010|r enemies but do no damage. There is a chance to gain mana per enemy hit."
+Name="吸收能量"
+Tip="吸收能量"
+Ubertip="同时攻击|cffFFFF8010|r个目标，但是不造成伤害。每次击中时有|cffFFFF8010%|r几率获得能量，回复|cffFFFF8050|r法力，如果被攻击的目标有法力，目标会丢失|cffFFFF8050|r法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
+Untip="同时攻击 |cffFFFF8010|r 个目标，但是不造成伤害。击中时有几率回复法力。"
 [W0TW]
-Name="Spreading Flames"
-Tip="Spreading Flames"
-Ubertip="This tower attacks |cffFFFF804|r targets at once."
+Name="火势蔓延"
+Tip="火势蔓延"
+Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W15N]
-Name="Soulfire"
-Tip="Soulfire"
-Ubertip="Attacks hit up to |cffffff808|r enemies in range and have a |cffffff8020%|r chance to ignite the enemy's soul, dealing |cffffff801000|r spell damage per second for |cffffff805|r seconds. This effect stacks.|n|n|cffff8000Level Bonus:|r|n|cffffff80+0.4%|r chance|n|cffffff80+40|r spell damage"
+Name="灵魂之火"
+Tip="灵魂之火"
+Ubertip="同时攻击|cffffff808|r个目标，击中时有|cffffff805%|r几率点燃它的灵魂，每秒造成|cffffff801000|r法术伤害，持续|cffffff805|r秒。这个效果可以叠加。|n|n|cffff8000等级加成：|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
 [W17C]
-Name="Nermind's Eye"
-Tip="Nermind's Eye"
-Ubertip="Reveals nearby invisible units."
+Name="尼尔麦之眼"
+Tip="尼尔麦之眼"
+Ubertip="显示附近的隐形单位"
 EditorSuffix=""
 [W0VU]
 Name="Leaf Storm"
@@ -600,31 +600,31 @@ Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
 [W0W8]
-Name="Magical Sight"
-Tip="Magical Sight"
-Ubertip="Can see invisible enemy units in |cffFFFF80850|r range."
+Name="魔法视界"
+Tip="魔法视界"
+Ubertip="可以看到 |cffFFFF80850|r 范围内的隐形单位。"
 EditorSuffix=(Flying Machine)
-Untip="Reveals nearby invisible units"
+Untip="显示附近的隐形单位"
 [W17Q]
-Name="Eye of True Sight"
-Tip="Detection"
-Ubertip="Reveals nearby invisible units."
+Name="真视之眼"
+Tip="探测"
+Ubertip="显示附近的隐形单位"
 EditorSuffix=""
 [W0UM]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF807|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF807|r targets at the same time."
+Name="地狱火"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF807|r 个目标"
+Unubertip="同时攻击 |cffFFFF807|r 个目标"
 [W0UN]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF806|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF806|r targets at the same time."
+Name="地狱火"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF806|r 个目标"
+Unubertip="同时攻击 |cffFFFF806|r 个目标"
 [W0UO]
-Name="Hellfire"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF805|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF805|r targets at the same time."
+Name="地狱火"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF805|r 个目标"
+Unubertip="同时攻击 |cffFFFF805|r 个目标"
 [W18F]
 Name="Overgrowth"
 Tip=|cffffcc00B|rlizzard - [|cffffcc00Level 1|r],|cffffcc00B|rlizzard - [|cffffcc00Level 2|r],|cffffcc00B|rlizzard - [|cffffcc00Level 3|r]
@@ -634,100 +634,100 @@ Researchtip="Learn |cffffcc00B|rlizzard - [|cffffcc00Level %d|r]"
 Researchubertip="Calls down waves of freezing ice shards that damage units in a target area. |n|n|cffffcc00Level 1|r - <AHbz,DataA1> waves at <AHbz,DataB1> damage each. |n|cffffcc00Level 2|r - <AHbz,DataA2> waves at <AHbz,DataB2> damage each. |n|cffffcc00Level 3|r - <AHbz,DataA3> waves at <AHbz,DataB3> damage each."
 Researchhotkey=B
 [W18M]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18V]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18W]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18X]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18Y]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18Z]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18N]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18O]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W190]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18P]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W191]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18Q]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W192]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18R]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W193]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18S]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W194]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18T]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [W18U]
-Name="Multishot"
-Tip="Multishot"
-Ubertip="Attacks up to |cffFFFF803|r targets at the same time."
-Unubertip="Attacks up to |cffFFFF803|r targets at the same time."
+Name="多重射击"
+Tip="多重射击"
+Ubertip="同时攻击 |cffFFFF803|r 个目标"
+Unubertip="同时攻击 |cffFFFF803|r 个目标"
 [WC03]
 Name="Slow Aura caster effect"
 Tip=Brilliance Aura - [|cffffcc00Level 1|r],Brilliance Aura - [|cffffcc00Level 2|r],Brilliance Aura - [|cffffcc00Level 3|r]
@@ -743,669 +743,669 @@ Researchtip="Learn B|cffffcc00r|rilliance Aura - [|cffffcc00Level %d|r]"
 Researchubertip="Gives additional mana regeneration to nearby friendly units. |n|n|cffffcc00Level 1|r - Grants minor mana regeneration. |n|cffffcc00Level 2|r - Grants moderate mana regeneration. |n|cffffcc00Level 3|r - Grants heavy mana regeneration."
 Researchhotkey=R
 [INVB]
-Name="Farseer True Sight"
-Tip="True Sight"
-Ubertip="The farseer's magic grants true sight to this tower. It is able to detect invisible units in |cffFFFF80700|r range."
+Name="先知的真实视野"
+Tip="真实视野"
+Ubertip="先知的魔法赐予了这个塔真实视野，它可以探测到 |cffFFFF80700|r 范围内的隐形单位。"
 EditorSuffix=""
 [INVI]
-Name="Builder True Sight"
-Tip="True Sight"
-Ubertip="This unit is able to detect invisible units in |cffFFFF80800|r range."
+Name="建造者的真实视野"
+Tip="真实视野"
+Ubertip="这个单位可以探测到 |cffFFFF80800|r 范围内的隐形单位。"
 EditorSuffix=""
 [R008]
-Bufftip=Rend
-Buffubertip=This unit is hit by rend; it suffers damage every second.
+Bufftip=撕裂
+Buffubertip=这个单位被撕裂，持续受到伤害。
 [R009]
-Bufftip=Burning
-Buffubertip=This unit burns more with every hit of a firetower and will explode on death.
+Bufftip=燃烧
+Buffubertip=这个单位每次受到火焰系塔的攻击时都会燃烧得更剧烈，并且在死亡时会爆炸。
 [R005]
-Bufftip=Illuminated
-Buffubertip=The experience this creep rewards upon killing has been increased.
+Bufftip=照亮
+Buffubertip=这个单位被杀死后将会给予更多经验。
 EditorName=Illuminated
 [R002]
-Bufftip=Acid Coating
-Buffubertip=This unit has decreased armor.
+Bufftip=酸性涂层
+Buffubertip=这个单位的护甲降低。
 EditorName=Acid Coating
 [R00A]
-Bufftip=Power of Light
-Buffubertip=The creep receives more attack and spelldamage.
+Bufftip=圣光之力
+Buffubertip=这个单位受到额外的攻击伤害和法术伤害。
 EditorName=Power of Light
 [R00H]
-Bufftip=Skink Poison
-Buffubertip=This unit takes damage over time.
+Bufftip=蜥蜴毒
+Buffubertip=这个单位持续受到伤害。
 EditorName=Skink Poison
 [R00I]
-Bufftip=Soul Scattering
-Buffubertip=This unit will take bonus damage from spells.
+Bufftip=灵魂散落
+Buffubertip=这座塔的攻击速度降低。
 [R00G]
-Bufftip=Poisonous Skin
-Buffubertip=This tower has a poisonous attack.
+Bufftip=毒性皮肤
+Buffubertip=这座塔使用毒性攻击
 EditorName=Poisonous Skin
 [R00D]
-Bufftip=Roar
-Buffubertip=This tower has increased attack damage.
+Bufftip=咆哮
+Buffubertip=这座塔的攻击力提高。
 EditorName=Roar
 [R00C]
-Bufftip=Thunderous Roar
-Buffubertip=This tower has increased attack speed.
+Bufftip=雷霆咆哮
+Buffubertip=这座塔攻击速度提高。
 EditorName=Thunderous Roar
 [R00Q]
-Bufftip=Ignited
-Buffubertip=This unit is set on fire; it suffers damage every second and is slowed.
+Bufftip=点燃
+Buffubertip=这个单位着火了，每秒受到伤害并且减速。
 [R012]
-Bufftip=Treasure Seeker
-Buffubertip=The bounty gain of this tower is increased.
+Bufftip=寻宝者
+Buffubertip=这座塔的金钱获取率提高。
 [R00N]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R00O]
-Bufftip=Glacial Wrath
-Buffubertip=This tower is Slowed by a Glacier.
+Bufftip=冰河之怒
+Buffubertip=这个单位被减速了。
 [R010]
-Bufftip=Toxic vapor
-Buffubertip=This unit is contaminated by toxic vapors; it suffers damage every second.
+Bufftip=毒气
+Buffubertip=这个单位吸入了毒气，每秒受到伤害。
 [R00M]
-Bufftip=Blizzard
-Buffubertip=This unit is damaged by blizzard.
+Bufftip=暴风雪
+Buffubertip=这个单位被暴风雪击中。
 EditorName=Blizzard
 EditorSuffix=meins
 [R00K]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
 [BSEL]
-Bufftip=Sell
-Buffubertip=This unit is about to be sold!
+Bufftip=出售
+Buffubertip=这个单位准备出售！
 [R01X]
-Bufftip=Ignited
-Buffubertip=This unit is ignited it is dealt spell damage over time and receives additional damage from fire towers.
+Bufftip=点燃
+Buffubertip=这个单位被点燃，持续受到法术伤害，并且受到来自于火焰系塔的额外伤害。
 EditorName=Ignited
 [R01U]
-Bufftip=Empowered Darkness
-Buffubertip=This unit receives additional damage from darkness towers.
+Bufftip=黑暗权能
+Buffubertip=这个单位受到来自黑暗系塔的额外伤害。
 EditorName=Empowered Darkness
 [R01V]
-Bufftip=Gut Coated
-Buffubertip=This unit is coated with guts; it moves slower and takes more damage from darkness towers.
+Bufftip=肠液覆盖
+Buffubertip=这个单位被肠液覆盖，它移动的更慢，并且受到来自黑暗系塔的额外伤害。
 [R027]
-Bufftip=For the God
-Buffubertip=This tower has an increased attack damage and experience gain.
+Bufftip=神之恩惠
+Buffubertip=这个单位的攻击力和经验获取率提高。
 EditorName=For the God
 [R024]
-Bufftip=Bloodlust
-Buffubertip=This tower has increased crit damage and attackspeed.
+Bufftip=嗜血
+Buffubertip=这座塔的暴击伤害和攻击速度提高。
 EditorName=Bloodlust
 [R02C]
-Bufftip=Fatigue
-Buffubertip=This unit has its attack speed reduced.
+Bufftip=疲惫
+Buffubertip=这个单位的攻击速度降低了。
 [R02A]
-Bufftip=Quill Sprayed
-Buffubertip=This unit has been hit by a Quillspray the next Quillspray will deal increased damage.
+Bufftip=刺针扫射
+Buffubertip=这个单位被刺针扫射所击中，下一次刺针扫射会造成更多伤害。
 EditorName=Quill Sprayed
 [R02E]
-Bufftip=Engulfing Darkness
-Buffubertip=This unit is engulfed in darkness.
+Bufftip=黑暗笼罩
+Buffubertip=这个单位被黑暗笼罩。
 [R02R]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R02S]
-Bufftip=Blizzard
-Buffubertip=This unit is damaged by blizzard.
+Bufftip=暴风雪
+Buffubertip=这个单位被暴风雪击中。
 EditorName=Blizzard
 EditorSuffix=meins
 [R034]
-Bufftip=Blood Spill
-Buffubertip=This unit has its attack speed increased.
+Bufftip=放血
+Buffubertip=这个单位的攻击速度降低。
 [R02P]
-Bufftip=Shadow Glaive
-Buffubertip=This tower has a very high attack speed bonus until next attack and will crit for sure.
+Bufftip=影刃
+Buffubertip=这个单位在下次攻击之前获得非常高的攻击速度加成，下次攻击必定暴击。
 EditorName=Shadow Glaive
 [R02Q]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
 [R00X]
-Bufftip=Soul Split
-Buffubertip=The attack speed of this tower is increased.
+Bufftip=灵魂分裂
+Buffubertip=这座塔攻击速度提高。
 EditorName=Soul Split
 [R00W]
-Bufftip=Love Potion
-Buffubertip=This creature is in love. It moves slower and it has a higher chance to drop an item.
+Bufftip=爱情药剂
+Buffubertip=这个生物正在恋爱中。它的移动速度降低，并且有更高的几率掉落物品。
 EditorName=Love Potion
 [R018]
-Bufftip=Wolven Tenacity
-Buffubertip=This unit has had its attackspeed increased by a nearby wolf.
+Bufftip=狼的韧性
+Buffubertip=这个单位被狼所影响，攻击速度提高。
 [R016]
-Bufftip=Nature's Gift
-Buffubertip=This unit has increased stats depending on its element.
+Bufftip=自然赠礼
+Buffubertip=这个单位获得了基于它元素系的增益效果。
 [R00R]
-Bufftip=Poisonous Spittle
-Buffubertip=This unit gains damage over time.
+Bufftip=毒性唾液
+Buffubertip=这个单位持续受到伤害。
 [R013]
-Bufftip=Slumering Parasite
-Buffubertip=This unit is host to a parasite; it has increased vulnerability to nature towers and will receive damage when the parasite surfaces.
+Bufftip=寄生虫
+Buffubertip=这个单位是寄生虫的宿主，它受自然系塔的伤害提高。
 [R01B]
-Bufftip=Mana Distortion Field
-Buffubertip=This unit will burn a portion of its target's mana on attack.
+Bufftip=消魔力场
+Buffubertip=这个单位在攻击时会燃烧目标的法力。
 EditorName=Mana Distortion Field
 [R01J]
-Bufftip=Lightning Surge
-Buffubertip=Attackspeed has been increased for the next few attacks.
+Bufftip=闪电波涛
+Buffubertip=下几次攻击的攻速提高。
 [R01H]
-Bufftip=Faerie Fire
-Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
+Bufftip=妖火
+Buffubertip=这个单位受到的法术伤害提高，受到的负面状态时间延长。
 EditorName=Faerie Fire
 [R01C]
-Bufftip=Jolted
-Buffubertip=This unit has been jolted. Its attackspeed is increased and it deals additional spell and attack damage on attack.
+Bufftip=被震动
+Buffubertip=这个单位被震动。它的攻击速度增加并在攻击时附加法术和攻击伤害。
 EditorName=Jolted
 [R01Q]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R022]
-Bufftip=Melting Armor
-Buffubertip=This unit's armor is melting.
+Bufftip=熔化护甲
+Buffubertip=这个单位的护甲正在熔化。
 EditorName=Phoenixfire
 [R01R]
-Bufftip=Blizzard
-Buffubertip=This unit is damaged by blizzard.
+Bufftip=暴风雪
+Buffubertip=这个单位被暴风雪击中。
 EditorName=Blizzard
 EditorSuffix=meins
 [R023]
-Bufftip=Bloody Experience
-Buffubertip=This tower gains experience as it spills blood.
+Bufftip=血的教训
+Buffubertip=这座塔暴击时获得经验。
 EditorName=Bloody Experience
 [R01O]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+Bufftip=愤怒之火
+Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
 EditorName=Fire of Fury
 [R01P]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
 [R01L]
-Bufftip=Poison
-Buffubertip=This unit takes damage over time and is slowed down.
+Bufftip=中毒
+Buffubertip=这个单位的移动速度降低，并且持续受到伤害。
 EditorName=Poison
 [R03Z]
-Bufftip=Cloud of Obsorption
-Buffubertip=The damage wasted on this units death will be absorbed.
+Bufftip=吸收云雾
+Buffubertip=这个单位死亡时，溢出的伤害将被吸收。
 EditorName=Cloud of Absorption
 [R049]
 EditorName=Blizzard (Effect)
 EditorSuffix=meins
 [R046]
-Bufftip=Timesurge
-Buffubertip=This unit has a higher chance to trigger percentbased abilities.
+Bufftip=时间奔涌
+Buffubertip=这个单位的触发几率提高。
 [R03V]
-Bufftip=Heat
-Buffubertip=This unit takes damage over time and has decreased armor.
+Bufftip=高温
+Buffubertip=这个单位的护甲降低，并且持续受到伤害。
 EditorName=Heat
 [R04E]
-Bufftip=Plague
-Buffubertip=This creep takes damage over time and is highly infectious!
+Bufftip=瘟疫
+Buffubertip=这个单位持续受到伤害，并且具有很高的传染性。
 EditorName=Plague
 [R04B]
-Bufftip=Blizzard
-Buffubertip=This unit is damaged by blizzard.
+Bufftip=暴风雪
+Buffubertip=这个单位被暴风雪击中。
 EditorName=Blizzard
 EditorSuffix=meins
 [R04A]
 EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R04M]
-Bufftip=Concussed
-Buffubertip=This creep's movement speed is slowed.
+Bufftip=震荡
+Buffubertip=这个单位的移动速度降低。
 EditorName=Concussed
 [R04H]
-Bufftip=Ruled
-Buffubertip=A Lich King rules over this unit; it will suffer damage if it leaves the king's area of authority.
+Bufftip=统治
+Buffubertip=巫妖王统治者这个单位，当它离开巫妖王的统治区域时会受到伤害。
 EditorName=Ruled
 [R04F]
-Bufftip=Army of the Damned
-Buffubertip=This tower has increased attack speed and an increased plague infection rate.
+Bufftip=死亡军团
+Buffubertip=这座塔的攻击速度提高，并且瘟疫传染速度也会提高。
 EditorName=Army of the Damned
 [R04G]
-Bufftip=Cursed
-Buffubertip=This unit has been cursed by a Lich King; buffs placed on this unit will last longer than usual.
+Bufftip=诅咒
+Buffubertip=这个单位受到了巫妖王的诅咒，受到的法术效果持续时间延长。
 EditorName=Cursed
 [R056]
-Bufftip=Leaf Storm
-Buffubertip=This unit was hit by a leaf storm. It is slowed.
+Bufftip=叶暴风
+Buffubertip=这个单位受到叶暴风的攻击，移动速度降低。
 EditorName=Leaf Storm
 [R053]
-Bufftip=Tranquility
-Buffubertip=This tower has a decreased attack speed but increased damage.
+Bufftip=宁静
+Buffubertip=这座塔的攻击速度降低，但是攻击力提高。
 EditorName=Tranquility
 [R054]
-Bufftip=Leaf Storm
-Buffubertip=This unit takes damage and is slowed.
+Bufftip=叶子风暴
+Buffubertip=这个单位受到伤害，并且移动速度降低。
 EditorName=Blizzard
 [R052]
 EditorName=Blizzard (Effect)
 [R04N]
-Bufftip=Clockwork Engineer
-Buffubertip=This tower has increased attack speed and damage.
+Bufftip=发条技师
+Buffubertip=这座塔的攻击速度和攻击力提高。
 EditorName=Clockwork Engineer
 [R04O]
-Bufftip=Probability Field Emitter
-Buffubertip=This tower has increased trigger chances.
+Bufftip=概率场发射器
+Buffubertip=这座塔的触发几率提高。
 EditorName=Probability Field Emitter
 [R050]
-Bufftip=Freezing Gust
-Buffubertip=The effect of gust on this tower is improved and it has bonus damage against air.
+Bufftip=冷冻阵风
+Buffubertip=这座塔受到阵风状态的效果提高，并且额外提高对空伤害。
 EditorName=Freezing Gust
 [R02X]
-Bufftip=Faerie Fire
-Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
+Bufftip=妖火
+Buffubertip=这个单位受到的法术伤害提高，受到的负面状态时间延长。
 EditorName=Faerie Fire
 [R039]
-Bufftip=Twister
-Buffubertip=This unit takes additional damage from Storm towers.
+Bufftip=龙卷风
+Buffubertip=这个单位受到来自风暴系塔的额外伤害。
 [R02V]
-Bufftip=Lightning Charge
-Buffubertip=This unit has increased spelldamage.
+Bufftip=闪电充能
+Buffubertip=该单位的法术伤害提高。
 [R037]
-Bufftip=Sacrifice
-Buffubertip=This unit has its attack damage reduced.
+Bufftip=献祭
+Buffubertip=这个单位的攻击力降低。
 [R035]
-Bufftip=Blood Spill
-Buffubertip=This unit has its attack speed reduced.
+Bufftip=放血
+Buffubertip=这个单位的攻击速度降低。
 [R036]
-Bufftip=Sacrifice
-Buffubertip=This unit has its attack damage increased.
+Bufftip=献祭
+Buffubertip=这个单位的攻击力降低。
 [R03C]
-Bufftip=Divine Research
-Buffubertip=This unit is under the effects of Divine Research; it gives more experience.
+Bufftip=神圣研究
+Buffubertip=这个单位受到了神圣研究的影响，它提供的经验值提高。
 EditorName=Divine Research
 [R03A]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+Bufftip=愤怒之火
+Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
 EditorName=Fire of Fury
 [R03B]
-Bufftip=Dwarven Polish
-Buffubertip=This tower has an increased item quality ratio.
+Bufftip=矮人打磨师
+Buffubertip=这座塔的物品品质率提高。
 [R03K]
-Bufftip=Fear the Dark
-Buffubertip=This unit takes increased damage.
+Bufftip=黑暗恐惧
+Buffubertip=这个单位受到的伤害提高。
 EditorName=Fear the Dark
 [R03L]
-Bufftip=Gathering
-Buffubertip=Each time this tower casts a spell the Spell Collector temporarily grows stronger.
+Bufftip=收集中
+Buffubertip=这座塔施法时，法术收集器将暂时变得更强。
 EditorName=Gathering
 [R03I]
-Bufftip=Sunlight Burst
-Buffubertip=Stunned.
+Bufftip=光爆
+Buffubertip=被眩晕。
 [R03H]
-Bufftip=Glimmer of Hope
-Buffubertip=This unit has its debuff duration reduced.
+Bufftip=希望之光
+Buffubertip=这个单位的负面状态持续时间降低。
 [R03E]
-Bufftip=Coconutted
-Buffubertip=This unit can't get stunned by Coco Sapling or Palm for 1.5 seconds.
+Bufftip=被椰子砸过
+Buffubertip=这个单位不会被椰子雨砸晕。
 EditorName=Coconutted
 [R03S]
-Bufftip=Extract Experience
-Buffubertip=Whenever a tower damages this creep there is a chance it will gain experience.
+Bufftip=压榨经验
+Buffubertip=任何塔对这个单位造成攻击伤害时都有几率获得经验值。
 EditorName=Extract Experience
 [R044]
-Bufftip=Electrified
-Buffubertip=This unit is slowed.
+Bufftip=触电
+Buffubertip=这个单位被减速了。
 EditorName=Electrified
 [R03T]
-Bufftip=Channel Energy
-Buffubertip=This unit has increased damage.
+Bufftip=能量通道
+Buffubertip=这个单位的攻击力提高。
 EditorName=Channel Energy
 [R045]
-Bufftip=Energy Absorption
-Buffubertip=This unit has increased mana regeneration.
+Bufftip=能量吸取
+Buffubertip=这个单位的法力回复速度提高了。
 EditorName=Energy Absorption
 [R042]
-Bufftip=For the God
-Buffubertip=This tower has an increased attack damage and experience gain.
+Bufftip=神之恩惠
+Buffubertip=这个单位的攻击力和经验获取率提高。
 EditorName=For the God
 [R043]
-Bufftip=Weakened
-Buffubertip=This unit has decreased attackspeed.
+Bufftip=疲惫
+Buffubertip=这个单位的攻击速度降低。
 EditorName=Weakened
 [R03O]
-Bufftip=Flowing Frost
-Buffubertip=This unit is under the effects of Flowing Frost, its buff duration is increased.
+Bufftip=流冰
+Buffubertip=这个单位受到了流冰的影响，它的增益持续时间提高了。
 EditorName=Flowing Frost
 [R040]
-Bufftip=Attraction
-Buffubertip=This unit has a chance to attract a meteor on attack or when it casts a spell.
+Bufftip=引力
+Buffubertip=这座塔在攻击时有概率召唤流星，施法时必定召唤流星。
 EditorName=Attraction
 [R041]
-Bufftip=Torture
-Buffubertip=This unit receives additional spell damage whenever it is damaged.
+Bufftip=折磨
+Buffubertip=这个单位受到伤害时会承受额外的法术伤害。
 EditorName=Torture
 [R03M]
-Bufftip=Magical Barrage
-Buffubertip=This tower is charged.
+Bufftip=魔法弹幕
+Buffubertip=这座塔已被充能。
 EditorName=Magical Barrage
 [R03N]
-Bufftip=Bronzefication
-Buffubertip=This unit is bronzeficated.
+Bufftip=青铜化
+Buffubertip=这个单位被青铜化了。
 EditorName=Bronzefication
 [R05Y]
-Bufftip=Faerie Fire
-Buffubertip=On this creep debuffs last longer and it takes extra damage from spells.
+Bufftip=妖火
+Buffubertip=这个单位受到的法术伤害提高，受到的负面状态时间延长。
 EditorName=Faerie Fire
 [R05W]
-Bufftip=Valor's Light
-Buffubertip=This unit takes spell damage over time and its movement speed is decreased.
+Bufftip=勇者之光
+Buffubertip=这个单位的移动速度降低，并且持续受到法术伤害。
 EditorName=Valor's Light
 [R068]
-Bufftip=Adapt
-Buffubertip=Cancels the effect of morphs.
+Bufftip=适应
+Buffubertip=暂停转换效果。
 [R069]
-Bufftip=Morphling Strike
-Buffubertip=This unit is slowed and takes more damage from nature.
+Bufftip=变体攻击
+Buffubertip=这个单位持续受到法术伤害。
 [R06F]
-Bufftip=Magic Spores
-Buffubertip=This tower deals increased spell damage and has increased trigger chances.
+Bufftip=魔法孢子
+Buffubertip=这座塔的法术伤害和触发几率提高。
 [R06G]
-Bufftip=Mystical Trance
-Buffubertip=This tower deals increased spell damage and has increased chance to trigger his abilities.
+Bufftip=出神入化
+Buffubertip=这座塔的法术伤害和触发几率提高。
 [R06B]
-Bufftip=Calming Noises
-Buffubertip=This tower has increased spell crit chance.
+Bufftip=平静之音
+Buffubertip=这个单位的法术暴击率提高。
 EditorName=Calming Noises
 [R06C]
-Bufftip=Splash
-Buffubertip=This unit takes more spell damage.
+Bufftip=喷溅
+Buffubertip=这个单位受到的法术伤害提高。
 EditorName=Splash
 [R06A]
-Bufftip=Morphling Strike
-Buffubertip=This unit is taking spell damage over time.
+Bufftip=变体攻击
+Buffubertip=这个单位持续受到法术伤害。
 [R06N]
-Bufftip=Acid Goo
-Buffubertip=The armor of this unit is decreased.
+Bufftip=酸性粘液
+Buffubertip=这个单位的护甲降低。
 EditorName=Acid Goo
 [R06O]
-Bufftip=Global Silence
-Buffubertip=This tower has a chance to silence creeps it attacks.
+Bufftip=全领域静默
+Buffubertip=这座塔在攻击时有几率沉默目标。
 EditorName=Global Silence
 [R06L]
-Bufftip=Orbed!
-Buffubertip=This unit is hit by an energy orb
+Bufftip=能量球
+Buffubertip=这个单位被能量球击中了。
 [R06M]
-Bufftip=Grappled
-Buffubertip=This unit is grappled; it cannot move.
+Bufftip=被抓住
+Buffubertip=这个单位被抓住，它无法移动。
 [R06J]
-Bufftip=Launcher Target
-Buffubertip=This unit is targeted by a Nuclear Missle Launcher.
+Bufftip=发射器目标
+Buffubertip=这个单位被核导弹发射器瞄准。
 [R06K]
-Bufftip=Sliced
-Buffubertip=This creep take additional damage from physical attacks.
+Bufftip=切割
+Buffubertip=这个单位受到额外的物理系伤害。
 EditorName=Sliced
 [R06H]
-Bufftip=Fungus Strike
-Buffubertip=This creep receives additional spell damage.
+Bufftip=真菌打击
+Buffubertip=这个单位受到的法术伤害提高。
 [R06I]
-Bufftip=Darkness Imbued
-Buffubertip=A portion of this towers damage will be dealt as decay damage
+Bufftip=黑暗帷幕
+Buffubertip=这座塔攻击伤害的一部分会转为凋零类型。
 EditorName=Dark Shroud
 [R078]
-Bufftip=Liquide Ice
-Buffubertip=This unit takes increased damage from ice towers.
+Bufftip=液化冰
+Buffubertip=这个单位受到来自寒冰系塔的额外伤害。
 EditorName=Liquide Ice
 [R06T]
-Bufftip=Dimensional Distorted
-Buffubertip=This unit is in a dimensional distortion field.
+Bufftip=维度扭曲
+Buffubertip=这个单位处于维度扭曲力场中。
 EditorName=Dimensional Distorted
 [R06U]
-Bufftip=Dimensional Link
-Buffubertip=This tower is under the effect of a dimensional link.
+Bufftip=维度连接
+Buffubertip=这座塔受到维度连接的影响。
 EditorName=Dimensional Link
 [R06R]
-Bufftip=Heat
-Buffubertip=This unit takes damage over time and has decreased armor.
+Bufftip=高温
+Buffubertip=这个单位的护甲降低，并且持续受到伤害。
 EditorName=Heat
 [R073]
-Bufftip=Regeneration Reduction
-Buffubertip=The sorceress decreases this unit's health regeneration.
+Bufftip=回复降低
+Buffubertip=女巫降低了这个单位的生命回复。
 EditorName=Regeneration Reduction
 [R074]
-Bufftip=Spell Vulnerability
-Buffubertip=The sorceress increased this unit's spell vulnerability.
+Bufftip=法术易伤
+Buffubertip=女巫使这个单位受到的法术伤害提高。
 EditorName=Spell Vulnerability
 [R071]
-Bufftip=Slow
-Buffubertip=This unit is slowed by the sorceress.
+Bufftip=减速
+Buffubertip=这个单位被女巫减速了。
 EditorName=Slow
 [R072]
-Bufftip=Armor Reduction
-Buffubertip=The sorceress decreased this unit's armor.
+Bufftip=护甲降低
+Buffubertip=女巫降低了这个单位的护甲。
 EditorName=Armor Reduction
 [R04Z]
-Bufftip=Gust
-Buffubertip=This tower deals more damage based on how strong it is against air units.
+Bufftip=阵风
+Buffubertip=这座塔对空军的伤害比率越高，它的攻击力就越高。
 EditorName=Gust
 [R04Y]
-Bufftip=Dreadlord ' s Awekening
-Buffubertip=The Dreadlord has his attackspeed and his mana regeneration increased.
+Bufftip=恐惧魔王的觉醒
+Buffubertip=恐惧魔王的攻击速度和法力回复提高。
 [R04V]
-Bufftip=Vault's Presence
-Buffubertip=This unit fears a nearby Soul Vault and has it's armor reduced.
+Bufftip=穹窿效应
+Buffubertip=这个单位被附近的灵魂穹窿所惊吓，护甲值降低。
 [R057]
 EditorName=Blizzard (Caster)
 [R058]
-Bufftip=Thorned
-Buffubertip=This unit takes more damage from nature towers.
+Bufftip=刺伤
+Buffubertip=这个单位受到来自自然系塔的额外伤害。
 EditorName=Thorned
 [R05E]
-Bufftip=Protectress Wrath
-Buffubertip=This unit is extremly strong slowed.
+Bufftip=守护者之怒
+Buffubertip=这个单位受到严重的减速效果。
 EditorName=Protectress Wrath
 [R05F]
-Bufftip=Strike the Unprepared
-Buffubertip=This tower's attack crit chance is increased.
+Bufftip=攻其不备
+Buffubertip=这座塔的暴击率提高。
 EditorName=Strike the Unprepared
 [R05C]
-Bufftip=Demonic Edict
-Buffubertip=This unit has its mana regeneration increased.
+Bufftip=恶魔赦令
+Buffubertip=这个单位受到了恶魔赦令的影响。
 [R05D]
-Bufftip=Demonic Edict
-Buffubertip=This unit is affected by Demonic Edict.
+Bufftip=恶魔赦令
+Buffubertip=这个单位受到了恶魔赦令的影响。
 [R05A]
-Bufftip=Impenetrable Darkness
-Buffubertip=This unit is taking spell damage over time and takes reduced damage from attacks.
+Bufftip=无法渗透的黑暗
+Buffubertip=这个单位持续受到法术伤害，并且受到的攻击伤害降低。
 [R05B]
-Bufftip=Maledict
-Buffubertip=This unit receives additional spell damage when targeted by a spell.
+Bufftip=诅咒
+Buffubertip=这个单位被法术击中时会受到额外法术伤害。
 [R05M]
-Bufftip=Ground Smash
-Buffubertip=This Unit has been hit by a nearby Mud Golem it has decrased movementspeed.
+Bufftip=地面粉碎
+Buffubertip=这个单位被附近的泥魔像击中，它的移动速度降低了。
 EditorName=Ground Smash
 [R05N]
-Bufftip=Earthquake Aura
-Buffubertip=This unit has a chance to trigger the Mud Golem's Ground Slam.
+Bufftip=地震光环
+Buffubertip=这个单位有几率触发泥魔像的地面粉碎。
 EditorName=Earthquake Aura
 [R05L]
-Bufftip=Gift of Nature
-Buffubertip=This tower has received a gift of nature; its attacks have a chance to entangle the enemy.
+Bufftip=自然的恩赐
+Buffubertip=这个单位受到了自然的恩赐，它的攻击有几率缠绕敌人。
 EditorName=Gift of Nature
 [R05G]
-Bufftip=Fire of Fury
-Buffubertip=This unit is under the effects of Fire of Fury; it has increased crit chance.
+Bufftip=愤怒之火
+Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
 EditorName=Fire of Fury
 [R05U]
-Bufftip=Last Line of Defense
-Buffubertip=This unit takes increased spell and attack damage.
+Bufftip=最终防线
+Buffubertip=这个单位受到的物理和法术伤害提高。
 EditorName=Last Line of Defense
 [R066]
-Bufftip=Swiftness
-Buffubertip=This tower gains attack speed and loses damage on attack.
+Bufftip=敏捷
+Buffubertip=这座塔在攻击时会提高攻击速度但降低攻击力。
 [R05V]
-Bufftip=We Will Not Fall!
-Buffubertip=This tower deals increased spell and attack damage.
+Bufftip=死战到底!
+Buffubertip=这个单位的攻击力和法术伤害提高。
 EditorName=We Will Not Fall!
 [R067]
-Bufftip=Might
-Buffubertip=This tower gains damage and loses attack speed on attack.
+Bufftip=力量
+Buffubertip=这座塔在攻击时会提高攻击力但降低攻击速度。
 [R05S]
-Bufftip=Fresh Fish!
-Buffubertip=This tower has increased attack damage.
+Bufftip=新鲜的鱼!
+Buffubertip=这座塔的攻击力提高。
 EditorName=Fresh Fish!
 [R064]
-Bufftip=Arcane Aura
-Buffubertip=This tower has a chance to replenish a portion of its mana when it casts a spell.
+Bufftip=奥术光环
+Buffubertip=这座塔在释放法术时有几率回复一部分法力。
 [R05T]
-Bufftip=Caught!
-Buffubertip=This creep's movement speed is decreased.
+Bufftip=被抓!
+Buffubertip=这个单位的移动速度降低。
 EditorName=Caught!
 [R065]
-Bufftip=Awakened
-Buffubertip=Harby has been recently targeted by a spell; he is termporarily able to attack.
+Bufftip=怪诞觉醒
+Buffubertip=哈比被法术效果击中了，他暂时可以进行攻击。
 [R062]
-Bufftip=Burn!
-Buffubertip=This unit burns! It is slowed and takes damage over time.
+Bufftip=燃烧！
+Buffubertip=这个单位正在燃烧！它的移动速度降低，并且持续受到伤害。
 EditorName=Burn!
 [R063]
-Bufftip=Hammer Fall
-Buffubertip=This tower has decreased attack damage.
+Bufftip=落锤
+Buffubertip=这座塔的攻击力降低。
 EditorName=Hammer Fall
 [R05O]
-Bufftip=Chaos
-Buffubertip=This unit has no armor.
+Bufftip=混乱
+Buffubertip=这个单位失去所有护甲。
 EditorName=Chaos
 [R05P]
-Bufftip=Presence of the Rift
-Buffubertip=This unit is in the presence of the Rift and is getting damaged every second.
+Bufftip=永恒裂隙
+Buffubertip=这个单位在永恒裂隙的范围内，它会持续受到伤害。
 EditorName=Presence of the Rift
 [R08I]
-Bufftip=Rampage
-Buffubertip=This tower has increased attack speed and multicrit count.
+Bufftip=暴怒
+Buffubertip=这座塔的攻击速度和多重暴击数提高。
 EditorName=Rampage
 [R08G]
-Bufftip=Motivation
-Buffubertip=This unit is under the effects of motivation; it has increased attackspeed.
+Bufftip=激励
+Buffubertip=这个单位受到了激励效果的影响，它的攻击速度提高。
 EditorName=Motivation
 [R08E]
-Bufftip=Jump Effect
-Buffubertip=This tower attackspeed is increased.
+Bufftip=时空跳跃效果
+Buffubertip=这座塔的攻击速度提高。
 [R08P]
-Bufftip=Spider Broach
-Buffubertip=If this unit drops an item upon dying; its quality is increased.
+Bufftip=蜘蛛胸针
+Buffubertip=这个单位的物品品质率提高。
 [R092]
-Bufftip=Fragmentation Round
-Buffubertip=This unit takes increased damage from splash and fragments.
+Bufftip=破碎轮回
+Buffubertip=这个单位受到来自弹片和溅射攻击的伤害提高。
 EditorName=Fragmentation Round
 [R08N]
-Bufftip=Beastial Rage
-Buffubertip=This unit is under the effects of Beastial Rage; it deals increased damage to orc and humanoid creeps and also has increased dps.
+Bufftip=野性狂怒
+Buffubertip=这个单位受到了野性狂怒的影响，它的每秒伤害提高，并且对人类和兽人的伤害提高。
 EditorName=Beastial Rage
 [R08O]
-Bufftip=Flames of Fury
-Buffubertip=This unit is under the effect of Flames of Fury; it has increased crit chance.
+Bufftip=愤怒之火
+Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
 EditorName=Flames of Fury
 [R090]
-Bufftip=Playing
-Buffubertip=This tower's attack speed is decreased.
+Bufftip=玩耍
+Buffubertip=这座塔的攻击速度降低。
 EditorName=Playing
 [R08L]
-Bufftip=Epic Equipment
-Buffubertip=This tower carries an even more magical hammer!
+Bufftip=史诗级装备
+Buffubertip=这座塔携带着强化魔法锤！
 EditorName=Epic Equipment
 [R08M]
-Bufftip=Even More Magical Hammer
-Buffubertip=This unit is in range of an even more magical hammer.
+Bufftip=强化魔法锤
+Buffubertip=这个单位在强化魔法锤的作用范围内。
 EditorName=Even More Magical Hammer
 [R08J]
-Bufftip=Skadi's Influence
-Buffubertip=This unit is under Skadi's Influence, it's slowed.
+Bufftip=斯嘉蒂效应
+Buffubertip=这个单位受到了斯嘉蒂效应的影响，它的移动速度降低。
 EditorName=Skadi's Influence
 [R08K]
-Bufftip=Magnetic Field
-Buffubertip=This unit has its buff duration increased and debuff duration reduced.
+Bufftip=磁场
+Buffubertip=这个单位的增益效果持续时间延长，负面效果持续时间缩短。
 [R08X]
-Bufftip=Overgrowth
-Buffubertip=This unit is moving through overgrowth.
+Bufftip=疯狂生长
+Buffubertip=这个单位正在穿过疯狂生长区域
 EditorName=Overgrowth
 [R08Y]
 EditorName=Overgrowth (Zaubernder)
 [R08V]
-Bufftip=Entangling Roots
-Buffubertip=This unit is entangled; it cannot move and takes spelldamage over time.
+Bufftip=纠缠根须
+Buffubertip=这个单位被缠住了，它无法移动，并且持续受到法术伤害。
 EditorName=Entangling Roots
 [R08W]
 EditorName=Overgrowth (Effekt)
 [R08T]
-Bufftip=Power of the Sword
-Buffubertip=This unit has its armor reduced by the legendary sword excalibur.
+Bufftip=王者之剑
+Buffubertip=这个单位的护甲被传说中的誓约胜利之剑降低了。
 EditorName=Power of the Sword
 [R095]
-Bufftip=The Divine Wings of Tragedy
-Buffubertip=This unit has increased attackspeed and damage.
+Bufftip=悲剧神翼
+Buffubertip=这个单位的攻击力和攻击速度提高。
 EditorName=The Divine Wings of Tragedy
 [R08U]
-Bufftip=Ensign's Touch
-Buffubertip=This unit is demotivated, it has decreased armor.
+Bufftip=徽章之触
+Buffubertip=这个单位失去了动力，护甲值降低。
 EditorName=Ensign's Touch
 [R093]
-Bufftip=Glaive of Surpreme Follow Up
-Buffubertip=This tower has massive attackspeed until its next attack.
+Bufftip=至尊之刃连击
+Buffubertip=这个单位的攻击速度大幅度提高，持续直到下次攻击。
 EditorName=Glaive of Surpreme Follow Up
 [R079]
-Bufftip=Time Twist
-Buffubertip=This tower is inside a twisted timestream.
+Bufftip=时间扭曲
+Buffubertip=这座塔处于一个扭曲的时间流中。
 [R07G]
-Bufftip=Soulfire
-Buffubertip=This unit's soul is burning.
+Bufftip=灵魂之火
+Buffubertip=这个单位的灵魂在燃烧。
 [R07H]
-Bufftip=Evil Device
-Buffubertip=Attack and trigger stats increased by nearby Soulflame Device.
+Bufftip=黑暗装置
+Buffubertip=受到灵魂之火装置的影响，属性提高。
 [R07E]
-Bufftip=Conduit
-Buffubertip=Spell and trigger stats increased by nearby Conduit.
+Bufftip=导管
+Buffubertip=受到导管的影响，属性提高。
 [R07F]
-Bufftip=Unleash
-Buffubertip=Increased spell crit damage.
+Bufftip=释放
+Buffubertip=触发几率提高。
 [R07D]
-Bufftip=Steam Power
-Buffubertip=This tower has increased attackspeed and damage.
+Bufftip=蒸汽能量
+Buffubertip=这座塔的攻击力和攻击速度提高。
 EditorName=Steam Power
 [R07P]
-Bufftip=Maledict
-Buffubertip=This unit suffers from Maledict; it will be dealt spell damage when Maledict ends or is purged.
+Bufftip=诅咒
+Buffubertip=这个单位被诅咒了，当诅咒效果结束或者被净化时会受到法术伤害。
 EditorName=Maledict
 [R081]
-Bufftip=Holy Wrath
-Buffubertip=This unit is under the effects of Holy Wrath; it deals increased damage to undead creeps.
+Bufftip=神圣之怒
+Buffubertip=这个单位受到了神圣之怒的影响，它对亡灵系怪物造成更多伤害。
 EditorName=Holy Wrath
 [R07K]
 Bufftip=Flames of the Forge
 Buffubertip=Stats increased by nearby Furnace.
 [R07L]
-Bufftip=Intense Heat
-Buffubertip=Increased attack crit chance.
+Bufftip=酷热
+Buffubertip=攻击和法术暴击几率提高。
 [R07I]
-Bufftip=Awaken
-Buffubertip=Greatly increased attack speed.
+Bufftip=觉醒
+Buffubertip=大幅度提高攻击速度。
 [R07J]
-Bufftip=Lingering Flame
-Buffubertip=Burning; generating mana for the tower.
+Bufftip=徘徊之火
+Buffubertip=正在燃烧，回复熔炉的法力值。
 [R07X]
-Bufftip=Charity Aura
-Buffubertip=This unit is under the effects of charity; it has an increased max mana spell damage and trigger chance.
+Bufftip=慈悲光环
+Buffubertip=这个单位受到了慈悲光环的影响，它的法力值、法术伤害和触发几率提高了。
 EditorName=Charity Aura
 [R07V]
-Bufftip=Resonance
-Buffubertip=This unit receives increased spelldamage.
+Bufftip=共鸣
+Buffubertip=这个单位的法术伤害提高。
 [R07S]
-Bufftip=Panic
-Buffubertip=This unit is in panic. It has dramatically decreased armor but increased movement speed.
+Bufftip=恐慌
+Buffubertip=这个单位处于恐慌中。它的护甲大幅度降低，但是移动速度增加。
 EditorName=Panic
 [R084]
-Bufftip=Physical Energy Drained
-Buffubertip=This tower has increased attackspeed.
+Bufftip=物理能量汲取
+Buffubertip=这座塔攻击速度提高。
 EditorName=Physical Energy Drained
 [R082]
-Bufftip=Rot
-Buffubertip=This unit is under the effects of Rot; it deals increased damage to nature creeps.
+Bufftip=腐烂
+Buffubertip=这个单位受到了腐烂的影响，它对自然系怪物造成更多伤害。
 EditorName=Rot
 [R083]
-Bufftip=Physical Energy Drained
-Buffubertip=This unit has decreased movement speed.
+Bufftip=物理能量汲取
+Buffubertip=这个单位的移动速度降低。
 EditorName=Physical Energy Drained
 [BMAN]
-Bufftip=Drained
-Buffubertip=This unit's mana regeneration is greatly reduced.
+Bufftip=耗尽
+Buffubertip=这个单位的法力回复大幅度降低。
