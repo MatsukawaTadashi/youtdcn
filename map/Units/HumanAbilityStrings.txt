@@ -1372,8 +1372,8 @@ Bufftip=神圣之怒
 Buffubertip=这个单位受到了神圣之怒的影响，它对亡灵系怪物造成更多伤害。
 EditorName=Holy Wrath
 [R07K]
-Bufftip=Flames of the Forge
-Buffubertip=Stats increased by nearby Furnace.
+Bufftip=熔炉之焰
+Buffubertip=受到熔炉的影响，属性提高。
 [R07L]
 Bufftip=酷热
 Buffubertip=攻击和法术暴击几率提高。

@@ -1448,10 +1448,10 @@ EditorSuffix=(Hero)
 Name=Inventory
 EditorSuffix=""
 [R011]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 [R01W]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 [R02F]
 Bufftip=警戒
@@ -1493,7 +1493,7 @@ EditorName=Divine Teachings
 Bufftip=沉默
 Buffubertip=这个单位不能使用技能
 [R03Q]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 [R03P]
 Bufftip=冰冻之雾
@@ -1516,7 +1516,7 @@ Bufftip=伊米尔之身
 [R04X]
 EditorName=Item Change Time of Day
 [R059]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 [R04W]
 Bufftip=灵魂偷取

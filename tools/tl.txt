@@ -1,511 +1,500 @@
 ##New Tower
 ##Tower
 [v01K]
-Name="|cff0080FFTeacher|r"
+Name="|cff0080FF教师|r"
 Hotkey=T
-Tip="|cff0080FFTeacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF0058|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+20% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF0058|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+20% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q01I]
-Name="Teacher"
+Name="教师"
 Hotkey=F
-Tip="Buy Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF0058|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF0058|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W024]
 Name="v01K abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+20% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+20% |r经验获取率|n"
 
 [W025]
 Name="v01K On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF801|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF801|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r几率"
 
 
 ##New Tower
 ##Tower
 [v02M]
-Name="|cff0080FFClever Teacher|r"
+Name="|cff0080FF聪慧教师|r"
 Hotkey=T
-Tip="|cff0080FFClever Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00151|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+35% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF聪慧教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00151|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+35% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q02K]
-Name="Clever Teacher"
+Name="聪慧教师"
 Hotkey=F
-Tip="Buy Clever Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00151|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 聪慧教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00151|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W04A]
 Name="v02M abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+35% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+35% |r经验获取率|n"
 
 [W04B]
 Name="v02M On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF801.3|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF801.3|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率"
 
 
 ##New Tower
 ##Tower
 [v02T]
-Name="|cff0080FFFirestorm Cell|r"
+Name="|cff0080FF爆裂电池|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Cell|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF0081|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂电池|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF0081|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 
 ##Item
 [Q02R]
-Name="Firestorm Cell"
+Name="爆裂电池"
 Hotkey=F
-Tip="Buy Firestorm Cell"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF0081|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂电池"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF0081|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W04M]
 Name="v02T On Attack"
-Tip="Firestorm"
-Ubertip="Attacks have a |cffffff8012%|r chance to apply |cffffff803|r charges of Firestorm to the target. Each second, a charge will be spent, dealing |cffffff80100|r spell damage to enemies in |cffffff80300|r range. If the target already has charges, the charges will accumulate and a charge will be consumed instantly. On death all remaining firestorm charges get consumed at once.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance|n|cffFFFF80+3|r damage"
+Tip="爆裂"
+Ubertip="攻击时有 |cffffff8012%|r几率对目标释放 |cffffff803|r个爆裂充能。每秒会引爆一个充能，在目标|cffffff80300|r范围内造成 |cffffff80100|r 法术伤害。效果触发时如果目标身上已有充能，充能数会累加并立刻引爆一个。目标死亡时所有充能会一齐引爆。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 几率|n|cffFFFF80+3|r 伤害"
 
 ##Buffs
 [R011]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 
 
 ##New Tower
 ##Tower
 [v048]
-Name="|cff0080FFLearned Teacher|r"
+Name="|cff0080FF博识教师|r"
 Hotkey=T
-Tip="|cff0080FFLearned Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00294|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+45% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF博识教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00294|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+45% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q045]
-Name="Learned Teacher"
+Name="博识教师"
 Hotkey=F
-Tip="Buy Learned Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00294|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 博识教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00294|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W06K]
 Name="v048 abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+45% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+45% |r经验获取率|n"
 
 [W06L]
 Name="v048 On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF801.5|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF801.5|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率"
 
 
 ##New Tower
 ##Tower
 [v061]
-Name="|cffFFFF00Particle Accelerator|r"
+Name="|cffFFFF00粒子加速器|r"
 Hotkey=T
-Tip="|cffFFFF00Particle Accelerator|r"
-Ubertip="|cff9BA0D0Gains speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00426|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00粒子加速器|r"
+Ubertip="|cff9BA0D0随着每次攻击提升强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00426|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 
 ##Item
 [Q05X]
-Name="Particle Accelerator"
+Name="粒子加速器"
 Hotkey=F
-Tip="Buy Particle Accelerator"
-Ubertip="|cff9BA0D0Gains speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00426|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 粒子加速器"
+Ubertip="|cff9BA0D0随着每次攻击提升强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00426|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0AC]
 Name="v061 Header"
-Tip="Energy Acceleration"
-Ubertip="Every attack increases attack speed and damage by |cffFFFF802%|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1%|r attack speed and damage"
+Tip="能量加速"
+Ubertip="每次攻击都会提升|cffFFFF802%|r攻击力和攻击速度。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.1%|r 加成比例"
 
 [W0AD]
 Name="v061 On Kill"
-Tip="Errant Tachyons"
-Ubertip="On kill, this tower is stunned for |cffFFFF802|r seconds and the bonus from Energy Acceleration is lost."
+Tip="失控的快子"
+Ubertip="击杀单位时，这座塔会眩晕|cffFFFF802|r秒并失去来自 能量加速 的全部加成。"
 
 
 ##New Tower
 ##Tower
 [v063]
-Name="|cff0080FFFirestorm Core|r"
+Name="|cff0080FF爆裂核心|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Core|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00245|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂核心|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00245|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 
 ##Item
 [Q05Y]
-Name="Firestorm Core"
+Name="爆裂核心"
 Hotkey=F
-Tip="Buy Firestorm Core"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00245|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂核心"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00245|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0AE]
 Name="v063 On Attack"
-Tip="Firestorm"
-Ubertip="Attacks have a |cffffff8016%|r chance to apply |cffffff803|r charges of Firestorm to the target. Each second, a charge will be spent, dealing |cffffff80300|r spell damage to enemies in |cffffff80300|r range. If the target already has charges, the charges will accumulate and a charge will be consumed instantly. On death all remaining firestorm charges get consumed at once.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.5%|r chance|n|cffFFFF80+10|r damage"
+Tip="爆裂"
+Ubertip="攻击时有 |cffffff8016%|r几率对目标释放 |cffffff803|r个爆裂充能。每秒会引爆一个充能，在目标|cffffff80300|r范围内造成 |cffffff80300|r 法术伤害。 效果触发时如果目标身上已有充能，充能数会累加并立刻引爆一个。目标死亡时所有充能会一齐引爆。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.5%|r 几率|n|cffFFFF80+10|r 伤害"
 
 ##Buffs
 [R01W]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 
 
 ##New Tower
 ##Tower
 [v07V]
-Name="|cff0080FFStudied Teacher|r"
+Name="|cff0080FF学士导师|r"
 Hotkey=T
-Tip="|cff0080FFStudied Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00714|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+60% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF学士导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00714|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+60% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q07N]
-Name="Studied Teacher"
+Name="学士导师"
 Hotkey=F
-Tip="Buy Studied Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00714|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 学士导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00714|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0DD]
 Name="v07V abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+60% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+60% |r经验获取率|n"
 
 [W0DE]
 Name="v07V On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF801.8|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF801.8|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率"
 
 
 ##New Tower
 ##Tower
 [v09J]
-Name="|cffFFFF00Atom Smasher|r"
+Name="|cffFFFF00原子粉碎机|r"
 Hotkey=T
-Tip="|cffFFFF00Atom Smasher|r"
-Ubertip="|cff9BA0D0Gains more speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00780|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00原子粉碎机|r"
+Ubertip="|cff9BA0D0随着每次攻击提升更多强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00780|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 
 ##Item
 [Q096]
-Name="Atom Smasher"
+Name="原子粉碎机"
 Hotkey=F
-Tip="Buy Atom Smasher"
-Ubertip="|cff9BA0D0Gains more speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00780|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 原子粉碎机"
+Ubertip="|cff9BA0D0随着每次攻击提升更多强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00780|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0HD]
 Name="v09J Header"
-Tip="Energy Acceleration"
-Ubertip="Every attack increases attack speed and damage by |cffFFFF803%|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1%|r attack speed and damage"
+Tip="能量加速"
+Ubertip="每次攻击都会提升|cffFFFF803%|r攻击力和攻击速度。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.1%|r 加成比例"
 
 [W0HE]
 Name="v09J On Kill"
-Tip="Errant Tachyons"
-Ubertip="On kill, this tower is stunned for |cffFFFF802|r seconds and the bonus from Energy Acceleration is lost."
+Tip="失控的快子"
+Ubertip="击杀单位时，这座塔会眩晕|cffFFFF802|r秒并失去来自 能量加速 的全部加成。"
 
 
 ##New Abil
 [W0HH]
 Name="v09K Tower Aura"
-Tip="Realm of Thunder"
-Ubertip="Increases the vulnerability  of enemies in |cffFFFF801300|r range to damage from |cFF8080FFStorm|r towers by |cffFFFF8010%|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.2%|r vulnerability"
+Tip="雷霆领域"
+Ubertip="|cffFFFF801300|r 范围内的敌人受|cFF8080FF风暴|r系塔的伤害提高|cffFFFF8010%|r。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.2%|r vulnerability"
 
 ##New Buff
 [R031]
-Bufftip=Realm of Thunder
-Buffubertip=This unit receives more damage from Storm towers.
+Bufftip=雷霆领域
+Buffubertip=这个单位受风暴系塔的伤害提高
 
 ##New Tower
 ##Tower
 [v0C2]
-Name="|cff0080FFFirestorm Generator|r"
+Name="|cff0080FF爆裂发生器|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Generator|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00653|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂发生器|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00653|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 
 ##Item
 [Q0BN]
-Name="Firestorm Generator"
+Name="爆裂发生器"
 Hotkey=F
-Tip="Buy Firestorm Generator"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00653|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂发生器"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00653|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0LZ]
 Name="v0C2 On Attack"
-Tip="Firestorm"
-Ubertip="Attacks have a |cffffff8020%|r chance to apply |cffffff803|r charges of Firestorm to the target. Each second, a charge will be spent, dealing |cffffff80800|r spell damage to enemies in |cffffff80300|r range. If the target already has charges, the charges will accumulate and a charge will be consumed instantly. On death all remaining firestorm charges get consumed at once.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance|n|cffFFFF80+35|r damage"
+Tip="爆裂"
+Ubertip="攻击时有 |cffffff8020%|r几率对目标释放 |cffffff803|r个爆裂充能。每秒会引爆一个充能，在目标|cffffff80300|r范围内造成 |cffffff80800|r 法术伤害。 效果触发时如果目标身上已有充能，充能数会累加并立刻引爆一个。目标死亡时所有充能会一齐引爆。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率|n|cffFFFF80+35|r 伤害"
 
 ##Buffs
 [R03Q]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 
 
 ##New Tower
 ##Tower
 [v0C3]
-Name="|cff0080FFDoctorated Teacher|r"
+Name="|cff0080FF博士导师|r"
 Hotkey=T
-Tip="|cff0080FFDoctorated Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001345|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+70% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF博士导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001345|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+70% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q0BO]
-Name="Doctorated Teacher"
+Name="博士导师"
 Hotkey=F
-Tip="Buy Doctorated Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001345|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 博士导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001345|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0M1]
 Name="v0C3 abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+70% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+70% |r经验获取率|n"
 
 [W0M2]
 Name="v0C3 On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF802|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF802|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率"
 
 
 ##New Tower
 ##Tower
 [v0EN]
-Name="|cffFFFF00Supercollider|r"
+Name="|cffFFFF00超级对撞机|r"
 Hotkey=T
-Tip="|cffFFFF00Supercollider|r"
-Ubertip="|cff9BA0D0Gains a lot of speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF001413|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00超级对撞机|r"
+Ubertip="|cff9BA0D0随着每次攻击提升大量强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF001413|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 
 ##Item
 [Q0E3]
-Name="Supercollider"
+Name="超级对撞机"
 Hotkey=F
-Tip="Buy Supercollider"
-Ubertip="|cff9BA0D0Gains a lot of speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF001413|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 超级对撞机"
+Ubertip="|cff9BA0D0随着每次攻击提升大量强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF001413|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0RL]
 Name="v0EN Header"
-Tip="Energy Acceleration"
-Ubertip="Every attack increases attack speed and damage by |cffFFFF804%|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.1%|r attack speed and damage"
+Tip="能量加速"
+Ubertip="每次攻击都会提升|cffFFFF804%|r攻击力和攻击速度。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.1%|r 加成比例"
 
 [W0RM]
 Name="v0EN On Kill"
-Tip="Errant Tachyons"
-Ubertip="On kill, this tower is stunned for |cffFFFF802|r seconds and the bonus from Energy Acceleration is lost."
+Tip="失控的快子"
+Ubertip="击杀单位时，这座塔会眩晕|cffFFFF802|r秒并失去来自 能量加速 的全部加成。"
 
 
 ##New Abil
 [W0TJ]
 Name="v0FR Tower Aura"
-Tip="Realm of Thunder"
-Ubertip="Increases the vulnerability  of enemies in |cffFFFF801300|r range to damage from |cFF8080FFStorm|r towers by |cffFFFF8015%|r. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r vulnerability"
+Tip="雷霆领域"
+Ubertip="|cffFFFF801300|r 范围内的敌人受|cFF8080FF风暴|r系塔的伤害提高|cffFFFF8015%|r。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 易伤"
 
 ##New Tower
 ##Tower
 [v0FS]
-Name="|cff0080FFAll-Knowing Teacher|r"
+Name="|cff0080FF全知导师|r"
 Hotkey=T
-Tip="|cff0080FFAll-Knowing Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF002102|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+80% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF全知导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF002102|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+80% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 
 ##Item
 [Q0F5]
-Name="All-Knowing Teacher"
+Name="全知导师"
 Hotkey=F
-Tip="Buy All-Knowing Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF002102|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 全知导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF002102|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0TK]
 Name="v0FS abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+80% |rexp gain|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+80% |r经验获取率|n"
 
 [W0TL]
 Name="v0FS On Attack"
-Tip="Knowledge"
-Ubertip="When the teacher attacks there's a |cffFFFF8010%|r chance a random tower in |cffFFFF80600|r range will learn from her, gaining |cffFFFF802.2|r experience. |n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.6%|r chance"
+Tip="知识"
+Ubertip="攻击时，有 |cffFFFF8010%|r 几率增加 |cffFFFF80600|r范围内随机一座塔 |cffFFFF802.2|r 点经验。 |n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.6%|r 几率"
 
 
 ##New Tower
 ##Tower
 [v0GW]
-Name="|cff0080FFFirestorm Reactor|r"
+Name="|cff0080FF爆裂反应堆|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Reactor|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001143|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂反应堆|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF001143|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 
 ##Item
 [Q0G8]
-Name="Firestorm Reactor"
+Name="爆裂反应堆"
 Hotkey=F
-Tip="Buy Firestorm Reactor"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001143|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂反应堆"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF001143|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0WE]
 Name="v0GW On Attack"
-Tip="Firestorm"
-Ubertip="Attacks have a |cffffff8024%|r chance to apply |cffffff803|r charges of Firestorm to the target. Each second, a charge will be spent, dealing |cffffff801400|r spell damage to enemies in |cffffff80300|r range. If the target already has charges, the charges will accumulate and a charge will be consumed instantly. On death all remaining firestorm charges get consumed at once.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.7%|r chance|n|cffFFFF80+65|r damage"
+Tip="爆裂"
+Ubertip="攻击时有 |cffffff8024%|r几率对目标释放 |cffffff803|r个爆裂充能。每秒会引爆一个充能，在目标|cffffff80300|r范围内造成 |cffffff801400|r 法术伤害。 效果触发时如果目标身上已有充能，充能数会累加并立刻引爆一个。目标死亡时所有充能会一齐引爆。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.7%|r 几率|n|cffFFFF80+65|r 伤害"
 
 ##Buffs
 [R059]
-Bufftip=Firestorm
+Bufftip=爆裂
 Buffubertip=
 
 
 ##New Tower
 ##Tower
 [v0H3]
-Name="|cffFF00BFForest Protectress|r"
+Name="|cffFF00BF森林守护者|r"
 Hotkey=T
-Tip="|cffFF00BFForest Protectress|r"
-Ubertip="|cff9BA0D0The Forest Protectress is a mighty ancient figther. With the powers to melt with the surrounding landscape. Sometime ago, she lost faith in her god Elune and broke the connection. Because of this she lost some of her strength.|n|n|cffFFFF80Author:|r cedi|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001316|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+6% |rdamage/lvl|n|n|cffCCFF00Protectress's Wrath|r|nThe Protectress's attacks have a chance to splash damage to nearby units, slowing them in the process.|n|n|cffCCFF00Strike the Unprepared|r|nIncreases the attack critical chance of towers in |cffFFFF80175|r range if they attack a creep with much hp left.|n|n|cffCCFF00Meld with the Forest|r|nThe Protectress is able to meld with the forest when out of combat. She gains additional attack damage for each second when not attacking."
+Tip="|cffFF00BF森林守护者|r"
+Ubertip="|cff9BA0D0森林守护者是一名强大的古代战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6%|r 攻击力/级|n|n|cffCCFF00守护者之怒|r|n守护者的攻击有几率扩散到周围单位并减速他们。|n|n|cffCCFF00融入森林|r|n当守护者脱离战斗时会融入森林。停止攻击时每秒增加攻击力。|n|n|cffCCFF00攻其不备|r|n范围 |cffFFFF80175|r 内所有塔在攻击剩余血量较多的敌人时会提高暴击率。"
 
 ##Item
 [Q0GF]
-Name="Forest Protectress"
+Name="森林守护者"
 Hotkey=F
-Tip="Buy Forest Protectress"
-Ubertip="|cff9BA0D0The Forest Protectress is a mighty ancient figther. With the powers to melt with the surrounding landscape. Sometime ago, she lost faith in her god Elune and broke the connection. Because of this she lost some of her strength.|n|n|cffFFFF80Author:|r cedi|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001316|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|n|cffFFFF80Aura Range:|r 175|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 森林守护者"
+Ubertip="|cff9BA0D0森林守护者是一名强大的古代战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 175|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击以建造一座塔"
 
 ##Abilities
 [W0WX]
-Name="v0H3 abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+6% |rdamage/lvl|n"
+Name="v0GN abils"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+6%|r 攻击力/级|n"
 
 [W0WY]
-Name="v0H3 On Damage"
-Tip="Protectress's Wrath"
-Ubertip="Each attack has a |cffFFFF80[seconds since last attack x 5]%|r chance to deal an extra |cffFFFF8050%|r attack damage to all units in |cffFFFF80250|r range around the target. The maximum chance is |cffFFFF8075%|r. Slows all damaged units by |cffFFFF8050%|r for |cffFFFF801.5|r seconds. Increased attackspeed decreases time needed to gain a charge.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r damage|n|cffFFFF80+0.04|r seconds"
-
-[W0WZ]
-Name="v0H3 Tower Aura"
-Tip="Strike the Unprepared"
-Ubertip="Increases the attack critical chance of towers in |cffFFFF80175|r range by |cffFFFF800.25%|r for each |cffFFFF801%|r hp the attacked creep has left.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.01%|r attack crit chance"
+Name="v0GN On Damage"
+Tip="守护者之怒"
+Ubertip="击中时有|cffFFFF80[与上次攻击的时间间隔x5]%|r几率对目标范围|cffFFFF80250|r内的所有敌人造成|cffFFFF8050%|r伤害。最大几率是|cffFFFF8075%|r。并减速所有被击中的目标|cffFFFF8050%|r持续|cffFFFF801.5|r秒。攻击速度的提高会降低充能所需的时间。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+2%|r 伤害|n|cffFFFF80+0.04|r 秒"
 
 [W0X0]
-Name="v0H3 Periodic"
-Tip="Meld with the Forest"
-Ubertip="The Protectress gains |cffFFFF8018%|r additional attack damage for each second she doesn't attack. There is a maximum of |cffFFFF8012|r seconds. On attack the bonus disappears. Increased attackspeed decreases the time needed to gain a charge.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage per second"
+Name="v0GN Periodic"
+Tip="融入森林"
+Ubertip="在停止攻击后，守护者每秒增加|cffFFFF8018%|r的额外攻击力。最长时间是|cffFFFF8012|r秒。攻击后该加成会消失。攻击速度的提高会降低充能所需的时间。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 攻击力/秒"
 
-##Buffs
-[R05E]
-Bufftip=Protectress Wrath
-Buffubertip=This unit is extremly strong slowed.
-EditorName=Protectress Wrath
-
-[R05F]
-Bufftip=Strike the Unprepared
-Buffubertip=This tower's attack crit chance is increased.
-EditorName=Strike the Unprepared
+[W0WZ]
+Name="v0GN Tower Aura"
+Tip="攻其不备"
+Ubertip="范围|cffFFFF80175|r内所有塔在攻击时，目标每剩余|cffFFFF801%|r的血量，暴击率就会提升|cffFFFF800.25%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.01%|r 暴击率。"
 
 
 ##New Tower
 ##Tower
 [v0HR]
-Name="|cffFF00BFProtoplasmic Mass|r"
+Name="|cffFF00BF原生质团|r"
 Hotkey=T
-Tip="|cffFF00BFProtoplasmic Mass|r"
-Ubertip="|cff9BA0D0Eww...|n|n|cffFFFF80Author:|r Deemzul|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF003198|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Assimilate|r|nWhenever this tower picks up an item, the item is assimilated and this tower is permanently granted |cffFFFF8025%|r of its modifiers. The item is lost until this tower is sold or upgraded. This tower cannot use items otherwise."
+Tip="|cffFF00BF原生质团|r"
+Ubertip="|cff9BA0D0呃...|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFF80FF00Nature|r|n|cffFFFF80攻击力: |cffFFFF003198|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00同化|r|n这座塔不能携带任何物品，它获得物品时会将其同化，永久获得该物品基础属性的|cffFFFF8025%|r。变卖或替换这座塔时，所有被同化的物品都会退还。"
 
 ##Item
 [Q0H1]
-Name="Protoplasmic Mass"
+Name="原生质团"
 Hotkey=F
-Tip="Buy Protoplasmic Mass"
-Ubertip="|cff9BA0D0Eww...|n|n|cffFFFF80Author:|r Deemzul|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF003198|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 原生质团"
+Ubertip="|cff9BA0D0呃...|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFF80FF00Nature|r|n|cffFFFF80攻击力: |cffFFFF003198|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W0YP]
 Name="v0HR Header"
-Tip="Assimilate"
-Ubertip="Whenever this tower picks up an item, the item is assimilated and this tower is permanently granted |cffFFFF8025%|r of its modifiers.|nOnly basic modifiers will work; modifiers gained through item abilities will not be counted.|nUpon assimilation, modifier level bonuses are applied with this tower's current level.|n|nAssimilated items are lost until this tower is sold or replaced.|nThis tower cannot use items otherwise."
+Tip="同化"
+Ubertip="这座塔不能携带任何物品，它获得物品时会将其同化，永久获得该物品基础属性的|cffFFFF8025%|r。|n物品的任何特殊效果都不会继承。属性随携带者等级变化的物品效果以这座塔的等级为准。|n|n变卖或替换这座塔时，所有被同化的物品都会退还。"
 
 
 ##New Tower
 ##Tower
 [v0J8]
-Name="|cffFF00BFDrake Whisperer|r"
+Name="|cffFF00BF蜉蝣低语者|r"
 Hotkey=T
-Tip="|cffFF00BFDrake Whisperer|r"
-Ubertip="|cff9BA0D0Unleashes mighty drakes against his enemies.|n|n|cffFFFF80Author:|r Ely|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001643|r dps, |cffFF8000Elemental|r|r, |cffFFFF001000|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+15% |rdmg to air (|cffFFFF00+0.4%|r/lvl)|n|n|cffCCFF00Unleash|r|nThe Drake Whisperer has a chance on attack to unleash a bronze drake towards the attacked target. The drake periodically deals spell damage to a random creep in front of itself.|n|n|cffCCFF00Versatile|r|nEvery time this tower deals spell damage through its abilities, it increases its dps temporarily. This ability stacks.|n|n|cffCCFF00Feed the Drakes|r|nThe Drake Whisperer periodically feeds a nearby corpse to one of his drakes and then unleashes the drake to either deal spell damage and slow, deal attack damage and stun or deal spell damage and apply Versatile to towers in 175 range."
+Tip="|cffFF00BF蜉蝣低语者|r"
+Ubertip="|cff9BA0D0放出强大的蜉蝣攻击敌人。|n|n|cffFFFF80作者:|r Ely|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001643|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+15% |r伤害对空军 (|cffFFFF00+0.4%|r/级)|n|n|cffCCFF00驭龙|r|n攻击时有几率向目标释放一只青铜蜉蝣。蜉蝣会周期性对其前方的随机敌人造成法术伤害。|n|n|cffCCFF00灵动|r|n这座塔通过自身能力造成法术伤害时会暂时提高攻击力，效果可以叠加。|n|n|cffCCFF00饲龙|r|n周期性用附近的尸体喂食其中一只蜉蝣，之后对目标发动以下三种效果之一：造成法术伤害并减速、造成物理伤害并眩晕、造成法术伤害并扩散灵动状态。"
 
 ##Item
 [Q0IE]
-Name="Drake Whisperer"
+Name="蜉蝣低语者"
 Hotkey=F
-Tip="Buy Drake Whisperer"
-Ubertip="|cff9BA0D0Unleashes mighty drakes against his enemies.|n|n|cffFFFF80Author:|r Ely|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001643|r dps, |cffFF8000Elemental|r|r, |cffFFFF001000|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 蜉蝣低语者"
+Ubertip="|cff9BA0D0放出强大的蜉蝣攻击敌人。|n|n|cffFFFF80作者:|r Ely|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001643|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 
 ##Abilities
 [W13W]
 Name="v0J8 abils"
-Tip="Specials"
-Ubertip="|cffFFFF00+15% |rdmg to air (|cffFFFF00+0.4%|r/lvl)|n"
+Tip="特殊能力"
+Ubertip="|cffFFFF00+15% |r伤害对空军 (|cffFFFF00+0.4%|r/级)|n"
 
 [W13X]
 Name="v0J8 On Attack"
-Tip="Unleash"
-Ubertip="On attack, the Drake Whisperer has a |cffFFFF8012.5%|r chance to unleash a bronze drake towards its target, dealing |cffFFFF801250|r spell damage to a random creep in front of itself in |cffFFFF80600|r range every |cffFFFF800.2|r seconds. Lasts |cffFFFF802|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+40|r spell damage|n|cffFFFF80+0.3%|r chance"
+Tip="驭龙"
+Ubertip="攻击时有|cffFFFF8012.5%|r 几率向目标释放一只青铜蜉蝣，持续|cffFFFF802|r秒。蜉蝣每|cffFFFF800.2|r秒对其前方|cffFFFF80600|r范围内的随机单位造成|cffFFFF801250|r法术伤害。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+40|r 法术伤害|n|cffFFFF80+0.3%|r 几率"
 
 [W13Y]
 Name="v0J8 Header"
-Tip="Versatile"
-Ubertip="Every time this tower deals spell damage through its abilities, it increases its dps by |cffFFFF801.5%|r of the spell damage dealt. Lasts |cffFFFF802.5|r seconds and stacks. Maximum bonus of |cffFFFF80[200 x (current wave)]|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.04%|r damage"
+Tip="灵动"
+Ubertip="这座塔通过自身能力造成法术伤害时，它的每秒伤害会提高，数值相当于伤害值的|cffFFFF801.5%|r，持续|cffFFFF802.5|r秒。效果可以叠加，上限为|cffFFFF80[200*(当前波数)]。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.04%|r 转化比例"
 
 [W13Z]
 Name="v0J8 Periodic"
-Tip="Feed the Drakes"
-Ubertip="Every |cffFFFF801.5|r seconds, the Drake Whisperer feeds a nearby corpse to one of his drakes and unleashes it to a random target in |cffFFFF801000|r range. If there is no target, the drake will attack on the next feeding, with a maximum of |cffFFFF805|r fed drakes. Each corpse has a |cffFFFF8015%|r chance to feed |cffFFFF802|r drakes.|n|nThe |c006969FFBlue|r Drake deals |cffFFFF806000|r spell damage in |cffFFFF80125|r AoE and slows by |cffFFFF8025%|r for |cffFFFF803|r seconds.|nThe |c00FF0000Red|r Drake deals |cffFFFF80200%|r of the tower's attack damage and stuns for |cffFFFF803|r seconds.|nThe |c0096FF96Green|r Drake deals |cffFFFF805000|r spell damage and spreads |cffFFFF80Versatile|r's current dps bonus to towers in |cffFFFF80175|r range for |cffFFFF802.5|r seconds.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r double feed chance|n|c006969FFBlue|r Drake : |cffFFFF80+150|r spell damage|n|c00FF0000Red|r Drake : |cffFFFF80+8%|r damage|n|c0096FF96Green|r Drake : |cffFFFF80+0.04|r seconds duration"
+Tip="饲龙"
+Ubertip="每|cffFFFF801.5|r秒，低语者会将附近的一具尸体喂给其中一只蜉蝣，之后让其攻击|cffFFFF801000|r范围内的一个随机目标。如果没有目标，该蜉蝣会待机并在下次喂食时一同发起攻击，同一时间最多有|cffFFFF805|r只蜉蝣待机。每具尸体有|cffFFFF8015%|r 几率喂食|cffFFFF802|r只蜉蝣。|n|n|c006969FF蓝|r蜉蝣在目标|cffFFFF80125|r范围内造成|cffFFFF806000|r法术伤害，并减速它们|cffFFFF8025%|r，持续|cffFFFF803|r秒。|n|c00FF0000红|r蜉蝣对目标造成相当于这座塔|cffFFFF80200%|r攻击力的伤害并眩晕其|cffFFFF803|r秒。|n|c0096FF96绿|r蜉蝣对目标造成|cffFFFF805000|r法术伤害，并将|cffFFFF80灵动|r的当前秒伤加成扩散到这座塔|cffFFFF80175|r范围内的所有塔上，持续|cffFFFF802.5|r秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+0.4%|r 几率喂食2只|n|c006969FF蓝|r蜉蝣: |cffFFFF80+150|r法术伤害|n|c00FF0000红|r蜉蝣: |cffFFFF80+8%|r伤害比例|n|c0096FF96绿|r蜉蝣: |cffFFFF80+0.04|r秒持续时间"
 
 ##Buffs
 [R06Y]
-Bufftip=Blue Drake
-Buffubertip=This unit is slowed by a blue drake.
+Bufftip=蓝蜉蝣
+Buffubertip=这个单位被蓝蜉蝣减速了。
 
 [R06Z]
-Bufftip=Versatile
-Buffubertip=This tower has increased dps.
+Bufftip=灵动
+Buffubertip=这座塔的每秒伤害提高。
 
 
 ##New Abil
 [W15X]
 Name="v0JN Tower Aura"
-Tip="Flames of the Forge"
-Ubertip="Attack speed, trigger chances, spell damage, spell crit chance and spell crit damage bonuses on this tower are applied to |cffFFFFFFCommon|r and |cff0080FFUncommon|r |cFFFF5300Fire|r towers in |cffffff80350|r range at a rate of |cffffff8050%|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+2%|r stats"
+Tip="熔炉之焰"
+Ubertip="作用在此塔上的攻击速度, 触发几率, 法术伤害, 法术暴击几率和法术暴击伤害加成也会以 |cffffff8050%|r 的效果作用在 |cffffff80350|r 范围内的 |cffFFFFFF普通|r 和 |cff0080FF稀有|r |cFFFF5300火焰|r 塔上.|n|n|cffFF8000等级加成:|r|n|cffFFFF80+2%|r 传导效果"
 
 ##New Buff
 [R07K]
-Bufftip=Flames of the Forge
-Buffubertip=Stats increased by nearby Furnace.
+Bufftip=熔炉之焰
+Buffubertip=受到熔炉的影响，属性提高。
 

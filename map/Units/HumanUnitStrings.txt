@@ -796,10 +796,10 @@ Hotkey=T
 Tip="|cff0080FF愤怒之树|r"
 Ubertip="|cff9BA0D0一棵生气之树，有几率向敌人投掷巨石。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00789|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00投石|r|n向目标投掷巨石。"
 [v0C3]
-Name="|cff0080FFDoctorated Teacher|r"
+Name="|cff0080FF博士导师|r"
 Hotkey=T
-Tip="|cff0080FFDoctorated Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001345|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+70% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF博士导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001345|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+70% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v0BS]
 Name="|cffFF00BF绿龙宿巢|r"
 Hotkey=T
@@ -826,10 +826,10 @@ Hotkey=T
 Tip="|cffFFFFFF恶魔墓石|r"
 Ubertip="|cff9BA0D0基础塔，有小概率秒杀弱小单位。|n|n|cffFFFF80作者：|r geX|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF001353|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001050|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00墓穴诅咒|r|n1.6% 几率直接杀死弱小单位"
 [v0C2]
-Name="|cff0080FFFirestorm Generator|r"
+Name="|cff0080FF爆裂发生器|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Generator|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00653|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂发生器|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00653|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 [v0FC]
 Name="|cffFFFFFF庞大魔法废墟|r"
 Hotkey=T
@@ -921,10 +921,10 @@ Hotkey=T
 Tip="|cffFFFF00活人献祭|r"
 Ubertip="|cff9BA0D0牺牲自己以强化附近的塔。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力：|cffFFFF002099|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+0.2|r 法力回复/级 |n|n|cffCCFF00献祭|r|n牺牲自身的攻击力来提升其它的塔。|n|cffA4AFD9主动释放：|n|cffFFFF0090|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80秒 冷却|r，|cffFFFF00500|cffFFFF80 范围|r|n|n|cffCCFF00放血|r|n有几率牺牲自身的攻速来提升周围的塔。"
 [v0EN]
-Name="|cffFFFF00Supercollider|r"
+Name="|cffFFFF00超级对撞机|r"
 Hotkey=T
-Tip="|cffFFFF00Supercollider|r"
-Ubertip="|cff9BA0D0Gains a lot of speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF001413|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00超级对撞机|r"
+Ubertip="|cff9BA0D0随着每次攻击提升大量强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF001413|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 [v0EK]
 Name="|cff0080FF究极维度精妙装置|r"
 Hotkey=T
@@ -1257,10 +1257,10 @@ Hotkey=T
 Tip="|cff0080FF飓风之环|r"
 Ubertip="|cff9BA0D0强烈的阵风时常在这些废墟周围徘徊。|n|n|cffFFFF80作者：|r SternBogen / Natac & girlfriend|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF002114|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF001100|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+70%|r 伤害对空军 (|cffFFFF00+2%|r/级)|n|n|cffCCFF00死亡之风|r|n有几率将非BOSS生物吹起并对其附近单位造成伤害。"
 [v0H3]
-Name="|cffFF00BFForest Protectress|r"
+Name="|cffFF00BF森林守护者|r"
 Hotkey=T
-Tip="|cffFF00BFForest Protectress|r"
-Ubertip="|cff9BA0D0The Forest Protectress is a mighty ancient figther. With the powers to melt with the surrounding landscape. Sometime ago, she lost faith in her god Elune and broke the connection. Because of this she lost some of her strength.|n|n|cffFFFF80Author:|r cedi|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001316|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+6% |rdamage/lvl|n|n|cffCCFF00Protectress's Wrath|r|nThe Protectress's attacks have a chance to splash damage to nearby units, slowing them in the process.|n|n|cffCCFF00Strike the Unprepared|r|nIncreases the attack critical chance of towers in |cffFFFF80175|r range if they attack a creep with much hp left.|n|n|cffCCFF00Meld with the Forest|r|nThe Protectress is able to meld with the forest when out of combat. She gains additional attack damage for each second when not attacking."
+Tip="|cffFF00BF森林守护者|r"
+Ubertip="|cff9BA0D0森林守护者是一名强大的古代战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+6%|r 攻击力/级|n|n|cffCCFF00守护者之怒|r|n守护者的攻击有几率扩散到周围单位并减速他们。|n|n|cffCCFF00融入森林|r|n当守护者脱离战斗时会融入森林。停止攻击时每秒增加攻击力。|n|n|cffCCFF00攻其不备|r|n范围 |cffFFFF80175|r 内所有塔在攻击剩余血量较多的敌人时会提高暴击率。"
 [v0GO]
 Name="|cff0080FF猛犸天体猎人|r"
 Hotkey=T
@@ -1302,10 +1302,10 @@ Hotkey=T
 Tip="|cffFFFF00豺狼风暴施法者|r"
 Ubertip="|cff9BA0D0豺狼人！！！|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00445|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001200|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00雷霆冲击|r|n释放一道强力闪电到目标头上。|n|cffA4AFD9主动释放：|n|cffFFFF0012|cffFFFF80法力|r，|cffFFFF003|cffFFFF80秒 冷却|r，|cffFFFF001200|cffFFFF80 范围|r"
 [v0GW]
-Name="|cff0080FFFirestorm Reactor|r"
+Name="|cff0080FF爆裂反应堆|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Reactor|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001143|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂反应堆|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF001143|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 [v0H8]
 Name="|cffFFFF00冰冷之花|r"
 Hotkey=T
@@ -1417,10 +1417,10 @@ Hotkey=T
 Tip="|cff0080FF镭射冲击塔2.0|r"
 Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v0FS]
-Name="|cff0080FFAll-Knowing Teacher|r"
+Name="|cff0080FF全知导师|r"
 Hotkey=T
-Tip="|cff0080FFAll-Knowing Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF002102|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+80% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF全知导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF002102|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+80% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v0G4]
 Name="|cff0080FF毁灭飓风|r"
 Hotkey=T
@@ -1692,10 +1692,10 @@ Hotkey=T
 Tip="|cffFF00BF抓斗机器人|r"
 Ubertip="|cff9BA0D0看起来很脆弱？没错。不过它也是一台毁灭机器。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001647|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n  |cffFFFF0075|r 范围：|cff00FF00100%|r 伤害|r|n  |cffFFFF00100|r 范围：|cffFFFF0066%|r 伤害|r|n  |cffFFFF00125|r 范围：|cffFF800033%|r 伤害|r|n|n|cffCCFF00抓钩|r|n攻击时有几率抓住敌人。|n|n|cffCCFF00震慑|r|n击晕并伤害范围内的单位。|n|cffA4AFD9主动释放：|n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF0015|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 射程|r"
 [v0J8]
-Name="|cffFF00BFDrake Whisperer|r"
+Name="|cffFF00BF蜉蝣低语者|r"
 Hotkey=T
-Tip="|cffFF00BFDrake Whisperer|r"
-Ubertip="|cff9BA0D0Unleashes mighty drakes against his enemies.|n|n|cffFFFF80Author:|r Ely|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001643|r dps, |cffFF8000Elemental|r|r, |cffFFFF001000|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+15% |rdmg to air (|cffFFFF00+0.4%|r/lvl)|n|n|cffCCFF00Unleash|r|nThe Drake Whisperer has a chance on attack to unleash a bronze drake towards the attacked target. The drake periodically deals spell damage to a random creep in front of itself.|n|n|cffCCFF00Versatile|r|nEvery time this tower deals spell damage through its abilities, it increases its dps temporarily. This ability stacks.|n|n|cffCCFF00Feed the Drakes|r|nThe Drake Whisperer periodically feeds a nearby corpse to one of his drakes and then unleashes the drake to either deal spell damage and slow, deal attack damage and stun or deal spell damage and apply Versatile to towers in 175 range."
+Tip="|cffFF00BF蜉蝣低语者|r"
+Ubertip="|cff9BA0D0放出强大的蜉蝣攻击敌人。|n|n|cffFFFF80作者:|r Ely|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001643|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+15% |r伤害对空军 (|cffFFFF00+0.4%|r/级)|n|n|cffCCFF00驭龙|r|n攻击时有几率向目标释放一只青铜蜉蝣。蜉蝣会周期性对其前方的随机敌人造成法术伤害。|n|n|cffCCFF00灵动|r|n这座塔通过自身能力造成法术伤害时会暂时提高攻击力，效果可以叠加。|n|n|cffCCFF00饲龙|r|n周期性用附近的尸体喂食其中一只蜉蝣，之后对目标发动以下三种效果之一：造成法术伤害并减速、造成物理伤害并眩晕、造成法术伤害并扩散灵动状态。"
 [v0IX]
 Name="|cffFFFF00黄金女王|r"
 Hotkey=T
@@ -1787,10 +1787,10 @@ Hotkey=T
 Tip="|cffFFFF00萤火虫领主|r"
 Ubertip="|cff9BA0D0'它们是蛾子，不是萤火虫！'|n|n|cffFFFF80作者：|r Deemzul|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF000|r每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00600|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-30%|r 伤害对亡灵|n|cffFFFF00+20%|r 伤害对魔法|n|cffFFFF00+8%|r 法术伤害/级|n|n|cffCCFF00稀有品种|r|n相邻的黑暗、火焰和风暴塔会影响飞蛾的能力。|n|n|cffCCFF00飞蛾扑食|r|n放出  |cffFFFF806|r  只造成法术伤害并燃烧法力的魔力飞蛾进行攻击。"
 [v0HR]
-Name="|cffFF00BFProtoplasmic Mass|r"
+Name="|cffFF00BF原生质团|r"
 Hotkey=T
-Tip="|cffFF00BFProtoplasmic Mass|r"
-Ubertip="|cff9BA0D0Eww...|n|n|cffFFFF80Author:|r Deemzul|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF003198|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Assimilate|r|nWhenever this tower picks up an item, the item is assimilated and this tower is permanently granted |cffFFFF8025%|r of its modifiers. The item is lost until this tower is sold or upgraded. This tower cannot use items otherwise."
+Tip="|cffFF00BF原生质团|r"
+Ubertip="|cff9BA0D0呃...|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFF80FF00Nature|r|n|cffFFFF80攻击力: |cffFFFF003198|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00同化|r|n这座塔不能携带任何物品，它获得物品时会将其同化，永久获得该物品基础属性的|cffFFFF8025%|r。变卖或替换这座塔时，所有被同化的物品都会退还。"
 [v0I3]
 Name="|cffFFFF00风暴蓄能器|r"
 Hotkey=T
@@ -2163,10 +2163,10 @@ Hotkey=T
 Tip="|cff0080FF寒冷巨魔|r"
 Ubertip="|cff9BA0D015岁的他算是非常年轻了，不过在诺森德的极寒之地生活15年也是一种本事。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF0047|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF00100|r (+|cffFFFF002.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50%|r 伤害对亡灵|n|cffFFFF00+25%|r 伤害对兽人|n|cffFFFF00+25%|r 伤害对人类|n|n|cffCCFF00暴风雪|r|n召唤一道强大的暴风雪。每一波都有几率减速或眩晕范围内的敌人。|n|cffA4AFD9主动释放：|n|cffFFFF0095|cffFFFF80法力|r，|cffFFFF0010|cffFFFF80秒 冷却|r，|cffFFFF00900|cffFFFF80 范围|r"
 [v01K]
-Name="|cff0080FFTeacher|r"
+Name="|cff0080FF教师|r"
 Hotkey=T
-Tip="|cff0080FFTeacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF0058|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+20% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF0058|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+20% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v01L]
 Name="|cff0080FF小蜥蜴|r"
 Hotkey=T
@@ -2555,10 +2555,10 @@ Hotkey=T
 Tip="|cff0080FF痛苦方尖碑|r"
 Ubertip="|cff9BA0D0有什么东西很快就要孵化了……嘘…|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00155|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00蛰伏寄生虫|r|n一小段时间后该塔将造成一个额外的伤害，并提高目标所受自然系塔的伤害。"
 [v048]
-Name="|cff0080FFLearned Teacher|r"
+Name="|cff0080FF博识教师|r"
 Hotkey=T
-Tip="|cff0080FFLearned Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00294|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+45% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF博识教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00294|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+45% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v03X]
 Name="|cffFFFFFF冷冻藤蔓|r"
 Hotkey=T
@@ -2710,10 +2710,10 @@ Hotkey=T
 Tip="|cff0080FF次级元素幽魂|r"
 Ubertip="|cff9BA0D0一个神秘的幽魂，可能造成各种不同类型的伤害。|n|n|cffFFFF80作者：|r |c00ff0000Der_kleine_Tomy|r|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00164|r 每秒伤害，|cff80FF00精髓|r|r，|cffFFFF00950|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+0.5%|r 触发几率/级|n|n|cffCCFF00模仿|r|n可能造成各种不同类型的伤害。|n|n|cffCCFF00元素之怒|r|n这个幽魂有几率短暂提高他的触发几率。"
 [v02M]
-Name="|cff0080FFClever Teacher|r"
+Name="|cff0080FF聪慧教师|r"
 Hotkey=T
-Tip="|cff0080FFClever Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00151|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+35% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF聪慧教师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00151|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+35% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v02J]
 Name="|cffFFFFFF触手|r"
 Hotkey=T
@@ -2755,10 +2755,10 @@ Hotkey=T
 Tip="|cff0080FF闪亮之光|r"
 Ubertip="|cff9BA0D0一座强力的反亡灵塔。可以看到隐身单位。|n|n|cffFFFF80作者：|r SternBogen|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00192|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00魔法视界|r|n显示附近的隐形单位|n|n|cffCCFF00圣光之力|r|n圣光之力可以削弱亡灵单位"
 [v02T]
-Name="|cff0080FFFirestorm Cell|r"
+Name="|cff0080FF爆裂电池|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Cell|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF0081|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂电池|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF0081|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 [v035]
 Name="|cffFFFFFF小型星辰守卫|r"
 Hotkey=T
@@ -2890,10 +2890,10 @@ Hotkey=T
 Tip="|cff0080FF北极熊幼兽|r"
 Ubertip="|cff9BA0D0一座快速塔，在集中精力造成伤害的同时，它的热情也在消退。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00395|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00300|r 范围：|cffFFFF0035%|r 伤害|r|n|n|cffCCFF00紧张|r|n攻击时降低攻击速度但提高攻击力。"
 [v063]
-Name="|cff0080FFFirestorm Core|r"
+Name="|cff0080FF爆裂核心|r"
 Hotkey=T
-Tip="|cff0080FFFirestorm Core|r"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00245|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Firestorm|r|nAttacks have a chance to cause repeating AoE spell damage."
+Tip="|cff0080FF爆裂核心|r"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00245|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00爆裂|r|n攻击时有几率引发多次范围法术伤害。
 [v05O]
 Name="|cffFFFFFF膨胀火坑|r"
 Hotkey=T
@@ -2910,10 +2910,10 @@ Hotkey=T
 Tip="|cffFFFFFF闪电石柱|r"
 Ubertip="|cff9BA0D0覆盖着久远的仪式符文。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00360|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF001050|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00弹射攻击：|n   |cffFFFF003|r 目标|n   -|cffFFFF0038%|r 伤害每弹射|n|cffFFFF00+10%|r 伤害对空军 (|cffFFFF00+1%|r/级)"
 [v061]
-Name="|cffFFFF00Particle Accelerator|r"
+Name="|cffFFFF00粒子加速器|r"
 Hotkey=T
-Tip="|cffFFFF00Particle Accelerator|r"
-Ubertip="|cff9BA0D0Gains speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00426|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00粒子加速器|r"
+Ubertip="|cff9BA0D0随着每次攻击提升强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00426|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 [v05M]
 Name="|cff0080FF小偷|r"
 Hotkey=T
@@ -3341,10 +3341,10 @@ Hotkey=T
 Tip="|cffFFFF00豺狼雷法师|r"
 Ubertip="|cff9BA0D0豺狼人！！！|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00148|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001200|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00雷霆冲击|r|n释放一道强力闪电到目标头上。|n|cffA4AFD9主动释放：|n|cffFFFF0012|cffFFFF80法力|r，|cffFFFF003|cffFFFF80秒 冷却|r，|cffFFFF001200|cffFFFF80 范围|r"
 [v07V]
-Name="|cff0080FFStudied Teacher|r"
+Name="|cff0080FF学士导师|r"
 Hotkey=T
-Tip="|cff0080FFStudied Teacher|r"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00714|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|cffFFFF00+60% |rexp gain|n|n|cffCCFF00Knowledge|r|nAttacking a creep has a chance to grant experience to a random tower."
+Tip="|cff0080FF学士导师|r"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00714|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|cffFFFF00+60% |r经验获取率|n|n|cffCCFF00知识|r|n攻击时有几率为随机一座塔提供经验值。"
 [v087]
 Name="|cff0080FF毁灭风暴|r"
 Hotkey=T
@@ -3691,10 +3691,10 @@ Hotkey=T
 Tip="|cffFFFF00魔跃蜉蝣|r"
 Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力： |cffFFFF00419|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r 射程|n|cffFFFF80法力： |cffFFFF00500|r (+|cffFFFF0025|r/级)|r|n|cffFFFF80特殊能力：|r|n|cffCCFF00弹射攻击：|n   |cffFFFF003|r 目标|n   |cffFFFF00-55%|r 伤害每弹射|n|cffFFFF00+1|r 法力回复/级|n|n|cffCCFF00不稳定能量|r|n消耗法力来造成额外伤害。|n|n|cffCCFF00消魔力场|r|n附近的塔攻击时附带法力燃烧。"
 [v09J]
-Name="|cffFFFF00Atom Smasher|r"
+Name="|cffFFFF00原子粉碎机|r"
 Hotkey=T
-Tip="|cffFFFF00Atom Smasher|r"
-Ubertip="|cff9BA0D0Gains more speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00780|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|cffFFFF80Specials:|r|n|n|cffCCFF00Energy Acceleration|r|nEvery attack increases attack speed and damage.|n|n|cffCCFF00Errant Tachyons|r|nOn kill, tower is stunned and the bonus from Energy Acceleration is lost."
+Tip="|cffFFFF00原子粉碎机|r"
+Ubertip="|cff9BA0D0随着每次攻击提升更多强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00780|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|cffFFFF80特殊能力:|r|n|n|cffCCFF00能量加速|r|n每次攻击都会提升攻击力和攻击速度|n|n|cffCCFF00失控的快子|r|n击杀单位时，这座塔会眩晕并失去来自 能量加速 的全部加成。"
 [v09G]
 Name="|cffFFFF00火焰蓄电器|r"
 Hotkey=T

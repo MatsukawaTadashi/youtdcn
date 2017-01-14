@@ -466,11 +466,11 @@ Tip="购买 积云战士"
 Ubertip="|cff9BA0D0在高空中受训的战士。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击： |cffFFFF0044|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00840|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q01I]
-Name="Teacher"
+Name="教师"
 Hotkey=F
-Tip="Buy Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF0058|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF0058|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q01H]
 Name="小冰火"
 Hotkey=F
@@ -1138,11 +1138,11 @@ Tip="购买 小型风暴守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00190|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q02R]
-Name="Firestorm Cell"
+Name="爆裂电池"
 Hotkey=F
-Tip="Buy Firestorm Cell"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF0081|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂电池"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF0081|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q033]
 Name="小型星辰守卫"
 Hotkey=F
@@ -1168,11 +1168,11 @@ Tip="购买 小偷初学者"
 Ubertip="|cff9BA0D0训练于阴影中，小偷是寻找金币的专家。|n|n|cffFFFF80作者：|r |cffc0c0c0i_mOck_death|r|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00203|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q02K]
-Name="Clever Teacher"
+Name="聪慧教师"
 Hotkey=F
-Tip="Buy Clever Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00151|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 聪慧教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00151|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q02N]
 Name="燃烧火坑"
 Hotkey=F
@@ -1456,11 +1456,11 @@ Tip="购买 痛苦方尖碑"
 Ubertip="|cff9BA0D0有什么东西很快就要孵化了……嘘…|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00155|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q045]
-Name="Learned Teacher"
+Name="博识教师"
 Hotkey=F
-Tip="Buy Learned Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00294|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 博识教师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00294|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q03W]
 Name="暴怒精髓"
 Hotkey=F
@@ -1744,11 +1744,11 @@ Tip="购买 冰冷核心"
 Ubertip="|cff9BA0D0这座塔有着霜冻减速光环。|n|n|cffFFFF80作者：|r geX|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00704|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001000|r 射程|n|n|cffFFFF80光环范围：|r 800|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q07N]
-Name="Studied Teacher"
+Name="学士导师"
 Hotkey=F
-Tip="Buy Studied Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00714|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 学士导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF00714|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q07I]
 Name="寒冷冰尖"
 Hotkey=F
@@ -1900,17 +1900,17 @@ Tip="购买 中型寒冰守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00648|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q05Y]
-Name="Firestorm Core"
+Name="爆裂核心"
 Hotkey=F
-Tip="Buy Firestorm Core"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00245|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂核心"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00245|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q05X]
-Name="Particle Accelerator"
+Name="粒子加速器"
 Hotkey=F
-Tip="Buy Particle Accelerator"
-Ubertip="|cff9BA0D0Gains speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00426|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 粒子加速器"
+Ubertip="|cff9BA0D0随着每次攻击提升强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00426|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q069]
 Name="中型钢铁守卫"
 Hotkey=F
@@ -2410,11 +2410,11 @@ Tip="购买 冰川攀缘植物"
 Ubertip="|cff9BA0D0即使在最冷的地方也可以继续生长。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00905|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q096]
-Name="Atom Smasher"
+Name="原子粉碎机"
 Hotkey=F
-Tip="Buy Atom Smasher"
-Ubertip="|cff9BA0D0Gains more speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF00780|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 原子粉碎机"
+Ubertip="|cff9BA0D0随着每次攻击提升更多强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF00780|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q08X]
 Name="维度精妙装置"
 Hotkey=F
@@ -3064,11 +3064,11 @@ Tip="购买 地穴女王"
 Ubertip="|cff9BA0D0所有地穴蜘蛛之母，剧毒无比!|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00805|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0BO]
-Name="Doctorated Teacher"
+Name="博士导师"
 Hotkey=F
-Tip="Buy Doctorated Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001345|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 博士导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001345|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0C0]
 Name="龙巫"
 Hotkey=F
@@ -3112,11 +3112,11 @@ Tip="购买 青铜龙宿巢"
 Ubertip="|cff9BA0D0另外两个巨龙宿巢的机械版本。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00594|r 每秒伤害，|cff80FF00精髓|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0BN]
-Name="Firestorm Generator"
+Name="爆裂发生器"
 Hotkey=F
-Tip="Buy Firestorm Generator"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF00653|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂发生器"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF00653|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0BM]
 Name="猛犸灵魂猎手"
 Hotkey=F
@@ -3316,11 +3316,11 @@ Tip="购买 附魔地洞"
 Ubertip="|cff9BA0D0一座藏有巨魔狂暴者的地洞，能够击穿一切形式的护甲。|n|n|cffFFFF80作者：|r tolleder|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF002678|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00700|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0F5]
-Name="All-Knowing Teacher"
+Name="全知导师"
 Hotkey=F
-Tip="Buy All-Knowing Teacher"
-Ubertip="|cff9BA0D0Teacher teaches you to attack!|n|n|cffFFFF80Author:|r |c007EBFF1Limfa|r|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF002102|r dps, |cffFF8000Elemental|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 全知导师"
+Ubertip="|cff9BA0D0老师教你打怪!|n|n|cffFFFF80作者:|r |c007EBFF1Limfa|r|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF002102|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0EO]
 Name="燃烧堡垒"
 Hotkey=F
@@ -3502,11 +3502,11 @@ Tip="购买 豪华火坑"
 Ubertip="|cff9BA0D0一座能够爆发出强烈火焰的火坑。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001880|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0E3]
-Name="Supercollider"
+Name="超级对撞机"
 Hotkey=F
-Tip="Buy Supercollider"
-Ubertip="|cff9BA0D0Gains a lot of speed and damage on each attack, while losing the bonus on kill.|n|n|cffFFFF80Author:|r the_red_terror|n|cffFFFF80Element: |cFFC0C0C0Iron|r|n|cffFFFF80Attack: |cffFFFF001413|r dps, |cff00FFFFEnergy|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 超级对撞机"
+Ubertip="|cff9BA0D0随着每次攻击提升大量强度和速度，直到击杀目标。|n|n|cffFFFF80作者:|r the_red_terror|n|cffFFFF80元素: |cFFC0C0C0Iron|r|n|cffFFFF80攻击力: |cffFFFF001413|r 每秒伤害, |cff00FFFFEnergy|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0DQ]
 Name="附魔之井"
 Hotkey=F
@@ -3790,11 +3790,11 @@ Tip="购买 霜冻之魂"
 Ubertip="|cff9BA0D0生活在极北之地的寒冰之魂，可以召唤寒冰新星。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF00506|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00950|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0H1]
-Name="Protoplasmic Mass"
+Name="原生质团"
 Hotkey=F
-Tip="Buy Protoplasmic Mass"
-Ubertip="|cff9BA0D0Eww...|n|n|cffFFFF80Author:|r Deemzul|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF003198|r dps, |cff808000Decay|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 原生质团"
+Ubertip="|cff9BA0D0呃...|n|n|cffFFFF80作者:|r Deemzul|n|cffFFFF80元素: |cFF80FF00Nature|r|n|cffFFFF80攻击力: |cffFFFF003198|r 每秒伤害, |cff808000凋零|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0GS]
 Name="臭虫城"
 Hotkey=F
@@ -4054,11 +4054,11 @@ Tip="购买 神秘虺蛇守卫"
 Ubertip="|cff9BA0D0次级星辰塔，可以提高附近某座塔的法力回复，法力值和法术伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF002020|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001050|r 射程|n|cffFFFF80法力：|cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0G8]
-Name="Firestorm Reactor"
+Name="爆裂反应堆"
 Hotkey=F
-Tip="Buy Firestorm Reactor"
-Ubertip="|cff9BA0D0A device created to unleash fiery explosions.|n|n|cffFFFF80Author:|r |cffff6600Ashbringer|r|n|cffFFFF80Element: |cFFFF5300Fire|r|n|cffFFFF80Attack: |cffFFFF001143|r dps, |cffFF0080Magic|r|r, |cffFFFF00900|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 爆裂反应堆"
+Ubertip="|cff9BA0D0释放火焰爆炸的装置。|n|n|cffFFFF80作者:|r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFFF5300火焰|r|n|cffFFFF80攻击力: |cffFFFF001143|r 每秒伤害, |cffFF0080魔法|r|r, |cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0FZ]
 Name="艾瑞达术士"
 Hotkey=F
@@ -4090,11 +4090,11 @@ Tip="购买 年长的北极熊"
 Ubertip="|cff9BA0D0一座快速塔，在集中精力造成伤害的同时，它的热情也在消退。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力：|cffFFFF001674|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0GF]
-Name="Forest Protectress"
+Name="森林守护者"
 Hotkey=F
-Tip="Buy Forest Protectress"
-Ubertip="|cff9BA0D0The Forest Protectress is a mighty ancient figther. With the powers to melt with the surrounding landscape. Sometime ago, she lost faith in her god Elune and broke the connection. Because of this she lost some of her strength.|n|n|cffFFFF80Author:|r cedi|n|cffFFFF80Element: |cFF80FF00Nature|r|n|cffFFFF80Attack: |cffFFFF001316|r dps, |cffC0C0C0Physical|r|r, |cffFFFF00900|r range|n|n|cffFFFF80Aura Range:|r 175|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 森林守护者"
+Ubertip="|cff9BA0D0森林守护者是一名强大的古代战士。她的力量足以改变周围环境。很多年前，她背弃了月亮女神艾露恩，为此她的力量也有所降低。|n|n|cffFFFF80作者：|r cedi|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001316|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00900|r 射程|n|n|cffFFFF80光环范围：|r 175|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击以建造一座塔"
 [Q0GA]
 Name="恶魔蝙蝠"
 Hotkey=F
@@ -4546,11 +4546,11 @@ Tip="购买 红色雷电体"
 Ubertip="|cff9BA0D0在当时是相当先进的建筑。它的中心装有一块据说可以使任何人发疯的震颤水晶。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00505|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001200|r 射程|n|n|cffFFFF80光环范围：|r 250|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0IE]
-Name="Drake Whisperer"
+Name="蜉蝣低语者"
 Hotkey=F
-Tip="Buy Drake Whisperer"
-Ubertip="|cff9BA0D0Unleashes mighty drakes against his enemies.|n|n|cffFFFF80Author:|r Ely|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF001643|r dps, |cffFF8000Elemental|r|r, |cffFFFF001000|r range|n|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
-Description="Used to create a tower"
+Tip="购买 蜉蝣低语者"
+Ubertip="|cff9BA0D0放出强大的蜉蝣攻击敌人。|n|n|cffFFFF80作者:|r Ely|n|cffFFFF80元素: |cFFFFFF80星辰|r|n|cffFFFF80攻击力: |cffFFFF001643|r 每秒伤害, |cffFF8000元素|r|r, |cffFFFF001000|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Description="点击使用建造一座塔"
 [Q0ID]
 Name="死亡骑士"
 Hotkey=F

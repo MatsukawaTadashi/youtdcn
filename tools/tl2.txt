@@ -1,0 +1,442 @@
+[P012]
+Name="Goblin Alchemist"
+Propernames=Glint Doublechin
+Tip="Choose Goblin Alchemist"
+Ubertip="|cffaeaeaeThe Goblin Alchemist is driven solely by his extreme lust for wealth. Oftentimes this leaves him quite lacking in the combat department.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+20% bounty from kills|n+15% income rate|n+2% interest rate|n+35% item quality|n+2% item quality per tower level|r|n|cffffff00CONs:|r|n|cffff0000-35% buff duration|n+25% debuff duration|n-15% attack speed|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSH]
+Name="limfa"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P018]
+Name="Veteran Pilot"
+Propernames=Zip Tersely
+Tip="Choose Veteran Pilot"
+Ubertip="|cffaeaeaeZip has performed a round trip of Azeroth. Thrice! A well seasoned flier, many ogres have dreamed about eating him.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|cff00ff00|n+15% attack speed|n+1% attack speed per level|r|n|cffffff00CONs:|r|n|cffff0000+50 movement speed to creeps|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[XCU0]
+Name="Rebrew"
+Tip="Rebrew"
+Ubertip="Converts |cffffff002|r oils or consumables of the same rarity into |cffffff001|r oil or consumable of the same rarity.|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=Q
+
+[W17F]
+Name="Q0MB Autocast"
+Tip="Learn"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W0EK]
+Name="Effect abil for R02O"
+EditorSuffix=""
+
+[W195]
+Name="Effect abil for R094"
+EditorSuffix=""
+
+[P013]
+Name="Iron Maiden"
+Propernames=Amelia
+Tip="Choose Iron Maiden"
+Ubertip="|cffAEAEAEAmelia possesses a mysterious healing power that she acquired at the age of three. Her mother is a powerful Arch Sorceress.|r|n|nTier: |cff80FF00Beginner|r|n|n|cffFFFF00PROs:|r|n|cff00FF00+50% starting lives|n+1% lives regenerated per level if below 50% lives|n+2% lives regenerated per level if below 10% lives"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSG]
+Name="the-red-terror"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0OT]
+Name="|cffFF00BFSoul Collector's Scythe|r"
+Hotkey=K
+Tip="|cffFF00BFSoul Collector's Scythe|r"
+Ubertip="|cff9BA0D0This scythe absorbs the souls of units slain by its wielder.|n|n|cffFFFF80Level:|r 28|cffFFFF80|nAuthor:|r hokkei|n|n|cffCCFF00Soul Power|r|nAfter each kill, the scythe's critical strike damage is increased by |cffFFFF80x0.005|r. Maximum of |cffFFFF80x3|r bonus crit. The bonus is bound to the item."
+Description="|cff9BA0D0This scythe absorbs the souls of units slain by its wielder.|n|n|cffFFFF80Level:|r 28|cffFFFF80|nAuthor:|r hokkei|n|n|cffCCFF00Soul Power|r|nAfter each kill, the scythe's critical strike damage is increased by |cffFFFF80x0.005|r. Maximum of |cffFFFF80x3|r bonus crit. The bonus is bound to the item."
+
+[W0VP]
+Name="Effect abil for R051"
+EditorSuffix=""
+
+[vCSA]
+Name="Joe"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0MH]
+Name="|cffFF00BFCircle of Power|r"
+Hotkey=K
+Tip="|cffFF00BFCircle of Power|r"
+Ubertip="|cff9BA0D0Power! Unlimited power!|n|n|cffFFFF80Level:|r 10|cffFFFF80|nAuthor:|r Deemzul|n|n|cffCCFF00Circle of Power|r|nEvery |cffFFFF805|r seconds, if the carrier of this item has less mana than it had |cffFFFF805|r seconds ago, the carrier has a |cffFFFF8025%|r chance to restore mana to what it was before."
+Description="|cff9BA0D0Power! Unlimited power!|n|n|cffFFFF80Level:|r 10|cffFFFF80|nAuthor:|r Deemzul|n|n|cffCCFF00Circle of Power|r|nEvery |cffFFFF805|r seconds, if the carrier of this item has less mana than it had |cffFFFF805|r seconds ago, the carrier has a |cffFFFF8025%|r chance to restore mana to what it was before."
+
+[XCU5]
+Name="Imbue"
+Tip="Imbue"
+Ubertip="Converts |cffffff001|r permanent item and |cffffff004|r oils or consumables of the same rarity into |cffffff001|r permanent item one rarity higher. The level of the new item is the level of the item used plus |cffffff0015|r to |cffffff0030|r levels. Can have lucky or unlucky conversion!|n|n|cffff8000If no item in the price range exists, you will get the next lower item!|r|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=S
+
+[P017]
+Name="Backpacker"
+Propernames=Sniggles
+Tip="Choose Backpacker"
+Ubertip="|cffaeaeaeThis creature has more pockets than candles! Having picked up all kinds of relics from its many journeys, it keeps them sorted fastidiously.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+1 item slot|n6 item slots at level 25|n3 extra cube recipes|n+40% item quality|r|n|cffffff00CONs:|r|n|cffff0000Towers can only wield items that match their rarity.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSD]
+Name="☞☞☞"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P003]
+Name="Arch Sorceress"
+Propernames=Kameliya
+Tip="Choose Arch Sorceress"
+Ubertip="|cffaeaeaeThe mistress of spells, however not too dexterous at common warfare.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+50% spell damage|n+20% spell critical strike chance|n+50% spell critical strike damage|n+2% spell critical strike damage per tower level|n+1% damage against magical creeps per tower level|r|n|cffffff00CONs:|r|n|cffff0000-10% base damage|n-1.2% base damage per tower level|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[P010]
+Name="Naga Time Twister"
+Propernames=Lady Nyshij
+Tip="Choose Naga Time Twister"
+Ubertip="|cffAEAEAELady Nyshij twists the time itself, granting improved chances and speed to her followers.|r|n|nTier: |cffFF3300Specialist|r|n|n|cffFFFF00PROs:|r|n|cff00FF00+40% trigger chances|n+30% attack speed|r|n|cffFFFF00CONs:|r|n|cffFF0000-25% base damage|n-25% spell damage|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W0VL]
+Name="Effect abil for R04Z"
+EditorSuffix=""
+
+[Q0LW]
+Name="|cffFFFF00Haunted Hand|r"
+Hotkey=K
+Tip="|cffFFFF00Haunted Hand|r"
+Ubertip="|cff9BA0D0A haunted hand with a mind of it's own, it attacks with reckless fervor.|n|n|cffFFFF80Level:|r 11|cffFFFF80|nAuthor:|r |c007EBFF1Sunken|r|n|cffFFFF80Specials:|r|n|cffFFFF00+8% |rattackspeed (|cffFFFF00+0.2%|r/lvl)|n|n|cffCCFF00Haunted!|r|nThis item makes its carrier attack random targets."
+Description="|cff9BA0D0A haunted hand with a mind of it's own, it attacks with reckless fervor.|n|n|cffFFFF80Level:|r 11|cffFFFF80|nAuthor:|r |c007EBFF1Sunken|r|n|cffFFFF80Specials:|r|n|cffFFFF00+8% |rattackspeed (|cffFFFF00+0.2%|r/lvl)|n|n|cffCCFF00Haunted!|r|nThis item makes its carrier attack random targets."
+
+[Q0PA]
+Name="|cffFFFF00Chameleons Soul|r"
+Hotkey=K
+Tip="|cffFFFF00Chameleons Soul|r"
+Ubertip="|cff9BA0D0This soul adapts itself to its user.|n|n|cffFFFF80Level:|r 47|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Transform|r|n|cffFFFF80+100%|r experience for Astral|n|cffFFFF80+45%|r spelldamage for Darkness|n|cffFFFF80+10%|r crit chance for Nature|n|cffFFFF80+40%|r damage for Fire|n|cffFFFF80+50%|r buff duration for Ice|n|cffFFFF80+25%|r attackspeed for Storm|n|cffFFFF80+30%|r item chance for Iron"
+Description="|cff9BA0D0This soul adapts itself to its user.|n|n|cffFFFF80Level:|r 47|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Transform|r|n|cffFFFF80+100%|r experience for Astral|n|cffFFFF80+45%|r spelldamage for Darkness|n|cffFFFF80+10%|r crit chance for Nature|n|cffFFFF80+40%|r damage for Fire|n|cffFFFF80+50%|r buff duration for Ice|n|cffFFFF80+25%|r attackspeed for Storm|n|cffFFFF80+30%|r item chance for Iron"
+
+[XCU1]
+Name="Distill"
+Tip="Distill"
+Ubertip="Converts |cffffff004|r oils or consumables of the same rarity into |cffffff001|r oil or consumable one rarity higher.|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=W
+
+[W0EZ]
+Name="Effect abil for R02P"
+EditorSuffix=""
+
+[P016]
+Name="Antagonizer"
+Propernames=Butch the Bully
+Tip="Choose Antagonizer"
+Ubertip="|cffaeaeaeButch doesn't learn quickly, but what he lacks in intellect, he makes up for with oversized muscles and steroid abuse.|r|n|nTier: |cff800080Hardcore|r|n|n|cffffff00PROs:|r|n|cff00ff00+10% base damage|n+4% base damage per tower level|n+10% attack speed|n+0.5% attack speed per tower level|n+25% spell damage|r|n|cffffff00CONs:|r|n|cffff0000-60% experience gain|n-1.6% experience gain per tower level|n-16% trigger chances|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSM]
+Name="Guennter"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[W0D4]
+Name="Effect abil for R02B"
+EditorSuffix=""
+
+[W18D]
+Name="Effect abil for R08T"
+EditorSuffix=""
+
+[W171]
+Name="Q0KA Autocast"
+Tip="Search For Item"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W0QF]
+Name="Effect abil for R046"
+EditorSuffix=""
+
+[Q0QO]
+Name="|cffFF00BFHoly Hand Grenade|r"
+Hotkey=K
+Tip="|cffFF00BFHoly Hand Grenade|r"
+Ubertip="|cff9BA0D0Remember worms?|n|n|cffFFFF80Level:|r 69|cffFFFF80|nAuthor:|r cedi|n|n|cffCCFF00Big Badaboom|r|nWhenever the owner of this item attacks it has a |cffFFFF8015%|r chance to launch a holy missile which deals |cffFFFF8075%|r of the damage the last attack dealt as spell damage in |cffFFFF80400|r AoE around the target unit. Deals |cffFFFF8050%|r more damage against undead.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage"
+Description="|cff9BA0D0Remember worms?|n|n|cffFFFF80Level:|r 69|cffFFFF80|nAuthor:|r cedi|n|n|cffCCFF00Big Badaboom|r|nWhenever the owner of this item attacks it has a |cffFFFF8015%|r chance to launch a holy missile which deals |cffFFFF8075%|r of the damage the last attack dealt as spell damage in |cffFFFF80400|r AoE around the target unit. Deals |cffFFFF8050%|r more damage against undead.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage"
+
+[W0UX]
+Name="Effect abil for R04U"
+EditorSuffix=""
+
+[W16E]
+Name="Effect abil for R07M"
+EditorSuffix=""
+
+[XCU4]
+Name="Precipitate"
+Tip="Precipitate"
+Ubertip="Converts |cffffff006|r oils or consumables of the same rarity into |cffffff001|r permanent item two rarities higher. The level of the new item is completely random.|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=A
+
+[XCU2]
+Name="Reassemble"
+Tip="Reassemble"
+Ubertip="Converts |cffffff003|r permanent items of the same rarity into |cffffff001|r permanent item of the same rarity. The level of the new item is the average level of the items used plus |cffffff005|r to |cffffff0025|r levels. Can have lucky or unlucky conversion!|n|n|cffff8000If no item in the price range exists, you will get the next lower item!|r|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=E
+
+[Q0JY]
+Name="|cffFFFF00Arms Dealer|r"
+Hotkey=K
+Tip="|cffFFFF00Arms Dealer|r"
+Ubertip="|cff9BA0D0He can get rid of your illegal arms.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |c007EBFF1Limfa|r|n|cffFFFF80Specials:|r|n|cffFFFF00-20% |rdamage|n|cffFFFF00-20% |rspell damage|n|cffFFFF00+50% |rbounty collected|n|n|cffCCFF00The Customer Is Boss|r|nBosses coming within |cffFFFF80600|r range of the carrier have a |cffFFFF8025%|r chance to grant |cffFFFF80[25 + current wave]|r gold. Cannot trigger on the same boss twice.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r gold"
+Description="|cff9BA0D0He can get rid of your illegal arms.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |c007EBFF1Limfa|r|n|cffFFFF80Specials:|r|n|cffFFFF00-20% |rdamage|n|cffFFFF00-20% |rspell damage|n|cffFFFF00+50% |rbounty collected|n|n|cffCCFF00The Customer Is Boss|r|nBosses coming within |cffFFFF80600|r range of the carrier have a |cffFFFF8025%|r chance to grant |cffFFFF80[25 + current wave]|r gold. Cannot trigger on the same boss twice.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r gold"
+
+[W17V]
+Name="Q0NY Autocast"
+Tip="Siphon Knowledge"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[ANha]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest Temple of the Tides."
+Hotkey=G
+Unhotkey=E
+EditorSuffix= (Gold and Lumber)
+
+[W18B]
+Name="Effect abil for R08R"
+EditorSuffix=""
+
+[W09C]
+Name="Effect abil for R01O"
+EditorSuffix=""
+
+[P014]
+Name="Elementalist"
+Propernames=Duke Slytalker
+Tip="Choose Elementalist"
+Ubertip="|cffaeaeaeThough his relationship with some races is better than with others, Duke Slytalker knows very well that the force is always with him.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|n|cff00ff00+65 starting force points|n+2 force points gained at the start of each level|n+10 starting food|n+25% damage against orc creeps|n+20% damage against undead creeps|r |n|cffffff00CONs:|r|n|cffff0000-20% damage against nature creeps|n-5% damage against humanoid creeps|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W18C]
+Name="Effect abil for R08S"
+EditorSuffix=""
+
+[vCS4]
+Name="Deikorim"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P019]
+Name="Maverick"
+Propernames=Indiana Pendent
+Tip="Choose Maverick"
+Ubertip="|cffaeaeaeYou want it done right? Do it yourself. Especially when it comes to leaving a trail of flaming footsteps in the air.|r|n|nTier: |cff800080Hardcore|r|n|n|cffffff00PROs:|r|n|cff00ff00+50% damage to bosses|n+25% damage to champions|n-30% debuff duration|n+1% item find per tower level|n+3% base damage per tower level|n+3% spell damage per tower level|r|n|cffffff00CONs:|r|n|cffff0000-53 starting food|n-3 keeper of wisdom max upgrades|n-50% buff duration|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W18J]
+Name="Effect abil for R091"
+EditorSuffix=""
+
+[XCU6]
+Name="Liquefy"
+Tip="Liquefy"
+Ubertip="Converts |cffffff002|r permanent items of the same rarity into |cffffff003|r oils or consumables two rarities lower.|r|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=D
+
+[W17R]
+Name="Q0NF Autocast"
+Tip="Shamanistic Ritual"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[Q0KZ]
+Name="|cffFFFF00Arcane Script|r"
+Hotkey=K
+Tip="|cffFFFF00Arcane Script|r"
+Ubertip="|cff9BA0D0Oooh! What are these ancient scribings?|n|n|cffFFFF80Level:|r 4|cffFFFF80|nAuthor:|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00Script Reading|r|nWhenever the carrier casts its own active ability it gains |cffFFFF80[0.2 x cooldown]|r experience and grants |cffFFFF80[0.5 x cooldown]|r gold."
+Description="|cff9BA0D0Oooh! What are these ancient scribings?|n|n|cffFFFF80Level:|r 4|cffFFFF80|nAuthor:|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00Script Reading|r|nWhenever the carrier casts its own active ability it gains |cffFFFF80[0.2 x cooldown]|r experience and grants |cffFFFF80[0.5 x cooldown]|r gold."
+
+[W18K]
+Name="Effect abil for R092"
+EditorSuffix=""
+
+[P020]
+Name="Feeble Fender"
+Propernames=Fergus Felthammer
+Tip="Choose Feeble Fender"
+Ubertip="|cffaeaeaeHis head holds a battle between senile marasmus and memory. Some say he's only here because his wise twin brother got him the job. He's also really bad with money.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+2 keeper of wisdom max upgrades|n+50% damage against undead creeps|n+30% damage against orc creeps|n+50% damage to masses|r|n|cffffff00CONs:|r|n|cffff0000-30% damage against magical creeps|n-45 starting force points|n-20% income rate|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17H]
+Name="Q0MN Autocast"
+Tip="Transfer Experience"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[P011]
+Name="Pandaren Monk"
+Propernames=Brother Pandarius
+Tip="Choose Pandaren Monk"
+Ubertip="|cffaeaeaeBrother Pandarius donates his treasures to the poor, in exchange for beer, of course.|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+25% attackspeed|n+15% base damage|n+1.4% base damage per tower level|n+20% spell damage|n+1.2% spell damage per tower level|n+1.2% item find per tower level|r|n|cffffff00CONs:|r|n|cffff0000-60% item find|n-10% item quality|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17I]
+Name="Q0MO Autocast"
+Tip="Strength Boost"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W17K]
+Name="Q0MP Autocast"
+Tip="Speed Boost"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W11T]
+Name="Effect abil for R06I"
+EditorSuffix=""
+
+[Q0OS]
+Name="|cffFFFF00Old Hunter|r"
+Hotkey=K
+Tip="|cffFFFF00Old Hunter|r"
+Ubertip="|cff9BA0D0'I will teach you, what hunting is like!'|n|n|cffFFFF80Level:|r 40|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|n|cffCCFF00Old Hunter|r|nAfter each kill, the carrier transfers |cffFFFF801|r flat experience to up to |cffFFFF805|r random towers in |cffFFFF80500|r range. The carrier must be at least level |cffFFFF805|r to trigger this ability."
+Description="|cff9BA0D0'I will teach you, what hunting is like!'|n|n|cffFFFF80Level:|r 40|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|n|cffCCFF00Old Hunter|r|nAfter each kill, the carrier transfers |cffFFFF801|r flat experience to up to |cffFFFF805|r random towers in |cffFFFF80500|r range. The carrier must be at least level |cffFFFF805|r to trigger this ability."
+
+[P009]
+Name="Barbarian Warlord"
+Propernames=Bor-Tok
+Tip="Choose Barbarian Warlord"
+Ubertip="|cffaeaeaeMagic is for the weak!|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+10% attack speed|n+35% base damage|n+0.4% critical strike chance per tower level|n+2% critical strike damage per tower level|n+2 multicrit chance|r|n|cffffff00CONs:|r|n|cffff0000-300% mana regeneration|n-100% spell damage|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[Q0QJ]
+Name="|cffFF00BFChameleon Glaive|r"
+Hotkey=K
+Tip="|cffFF00BFChameleon Glaive|r"
+Ubertip="|cff9BA0D0This glaive is able to mimic every kind of weapon.|n|n|cffFFFF80Level:|r 60|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Launch Glaive|r|nThe carrier has a |cffFFFF8040%|r chance on attack to fire an extra projectile that deals the same amount of damage as a normal attack. Can crit.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance"
+Description="|cff9BA0D0This glaive is able to mimic every kind of weapon.|n|n|cffFFFF80Level:|r 60|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Launch Glaive|r|nThe carrier has a |cffFFFF8040%|r chance on attack to fire an extra projectile that deals the same amount of damage as a normal attack. Can crit.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance"
+
+[W17M]
+Name="Q0MQ Autocast"
+Tip="Insane Strength"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W196]
+Name="Effect abil for R095"
+EditorSuffix=""
+
+[Q0O0]
+Name="|cffFF00BFPocket Emporium|r"
+Hotkey=K
+Tip="|cffFF00BFPocket Emporium|r"
+Ubertip="|cffFFFF80Level:|r 20|cffFFFF80|nAuthor:|r ShyGnome|n|n|cffCCFF00Purchase an Item|r|nSpend a charge to buy a random item for |cffFFFF80400|r gold. The item will be of |cffFFFF80251-500|r goldcost and |cff0080FFuncommon|r or higher rarity.|n|nGains a charge every |cffFFFF805th|r wave, up to a maximum of |cffFFFF805|r charges.|nThis ability is not affected by item quality.|n|cffA4AFD9Active:|n|cffFFFF001|cffFFFF80s cooldown|r, |cffFFFF000|cffFFFF80 range|r"
+Description="|cffFFFF80Level:|r 20|cffFFFF80|nAuthor:|r ShyGnome|n|n|cffCCFF00Purchase an Item|r|nSpend a charge to buy a random item for |cffFFFF80400|r gold. The item will be of |cffFFFF80251-500|r goldcost and |cff0080FFuncommon|r or higher rarity.|n|nGains a charge every |cffFFFF805th|r wave, up to a maximum of |cffFFFF805|r charges.|nThis ability is not affected by item quality.|n|cffA4AFD9Active:|n|cffFFFF001|cffFFFF80s cooldown|r, |cffFFFF000|cffFFFF80 range|r"
+
+[Q0JQ]
+Name="|cffFF00BFGolden Trident|r"
+Hotkey=K
+Tip="|cffFF00BFGolden Trident|r"
+Ubertip="|cff9BA0D0Whenever this magical trident makes a devastating hit it creates some gold.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Golden Hit|r|nGrants |cffFFFF801|r gold on each critical hit. Each multicrit grants additional gold. The effect is base attack speed and range adjusted."
+Description="|cff9BA0D0Whenever this magical trident makes a devastating hit it creates some gold.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Golden Hit|r|nGrants |cffFFFF801|r gold on each critical hit. Each multicrit grants additional gold. The effect is base attack speed and range adjusted."
+
+[W18L]
+Name="Effect abil for R093"
+EditorSuffix=""
+
+[W0QQ]
+Name="Effect abil for R047"
+EditorSuffix=""
+
+[vCSP]
+Name="Ely"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0NT]
+Name="|cffFF00BFDagger of Bane|r"
+Hotkey=K
+Tip="|cffFF00BFDagger of Bane|r"
+Ubertip="|cff9BA0D0The dagger oozes out deadly green poison.|n|n|cffFFFF80Level:|r 18|cffFFFF80|nAuthor:|r |cff00bfffF12ight|r|n|n|cffCCFF00Deadly Poison|r|nApplies a deadly poison on damage to the main target of the attack. Each second the poison deals |cffFFFF8015%|r of the tower's base damage as spell damage to the target. The spell damage is always critical. Lasts |cffFFFF804|r seconds."
+Description="|cff9BA0D0The dagger oozes out deadly green poison.|n|n|cffFFFF80Level:|r 18|cffFFFF80|nAuthor:|r |cff00bfffF12ight|r|n|n|cffCCFF00Deadly Poison|r|nApplies a deadly poison on damage to the main target of the attack. Each second the poison deals |cffFFFF8015%|r of the tower's base damage as spell damage to the target. The spell damage is always critical. Lasts |cffFFFF804|r seconds."
+
+[W0QP]
+Name="Effect abil for R048"
+EditorSuffix=""
+
+[Q0NV]
+Name="|cff0080FFMonocle|r"
+Hotkey=K
+Tip="|cff0080FFMonocle|r"
+Ubertip="|cff9BA0D0Slow down and concentrate on searching items.|n|n|cffFFFF80Level:|r 39|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|cffFFFF80Specials:|r|n|cffFFFF00-7.5% |rattackspeed (|cffFFFF00-0.7%|r/lvl)|n|cffFFFF00+25% |ritem chance|n|cffFFFF00+25% |ritem quality"
+Description="|cff9BA0D0Slow down and concentrate on searching items.|n|n|cffFFFF80Level:|r 39|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|cffFFFF80Specials:|r|n|cffFFFF00-7.5% |rattackspeed (|cffFFFF00-0.7%|r/lvl)|n|cffFFFF00+25% |ritem chance|n|cffFFFF00+25% |ritem quality"
+
+[Q0KE]
+Name="|cffFF00BFCrit Blade|r"
+Hotkey=K
+Tip="|cffFF00BFCrit Blade|r"
+Ubertip="|cff9BA0D0This blade improves chance of critical strikes.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r Ranakastrasz|n|n|cffCCFF00Critical Accumulation|r|nEvery Attack increases critical strike chance and critical strike damage by |cffFFFF801.5%|r. The Bonus is lost when a critical strike is made. The bonus is bound to the item."
+Description="|cff9BA0D0This blade improves chance of critical strikes.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r Ranakastrasz|n|n|cffCCFF00Critical Accumulation|r|nEvery Attack increases critical strike chance and critical strike damage by |cffFFFF801.5%|r. The Bonus is lost when a critical strike is made. The bonus is bound to the item."
+
+[P015]
+Name="Realist"
+Propernames=Carl
+Tip="Choose Realist"
+Ubertip="|cffaeaeaeTake a chance!|n-Never!|r|n|nTier: |cffff3300Specialist|r|n|n|cffffff00PROs:|r|n|cff00ff00+15% base damage|n+1.5% base damage per tower level|n+15% spell damage|n+1.5% spell damage per tower level|n+150% mana regeneration|r|n|cffffff00CONs:|r|n|cffff0000-50% trigger chances|n-20% critical strike chance|n-20% spell critical strike chance|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17W]
+Name="Q0NZ Autocast"
+Tip="Chrono Jump"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[XCU3]
+Name="Perfect"
+Tip="Perfect"
+Ubertip="Converts |cffffff005|r permanent items of the same rarity into |cffffff001|r permanent item one rarity higher. The level of the new item is the average level of the items used plus |cffffff000|r to |cffffff0020|r levels. Can have lucky or unlucky conversion!|n|n|cffff8000If no item in the price range exists, you will get the next lower item!|r|n|n|cff648bcbClicking this recipe will force the cube to attempt to prepare it from the lowest level/rarity items available in your item area.|r"
+Hotkey=R
+
+[W17Y]
+Name="Q0O0 Autocast"
+Tip="Purchase an Item"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+

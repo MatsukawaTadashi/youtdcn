@@ -100,8 +100,8 @@ EditorName=Bat Swarm
 Bufftip=月光
 Buffubertip=这个单位受到更多的法术伤害，并且受到来自某些元素的塔的额外伤害。
 [R031]
-Bufftip=Realm of Thunder
-Buffubertip=This unit receives more damage from Storm towers.
+Bufftip=雷霆领域
+Buffubertip=这个单位受风暴系塔的伤害提高
 [R032]
 Bufftip=阳光
 Buffubertip=这个单位的护甲降低，并且受到来自某些元素的塔的额外伤害。
@@ -170,14 +170,14 @@ EditorName=Cripple
 Bufftip=恐惧光环
 Buffubertip=这个单位的移动速度降低。
 [R06Z]
-Bufftip=Versatile
-Buffubertip=This tower has increased dps.
+Bufftip=灵动
+Buffubertip=这座塔的每秒伤害提高。
 [R06X]
 Bufftip=凋零的存在
 Buffubertip=这个单位的生命恢复速度降低，并且受到来自黑暗系塔的额外伤害。
 [R06Y]
-Bufftip=Blue Drake
-Buffubertip=This unit is slowed by a blue drake.
+Bufftip=蓝蜉蝣
+Buffubertip=这个单位被蓝蜉蝣减速了。
 [R07C]
 Bufftip=冰冷触摸
 Buffubertip=这个单位被减速。
