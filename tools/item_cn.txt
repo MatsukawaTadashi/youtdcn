@@ -1,0 +1,442 @@
+[P012]
+Name="地精炼金术士"
+Propernames=双下巴格林特
+Tip="选择 地精炼金术士"
+Ubertip="|cffaeaeae地精炼金术士的心中充斥着对于财富的极大渴望，这使得他相当缺乏战斗技术。|r|n|n|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+20% 金钱获取率|n+15% 收入|n+2% 利息|n+35% 物品品质率|n+2% 物品品质率/级|r|n|cffffff00劣势：|r|n|cffff0000-35% 增益状态持续时间|r|n|cffff0000+25% 负面状态持续时间|n-15% 攻击速度|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSH]
+Name="limfa"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P018]
+Name="资深飞行员"
+Propernames=简练的兹普
+Tip="选择 资深飞行员"
+Ubertip="|cffaeaeae兹普刚刚完成了他的第三次环艾泽拉斯之旅。许多兽人做梦都想吃掉这位经验丰富的飞行员。|r|n|n级别：|cffff9900高手|r|n|n|cffffff00优势：|r|cff00ff00|n+15% 攻击速度|n+1% 攻击速度/级|r|n|cffffff00劣势：|r|n|cffff0000怪物的移动速度提高50点|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[XCU0]
+Name="融合"
+Tip="融合"
+Ubertip="将相同品质的|cffffff002|r个消耗品|n合成为|cffffff001|r个相同品质的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=Q
+
+[W17F]
+Name="Q0MB Autocast"
+Tip="Learn"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W0EK]
+Name="Effect abil for R02O"
+EditorSuffix=""
+
+[W195]
+Name="Effect abil for R094"
+EditorSuffix=""
+
+[P013]
+Name="铁娘子"
+Propernames=艾米利亚
+Tip="选择铁娘子"
+Ubertip="|cffAEAEAE艾米利亚在三岁时就拥有了神秘的治疗能力。她的母亲是一位强大的法师。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+50% 起始生命|n当生命低于50%，每一波结束时回复1%生命。|n|n当生命低于10%，每一波结束时回复2%生命。"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSG]
+Name="the-red-terror"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0OT]
+Name="|cffFF00BF集魂镰刀|r"
+Hotkey=K
+Tip="|cffFF00BF集魂镰刀|r"
+Ubertip="|cff9BA0D0这把镰刀能够吸取被携带塔杀死的敌人的灵魂。|n|n|cffFFFF80等级：|r 28|cffFFFF80|n作者：|r hokkei|n|n|cffCCFF00灵魂之力|r|n携带塔每杀死一位敌人，增加暴击伤害|cffFFFF80x0.005|r。最多|cffFFFF80x3|r。加成与物品绑定。"
+Description="|cff9BA0D0这把镰刀能够吸取被携带塔杀死的敌人的灵魂。|n|n|cffFFFF80等级：|r 28|cffFFFF80|n作者：|r hokkei|n|n|cffCCFF00灵魂之力|r|n携带塔每杀死一位敌人，增加暴击伤害|cffFFFF80x0.005|r。最多|cffFFFF80x3|r。加成与物品绑定。"
+
+[W0VP]
+Name="Effect abil for R051"
+EditorSuffix=""
+
+[vCSA]
+Name="Joe"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0MH]
+Name="|cffFF00BF力量之环|r"
+Hotkey=K
+Tip="|cffFF00BF力量之环|r"
+Ubertip="|cff9BA0D0力量!无限的力量!|n|n|cffFFFF80等级：|r 10|cffFFFF80|n作者：|r Deemzul|n|n|cffCCFF00力量之环|r|n每|cffFFFF805|r秒，如果携带者的当前法力值低于|cffFFFF805|r秒之前的值，就有|cffFFFF8025%|r的几率将法力值回复到之前的值。"
+Description="|cff9BA0D0力量!无限的力量!|n|n|cffFFFF80等级：|r 10|cffFFFF80|n作者：|r Deemzul|n|n|cffCCFF00力量之环|r|n每|cffFFFF805|r秒，如果携带者的当前法力值低于|cffFFFF805|r秒之前的值，就有|cffFFFF8025%|r的几率将法力值回复到之前的值。"
+
+[XCU5]
+Name="注入"
+Tip="注入"
+Ubertip="将相同品质的|cffffff001|r个装备和|cffffff004|r个消耗品合成为|cffffff001|r个品质高一级的装备。|n成品的等级是素材的平均等级|n加上|cffffff0015|r到|cffffff0030|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=S
+
+[P017]
+Name="驴友"
+Propernames=斯尼戈
+Tip="选择 驴友"
+Ubertip="|cffaeaeae这家伙的背包比蜡烛还多！它将自己在旅行中收集到的各种纪念品打包并仔细地保存了起来。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00塔的物品栏位+1|n塔在25级时会获得6个物品栏位|n3个额外的合成配方|n+40%物品品质率|r|n|cffffff00劣势：|r|n|cffff0000塔只能携带和自身品质相同的装备|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSD]
+Name="☞☞☞"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P003]
+Name="高阶女法师"
+Propernames=卡梅利亚
+Tip="选择 高阶女法师"
+Ubertip="|cffaeaeae天才法师，不过不太擅长普通攻击。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+50% 法术伤害|n+20% 法术暴击几率|n|cff00ff00+50% 法术暴击伤害|n+2% 法术暴击伤害/级|n+1% 伤害对魔法/级|r|n|cffffff00劣势：|r|n|cffff0000-10% 基础攻击力|n-1.2% 基础攻击力/级|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[P010]
+Name="时间扭曲师"
+Propernames=妮诗琪女士
+Tip="选择 时间扭曲师"
+Ubertip="|cffAEAEAE妮诗琪女士能够扭曲时间本身，使得她的随从们有着更快的速度和更多的机会。|r|n|n级别：|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+40% 触发几率|n+30% 攻击速度|r|n|cffFFFF00劣势：|r|n|cffFF0000-25% 基础攻击力|n-25% 法术伤害|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W0VL]
+Name="Effect abil for R04Z"
+EditorSuffix=""
+
+[Q0LW]
+Name="|cffFFFF00闹鬼的手|r"
+Hotkey=K
+Tip="|cffFFFF00闹鬼的手|r"
+Ubertip="|cff9BA0D0这只手有着自己的思维，它的攻击狂热而莽撞。|n|n|cffFFFF80等级：|r 11|cffFFFF80|n作者：|r |c007EBFF1Sunken|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+8% |r攻击速度(|cffFFFF00+0.2%|r/级)|n|n|cffCCFF00闹鬼！|r|n这件物品强制携带者攻击随机敌方目标。"
+Description="|cff9BA0D0这只手有着自己的思维，它的攻击狂热而莽撞。|n|n|cffFFFF80等级：|r 11|cffFFFF80|n作者：|r |c007EBFF1Sunken|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+8% |r攻击速度(|cffFFFF00+0.2%|r/级)|n|n|cffCCFF00闹鬼！|r|n这件物品强制携带者攻击随机敌方目标。"
+
+[Q0PA]
+Name="|cffFFFF00变色龙之魂|r"
+Hotkey=K
+Tip="|cffFFFF00变色龙之魂|r"
+Ubertip="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级：|r 47|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00转变|r|n|cffFFFF80+100%|r 经验获取率对星辰|n|cffFFFF80+45%|r 法术伤害对黑暗|n|cffFFFF80+10%|r 暴击率对自然|n|cffFFFF80+40%|r 攻击力对火焰|n|cffFFFF80+50%|r 增益持续时间对寒冰|n|cffFFFF80+25%|r 攻击速度对风暴|n|cffFFFF80+30%|r 物品获取率对钢铁"
+Description="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级：|r 47|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00转变|r|n|cffFFFF80+100%|r 经验获取率对星辰|n|cffFFFF80+45%|r 法术伤害对黑暗|n|cffFFFF80+10%|r 暴击率对自然|n|cffFFFF80+40%|r 攻击力对火焰|n|cffFFFF80+50%|r 增益持续时间对寒冰|n|cffFFFF80+25%|r 攻击速度对风暴|n|cffFFFF80+30%|r 物品获取率对钢铁"
+
+[XCU1]
+Name="提纯"
+Tip="提纯"
+Ubertip="将相同品质的|cffffff004|r个消耗品|n合成为|cffffff001|r个品质高一级的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=W
+
+[W0EZ]
+Name="Effect abil for R02P"
+EditorSuffix=""
+
+[P016]
+Name="对抗者"
+Propernames=暴徒布奇
+Tip="选择 对抗者"
+Ubertip="|cffaeaeae布奇的智力比较低，所以他学习成长比较慢，但是他发达的肌肉和强壮的肢体能弥补他的不足.|r|n|n级别: |cff800080硬核|r|n|n|cffffff00优势：|r|n|cff00ff00+10% 基础攻击力|n+4% 基础攻击力/级|n+10% 攻击速度|n+0.5% 攻击速度/级|n+25% 法术伤害|r|n|cffffff00劣势：|r|n|cffff0000-60% 经验获取率|n-1.6% 经验获取率/级|n-16% 触发几率|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[vCSM]
+Name="Guennter"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[W0D4]
+Name="Effect abil for R02B"
+EditorSuffix=""
+
+[W18D]
+Name="Effect abil for R08T"
+EditorSuffix=""
+
+[W171]
+Name="Q0KA Autocast"
+Tip="Search For Item"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W0QF]
+Name="Effect abil for R046"
+EditorSuffix=""
+
+[Q0QO]
+Name="|cffFF00BF神圣手雷|r"
+Hotkey=K
+Tip="|cffFF00BF神圣手雷|r"
+Ubertip="|cff9BA0D0还记得百战天虫吗？|n|n|cffFFFF80等级：|r 69|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00大型吧嗒嘣|r|n携带者攻击时有|cffFFFF8015%|r几率扔出一个神圣手雷,对目标|cffFFFF80400|r范围内所有单位造成法术伤害,数值相当于上次攻击造成伤害的|cffFFFF8075%|r。对亡灵造成|cffFFFF8050%|r额外伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 转化比例"
+Description="|cff9BA0D0还记得百战天虫吗？|n|n|cffFFFF80等级：|r 69|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00大型吧嗒嘣|r|n携带者攻击时有 |cffFFFF8015%|r 几率扔出一个神圣手雷, 对目标 |cffFFFF80400|r 范围内所有单位造成法术伤害, 数值相当于上次攻击造成伤害的 |cffFFFF8075%|r。对亡灵造成 |cffFFFF8050%|r 额外伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 转化比例"
+
+[W0UX]
+Name="Effect abil for R04U"
+EditorSuffix=""
+
+[W16E]
+Name="Effect abil for R07M"
+EditorSuffix=""
+
+[XCU4]
+Name="沉淀"
+Tip="沉淀"
+Ubertip="将相同品质的|cffffff006|r个消耗品|n合成为|cffffff001|r个品质高两级的装备。成品的等级完全随机。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=A
+
+[XCU2]
+Name="重组"
+Tip="重组"
+Ubertip="将相同品质的|cffffff003|r个装备|n合成为|cffffff001|r个相同品质的装备。成品的等级是素材的平均等级|n加上|cffffff005|r到|cffffff0025|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=E
+
+[Q0JY]
+Name="|cffFFFF00军火商|r"
+Hotkey=K
+Tip="|cffFFFF00军火商|r"
+Ubertip="|cff9BA0D0他可以处理掉你的非法军火。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r |c007EBFF1Limfa|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20% |r攻击力|n|cffFFFF00-20% |r法术伤害|n|cffFFFF00+50% |r金钱获取率|n|n|cffCCFF00顾客就是老板（Boss）！|r|n当Boss进入携带塔|cffFFFF80600|r范围内时，携带塔有|cffFFFF8025%|r几率获得|cffFFFF80[25 + 当前波数]|r个金币。对每个Boss只会判定一次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 金币"
+Description="|cff9BA0D0他可以处理掉你的非法军火。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r |c007EBFF1Limfa|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20% |r攻击力|n|cffFFFF00-20% |r法术伤害|n|cffFFFF00+50% |r金钱获取率|n|n|cffCCFF00顾客就是老板（Boss）！|r|n当Boss进入携带塔|cffFFFF80600|r范围内时，携带塔有|cffFFFF8025%|r几率获得|cffFFFF80[25 + 当前波数]|r个金币。对每个Boss只会判定一次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 金币"
+
+[W17V]
+Name="Q0NY Autocast"
+Tip="Siphon Knowledge"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[ANha]
+Name=Harvest
+Tip=|cffffcc00G|rather
+Ubertip="Mines gold from gold mines and harvests lumber from trees."
+Untip=R|cffffcc00e|rturn Resources
+Unubertip="Return the carried resources to the nearest Temple of the Tides."
+Hotkey=G
+Unhotkey=E
+EditorSuffix= (Gold and Lumber)
+
+[W18B]
+Name="Effect abil for R08R"
+EditorSuffix=""
+
+[W09C]
+Name="Effect abil for R01O"
+EditorSuffix=""
+
+[P014]
+Name="元素使"
+Propernames=狡猾的杜克
+Tip="选择 元素使"
+Ubertip="|cffaeaeae在不同的种族间游走，杜克很清楚的知道力量一直伴随着他。|r|n|n级别：|cffff9900高手|r|n|n|cffffff00优势：|r|n|cff00ff00+65起始力量点数|n每一波开始时+2力量点|n+10起始食物|n+25%伤害对兽人|n+20%伤害对亡灵|r |n|cffffff00劣势：|r|n|cffff0000-20%伤害对自然|n-5%伤害对人类|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W18C]
+Name="Effect abil for R08S"
+EditorSuffix=""
+
+[vCS4]
+Name="Deikorim"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[P019]
+Name="异类"
+Propernames=印第安纳·彭登特
+Tip="选择 异类"
+Ubertip="|cffaeaeae靠谁都不如靠自己。尤其是它在空中留下一串烈焰脚印的时候。|r|n|n等级：|cff800080硬核|r|n|n|cffffff00优势：|r|n|cff00ff00+50%伤害对boss|n+25%伤害对精英|n-30%负面效果持续时间|n+1%物品获取率/级|n+3%基础攻击力/级|n+3%法术伤害/级|r|n|cffffff00劣势：|r|n|cffff0000-53起始食物|n-3智慧守护者升级上限|n-50%增益状态持续时间|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W18J]
+Name="Effect abil for R091"
+EditorSuffix=""
+
+[XCU6]
+Name="熔炼"
+Tip="熔炼"
+Ubertip="将相同品质的|cffffff002|r个装备合成为|cffffff003|r个品质低两级的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=D
+
+[W17R]
+Name="Q0NF Autocast"
+Tip="Shamanistic Ritual"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[Q0KZ]
+Name="|cffFFFF00奥术卷轴|r"
+Hotkey=K
+Tip="|cffFFFF00奥术卷轴|r"
+Ubertip="|cff9BA0D0哦哦哦!这些古老的笔记是什么?|n|n|cffFFFF80等级：|r 4|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00阅读笔记|r|n携带塔释放自身的主动技能时，会获得|cffFFFF80[0.2*冷却时间]|r点经验和|cffFFFF80[0.5*冷却时间]|r个金币。"
+Description="|cff9BA0D0哦哦哦!这些古老的笔记是什么?|n|n|cffFFFF80等级：|r 4|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00阅读笔记|r|n携带塔释放自身的主动技能时，会获得|cffFFFF80[0.2*冷却时间]|r点经验和|cffFFFF80[0.5*冷却时间]|r个金币。"
+
+[W18K]
+Name="Effect abil for R092"
+EditorSuffix=""
+
+[P020]
+Name="懦弱防御者"
+Propernames=福格斯·费尔特哈默
+Tip="选择 懦弱防御者"
+Ubertip="|cffaeaeae这位老人受苦于消瘦与痴呆。有人怀疑有个聪明的双胞胎哥哥替他拿到了工作。他也相当讨厌金钱。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+2智慧守护者升级上限|n+50%伤害对亡灵|n+30%伤害对兽人|n+50%伤害对杂兵|r|n|cffffff00劣势：|r|n|cffff0000-30%伤害对魔法|n-45起始力量点|n-20%收入|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17H]
+Name="Q0MN Autocast"
+Tip="Transfer Experience"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[P011]
+Name="熊猫和尚"
+Propernames=潘达利斯大哥
+Tip="选择 熊猫和尚"
+Ubertip="|cffaeaeae潘达利斯大哥把他的财物捐给穷人，当然，是为了换取啤酒。|r|n|n级别：|r|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+25% 攻击速度|n+15% 基础攻击力|n+1.4% 基础攻击力/级|n+20% 法术伤害|n+1.2% 法术伤害/级|n+1.2% 物品获取率/级|r|n|cffFFFF00劣势：|n|cffFF0000-60% 物品获取率|n-10% 物品品质率"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17I]
+Name="Q0MO Autocast"
+Tip="Strength Boost"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W17K]
+Name="Q0MP Autocast"
+Tip="Speed Boost"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W11T]
+Name="Effect abil for R06I"
+EditorSuffix=""
+
+[Q0OS]
+Name="|cffFFFF00老猎手|r"
+Hotkey=K
+Tip="|cffFFFF00老猎手|r"
+Ubertip="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
+Description="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
+
+[P009]
+Name="野蛮人督军"
+Propernames=波-图
+Tip="选择 野蛮人督军"
+Ubertip="|cffAEAEAE只有弱者才用魔法！|r|n|n级别：|cffFF3300专家|r|n|n|cffFFFF00优势：|r|n|cff00FF00+10% 攻击速度|n+35% 基础攻击力|n+0.4% 暴击几率/级|n+2% 暴击伤害/级|n+2 多重暴击数|r|n|cffFFFF00劣势：|r|n|cffFF0000-300% 法力回复|n-100% 法术伤害|r""
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[Q0QJ]
+Name="|cffFF00BF变色龙阔剑|r"
+Hotkey=K
+Tip="|cffFF00BF变色龙阔剑|r"
+Ubertip="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
+Description="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
+
+[W17M]
+Name="Q0MQ Autocast"
+Tip="Insane Strength"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[W196]
+Name="Effect abil for R095"
+EditorSuffix=""
+
+[Q0O0]
+Name="|cffFF00BF口袋商店|r"
+Hotkey=K
+Tip="|cffFF00BF口袋商店|r"
+Ubertip="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+Description="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+
+[Q0JQ]
+Name="|cffFF00BF黄金三叉戟|r"
+Hotkey=K
+Tip="|cffFF00BF黄金三叉戟|r"
+Ubertip="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时,将产生一些金币。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加|cffFFFF801|r金币。多重暴击增加额外的金币。这个效果受射程和基础攻速修正。"
+Description="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时,将产生一些金币。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加|cffFFFF801|r金币。多重暴击增加额外的金币。这个效果受射程和基础攻速修正。"
+
+[W18L]
+Name="Effect abil for R093"
+EditorSuffix=""
+
+[W0QQ]
+Name="Effect abil for R047"
+EditorSuffix=""
+
+[vCSP]
+Name="Ely"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+
+[Q0NT]
+Name="|cffFF00BF淬毒匕首|r"
+Hotkey=K
+Tip="|cffFF00BF淬毒匕首|r"
+Ubertip="|cff9BA0D0这把匕首渗出致命的剧毒。 |n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00bfffF12ight|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00致命毒药|r|n击中时对主目标施加致命毒药。每秒造成相当于携带塔|cffFFFF8015%|r基础攻击力的法术伤害,持续|cffFFFF804|r秒。这个伤害总会产生法术暴击。"
+Description="|cff9BA0D0这把匕首渗出致命的剧毒。|n|n|cffFFFF80等级：|r 18|cffFFFF80|n作者：|r |cff00bfffF12ight|r|n|n|cffCCFF00致命毒药|r|n击中时对主目标施加致命毒药。每秒造成相当于携带塔|cffFFFF8015%|r基础攻击力的法术伤害,持续|cffFFFF804|r秒。这个伤害总会产生法术暴击。"
+
+[W0QP]
+Name="Effect abil for R048"
+EditorSuffix=""
+
+[Q0NV]
+Name="|cff0080FF寻宝目镜|r"
+Hotkey=K
+Tip="|cff0080FF寻宝目镜|r"
+Ubertip="|cff9BA0D0放松，专心鉴宝。|n|n|cffFFFF80等级：|r 39|cffFFFF80|n作者：|r |cff000099Guennter|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-7.5% |r攻击速度 (|cffFFFF00-0.7%|r/级|n|cffFFFF00+25% |r物品获取率|n|cffFFFF00+25% |r物品品质率"
+Description="|cff9BA0D0放松，专心鉴宝。|n|n|cffFFFF80等级：|r 39|cffFFFF80|n作者：|r |cff000099Guennter|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-7.5% |r攻击速度 (|cffFFFF00-0.7%|r/级|n|cffFFFF00+25% |r物品获取率|n|cffFFFF00+25% |r物品品质率"
+
+[Q0KE]
+Name="|cffFF00BF暴击之刃|r"
+Hotkey=K
+Tip="|cffFF00BF暴击之刃|r"
+Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
+Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
+
+[P015]
+Name="现实主义者"
+Propernames=卡尔
+Tip="选择 现实主义者"
+Ubertip="|cffaeaeae把握机会！|n-从不(Never)！|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+15% 基础攻击力|n+1.5% 基础攻击力/级|n+15% 法术伤害|n+1.5% 法术伤害/级|n+150% 法力回复|r|n|cffffff00劣势：|r|n|cffff0000-50% 触发几率|n-20% 暴击几率|n-20% 法术暴击几率|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+
+[W17W]
+Name="Q0NZ Autocast"
+Tip="Chrono Jump"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+
+[XCU3]
+Name="精炼"
+Tip="精炼"
+Ubertip="将相同品质的|cffffff005|r个装备|n合成为|cffffff001|r个品质高一级的装备。成品的等级是素材的平均等级|n加上|cffffff000|r到|cffffff0020|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Hotkey=R
+
+[W17Y]
+Name="Q0O0 Autocast"
+Tip="Purchase an Item"
+Ubertip="Channels powerful warding magic."
+Hotkey=A
+

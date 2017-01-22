@@ -1,10 +1,11 @@
 from parse_tower import TowerCollection
+from lib.utils import has_chinese
 import sys
 
 map_108cn = TowerCollection('../../maps/108CN', 108)
 map_108en = TowerCollection('../../maps/108EN', 108)
 map_109 = TowerCollection('../map', 109)
-tl_out = open('tl.txt', 'w', encoding='utf8')
+tl_out = open('tower_en.txt', 'w', encoding='utf8')
 
 processed = set()
 
@@ -29,27 +30,37 @@ def replace_by_id(id, pre_id):
     text = map_109.get_text(id)
     pre_en = map_108en.get_text(pre_id)
     pre_cn = map_108cn.get_text(pre_id)
-    key = text.to_string(False)
-
+    flag = False
     for attr in text.attr_dict:
         if not check_attr(attr):
             continue
         if attr in pre_cn.attr_dict:
-            text.attr_dict[attr][1] = pre_cn.attr_dict[attr][1]
+            assert attr in pre_en.attr_dict
+            if has_chinese(text.attr_dict[attr][1]):
+                continue
+            if has_chinese(pre_cn.attr_dict[attr][1]):
+                if pre_en.attr_dict[attr][1] == text.attr_dict[attr][1]:
+                    text.attr_dict[attr][1] = pre_cn.attr_dict[attr][1]
+                else:
+                    flag = True
         else:
-            print('##Changed:', file=tl_out)
-            print('##Old EN:', file=tl_out)
-            print(pre_en.to_string(), file=tl_out)
-            print('##Old CN:', file=tl_out)
-            print(pre_cn.to_string(), file=tl_out)
-            print('##New:', file=tl_out)
-            print(text.to_string(), file=tl_out)
+            flag = True
+    if flag:
+        print('##Changed:', file=tl_out)
+        print('##Old EN:', file=tl_out)
+        print(pre_en.to_string(), file=tl_out)
+        print('##Old CN:', file=tl_out)
+        print(pre_cn.to_string(), file=tl_out)
+        print('##New:', file=tl_out)
+        print(text.to_string(), file=tl_out)
 
 
 for id in map_109.tower_ids:
     tower = map_109.towers[id]
     text = map_109.get_text(id)
     name = text.attr_dict['Name'][1]
+    if has_chinese(name):
+        continue
     if name in name_dict:
         pre_id = name_dict[name]
         pre_tower = map_108en.towers[pre_id]
@@ -81,13 +92,13 @@ for id in map_109.tower_ids:
         buff_dict = {}
         for buff in pre_tower.buff_ids:
             t = map_108en.get_text(buff)
-            tip = t.attr_dict['Bufftip'][1]
-            buff_dict[tip] = buff
+            text = t.to_string(False)
+            buff_dict[text] = buff
         for buff in tower.buff_ids:
             t = map_109.get_text(buff)
-            tip = t.attr_dict['Bufftip'][1]
-            if tip in buff_dict:
-                replace_by_id(buff, buff_dict[tip])
+            text = t.to_string(False)
+            if text in buff_dict:
+                replace_by_id(buff, buff_dict[text])
             else:
                 print('##New Buff', file=tl_out)
                 print(t.to_string(), file=tl_out)

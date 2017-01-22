@@ -117,7 +117,7 @@ Buffubertip=这个单位被灵魂深寒减速了。
 EditorName=Soul Chill
 [R00L]
 Bufftip=减速
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位的移动速度降低。
 EditorName=Slowed
 [R001]
 Bufftip=减速
@@ -135,10 +135,10 @@ Bufftip=烟雾弹
 Buffubertip=这个单位装备了烟雾弹。
 [R02H]
 Bufftip=震荡弹
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位装备了震荡弹。
 [R02I]
-Bufftip=酸性炸弹
-Buffubertip=这个单位的护甲降低。
+Bufftip=酸蚀弹
+Buffubertip=这个单位装备了酸蚀弹。
 [R02L]
 Bufftip=酸性炸弹
 Buffubertip=这个单位的护甲降低。
@@ -160,7 +160,7 @@ Bufftip=感电
 Buffubertip=这个单位有几率受到更多伤害。
 [R04C]
 Bufftip=减速
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位的移动速度降低。
 EditorName=Slowed
 [R04J]
 Bufftip=诅咒
@@ -175,14 +175,14 @@ Buffubertip=这个单位的移动速度降低。
 EditorName=!Slow
 [R02W]
 Bufftip=霜冻
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位的移动速度降低。
 [R02T]
 Bufftip=减速
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位的移动速度降低。
 EditorName=Slowed
 [R05X]
 Bufftip=霜冻
-Buffubertip=这个单位被减速了。
+Buffubertip=这个单位的移动速度降低。
 [BSTU]
 Bufftip=击晕
 Buffubertip=这个单位无法移动。

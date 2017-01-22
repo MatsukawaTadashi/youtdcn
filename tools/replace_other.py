@@ -1,4 +1,5 @@
 from parse_tower import TowerCollection
+from lib.utils import has_chinese
 import sys
 
 map_108cn = TowerCollection('../../maps/108CN', 108)
@@ -26,7 +27,6 @@ for id in map_108cn.ytd.unit_collection:
         assert cn_text2.to_string(False) == cn_text.to_string(False)
 
     dictionary[key] = (cn_text, en_text)
-
 def check_attr(attr):
     ignored_list = ['Editor', 'Hotkey']
     for prefix in ignored_list:
@@ -34,12 +34,6 @@ def check_attr(attr):
             return False
 
     return True
-
-def check_chinese(s):
-    for i in s:
-        if i.isalpha() and not (i.islower() or i.isupper()):
-            return True
-    return False
 
 for id in map_109.ytd.unit_collection:
     text = map_109.get_text(id)
@@ -49,7 +43,8 @@ for id in map_109.ytd.unit_collection:
     if not key:
         continue
     if key not in dictionary:
-        if not check_chinese(key):
+        if not has_chinese(key):
+            # untranslated
             print(text.to_string(), file=logfile)
     else:
         cn_text, en_text = dictionary[key]
@@ -57,12 +52,13 @@ for id in map_109.ytd.unit_collection:
             if check_attr(attr):
                 if text.attr_dict[attr] == cn_text.attr_dict[attr]:
                     continue
-                if check_chinese(cn_text.attr_dict[attr][1]):
+                if has_chinese(cn_text.attr_dict[attr][1]):
+                    # replace!
                     print(text.attr_dict[attr])
                     print(cn_text.attr_dict[attr])
                     text.attr_dict[attr][1] = cn_text.attr_dict[attr][1]
 
-# map_109.write_back()
+map_109.write_back()
 logfile.close()
 
 

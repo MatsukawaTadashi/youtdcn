@@ -135,7 +135,7 @@ Bufftip=星界转移
 Buffubertip=这个单位被强化的猎鹰击中，它会受到来自星辰系塔的额外伤害。
 [R06V]
 Bufftip=不朽的意志
-Buffubertip=这个单位的攻击力降低。
+Buffubertip=这个单位的攻击力提高。
 [R06W]
 Bufftip=不朽的意志
 Buffubertip=这个单位的攻击力降低。

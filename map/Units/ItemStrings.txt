@@ -1,3 +1,5 @@
+[TWN1]
+Name=Town Hall or Great Hall or Tree of Life or Necropolis
 [TWN2]
 Name=Keep or Stronghold or Tree of Ages or Halls of the Dead
 [TWN3]
@@ -685,7 +687,7 @@ Description="点击以建造一座塔"
 Name="魔化草"
 Hotkey=F
 Tip="购买 魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF0038|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF0049|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q011]
 Name="幼苗"
@@ -733,7 +735,7 @@ Description="点击以建造一座塔"
 Name="成年魔化草"
 Hotkey=F
 Tip="购买 成年魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00147|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00192|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q039]
 Name="修复的牢笼"
@@ -877,7 +879,7 @@ Description="点击以建造一座塔"
 Name="民兵望塔"
 Hotkey=F
 Tip="购买 民兵望塔"
-Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF0034|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00101|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q03Q]
 Name="强化石柱"
@@ -1255,7 +1257,7 @@ Description="点击以建造一座塔"
 Name="腐臭魔化草"
 Hotkey=F
 Tip="购买 腐臭魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00310|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00423|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q05E]
 Name="幼年巨牙海民"
@@ -2035,7 +2037,7 @@ Description="点击以建造一座塔"
 Name="民兵哨塔"
 Hotkey=F
 Tip="购买 民兵哨塔"
-Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00182|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00304|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q06U]
 Name="燃烧火炬"
@@ -2299,7 +2301,7 @@ Description="点击以建造一座塔"
 Name="年长魔化草"
 Hotkey=F
 Tip="购买 年长魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00669|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF00912|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q08G]
 Name="树林"
@@ -2401,7 +2403,7 @@ Description="点击以建造一座塔"
 Name="闪电王子"
 Hotkey=F
 Tip="购买 闪电王子"
-Ubertip="|cff9BA0D0一个闪电王子，具有弹射攻击并有几率操纵闪电的力量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00143|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001300|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个闪电王子，具有弹射攻击并有几率操纵闪电的力量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00143|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001300|r 射程|n|n|cffFFFF80光环范围：|r 1300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q08U]
 Name="冰川攀缘植物"
@@ -2473,7 +2475,7 @@ Description="点击以建造一座塔"
 Name="魔跃蜉蝣"
 Hotkey=F
 Tip="购买 魔跃蜉蝣"
-Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cff00FFFF星辰|r|n|cffFFFF80攻击： |cffFFFF00419|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r射程|n|cffFFFF80法力： |cffFFFF00500|r (+|cffFFFF0025|r/秒)|r|n|n|cffFFFF80光环范围：|r 200|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0Playful Faerie-Dragon that uses mana to its advantage.|n|n|cffFFFF80Author:|r SirCoqaLot.|n|cffFFFF80Element: |cFFFFFF80Astral|r|n|cffFFFF80Attack: |cffFFFF00419|r dps, |cffFF8000Elemental|r|r, |cffFFFF00950|r range|n|cffFFFF80Mana: |cffFFFF00600|r (+|cffFFFF0030|r/s)|r|n|n|cffFFFF80Aura Range:|r 200|n|n|cffFF8000You can transform another tower into this one by putting this item into its inventory!|nIf the new tower is from the same family, you will be rewarded the full price of the old tower. Otherwise, you will only regain 75% of the other tower's price.|r"
 Description="点击以建造一座塔"
 [Q08S]
 Name="白银骑士"
@@ -2647,7 +2649,7 @@ Description="点击以建造一座塔"
 Name="民兵边哨"
 Hotkey=F
 Tip="购买 民兵边哨"
-Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00410|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00608|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0AS]
 Name="复仇的触手"
@@ -2911,7 +2913,7 @@ Description="点击以建造一座塔"
 Name="魔浸蜉蝣"
 Hotkey=F
 Tip="购买 魔浸蜉蝣"
-Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cff00FFFF星辰|r|n|cffFFFF80攻击： |cffFFFF00684|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r射程|n|cffFFFF80法力： |cffFFFF00850|r (+|cffFFFF0042.5|r/秒)|r|n|n|cffFFFF80光环范围：|r 200|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cff00FFFF星辰|r|n|cffFFFF80攻击： |cffFFFF00684|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r射程|n|cffFFFF80法力： |cffFFFF001050|r (+|cffFFFF0052.5|r/秒)|r|n|n|cffFFFF80光环范围：|r 200|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CX]
 Name="能量放大器"
@@ -3205,7 +3207,7 @@ Description="点击以建造一座塔"
 Name="老年魔化草"
 Hotkey=F
 Tip="购买 老年魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001020|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001360|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CA]
 Name="巨型元素幽魂"
@@ -3283,7 +3285,7 @@ Description="点击以建造一座塔"
 Name="闪电国王"
 Hotkey=F
 Tip="购买 闪电国王"
-Ubertip="|cff9BA0D0一个闪电国王，具有弹射攻击并有几率操纵闪电的力量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00215|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001300|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个闪电国王，具有弹射攻击并有几率操纵闪电的力量。|n|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00215|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001300|r 射程|n|n|cffFFFF80光环范围：|r 1300|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0ER]
 Name="无底寒冰矿井"
@@ -3295,7 +3297,7 @@ Description="点击以建造一座塔"
 Name="远古魔化草"
 Hotkey=F
 Tip="购买 远古魔化草"
-Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001416|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0基础塔，偶尔能造成一些额外伤害。|n|n|cffFFFF80作者：|r SirCoqaLot。|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击力：|cffFFFF001889|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00750|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0EU]
 Name="太阳能传导器"
@@ -3859,7 +3861,7 @@ Description="点击以建造一座塔"
 Name="民兵前哨"
 Hotkey=F
 Tip="购买 民兵前哨"
-Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。不过这无关紧要，因为没有怪物能通过这条封锁线。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击： |cffFFFF00741|r 每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。不过这无关紧要，因为没有怪物能通过这条封锁线。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001218|r每秒伤害，|cffC0C0C0物理|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0HG]
 Name="萤火虫领主"
@@ -4135,7 +4137,7 @@ Description="点击以建造一座塔"
 Name="灵魂之火装置"
 Hotkey=F
 Tip="购买 灵魂之火装置"
-Ubertip="|cff9BA0D0烧尽生物的灵魂。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00896|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80魔法： |cffFFFF0050|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 150|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0烧尽生物的灵魂。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击： |cffFFFF00896|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80魔法： |cffFFFF0010|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 350|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0J2]
 Name="|cff0080FF采矿工具|r"
@@ -4147,7 +4149,7 @@ Description="|cff9BA0D0矿工的基本装备。 |n|n|cffFFFF80等级：|r 0|n|cf
 Name="导管"
 Hotkey=F
 Tip="购买 导管"
-Ubertip="|cff9BA0D0充能后可以瓦解敌人并使附近的低级塔超载。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFF8080FFStorm|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80魔法： |cffFFFF001000|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 150|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0充能后可以瓦解敌人并使附近的低级塔超载。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFF8080FFStorm|r|n|cffFFFF80攻击： |cffFFFF000|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF001200|r 射程|n|cffFFFF80魔法： |cffFFFF001000|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 350|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0J1]
 Name="|cffFFFFFF精灵魔杖|r"
@@ -4171,7 +4173,7 @@ Description="点击以建造一座塔"
 Name="连锁风暴"
 Hotkey=F
 Tip="购买 连锁风暴"
-Ubertip="|cff9BA0D0一个强大的风暴围绕此塔，以粉碎范围内的敌人！|n|n|cffFFFF80作者：|r SternBogen|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00632|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001100|r 射程|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0一个强大的风暴围绕此塔，粉碎范围内的敌人！|n|n|cffFFFF80作者：|r SternBogen|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF00632|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001100|r 射程|n|cffFFFF80法力: |cffFFFF00100|r (+|cffFFFF0010|r/秒)|r|n|n|cffFFFF80光环范围：|r 900|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0IL]
 Name="时间操纵者"
@@ -4237,7 +4239,7 @@ Description="|cff9BA0D0增加塔对兽人系怪物的伤害。 |n|n|cffFFFF80等
 Name="熔炉"
 Hotkey=F
 Tip="购买 熔炉"
-Ubertip="|cff9BA0D0感受热量。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00548|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001000|r 射程|n|cffFFFF80魔法： |cffFFFF002000|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 0|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0感受热量。|n|n|cffFFFF80作者：|r |cffff6600Ashbringer|r|n|cffFFFF80元素：|cFFFF5300火焰|r|n|cffFFFF80攻击： |cffFFFF00548|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF001000|r 射程|n|cffFFFF80法力： |cffFFFF003000|r (+|cffFFFF000|r/秒)|r|n|cffFFFF80光环范围：|r 0|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0J3]
 Name="|cffFFFFFF神圣战斧|r"
@@ -4447,7 +4449,7 @@ Description="点击以建造一座塔"
 Name="魔灭蜉蝣"
 Hotkey=F
 Tip="购买 魔灭蜉蝣"
-Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cff00FFFF星辰|r|n|cffFFFF80攻击： |cffFFFF00968|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r射程|n|cffFFFF80法力： |cffFFFF001250|r (+|cffFFFF0062.5|r/秒)|r|n|n|cffFFFF80光环范围：|r 200|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0顽皮的精灵龙，使用法力来取得优势。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cff00FFFF星辰|r|n|cffFFFF80攻击： |cffFFFF00968|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00950|r射程|n|cffFFFF80法力： |cffFFFF001600|r (+|cffFFFF0080|r/秒)|r|n|n|cffFFFF80光环范围：|r 200|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0I3]
 Name="黄金女王"
@@ -4654,11 +4656,11 @@ Tip="|cffFFFF00富裕的奖章|r"
 Ubertip="|cff9BA0D0这个奖章使他的佩戴者能用金币打击。 |n|n|cffFFFF80等级：|r 7|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00贪婪是美德|r|n攻击时有|cffFFFF8020%|rx基础攻击速度的几率对目标造成等值于|cffFFFF8010%|r你当前金币数的法术伤害。"
 Description="|cff9BA0D0这个奖章使他的佩戴者能用金币打击。 |n|n|cffFFFF80等级：|r 7|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00贪婪是美德|r|n攻击时有 |cffFFFF8020%|r x 基础攻击速度的几率对目标造成等值于 |cffFFFF8010%|r 你当前金币数的法术伤害。 "
 [Q0KZ]
-Name="|cffFFFF00Arcane Script|r"
+Name="|cffFFFF00奥术卷轴|r"
 Hotkey=K
-Tip="|cffFFFF00Arcane Script|r"
-Ubertip="|cff9BA0D0Oooh! What are these ancient scribings?|n|n|cffFFFF80Level:|r 4|cffFFFF80|nAuthor:|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00Script Reading|r|nWhenever the carrier casts its own active ability it gains |cffFFFF80[0.2 x cooldown]|r experience and grants |cffFFFF80[0.5 x cooldown]|r gold."
-Description="|cff9BA0D0Oooh! What are these ancient scribings?|n|n|cffFFFF80Level:|r 4|cffFFFF80|nAuthor:|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00Script Reading|r|nWhenever the carrier casts its own active ability it gains |cffFFFF80[0.2 x cooldown]|r experience and grants |cffFFFF80[0.5 x cooldown]|r gold."
+Tip="|cffFFFF00奥术卷轴|r"
+Ubertip="|cff9BA0D0哦哦哦!这些古老的笔记是什么?|n|n|cffFFFF80等级：|r 4|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00阅读笔记|r|n携带塔释放自身的主动技能时，会获得|cffFFFF80[0.2*冷却时间]|r点经验和|cffFFFF80[0.5*冷却时间]|r个金币。"
+Description="|cff9BA0D0哦哦哦!这些古老的笔记是什么?|n|n|cffFFFF80等级：|r 4|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|n|cffCCFF00阅读笔记|r|n携带塔释放自身的主动技能时，会获得|cffFFFF80[0.2*冷却时间]|r点经验和|cffFFFF80[0.5*冷却时间]|r个金币。"
 [Q0KU]
 Name="|cff0080FF利爪印记|r"
 Hotkey=K
@@ -4816,11 +4818,11 @@ Tip="|cffFFFFFF杀手箭|r"
 Ubertip="|cff9BA0D0用于暗杀的特制致命箭头。 |n|n|cffFFFF80等级：|r 6|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r伤害对精英 (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+x0.05|r 暴击伤害 (|cffFFFF00+x0.002|r/级)"
 Description="|cff9BA0D0用于暗杀的特制致命箭头。 |n|n|cffFFFF80等级：|r 6|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r伤害对精英 (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+x0.05|r 暴击伤害 (|cffFFFF00+x0.002|r/级)"
 [Q0JQ]
-Name="|cffFF00BFGolden Trident|r"
+Name="|cffFF00BF黄金三叉戟|r"
 Hotkey=K
-Tip="|cffFF00BFGolden Trident|r"
-Ubertip="|cff9BA0D0Whenever this magical trident makes a devastating hit it creates some gold.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Golden Hit|r|nGrants |cffFFFF801|r gold on each critical hit. Each multicrit grants additional gold. The effect is base attack speed and range adjusted."
-Description="|cff9BA0D0Whenever this magical trident makes a devastating hit it creates some gold.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Golden Hit|r|nGrants |cffFFFF801|r gold on each critical hit. Each multicrit grants additional gold. The effect is base attack speed and range adjusted."
+Tip="|cffFF00BF黄金三叉戟|r"
+Ubertip="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时,将产生一些金币。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加|cffFFFF801|r金币。多重暴击增加额外的金币。这个效果受射程和基础攻速修正。"
+Description="|cff9BA0D0当这个充满魔力的三叉戟制造毁灭性的打击时,将产生一些金币。|n|n|cffFFFF80等级：|r 0|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00金币打击|r|n每次暴击增加|cffFFFF801|r金币。多重暴击增加额外的金币。这个效果受射程和基础攻速修正。"
 [Q0K2]
 Name="|cff0080FF小兔子|r"
 Hotkey=K
@@ -4882,11 +4884,11 @@ Tip="|cff0080FF食人魔的智慧之杖|r"
 Ubertip="|cff9BA0D0我 揍 你！|n|n|cffFFFF80等级：|r 2|n|cffFFFF80作者：|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
 Description="|cff9BA0D0我 揍 你！|n|n|cffFFFF80等级：|r 2|n|cffFFFF80作者：|r |cffbdb76bPalandu|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r攻击力(|cffFFFF00+0.4%|r/级)|n|cffFFFF00-20% |r经验获取率|n|cffFFFF00-20% |r金钱获取率"
 [Q0JY]
-Name="|cffFFFF00Arms Dealer|r"
+Name="|cffFFFF00军火商|r"
 Hotkey=K
-Tip="|cffFFFF00Arms Dealer|r"
-Ubertip="|cff9BA0D0He can get rid of your illegal arms.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |c007EBFF1Limfa|r|n|cffFFFF80Specials:|r|n|cffFFFF00-20% |rdamage|n|cffFFFF00-20% |rspell damage|n|cffFFFF00+50% |rbounty collected|n|n|cffCCFF00The Customer Is Boss|r|nBosses coming within |cffFFFF80600|r range of the carrier have a |cffFFFF8025%|r chance to grant |cffFFFF80[25 + current wave]|r gold. Cannot trigger on the same boss twice.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r gold"
-Description="|cff9BA0D0He can get rid of your illegal arms.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r |c007EBFF1Limfa|r|n|cffFFFF80Specials:|r|n|cffFFFF00-20% |rdamage|n|cffFFFF00-20% |rspell damage|n|cffFFFF00+50% |rbounty collected|n|n|cffCCFF00The Customer Is Boss|r|nBosses coming within |cffFFFF80600|r range of the carrier have a |cffFFFF8025%|r chance to grant |cffFFFF80[25 + current wave]|r gold. Cannot trigger on the same boss twice.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1|r gold"
+Tip="|cffFFFF00军火商|r"
+Ubertip="|cff9BA0D0他可以处理掉你的非法军火。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r |c007EBFF1Limfa|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20% |r攻击力|n|cffFFFF00-20% |r法术伤害|n|cffFFFF00+50% |r金钱获取率|n|n|cffCCFF00顾客就是老板（Boss）！|r|n当Boss进入携带塔|cffFFFF80600|r范围内时，携带塔有|cffFFFF8025%|r几率获得|cffFFFF80[25 + 当前波数]|r个金币。对每个Boss只会判定一次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 金币"
+Description="|cff9BA0D0他可以处理掉你的非法军火。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r |c007EBFF1Limfa|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20% |r攻击力|n|cffFFFF00-20% |r法术伤害|n|cffFFFF00+50% |r金钱获取率|n|n|cffCCFF00顾客就是老板（Boss）！|r|n当Boss进入携带塔|cffFFFF80600|r范围内时，携带塔有|cffFFFF8025%|r几率获得|cffFFFF80[25 + 当前波数]|r个金币。对每个Boss只会判定一次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 金币"
 [Q0JT]
 Name="|cffFFFFFF奇幻之光|r"
 Hotkey=K
@@ -4978,11 +4980,11 @@ Tip="|cffFFFFFF钝斧|r"
 Ubertip="|cff9BA0D0连砍树都很吃力的一把斧头。 |n|n|cffFFFF80等级：|r 8|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.325|r 暴击伤害"
 Description="|cff9BA0D0连砍树都很吃力的一把斧头。 |n|n|cffFFFF80等级：|r 8|n|cffFFFF80作者：|r |cff87cefaMajildian|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.325|r 暴击伤害"
 [Q0KE]
-Name="|cffFF00BFCrit Blade|r"
+Name="|cffFF00BF暴击之刃|r"
 Hotkey=K
-Tip="|cffFF00BFCrit Blade|r"
-Ubertip="|cff9BA0D0This blade improves chance of critical strikes.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r Ranakastrasz|n|n|cffCCFF00Critical Accumulation|r|nEvery Attack increases critical strike chance and critical strike damage by |cffFFFF801.5%|r. The Bonus is lost when a critical strike is made. The bonus is bound to the item."
-Description="|cff9BA0D0This blade improves chance of critical strikes.|n|n|cffFFFF80Level:|r 0|cffFFFF80|nAuthor:|r Ranakastrasz|n|n|cffCCFF00Critical Accumulation|r|nEvery Attack increases critical strike chance and critical strike damage by |cffFFFF801.5%|r. The Bonus is lost when a critical strike is made. The bonus is bound to the item."
+Tip="|cffFF00BF暴击之刃|r"
+Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
+Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
 [Q0KD]
 Name="|cff0080FF神秘贝壳|r"
 Hotkey=K
@@ -5356,11 +5358,11 @@ Tip="|cff0080FF闪亮翡翠|r"
 Ubertip="|cff9BA0D0使携带塔更容易集中精神。 |n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-10% |r攻击速度|n|cffFFFF00+5% |r法术伤害 (|cffFFFF00+1%|r/级)|n|cffFFFF00+5% |r触发几率 (|cffFFFF00+1%|r/级)"
 Description="|cff9BA0D0使携带塔更容易集中精神。 |n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r poussix|n|cffFFFF80特殊能力：|r|n|cffFFFF00-10% |r攻击速度|n|cffFFFF00+5% |r法术伤害 (|cffFFFF00+1%|r/级)|n|cffFFFF00+5% |r触发几率 (|cffFFFF00+1%|r/级)"
 [Q0LW]
-Name="|cffFFFF00Haunted Hand|r"
+Name="|cffFFFF00闹鬼的手|r"
 Hotkey=K
-Tip="|cffFFFF00Haunted Hand|r"
-Ubertip="|cff9BA0D0A haunted hand with a mind of it's own, it attacks with reckless fervor.|n|n|cffFFFF80Level:|r 11|cffFFFF80|nAuthor:|r |c007EBFF1Sunken|r|n|cffFFFF80Specials:|r|n|cffFFFF00+8% |rattackspeed (|cffFFFF00+0.2%|r/lvl)|n|n|cffCCFF00Haunted!|r|nThis item makes its carrier attack random targets."
-Description="|cff9BA0D0A haunted hand with a mind of it's own, it attacks with reckless fervor.|n|n|cffFFFF80Level:|r 11|cffFFFF80|nAuthor:|r |c007EBFF1Sunken|r|n|cffFFFF80Specials:|r|n|cffFFFF00+8% |rattackspeed (|cffFFFF00+0.2%|r/lvl)|n|n|cffCCFF00Haunted!|r|nThis item makes its carrier attack random targets."
+Tip="|cffFFFF00闹鬼的手|r"
+Ubertip="|cff9BA0D0这只手有着自己的思维，它的攻击狂热而莽撞。|n|n|cffFFFF80等级：|r 11|cffFFFF80|n作者：|r |c007EBFF1Sunken|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+8% |r攻击速度(|cffFFFF00+0.2%|r/级)|n|n|cffCCFF00闹鬼！|r|n这件物品强制携带者攻击随机敌方目标。"
+Description="|cff9BA0D0这只手有着自己的思维，它的攻击狂热而莽撞。|n|n|cffFFFF80等级：|r 11|cffFFFF80|n作者：|r |c007EBFF1Sunken|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+8% |r攻击速度(|cffFFFF00+0.2%|r/级)|n|n|cffCCFF00闹鬼！|r|n这件物品强制携带者攻击随机敌方目标。"
 [Q0M8]
 Name="|cff0080FF魔法瓶|r"
 Hotkey=K
@@ -5440,11 +5442,11 @@ Tip="|cffFFFFFF魔法精髓|r"
 Ubertip="|cff9BA0D0暗夜精灵们自古以来就在使用着这些来强化自身的魔法。|n|n|cffFFFF80等级：|r 32|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r法力|n|cffFFFF00+20% |r法力回复"
 Description="|cff9BA0D0暗夜精灵们自古以来就在使用着这些来强化自身的魔法。 |n|n|cffFFFF80等级：|r 32|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r法力|n|cffFFFF00+20% |r法力回复"
 [Q0MH]
-Name="|cffFF00BFCircle of Power|r"
+Name="|cffFF00BF力量之环|r"
 Hotkey=K
-Tip="|cffFF00BFCircle of Power|r"
-Ubertip="|cff9BA0D0Power! Unlimited power!|n|n|cffFFFF80Level:|r 10|cffFFFF80|nAuthor:|r Deemzul|n|n|cffCCFF00Circle of Power|r|nEvery |cffFFFF805|r seconds, if the carrier of this item has less mana than it had |cffFFFF805|r seconds ago, the carrier has a |cffFFFF8025%|r chance to restore mana to what it was before."
-Description="|cff9BA0D0Power! Unlimited power!|n|n|cffFFFF80Level:|r 10|cffFFFF80|nAuthor:|r Deemzul|n|n|cffCCFF00Circle of Power|r|nEvery |cffFFFF805|r seconds, if the carrier of this item has less mana than it had |cffFFFF805|r seconds ago, the carrier has a |cffFFFF8025%|r chance to restore mana to what it was before."
+Tip="|cffFF00BF力量之环|r"
+Ubertip="|cff9BA0D0力量!无限的力量!|n|n|cffFFFF80等级：|r 10|cffFFFF80|n作者：|r Deemzul|n|n|cffCCFF00力量之环|r|n每|cffFFFF805|r秒，如果携带者的当前法力值低于|cffFFFF805|r秒之前的值，就有|cffFFFF8025%|r的几率将法力值回复到之前的值。"
+Description="|cff9BA0D0力量!无限的力量!|n|n|cffFFFF80等级：|r 10|cffFFFF80|n作者：|r Deemzul|n|n|cffCCFF00力量之环|r|n每|cffFFFF805|r秒，如果携带者的当前法力值低于|cffFFFF805|r秒之前的值，就有|cffFFFF8025%|r的几率将法力值回复到之前的值。"
 [Q0OU]
 Name="|cffFFFFFF野性祝福|r"
 Hotkey=K
@@ -5458,11 +5460,11 @@ Tip="|cffFF00BF月亮宝石|r"
 Ubertip="|cff9BA0D0这些宝石由月神赐予她的仆人,会帮助那些用它们来行善的人。|n|n|cffFFFF80等级：|r 32|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r触发几率|n|n|cffCCFF00天神智慧|r|n每|cffFFFF8015|r秒增加携带塔|cffFFFF802|r点经验。在夜晚时额外增加|cffFFFF802|r点经验。"
 Description="|cff9BA0D0这些宝石由月神赐予她的仆人, 会帮助那些用它们来行善的人。 |n|n|cffFFFF80等级：|r 32|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20% |r触发几率|n|n|cffCCFF00天神智慧|r|n每 |cffFFFF8015|r 秒增加携带塔 |cffFFFF802|r 点经验。 在夜晚时额外增加 |cffFFFF802|r 点经验。 "
 [Q0OT]
-Name="|cffFF00BFSoul Collector's Scythe|r"
+Name="|cffFF00BF集魂镰刀|r"
 Hotkey=K
-Tip="|cffFF00BFSoul Collector's Scythe|r"
-Ubertip="|cff9BA0D0This scythe absorbs the souls of units slain by its wielder.|n|n|cffFFFF80Level:|r 28|cffFFFF80|nAuthor:|r hokkei|n|n|cffCCFF00Soul Power|r|nAfter each kill, the scythe's critical strike damage is increased by |cffFFFF80x0.005|r. Maximum of |cffFFFF80x3|r bonus crit. The bonus is bound to the item."
-Description="|cff9BA0D0This scythe absorbs the souls of units slain by its wielder.|n|n|cffFFFF80Level:|r 28|cffFFFF80|nAuthor:|r hokkei|n|n|cffCCFF00Soul Power|r|nAfter each kill, the scythe's critical strike damage is increased by |cffFFFF80x0.005|r. Maximum of |cffFFFF80x3|r bonus crit. The bonus is bound to the item."
+Tip="|cffFF00BF集魂镰刀|r"
+Ubertip="|cff9BA0D0这把镰刀能够吸取被携带塔杀死的敌人的灵魂。|n|n|cffFFFF80等级：|r 28|cffFFFF80|n作者：|r hokkei|n|n|cffCCFF00灵魂之力|r|n携带塔每杀死一位敌人，增加暴击伤害|cffFFFF80x0.005|r。最多|cffFFFF80x3|r。加成与物品绑定。"
+Description="|cff9BA0D0这把镰刀能够吸取被携带塔杀死的敌人的灵魂。|n|n|cffFFFF80等级：|r 28|cffFFFF80|n作者：|r hokkei|n|n|cffCCFF00灵魂之力|r|n携带塔每杀死一位敌人，增加暴击伤害|cffFFFF80x0.005|r。最多|cffFFFF80x3|r。加成与物品绑定。"
 [Q0P5]
 Name="|cffFF00BF残忍火炬|r"
 Hotkey=K
@@ -5518,11 +5520,11 @@ Tip="|cffFFFF00附魔矿铲|r"
 Ubertip="|cff9BA0D0这个矿铲可以用来很好的发现宝物,不过别用它来打架。|n|n|cffFFFF80等级：|r 44|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-17.5% |r攻击力|n|cffFFFF00-17.5% |r法术伤害|n|cffFFFF00+55% |r物品获取率"
 Description="|cff9BA0D0这个矿铲可以用来很好的发现宝物, 不过别用它来打架。 |n|n|cffFFFF80等级：|r 44|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-17.5% |r攻击力|n|cffFFFF00-17.5% |r法术伤害|n|cffFFFF00+55% |r物品获取率"
 [Q0OS]
-Name="|cffFFFF00Old Hunter|r"
+Name="|cffFFFF00老猎手|r"
 Hotkey=K
-Tip="|cffFFFF00Old Hunter|r"
-Ubertip="|cff9BA0D0'I will teach you, what hunting is like!'|n|n|cffFFFF80Level:|r 40|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|n|cffCCFF00Old Hunter|r|nAfter each kill, the carrier transfers |cffFFFF801|r flat experience to up to |cffFFFF805|r random towers in |cffFFFF80500|r range. The carrier must be at least level |cffFFFF805|r to trigger this ability."
-Description="|cff9BA0D0'I will teach you, what hunting is like!'|n|n|cffFFFF80Level:|r 40|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|n|cffCCFF00Old Hunter|r|nAfter each kill, the carrier transfers |cffFFFF801|r flat experience to up to |cffFFFF805|r random towers in |cffFFFF80500|r range. The carrier must be at least level |cffFFFF805|r to trigger this ability."
+Tip="|cffFFFF00老猎手|r"
+Ubertip="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
+Description="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
 [Q0P4]
 Name="|cffFFFFFF神圣的光环|r"
 Hotkey=K
@@ -5596,11 +5598,11 @@ Tip="|cff0080FF大型密封饰品|r"
 Ubertip="|cff9BA0D0只有最有钱的地主才能穿。 |n|n|cffFFFF80等级：|r 68|n|cffFFFF80作者：|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-35% |r物品获取率|n|cffFFFF00+75% |r物品品质率 (|cffFFFF00+1%|r/级)"
 Description="|cff9BA0D0只有最有钱的地主才能穿。 |n|n|cffFFFF80等级：|r 68|n|cffFFFF80作者：|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-35% |r物品获取率|n|cffFFFF00+75% |r物品品质率 (|cffFFFF00+1%|r/级)"
 [Q0PA]
-Name="|cffFFFF00Chameleons Soul|r"
+Name="|cffFFFF00变色龙之魂|r"
 Hotkey=K
-Tip="|cffFFFF00Chameleons Soul|r"
-Ubertip="|cff9BA0D0This soul adapts itself to its user.|n|n|cffFFFF80Level:|r 47|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Transform|r|n|cffFFFF80+100%|r experience for Astral|n|cffFFFF80+45%|r spelldamage for Darkness|n|cffFFFF80+10%|r crit chance for Nature|n|cffFFFF80+40%|r damage for Fire|n|cffFFFF80+50%|r buff duration for Ice|n|cffFFFF80+25%|r attackspeed for Storm|n|cffFFFF80+30%|r item chance for Iron"
-Description="|cff9BA0D0This soul adapts itself to its user.|n|n|cffFFFF80Level:|r 47|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Transform|r|n|cffFFFF80+100%|r experience for Astral|n|cffFFFF80+45%|r spelldamage for Darkness|n|cffFFFF80+10%|r crit chance for Nature|n|cffFFFF80+40%|r damage for Fire|n|cffFFFF80+50%|r buff duration for Ice|n|cffFFFF80+25%|r attackspeed for Storm|n|cffFFFF80+30%|r item chance for Iron"
+Tip="|cffFFFF00变色龙之魂|r"
+Ubertip="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级：|r 47|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00转变|r|n|cffFFFF80+100%|r 经验获取率对星辰|n|cffFFFF80+45%|r 法术伤害对黑暗|n|cffFFFF80+10%|r 暴击率对自然|n|cffFFFF80+40%|r 攻击力对火焰|n|cffFFFF80+50%|r 增益持续时间对寒冰|n|cffFFFF80+25%|r 攻击速度对风暴|n|cffFFFF80+30%|r 物品获取率对钢铁"
+Description="|cff9BA0D0这个灵魂会改变自己以适应它的携带者。|n|n|cffFFFF80等级：|r 47|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00转变|r|n|cffFFFF80+100%|r 经验获取率对星辰|n|cffFFFF80+45%|r 法术伤害对黑暗|n|cffFFFF80+10%|r 暴击率对自然|n|cffFFFF80+40%|r 攻击力对火焰|n|cffFFFF80+50%|r 增益持续时间对寒冰|n|cffFFFF80+25%|r 攻击速度对风暴|n|cffFFFF80+30%|r 物品获取率对钢铁"
 [Q0PD]
 Name="|cff0080FF迷你坦克|r"
 Hotkey=K
@@ -5674,11 +5676,11 @@ Tip="|cffFFFF00爱情药剂|r"
 Ubertip="|cff9BA0D0女巫用来提高魔力的药剂。 |n|n|cffFFFF80等级：|r 55|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r增益持续时间 (|cffFFFF00+0.4%|r/级)"
 Description="|cff9BA0D0女巫用来提高魔力的药剂。 |n|n|cffFFFF80等级：|r 55|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+50% |r增益持续时间 (|cffFFFF00+0.4%|r/级)"
 [Q0NT]
-Name="|cffFF00BFDagger of Bane|r"
+Name="|cffFF00BF淬毒匕首|r"
 Hotkey=K
-Tip="|cffFF00BFDagger of Bane|r"
-Ubertip="|cff9BA0D0The dagger oozes out deadly green poison.|n|n|cffFFFF80Level:|r 18|cffFFFF80|nAuthor:|r |cff00bfffF12ight|r|n|n|cffCCFF00Deadly Poison|r|nApplies a deadly poison on damage to the main target of the attack. Each second the poison deals |cffFFFF8015%|r of the tower's base damage as spell damage to the target. The spell damage is always critical. Lasts |cffFFFF804|r seconds."
-Description="|cff9BA0D0The dagger oozes out deadly green poison.|n|n|cffFFFF80Level:|r 18|cffFFFF80|nAuthor:|r |cff00bfffF12ight|r|n|n|cffCCFF00Deadly Poison|r|nApplies a deadly poison on damage to the main target of the attack. Each second the poison deals |cffFFFF8015%|r of the tower's base damage as spell damage to the target. The spell damage is always critical. Lasts |cffFFFF804|r seconds."
+Tip="|cffFF00BF淬毒匕首|r"
+Ubertip="|cff9BA0D0这把匕首渗出致命的剧毒。 |n|n|cffFFFF80等级：|r 18|n|cffFFFF80作者：|r |cff00bfffF12ight|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00致命毒药|r|n击中时对主目标施加致命毒药。每秒造成相当于携带塔|cffFFFF8015%|r基础攻击力的法术伤害,持续|cffFFFF804|r秒。这个伤害总会产生法术暴击。"
+Description="|cff9BA0D0这把匕首渗出致命的剧毒。|n|n|cffFFFF80等级：|r 18|cffFFFF80|n作者：|r |cff00bfffF12ight|r|n|n|cffCCFF00致命毒药|r|n击中时对主目标施加致命毒药。每秒造成相当于携带塔|cffFFFF8015%|r基础攻击力的法术伤害,持续|cffFFFF804|r秒。这个伤害总会产生法术暴击。"
 [Q0O5]
 Name="|cffFF00BF联盟旗帜|r"
 Hotkey=K
@@ -5698,11 +5700,11 @@ Tip="|cffFF00BF邦克之脸|r"
 Ubertip="|cff9BA0D0几乎无法移动这块巨石, 它太重了。 |n|n|cffFFFF80等级：|r 21|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对杂兵|n|n|cffCCFF00粉碎|r|n当携带塔攻击眩晕怪物时,对其周围|cffFFFF80250|r范围内的所有目标造成额外法术伤害,数值相当于攻击力的|cffFFFF8020%|r。"
 Description="|cff9BA0D0几乎无法移动这块巨石, 它太重了。 |n|n|cffFFFF80等级：|r 21|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r伤害对杂兵|n|n|cffCCFF00粉碎|r|n当携带塔攻击眩晕怪物时, 对其周围|cffFFFF80250|r范围内的所有目标造成额外法术伤害, 数值相当于攻击力的 |cffFFFF8020%|r。 "
 [Q0NV]
-Name="|cff0080FFMonocle|r"
+Name="|cff0080FF寻宝目镜|r"
 Hotkey=K
-Tip="|cff0080FFMonocle|r"
-Ubertip="|cff9BA0D0Slow down and concentrate on searching items.|n|n|cffFFFF80Level:|r 39|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|cffFFFF80Specials:|r|n|cffFFFF00-7.5% |rattackspeed (|cffFFFF00-0.7%|r/lvl)|n|cffFFFF00+25% |ritem chance|n|cffFFFF00+25% |ritem quality"
-Description="|cff9BA0D0Slow down and concentrate on searching items.|n|n|cffFFFF80Level:|r 39|cffFFFF80|nAuthor:|r |cff000099Guennter|r|n|cffFFFF80Specials:|r|n|cffFFFF00-7.5% |rattackspeed (|cffFFFF00-0.7%|r/lvl)|n|cffFFFF00+25% |ritem chance|n|cffFFFF00+25% |ritem quality"
+Tip="|cff0080FF寻宝目镜|r"
+Ubertip="|cff9BA0D0放松，专心鉴宝。|n|n|cffFFFF80等级：|r 39|cffFFFF80|n作者：|r |cff000099Guennter|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-7.5% |r攻击速度 (|cffFFFF00-0.7%|r/级|n|cffFFFF00+25% |r物品获取率|n|cffFFFF00+25% |r物品品质率"
+Description="|cff9BA0D0放松，专心鉴宝。|n|n|cffFFFF80等级：|r 39|cffFFFF80|n作者：|r |cff000099Guennter|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-7.5% |r攻击速度 (|cffFFFF00-0.7%|r/级|n|cffFFFF00+25% |r物品获取率|n|cffFFFF00+25% |r物品品质率"
 [Q0O7]
 Name="|cffFF00BF过充射手|r"
 Hotkey=K
@@ -5740,11 +5742,11 @@ Tip="|cffFFFFFF攻击之爪|r"
 Ubertip="|cff9BA0D0增加攻击力|n|n|cffFFFF80等级：|r 46|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r攻击力"
 Description="|cff9BA0D0增加攻击力|n|n|cffFFFF80等级：|r 46|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25% |r攻击力"
 [Q0O0]
-Name="|cffFF00BFPocket Emporium|r"
+Name="|cffFF00BF口袋商店|r"
 Hotkey=K
-Tip="|cffFF00BFPocket Emporium|r"
-Ubertip="|cffFFFF80Level:|r 20|cffFFFF80|nAuthor:|r ShyGnome|n|n|cffCCFF00Purchase an Item|r|nSpend a charge to buy a random item for |cffFFFF80400|r gold. The item will be of |cffFFFF80251-500|r goldcost and |cff0080FFuncommon|r or higher rarity.|n|nGains a charge every |cffFFFF805th|r wave, up to a maximum of |cffFFFF805|r charges.|nThis ability is not affected by item quality.|n|cffA4AFD9Active:|n|cffFFFF001|cffFFFF80s cooldown|r, |cffFFFF000|cffFFFF80 range|r"
-Description="|cffFFFF80Level:|r 20|cffFFFF80|nAuthor:|r ShyGnome|n|n|cffCCFF00Purchase an Item|r|nSpend a charge to buy a random item for |cffFFFF80400|r gold. The item will be of |cffFFFF80251-500|r goldcost and |cff0080FFuncommon|r or higher rarity.|n|nGains a charge every |cffFFFF805th|r wave, up to a maximum of |cffFFFF805|r charges.|nThis ability is not affected by item quality.|n|cffA4AFD9Active:|n|cffFFFF001|cffFFFF80s cooldown|r, |cffFFFF000|cffFFFF80 range|r"
+Tip="|cffFF00BF口袋商店|r"
+Ubertip="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
+Description="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
 [Q0NR]
 Name="|cffFF00BF月光精华"
 Hotkey=K
@@ -6082,11 +6084,11 @@ Tip="|cffFFFF00墨斐之矛|r"
 Ubertip="|cff9BA0D0这枝长矛因其能连续刺击敌人要害而闻名。|n|n|cffFFFF80等级：|r 77|n|cffFFFF80作者：|r |cff99ccffKhlox-NL-|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.2|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF00+1|r x 多重暴击"
 Description="|cff9BA0D0这枝长矛因其能连续刺击敌人要害而闻名。 |n|n|cffFFFF80等级：|r 77|n|cffFFFF80作者：|r |cff99ccffKhlox-NL-|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+x0.2|r 暴击伤害 (|cffFFFF00+x0.02|r/级)|n|cffFFFF00+1|r x 多重暴击"
 [Q0QO]
-Name="|cffFF00BFHoly Hand Grenade|r"
+Name="|cffFF00BF神圣手雷|r"
 Hotkey=K
-Tip="|cffFF00BFHoly Hand Grenade|r"
-Ubertip="|cff9BA0D0Remember worms?|n|n|cffFFFF80Level:|r 69|cffFFFF80|nAuthor:|r cedi|n|n|cffCCFF00Big Badaboom|r|nWhenever the owner of this item attacks it has a |cffFFFF8015%|r chance to launch a holy missile which deals |cffFFFF8075%|r of the damage the last attack dealt as spell damage in |cffFFFF80400|r AoE around the target unit. Deals |cffFFFF8050%|r more damage against undead.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage"
-Description="|cff9BA0D0Remember worms?|n|n|cffFFFF80Level:|r 69|cffFFFF80|nAuthor:|r cedi|n|n|cffCCFF00Big Badaboom|r|nWhenever the owner of this item attacks it has a |cffFFFF8015%|r chance to launch a holy missile which deals |cffFFFF8075%|r of the damage the last attack dealt as spell damage in |cffFFFF80400|r AoE around the target unit. Deals |cffFFFF8050%|r more damage against undead.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage"
+Tip="|cffFF00BF神圣手雷|r"
+Ubertip="|cff9BA0D0还记得百战天虫吗？|n|n|cffFFFF80等级：|r 69|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00大型吧嗒嘣|r|n携带者攻击时有|cffFFFF8015%|r几率扔出一个神圣手雷,对目标|cffFFFF80400|r范围内所有单位造成法术伤害,数值相当于上次攻击造成伤害的|cffFFFF8075%|r。对亡灵造成|cffFFFF8050%|r额外伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 转化比例"
+Description="|cff9BA0D0还记得百战天虫吗？|n|n|cffFFFF80等级：|r 69|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00大型吧嗒嘣|r|n携带者攻击时有 |cffFFFF8015%|r 几率扔出一个神圣手雷, 对目标 |cffFFFF80400|r 范围内所有单位造成法术伤害, 数值相当于上次攻击造成伤害的 |cffFFFF8075%|r。对亡灵造成 |cffFFFF8050%|r 额外伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1%|r 转化比例"
 [Q0QN]
 Name="|cffFF00BF精髓之杖|r"
 Hotkey=K
@@ -6112,11 +6114,11 @@ Tip="|cffFF00BF愤怒之戒|r"
 Ubertip="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级：|r 60|n|cffFFFF80作者：|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒|cffFFFF801.5|r秒,增加|cffFFFF800.5%|r攻击速度,|cffFFFF801%|r攻击力和|cffFFFF800.25%|r法术伤害。效果可以叠加|cffFFFF80120|r次。"
 Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFFF80等级：|r 60|n|cffFFFF80作者：|r SirCoqaLot。 |n|cffFFFF80特殊能力：|r|n|n|cffCCFF00远古之怒|r|n攻击时会激怒 |cffFFFF801.5|r 秒 , 增加 |cffFFFF800.5%|r 攻击速度,  |cffFFFF801%|r 攻击力和 |cffFFFF800.25%|r 法术伤害。效果可以叠加 |cffFFFF80120|r 次。 "
 [Q0QJ]
-Name="|cffFF00BFChameleon Glaive|r"
+Name="|cffFF00BF变色龙阔剑|r"
 Hotkey=K
-Tip="|cffFF00BFChameleon Glaive|r"
-Ubertip="|cff9BA0D0This glaive is able to mimic every kind of weapon.|n|n|cffFFFF80Level:|r 60|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Launch Glaive|r|nThe carrier has a |cffFFFF8040%|r chance on attack to fire an extra projectile that deals the same amount of damage as a normal attack. Can crit.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance"
-Description="|cff9BA0D0This glaive is able to mimic every kind of weapon.|n|n|cffFFFF80Level:|r 60|cffFFFF80|nAuthor:|r |cff00CD00Boekie|r|n|n|cffCCFF00Launch Glaive|r|nThe carrier has a |cffFFFF8040%|r chance on attack to fire an extra projectile that deals the same amount of damage as a normal attack. Can crit.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+0.4%|r chance"
+Tip="|cffFF00BF变色龙阔剑|r"
+Ubertip="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
+Description="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
 [Q0QM]
 Name="|cffFF00BF至尊连击之刃|r"
 Hotkey=K

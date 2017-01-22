@@ -24,7 +24,7 @@ def word_cnt(s):
     return cnt
 
 if __name__ == '__main__':
-    for line in ifile:
+    for line in ifile:f
         if re.match(fmt, line):
             fq = line.find('"')
             lq = line.rfind('"')

@@ -117,9 +117,9 @@ Name=Phoenix Morphing (Egg Related)
 Bufftip=Phoenix
 Buffubertip="The power of the Phoenix unfolds."
 [Apxf]
-Name=凤凰火焰
-Tip=凤凰火焰
-Ubertip="射出流焰，点燃附近的敌人。"
+Name=Phoenix Fire
+Tip=Phoenix Fire
+Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
 [Bpxf]
 Bufftip=Phoenix Fire
 Buffubertip="This unit is being burned by Phoenix Fire; it will take damage over time."
@@ -544,9 +544,9 @@ Name="多重射击"
 Tip="多重射击"
 Ubertip="同时攻击 |cffFFFF805|r 个目标"
 [W126]
-Name=凤凰火焰
-Tip=凤凰火焰
-Ubertip="射出流焰，点燃附近的敌人。"
+Name=Phoenix Fire
+Tip=Phoenix Fire
+Ubertip="Fires down streams of flame, lighting nearby enemies on fire."
 [W0Q7]
 Name="多重射击"
 Tip="多重射击"
@@ -577,7 +577,7 @@ Researchhotkey=B
 Name="吸收能量"
 Tip="吸收能量"
 Ubertip="同时攻击|cffFFFF8010|r个目标，但是不造成伤害。每次击中时有|cffFFFF8010%|r几率获得能量，回复|cffFFFF8050|r法力，如果被攻击的目标有法力，目标会丢失|cffFFFF8050|r法力。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 法力|n|cffFFFF80+0.2%|r 几率"
-Untip="同时攻击 |cffFFFF8010|r 个目标，但是不造成伤害。击中时有几率回复法力。"
+Untip="同时攻击 |cffFFFF8010|r个目标，但是不造成伤害。击中时有几率回复法力。"
 [W0TW]
 Name="火势蔓延"
 Tip="火势蔓延"
@@ -585,7 +585,7 @@ Ubertip="同时攻击 |cffFFFF804|r 个目标。"
 [W15N]
 Name="灵魂之火"
 Tip="灵魂之火"
-Ubertip="同时攻击|cffffff808|r个目标，击中时有|cffffff805%|r几率点燃它的灵魂，每秒造成|cffffff801000|r法术伤害，持续|cffffff805|r秒。这个效果可以叠加。|n|n|cffff8000等级加成：|r|n|cffffff80+0.2%|r 几率|n|cffffff80+20|r 法术伤害"
+Ubertip="同时攻击|cffffff808|r个目标，击中时有|cffffff8020%|r几率点燃它的灵魂，每秒造成|cffffff801000|r法术伤害，持续|cffffff805|r秒。这个效果可以叠加。|n|n|cffff8000等级加成：|r|n|cffffff80+0.4%|r 几率|n|cffffff80+40|r 法术伤害"
 [W17C]
 Name="尼尔麦之眼"
 Tip="尼尔麦之眼"
@@ -760,7 +760,7 @@ Bufftip=燃烧
 Buffubertip=这个单位每次受到火焰系塔的攻击时都会燃烧得更剧烈，并且在死亡时会爆炸。
 [R005]
 Bufftip=照亮
-Buffubertip=这个单位被杀死后将会给予更多经验。
+Buffubertip=杀死这个怪物获得的经验得到了提升。
 EditorName=Illuminated
 [R002]
 Bufftip=酸性涂层
@@ -776,7 +776,7 @@ Buffubertip=这个单位持续受到伤害。
 EditorName=Skink Poison
 [R00I]
 Bufftip=灵魂散落
-Buffubertip=这座塔的攻击速度降低。
+Buffubertip=这个单位受到额外的法术伤害。
 [R00G]
 Bufftip=毒性皮肤
 Buffubertip=这座塔使用毒性攻击
@@ -806,7 +806,7 @@ Bufftip=毒气
 Buffubertip=这个单位吸入了毒气，每秒受到伤害。
 [R00M]
 Bufftip=暴风雪
-Buffubertip=这个单位被暴风雪击中。
+Buffubertip=这个单位受到了暴风雪的攻击。
 EditorName=Blizzard
 EditorSuffix=meins
 [R00K]
@@ -835,7 +835,7 @@ Bufftip=嗜血
 Buffubertip=这座塔的暴击伤害和攻击速度提高。
 EditorName=Bloodlust
 [R02C]
-Bufftip=疲惫
+Bufftip=疲劳
 Buffubertip=这个单位的攻击速度降低了。
 [R02A]
 Bufftip=刺针扫射
@@ -849,12 +849,12 @@ EditorName=Blizzard (Caster)
 EditorSuffix=meins
 [R02S]
 Bufftip=暴风雪
-Buffubertip=这个单位被暴风雪击中。
+Buffubertip=这个单位受到了暴风雪的攻击。
 EditorName=Blizzard
 EditorSuffix=meins
 [R034]
 Bufftip=放血
-Buffubertip=这个单位的攻击速度降低。
+Buffubertip=这个单位的攻击速度提高。
 [R02P]
 Bufftip=影刃
 Buffubertip=这个单位在下次攻击之前获得非常高的攻击速度加成，下次攻击必定暴击。
@@ -906,7 +906,7 @@ Buffubertip=这个单位的护甲正在熔化。
 EditorName=Phoenixfire
 [R01R]
 Bufftip=暴风雪
-Buffubertip=这个单位被暴风雪击中。
+Buffubertip=这个单位受到了暴风雪的攻击。
 EditorName=Blizzard
 EditorSuffix=meins
 [R023]
@@ -944,7 +944,7 @@ Buffubertip=这个单位持续受到伤害，并且具有很高的传染性。
 EditorName=Plague
 [R04B]
 Bufftip=暴风雪
-Buffubertip=这个单位被暴风雪击中。
+Buffubertip=这个单位受到了暴风雪的攻击。
 EditorName=Blizzard
 EditorSuffix=meins
 [R04A]
@@ -1010,14 +1010,14 @@ Bufftip=放血
 Buffubertip=这个单位的攻击速度降低。
 [R036]
 Bufftip=献祭
-Buffubertip=这个单位的攻击力降低。
+Buffubertip=这个单位的攻击力提高。
 [R03C]
 Bufftip=神圣研究
 Buffubertip=这个单位受到了神圣研究的影响，它提供的经验值提高。
 EditorName=Divine Research
 [R03A]
 Bufftip=愤怒之火
-Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
+Buffubertip=这个单位受到了愤怒之火的影响，它的暴击率提高了。
 EditorName=Fire of Fury
 [R03B]
 Bufftip=矮人打磨师
@@ -1097,7 +1097,7 @@ Bufftip=适应
 Buffubertip=暂停转换效果。
 [R069]
 Bufftip=变体攻击
-Buffubertip=这个单位持续受到法术伤害。
+Buffubertip=这个单位的移动速度降低，并且受到来自自然系塔的伤害提高。
 [R06F]
 Bufftip=魔法孢子
 Buffubertip=这座塔的法术伤害和触发几率提高。
@@ -1194,14 +1194,14 @@ EditorName=Thorned
 [R05E]
 Bufftip=守护者之怒
 Buffubertip=这个单位受到严重的减速效果。
-EditorName=Protectress Wrath
+EditorName=守护者之怒
 [R05F]
 Bufftip=攻其不备
 Buffubertip=这座塔的暴击率提高。
-EditorName=Strike the Unprepared
+EditorName=攻其不备
 [R05C]
 Bufftip=恶魔赦令
-Buffubertip=这个单位受到了恶魔赦令的影响。
+Buffubertip=这个单位的法力回复速度提高了。
 [R05D]
 Bufftip=恶魔赦令
 Buffubertip=这个单位受到了恶魔赦令的影响。
@@ -1225,7 +1225,7 @@ Buffubertip=这个单位受到了自然的恩赐，它的攻击有几率缠绕�
 EditorName=Gift of Nature
 [R05G]
 Bufftip=愤怒之火
-Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
+Buffubertip=这个单位受到了愤怒之火的影响，它的暴击率提高了。
 EditorName=Fire of Fury
 [R05U]
 Bufftip=最终防线
@@ -1295,7 +1295,7 @@ Buffubertip=这个单位受到了野性狂怒的影响，它的每秒伤害提�
 EditorName=Beastial Rage
 [R08O]
 Bufftip=愤怒之火
-Buffubertip=这个单位受到愤怒之火的影响，暴击率提高了。
+Buffubertip=这个单位受到了愤怒之火的影响，它的暴击率提高了。
 EditorName=Flames of Fury
 [R090]
 Bufftip=玩耍
@@ -1358,7 +1358,7 @@ Bufftip=导管
 Buffubertip=受到导管的影响，属性提高。
 [R07F]
 Bufftip=释放
-Buffubertip=触发几率提高。
+Buffubertip=法术暴击伤害提高。
 [R07D]
 Bufftip=蒸汽能量
 Buffubertip=这座塔的攻击力和攻击速度提高。

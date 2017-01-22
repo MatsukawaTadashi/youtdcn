@@ -162,7 +162,7 @@ Buffubertip=这个单位被充能，它的攻击速度提高了。
 EditorName=Charged
 [R047]
 Bufftip=双修
-Buffubertip=这座塔的物理暴击率提高。
+Buffubertip=这座塔的法术暴击率提高。
 [R04L]
 Bufftip=士气提升
 Buffubertip=这个单位受到了士气提升效果的影响，它的攻击力和攻击速度提高了。
