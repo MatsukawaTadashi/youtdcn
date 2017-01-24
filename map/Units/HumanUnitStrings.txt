@@ -1375,7 +1375,7 @@ Ubertip="Basic worker unit. Can harvest gold and lumber, build structures and Re
 Name="|cffFF00BF暴风焦点|r"
 Hotkey=T
 Tip="|cffFF00BF暴风焦点|r"
-Ubertip="|cff9BA0D0高级风暴塔，能突出防空塔的作用。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF003907|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001600|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFF0000只能攻击空军|r|n|cffFFFF00+10%|r 伤害对空军|n|n|cffCCFF00阵风|r|n附近的塔获得攻击力提升(基于他们拥有的对空伤害加成)。|n|n|cffCCFF00冷冻阵风|r|n强化范围内某座塔受到的'阵风'效果。|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80 法力|r，|cffFFFF00800|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0高级风暴塔，将防空塔的作用发挥到极致。|n|n|cffFFFF80作者：|r SirCoqaLot.|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力：|cffFFFF003907|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF001600|r 射程|n|cffFFFF80法力：|cffFFFF0020|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFF0000只能攻击空军|r|n|cffFFFF00+10%|r 伤害对空军|n|n|cffCCFF00阵风|r|n附近的塔获得攻击力提升(基于他们拥有的对空伤害加成)。|n|n|cffCCFF00冷冻阵风|r|n强化范围内某座塔受到的'阵风'效果。|n|cffA4AFD9主动释放：|n|cffFFFF0015|cffFFFF80 法力|r，|cffFFFF00800|cffFFFF80 射程|r"
 [v0GI]
 Name="|cffFFFF00极度霜冻冰屋|r"
 Hotkey=T

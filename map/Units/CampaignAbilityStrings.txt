@@ -1,4 +1,4 @@
-[ANha]
+﻿[ANha]
 Name=Harvest
 Tip=|cffffcc00G|rather
 Ubertip="Mines gold from gold mines and harvests lumber from trees."
@@ -30,12 +30,12 @@ Hotkey=C
 [XCU3]
 Name="精炼"
 Tip="精炼"
-Ubertip="将相同品质的|cffffff005|r个装备|n合成为|cffffff001|r个品质高一级的装备。成品的等级是素材的平均等级|n加上|cffffff000|r到|cffffff0020|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Ubertip="将相同品质的|cffffff005|r个装备合成为|cffffff001|r个品质高一级的装备。|n成品的等级是素材的平均等级加上|cffffff000|r到|cffffff0020|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
 Hotkey=R
 [XCU2]
 Name="重组"
 Tip="重组"
-Ubertip="将相同品质的|cffffff003|r个装备|n合成为|cffffff001|r个相同品质的装备。成品的等级是素材的平均等级|n加上|cffffff005|r到|cffffff0025|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Ubertip="将相同品质的|cffffff003|r个装备合成为|cffffff001|r个相同品质的装备。|n成品的等级是素材的平均等级加上|cffffff005|r到|cffffff0025|r。|n有几率出现比较幸运的合成或者是比较悲剧的合成！|n|n|cffff8000如果没有符合目标等级的装备，会生成最接近目标等级的更低级的装备！|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
 Hotkey=E
 [XCU5]
 Name="注入"
@@ -45,7 +45,7 @@ Hotkey=S
 [XCU4]
 Name="沉淀"
 Tip="沉淀"
-Ubertip="将相同品质的|cffffff006|r个消耗品|n合成为|cffffff001|r个品质高两级的装备。成品的等级完全随机。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Ubertip="将相同品质的|cffffff006|r个消耗品合成为|cffffff001|r个品质高两级的装备。成品的等级完全随机。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
 Hotkey=A
 [XCU6]
 Name="熔炼"
@@ -55,12 +55,12 @@ Hotkey=D
 [XCU1]
 Name="提纯"
 Tip="提纯"
-Ubertip="将相同品质的|cffffff004|r个消耗品|n合成为|cffffff001|r个品质高一级的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Ubertip="将相同品质的|cffffff004|r个消耗品合成为|cffffff001|r个品质高一级的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品存放区域按照等级和品质由低到高拾取符合条件的物品。|r"
 Hotkey=W
 [XCU0]
 Name="融合"
 Tip="融合"
-Ubertip="将相同品质的|cffffff002|r个消耗品|n合成为|cffffff001|r个相同品质的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品区域按照等级和品质由低到高拾取符合条件的物品。|r"
+Ubertip="将相同品质的|cffffff002|r个消耗品合成为|cffffff001|r个相同品质的消耗品。|r|n|n|cff648bcb点击此按钮，将从物品区域按照等级和品质由低到高拾取符合条件的物品。|r"
 Hotkey=Q
 [XCUB]
 Name="合成"

@@ -2930,7 +2930,7 @@ Ubertip="击中敌人时使其残废。减速|cffFFFF8010%|r持续|cffFFFF805|r�
 [W13A]
 Name="v0J2 On Attack"
 Tip="我即为天平(I Scale)"
-Ubertip="这座塔在每一波结束时，增加|cffFFFF801.66%|r法术伤害，法术暴击伤害和|cffFFFF800.125%|r法术暴击几率。加成会按照当前波数继承。"
+Ubertip="这座塔在每一波结束时，增加|cffFFFF801.66%|r法术伤害，法术暴击伤害和|cffFFFF800.125%|r法术暴击几率。从当前波数开始计算。"
 [W0RB]
 Name="v0EI On Attack"
 Tip="终极斗士"

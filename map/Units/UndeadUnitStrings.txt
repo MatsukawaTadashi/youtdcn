@@ -1,7 +1,7 @@
-[P005]
+﻿[P005]
 Name="冒险家"
 Propernames=瑟罗丁 金锤
-Tip="选择冒险家"
+Tip="选择 冒险家"
 Ubertip="|cffAEAEAE瑟罗丁一直在寻找他的下一件藏品，他总是在其他人只能找到一堆垃圾的地方发现珍贵的物品。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+15% 物品获取率|n+20% 物品品质率|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -9,7 +9,7 @@ Hotkey=D
 [P004]
 Name="皇家杀手"
 Propernames=剑之凯特
-Tip="选择皇家杀手"
+Tip="选择 皇家杀手"
 Ubertip="|cffAEAEAE凯特非常擅长刺杀那些有权有势的家伙。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+15% 伤害对Boss|n+1% 伤害对Boss/级|n+25% 伤害对精英|n+2% 物品品质率/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-8% 伤害对小兵|n-12% 伤害对杂兵|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -17,7 +17,7 @@ Hotkey=D
 [P007]
 Name="慈悲女巫"
 Propernames=利兹 吐特
-Tip="选择慈悲女巫"
+Tip="选择 慈悲女巫"
 Ubertip="|cffAEAEAE上古时期最强大的女巫。和姐妹们不同，她非常厌恶暴力。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+100% 法力值|n+50% 法力回复|n+2% 法力回复/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-25% 法术伤害|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -25,7 +25,7 @@ Hotkey=D
 [P006]
 Name="先知"
 Propernames=古罗克 塔祖
-Tip="选择先知"
+Tip="选择 先知"
 Ubertip="|cffAEAEAE古罗克能感知到隐藏着的生物，并且将这个能力授予了他的随从们。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00所有塔获得700范围的真实视野|n+10% 法术伤害|n+75 所有塔的攻击距离|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -33,7 +33,7 @@ Hotkey=D
 [P001]
 Name="剑圣"
 Propernames=伊索特
-Tip="选择剑圣"
+Tip="选择 剑圣"
 Ubertip="|cffAEAEAE剑圣永远都是朝着敌人的要害挥刀！|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+8% 暴击几率|n+40% 暴击伤害|n+1 多重暴击数|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -41,7 +41,7 @@ Hotkey=D
 [P000]
 Name="七空女王"
 Propernames=米亚
-Tip="选择七空女王"
+Tip="选择 七空女王"
 Ubertip="|cffAEAEAE天空只属于米亚一个人，没有任何人可以夺取。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00ff00+10% 攻击速度|n+30% 伤害对空军|n+2% 伤害对空军/级|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -57,7 +57,7 @@ Hotkey=D
 [P002]
 Name="智慧使"
 Propernames=水骑士
-Tip="选择智慧使"
+Tip="选择 智慧使"
 Ubertip="|cffAEAEAE有什么问题的话，尽管来问水骑士好了！|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+60% 经验获取率|n+1% 经验获取率/级|r|n|cffFFFF00劣势：|r|n|cffFF0000-15% 基础攻击力|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -73,7 +73,7 @@ Hotkey=D
 [P008]
 Name="灵魂守护者"
 Propernames=马恩 灵魂之蹄
-Tip="选择灵魂守护者"
+Tip="选择 灵魂守护者"
 Ubertip="|cffAEAEAE守护者保护着他的教会不受邪恶势力的侵袭，同时用他那风度的礼节默默支持着教会的发展。|r|n|n级别：|cffFF9900高手|r|n|n|cffFFFF00优势：|r|n|cff00FF00-30% 负面状态持续时间|n+60% 增益状态持续时间|n+10% 伤害对杂兵|r|n|cffFFFF00劣势：|r|n|cffFF0000-10% 伤害对Boss|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
@@ -98,7 +98,7 @@ Hotkey=D
 Name="现实主义者"
 Propernames=卡尔
 Tip="选择 现实主义者"
-Ubertip="|cffaeaeae碰运气！|n-从不(Never)！|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+15% 基础攻击力|n+1.5% 基础攻击力/级|n+15% 法术伤害|n+1.5% 法术伤害/级|n+150% 法力回复|r|n|cffffff00劣势：|r|n|cffff0000-50% 触发几率|n-20% 暴击几率|n-20% 法术暴击几率|r"
+Ubertip="|cffaeaeae碰运气！|n-从不！|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+15% 基础攻击力|n+1.5% 基础攻击力/级|n+15% 法术伤害|n+1.5% 法术伤害/级|n+150% 法力回复|r|n|cffffff00劣势：|r|n|cffff0000-50% 触发几率|n-20% 暴击几率|n-20% 法术暴击几率|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
@@ -122,7 +122,7 @@ Hotkey=D
 Name="地精炼金术士"
 Propernames=双下巴格林特
 Tip="选择 地精炼金术士"
-Ubertip="|cffaeaeae地精炼金术士的心中充斥着对于财富的极大渴望，这使得他相当缺乏战斗技术。|r|n|n|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+20% 金钱获取率|n+15% 收入|n+2% 利息|n+35% 物品品质率|n+2% 物品品质率/级|r|n|cffffff00劣势：|r|n|cffff0000-35% 增益状态持续时间|r|n|cffff0000+25% 负面状态持续时间|n-15% 攻击速度|r"
+Ubertip="|cffaeaeae地精炼金术士的心中充斥着对于财富的极大渴望，这使得他相当缺乏战斗技术。|r|n|n级别：|cffff3300专家|r|n|n|cffffff00优势：|r|n|cff00ff00+20% 金钱获取率|n+15% 收入|n+2% 利息|n+35% 物品品质率|n+2% 物品品质率/级|r|n|cffffff00劣势：|r|n|cffff0000-35% 增益状态持续时间|r|n|cffff0000+25% 负面状态持续时间|n-15% 攻击速度|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
@@ -145,7 +145,7 @@ Hotkey=D
 [P013]
 Name="铁娘子"
 Propernames=艾米利亚
-Tip="选择铁娘子"
+Tip="选择 铁娘子"
 Ubertip="|cffAEAEAE艾米利亚在三岁时就拥有了神秘的治疗能力。她的母亲是一位强大的法师。|r|n|n级别：|cff80FF00新手|r|n|n|cffFFFF00优势：|r|n|cff00FF00+50% 起始生命|n当生命低于50%，每一波结束时回复1%生命。|n当生命低于10%，每一波结束时回复2%生命。"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight

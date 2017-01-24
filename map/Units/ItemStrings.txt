@@ -4983,8 +4983,8 @@ Description="|cff9BA0D0连砍树都很吃力的一把斧头。 |n|n|cffFFFF80等
 Name="|cffFF00BF暴击之刃|r"
 Hotkey=K
 Tip="|cffFF00BF暴击之刃|r"
-Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
-Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,暴击几率重置。加成与物品绑定。"
+Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,加成重置。加成与物品绑定。"
+Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,加成重置。加成与物品绑定。"
 [Q0KD]
 Name="|cff0080FF神秘贝壳|r"
 Hotkey=K
@@ -5979,8 +5979,8 @@ Description="|cff9BA0D0宝石镶在皇冠上, 如同由血所铸。 |n|n|cffFFFF
 Name="|cffFFFF00力场产生器|r"
 Hotkey=K
 Tip="|cffFFFF00力场产生器|r"
-Ubertip="|cff9BA0D0消除区域内所有的负面魔法。 |n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 负面状态持续时间"
-Description="|cff9BA0D0消除区域内所有的负面魔法。 |n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 负面状态持续时间"
+Ubertip="|cff9BA0D0消除区域内所有的负面魔法。 |n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间|cffFFFF8015%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 负面状态持续时间"
+Description="|cff9BA0D0消除区域内所有的负面魔法。 |n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00力场|r|n降低携带塔|cffFFFF80200|r范围内所有塔的负面状态持续时间|cffFFFF8015%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80-1%|r 负面状态持续时间"
 [Q0PQ]
 Name="|cff0080FF影脚斗篷|r"
 Hotkey=K
@@ -6117,8 +6117,8 @@ Description="|cff9BA0D0强大的魔力沉睡在这枚戒指之中。 |n|n|cffFFF
 Name="|cffFF00BF变色龙阔剑|r"
 Hotkey=K
 Tip="|cffFF00BF变色龙阔剑|r"
-Ubertip="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
-Description="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
+Ubertip="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击，但是不触发特效。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
+Description="|cff9BA0D0这把阔剑能够模仿任意一把武器|n|n|cffFFFF80等级：|r 60|cffFFFF80|n作者：|r |cff00CD00Boekie|r|n|n|cffCCFF00发射阔剑|r|n携带塔攻击时有|cffFFFF8040%|r几率发射一个额外的投射物,造成和普通攻击相同的伤害。这个效果可以暴击，但是不触发特效。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r几率"
 [Q0QM]
 Name="|cffFF00BF至尊连击之刃|r"
 Hotkey=K

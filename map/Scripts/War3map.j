@@ -6056,7 +6056,7 @@ set d=d+"|cff80FF00触发几率:|r 修正塔触发'有xx%几率'类型能力(包
 set d=d+"|cff80FF00物品获取率:|r 修正塔击杀时掉落物品的概率。 |n"
 set d=d+"|cff80FF00物品品质率:|r 修正塔击杀并掉落物品时，物品判定为罕见、稀有、独特品质的概率。|n"
 set d=d+"|cff80FF00经验/金钱获取率:|r 修正塔获得的经验、金钱数量。不会影响通过转移、均分等效果。|n"
-set d=d+"|cff80FF00多重暴击:|r塔有几率在单次攻击中判定产生多次暴击。第一次之后的暴击率会依次衰减20%，伤害加法叠加。例如: 某座塔多重暴击为3，它的暴击几率为10%，暴击伤害为*2。如果第一次暴击判定成功，那么就会有8%几率使这次暴击的倍率提升至*3。如果两次均判定成功，那么就会有6.4%几率使得这次暴击的倍率提升至*4。"
+set d=d+"|cff80FF00多重暴击:|r塔有几率在单次攻击中判定产生多次暴击。第一次之后的暴击率会依次衰减20%，伤害加法叠加。例如：某座塔多重暴击为3，它的暴击几率为10%，暴击伤害为*2。如果第一次暴击判定成功，那么就会有8%几率使这次暴击的倍率提升至*3。如果两次均判定成功，那么就会有6.4%几率使得这次暴击的倍率提升至*4。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNGuardTower.blp")
 call QuestSetRequired(q,true)
@@ -6121,12 +6121,12 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"状态组")
-set d="状态组可让玩家指定某些塔的增益技能释放的目标。 玩家最多只能同时设置5个状态组(1可以替换为2~5)。 状态组可由下列指令来操纵：|n|n"
-set d=d+"|cff80FF00-add 1|r: 将选中的塔添加到状态组1。|n"
-set d=d+"|cff80FF00-remove 1|r: 将选中的塔从状态组1中移除。|n"
-set d=d+"|cff80FF00-show 1|r: 显示状态组1中的塔。|n"
-set d=d+"|cff80FF00-clear 1|r: 移除状态组1中的所有塔。|n"
-set d=d+"|cff80FF00-set 1|r: 强制选中的塔只对状态组1中的塔释放增益。|n"
+set d="状态组可让玩家指定某些塔的增益技能释放的目标。 玩家最多只能同时设置5个状态组(<i>可以替换为1~5)。 状态组可由下列指令来操纵：|n|n"
+set d=d+"|cff80FF00-add <i>|r: 将选中的塔添加到状态组<i>。|n"
+set d=d+"|cff80FF00-remove <i>|r: 将选中的塔从状态组<i>中移除。|n"
+set d=d+"|cff80FF00-show <i>|r: 显示状态组<i>中的塔。|n"
+set d=d+"|cff80FF00-clear <i>|r: 移除状态组<i>中的所有塔。|n"
+set d=d+"|cff80FF00-set <i>|r: 强制选中的塔只对状态组<i>中的塔释放增益。|n"
 set d=d+"|cff80FF00-reset|r: 允许选中的塔随机对任何塔释放增益。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\WorldEditUI\\Editor-MultipleUnits.blp")
@@ -20602,14 +20602,14 @@ call CKv(oKv,"armor-spellres")
 set oKv=CDv("魔法抗性","魔抗","|cffA8FFFF",.88,8,$82,false)
 set qU[(oKv)]=("这波敌人受到的法术伤害减少 50%")
 call CLv(oKv,true,true,true,true)
-set QU[(oKv)]=("普通的攻击伤害有助于打击抗魔怪,所以不要只依赖法术攻击!")
+set QU[(oKv)]=("普通攻击和物理伤害有助于打击抗魔怪,所以不要只依赖法术!")
 call CHv(oKv,62,-.5)
 call CKv(oKv,"armor-spellres")
 call CKv(oKv,"spellres")
 set oKv=CDv("强化魔法抗性","魔抗+","|cff5BFFFF",.75,24,$82,false)
 set qU[(oKv)]=("这波敌人减少受到的 80% 的法术伤害")
 call CLv(oKv,true,true,true,true)
-set QU[(oKv)]=("普通的攻击伤害有助于打击抗魔怪,所以不要只依赖法术攻击!")
+set QU[(oKv)]=("普通攻击和物理伤害有助于打击抗魔怪,所以不要只依赖法术!")
 call CHv(oKv,62,-.8)
 call CKv(oKv,"armor-spellres")
 call CKv(oKv,"spellres")
@@ -20723,7 +20723,7 @@ set QU[(oKv)]=("光环和普通攻击能有效对付他们.")
 call CHv(oKv,82,-.9)
 call CKv(oKv,"mech-ethereal")
 set oKv=CDv("缚法","缚法","|cff408080",.8,48,$96,true)
-set qU[(oKv)]=("每五秒他们会束缚1100范围内三座有法力值的塔, 燃烧每座塔至多30%的法力值并沉默5秒. 每次束缚耗费怪物50点法力值.")
+set qU[(oKv)]=("每五秒他们会束缚1100范围内三座有法力值的塔, 燃烧每座塔至多30%的法力值并沉默其5秒. 每次束缚耗费怪物50点法力值.")
 call CLv(oKv,true,true,false,true)
 set CQv=Aav()
 set xw[(oKv)]=(CQv)
@@ -20732,7 +20732,7 @@ call CJv((oKv),'d',.0)
 call Anv(CQv,(31),3.)
 call CKv(oKv,"demana")
 set oKv=CDv("鲜美","鲜美","|cffff8c00",1.15,80,'d',true)
-set qU[(oKv)]=("精英和bosses在死亡后会掉落额外的食物.")
+set qU[(oKv)]=("精英和boss在死亡后会掉落额外的食物.")
 call CLv(oKv,true,true,false,true)
 set CQv=Aav()
 set xw[(oKv)]=(CQv)
@@ -20789,7 +20789,7 @@ call CKv(oKv,"seccha")
 call CKv(oKv,"relic")
 call CKv(oKv,"gravid-ethereal")
 set oKv=CDv("守卫者","守卫者","|cffff4500",.65,64,$F0,true)
-set qU[(oKv)]=("当周围有怪物死亡, 精英怪物会对击杀者释放诅咒, 降低物理和法术伤害130%并降低多重暴击.")
+set qU[(oKv)]=("当周围有低级怪物死亡时, 精英怪物会减少100%所受到的伤害并对击杀者释放诅咒, 降低其物理和法术伤害 130% 并降低多重暴击.")
 call CLv(oKv,true,true,false,false)
 set QU[(oKv)]=("首先击杀这些精英,或者沉默他们!")
 set CQv=Aav()
@@ -20802,7 +20802,7 @@ call c5v()
 call CKv(oKv,"regen-protector")
 call c6v()
 set oKv=CDv("魔法盾","魔法盾","|cff0080FF",.45,28,$B4,false)
-set qU[(oKv)]=("这些怪物使用法力最多吸收所受到伤害的80%. 它们的法力值越少，伤害减免越低。他们在没有法力时会爆炸, 不留下尸体.")
+set qU[(oKv)]=("这些怪物使用法力最多吸收所受到伤害的80%. 它们的法力值越少，伤害减免越低。他们在生命或法力归零时会爆炸而死，不留下尸体。")
 call CLv(oKv,true,true,false,false)
 set QU[(oKv)]=("法力燃烧对付他们非常有效.")
 set CQv=Aav()
@@ -20817,7 +20817,7 @@ call CKv(oKv,"mshield")
 call CKv(oKv,"mshield-speed")
 call CKv(oKv,"corpse")
 set oKv=CDv("魔法盾+","魔法盾+","|cff0080FF",.25,80,'x',false)
-set qU[(oKv)]=("这些怪物具有最多80%的伤害减免，它们的法力值越少，伤害减免越低。他们在没有法力时会爆炸, 不留下尸体.")
+set qU[(oKv)]=("这些怪物具有最多80%的伤害减免，它们的法力值越少，伤害减免越低。他们在生命或法力归零时会爆炸而死，不留下尸体。")
 call CLv(oKv,true,true,false,false)
 set QU[(oKv)]=("法力燃烧对付他们非常有效.")
 set CQv=Aav()
@@ -20832,7 +20832,7 @@ call CKv(oKv,"mshield")
 call CKv(oKv,"mshield-speed")
 call CKv(oKv,"corpse")
 set oKv=CDv("通灵","通灵","|cff59AA59",.75,50,$DC,true)
-set qU[(oKv)]=("每当附近的低级怪物死亡, 精英怪物将会消耗法力在3秒后将它转化为一具骷髅.")
+set qU[(oKv)]=("低级怪物死亡3秒后, 附近的精英怪物将会消耗法力将它转化为一具骷髅.")
 call CLv(oKv,true,true,false,false)
 set QU[(oKv)]=("击杀精英或者摧毁尸体都可以避免骷髅产生!")
 set CQv=Aav()
@@ -20846,7 +20846,7 @@ call ABv(CQv,at)
 call c8v()
 call CKv(oKv,"corpse")
 set oKv=CDv("净化","净化","|cffC0C0C0",.5,32,'d',false)
-set qU[(oKv)]=("这个敌人受到攻击时有10%几率驱散攻击塔上的两个可驱散增益效果同时在4秒内降低其150%攻击速度.")
+set qU[(oKv)]=("这个敌人受到攻击时有10%几率驱散攻击者身上的两个可驱散增益效果，同时在4秒内降低其150%攻击速度.")
 call CLv(oKv,true,true,true,true)
 set QU[(oKv)]=("沉默会阻止怪物使用这个能力!")
 set CQv=Aav()
@@ -20984,7 +20984,7 @@ set mQ[(wx)]=(m)
 endfunction
 function C4v takes nothing returns nothing
 set Wx=nkv(1)
-set qj[Qj[(Wx)]+(0)]=("淘金加成")
+set qj[Qj[(Wx)]+(0)]=("暴击加成")
 endfunction
 function C5v takes nothing returns nothing
 local integer m=(s6())
