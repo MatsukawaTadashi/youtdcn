@@ -504,7 +504,7 @@ Ubertip="|cff9BA0D0这座塔使用火箭攻击，造成溅射伤害。对杂兵�
 Name="|cff0080FF极地漫游者|r"
 Hotkey=T
 Tip="|cff0080FF极地漫游者|r"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r |n|cffFFFF80攻击力： |cffFFFF001338|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r |n|cffFFFF80攻击力： |cffFFFF001338|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
 [v0DE]
 Name="|cff0080FF能量放大器|r"
 Hotkey=T
@@ -624,7 +624,7 @@ Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF8
 Name="|cffFFFF00虚空蜉蝣|r"
 Hotkey=T
 Tip="|cffFFFF00虚空蜉蝣|r"
-Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50%|r 经验获取率 (|cffFFFF00-6%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+12%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。|n|n|cffCCFF00"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50%|r 经验获取率 (|cffFFFF00-6%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+12%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。"
 [v0CQ]
 Name="|cff0080FF巨型元素幽魂|r"
 Hotkey=T
@@ -1630,7 +1630,7 @@ Ubertip="|cff9BA0D0喂食灵魂以释放出他的全部力量。|n|n|cffFFFF80�
 Name="|cffFFFF00虚空巨龙|r"
 Hotkey=T
 Tip="|cffFFFF00虚空巨龙|r"
-Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-80%|r 经验获取率 (|cffFFFF00-10%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+20%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每几秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。|n|n|cffCCFF00"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-80%|r 经验获取率 (|cffFFFF00-10%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+20%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每几秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。"
 [v0IT]
 Name="|cffFFFF00无情地穴|r"
 Hotkey=T
@@ -1740,7 +1740,7 @@ Ubertip="|cff9BA0D0这只战犬又在吼叫了。|n|n|cffFFFF80作者：|r Dream
 Name="|cffFF00BF魔菇|r"
 Hotkey=T
 Tip="|cffFF00BF魔菇|r"
-Ubertip="|cff9BA0D0一个巨大无比的蘑菇，散发出神秘力量。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001736|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0060|r (+|cffFFFF005|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+0.5|r 法力回复/级|n|n|cffCCFF00真菌打击|r|n 释放出神入化后，它造成的攻击伤害会转化成法术伤害。|n|n|cffCCFF00急速生长|r|n该塔每隔一段时间有几率永久增加他的法术伤害。|n|n|cffCCFF00出神入化|r|n对范围内的一座塔释放状态，增加其法术伤害和触发几率。释放时同时触发真菌打击。|n|cffA4AFD9主动释放：|n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF003|cffFFFF80秒 冷却|r，|cffFFFF00500|cffFFFF80 范围"
+Ubertip="|cff9BA0D0一个巨大无比的蘑菇，散发出神秘力量。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF001736|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力：|cffFFFF0060|r (+|cffFFFF005|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+0.5|r 法力回复/级|n|n|cffCCFF00真菌打击|r|n 释放出神入化后，它造成的攻击伤害会转化成法术伤害。|n|n|cffCCFF00急速生长|r|n该塔每隔一段时间有几率永久增加他的法术伤害。|n|n|cffCCFF00出神入化|r|n对范围内的一座塔释放状态，增加其法术伤害和触发几率。释放时同时触发真菌打击。|n|cffA4AFD9主动释放：|n|cffFFFF0050|cffFFFF80 法力|r，|cffFFFF003|cffFFFF80秒 冷却|r，|cffFFFF00500|cffFFFF80 范围|r"
 [v0IL]
 Name="|cffFFFF00死亡豪猪|r"
 Hotkey=T
@@ -2733,7 +2733,7 @@ Ubertip="|cff9BA0D0强烈的阵风时常在这些废墟周围徘徊。|n|n|cffFF
 Name="|cff0080FF冰原漫步者|r"
 Hotkey=T
 Tip="|cff0080FF冰原漫步者|r"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r|n|cffFFFF80攻击力： |cffFFFF00111|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF00111|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
 [v02V]
 Name="|cff0080FF雷鸣犬|r"
 Hotkey=T
@@ -2935,9 +2935,9 @@ Hotkey=T
 Tip="|cffFFFFFF闹鬼废墟|r"
 Ubertip="|cff9BA0D0这座塔在攻击时有几率降低目标的移动速度。|n|n|cffFFFF80作者：|r Velex|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻击力：|cffFFFF00510|r 每秒伤害，|cff80FF00精髓|r|r，|cffFFFF00900|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00萎缩|r|n降低目标的移动速度。"
 [v05Y]
-Name="|cff0080FF狂怒精髓"|r"
+Name="|cff0080FF狂怒精髓|r"
 Hotkey=T
-Tip="|cff0080FF狂怒精髓"|r"
+Tip="|cff0080FF狂怒精髓|r"
 Ubertip="|cff9BA0D0一颗幽暗的心脏，使敌人中毒。|n|n|cffFFFF80作者：|r Killamasta|n|cffFFFF80元素：|cFF8A5300黑暗|r|n|cffFFFF80攻 击： |cffFFFF0031|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00弹跳攻击：|n  |cffFFFF004|r 目标|n|n|cffCCFF00蚀心剧毒|r|n持续造成伤害。"
 [v05Z]
 Name="|cff0080FF娴熟女巫|r"
@@ -3479,7 +3479,7 @@ Ubertip="|cff9BA0D0现在只剩豆芽火的沉睡间歇泉。|n|n|cffFFFF80作�
 Name="|cff0080FF雪地漫步者|r"
 Hotkey=T
 Tip="|cff0080FF雪地漫步者|r"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r |n|cffFFFF80攻击力： |cffFFFF00446|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r |n|cffFFFF80攻击力： |cffFFFF00446|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+4%|r 法力回复/级|n|n|cffCCFF00狂暴|r|n每次使用冰雪之爪都将永久提高攻击速度。|n|n|cffCCFF00冰雪之爪|r|n减速并持续伤害目标。|n|cffA4AFD9主动释放：|n|cffFFFF0010|cffFFFF80 法力|r，|cffFFFF002|cffFFFF80秒 冷却|r，|cffFFFF00850|cffFFFF80 射程|r"
 [v06V]
 Name="|cffFFFFFF大型魔法废墟|r"
 Hotkey=T

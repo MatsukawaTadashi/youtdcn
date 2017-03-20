@@ -513,7 +513,7 @@ Ubertip="攻击时有|cffFFFF8019.5%|r几率释放连锁闪电，对每个目标
 [W02M]
 Name="v01Q On Damage"
 Tip="冰河之怒"
-Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF807%|r持续|cffFFFF803|r秒。击中时有|cffFFFF802%|r几率击晕目标|cffFFFF800.8|r秒，并造成|cffFFFF80100|法术伤害。每次击中后，击晕几率提升|cffFFFF802%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+2|r 法术伤害 |n|cffFFFF80+0.35%|r 减速"
+Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF807%|r持续|cffFFFF803|r秒。击中时有|cffFFFF802%|r几率击晕目标|cffFFFF800.8|r秒，并造成|cffFFFF80100|r法术伤害。每次击中后，击晕几率提升|cffFFFF802%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+2|r 法术伤害 |n|cffFFFF80+0.35%|r 减速"
 [W02O]
 Name="v01R On Damage"
 Tip="冰冻荆棘"
@@ -1136,7 +1136,7 @@ Ubertip="击中时使目标受到|cffFFFF80100|r法术伤害/秒，持续|cffFFF
 [W096]
 Name="v05G On Damage"
 Tip="冰河之怒"
-Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8010%|r持续|cffFFFF803|r秒。击中时有|cffFFFF803%|r几率击晕目标|cffFFFF800.9|r秒，并造成|cffFFFF80520|法术伤害。每次击中后，击晕几率提升|cffFFFF803%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+10.4|r 法术伤害 |n|cffFFFF80+0.5%|r 减速"
+Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8010%|r持续|cffFFFF803|r秒。击中时有|cffFFFF803%|r几率击晕目标|cffFFFF800.9|r秒，并造成|cffFFFF80520|r法术伤害。每次击中后，击晕几率提升|cffFFFF803%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+10.4|r 法术伤害 |n|cffFFFF80+0.5%|r 减速"
 [W097]
 Name="v05H abils"
 Tip="特殊能力"
@@ -2057,7 +2057,7 @@ Ubertip="击中时有|cffFFFF8020%|r几率释放一个寒冰新星，对目标|c
 [W0I2]
 Name="v09Y On Damage"
 Tip="冰河之怒"
-Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8013%|r持续|cffFFFF803|r秒。击中时有|cffFFFF804%|r几率击晕目标|cffFFFF801.0|r秒，并造成|cffFFFF801300|法术伤害。每次击中后，击晕几率提升|cffFFFF804%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+26|r 法术伤害 |n|cffFFFF80+0.65%|r 减速"
+Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8013%|r持续|cffFFFF803|r秒。击中时有|cffFFFF804%|r几率击晕目标|cffFFFF801.0|r秒，并造成|cffFFFF801300|r法术伤害。每次击中后，击晕几率提升|cffFFFF804%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+26|r 法术伤害 |n|cffFFFF80+0.65%|r 减速"
 [W0HR]
 Name="v09Q On Attack"
 Tip="元素混沌"
@@ -2719,7 +2719,7 @@ Ubertip="|cffFFFF00+0.16|r 法力回复/级|n"
 [W0PH]
 Name="v0DI On Damage"
 Tip="冰河之怒"
-Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8016%|r持续|cffFFFF803|r秒。击中时有|cffFFFF805%|r几率击晕目标|cffFFFF801.1|r秒，并造成|cffFFFF802150|法术伤害。每次击中后，击晕几率提升|cffFFFF805%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+43|r 法术伤害 |n|cffFFFF80+0.8%|r 减速"
+Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF8016%|r持续|cffFFFF803|r秒。击中时有|cffFFFF805%|r几率击晕目标|cffFFFF801.1|r秒，并造成|cffFFFF802150|r法术伤害。每次击中后，击晕几率提升|cffFFFF805%|r，触发眩晕后重新计算。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+43|r 法术伤害 |n|cffFFFF80+0.8%|r 减速"
 [W11H]
 Name="v0IK Header"
 Tip="真菌打击"
@@ -3774,7 +3774,7 @@ Ubertip="攻击时有|cffFFFF8028%|r几率吹起它的目标，持续|cffFFFF801
 [W0VX]
 Name="v0GP On Unit Comes In Range"
 Tip="荆棘!"
-Ubertip="进入这座塔|cffFFFF80950|r范围内的单位会受到荆棘状态，受到的自然系塔伤害提高|cffFFFF8030%|r，持续|cffFFFF803|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.06|r 秒持续时间|n|cffFFFF80+0.6%伤害"
+Ubertip="进入这座塔|cffFFFF80950|r范围内的单位会受到荆棘状态，受到的自然系塔伤害提高|cffFFFF8030%|r，持续|cffFFFF803|r秒。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.06|r 秒持续时间|n|cffFFFF80+0.6%伤害|r"
 [W0W9]
 Name="v0GS Header"
 Tip="圣光之力"
