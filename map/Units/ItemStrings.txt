@@ -1077,7 +1077,7 @@ Description="点击以建造一座塔"
 Name="冰原漫步者"
 Hotkey=F
 Tip="购买 冰原漫步者"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r|n|cffFFFF80攻击： |cffFFFF00111|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击： |cffFFFF00111|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q02J]
 Name="次级元素幽魂"
@@ -2079,7 +2079,7 @@ Description="点击以建造一座塔"
 Name="雪地漫步者"
 Hotkey=F
 Tip="购买 雪地漫步者"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r |n|cffFFFF80攻击： |cffFFFF00446|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r |n|cffFFFF80攻击： |cffFFFF00446|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q073]
 Name="太阳十字军"
@@ -2961,7 +2961,7 @@ Description="点击以建造一座塔"
 Name="极地漫游者|r"
 Hotkey=F
 Tip="极地漫游者|r"
-Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF冰|r |n|cffFFFF80攻击： |cffFFFF001338|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0这些巨大的生物游荡在干燥的苔原上。|n|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80元素：|cFF00FFFF寒冰|r |n|cffFFFF80攻击： |cffFFFF001338|r 每秒伤害，|cffFF0080魔法|r|r，|cffFFFF00850|r 射程|n|cffFFFF80法力： |cffFFFF0012|r (+|cffFFFF001|r/秒)|r|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0D8]
 Name="污染之地"
@@ -5532,9 +5532,9 @@ Tip="|cffFFFFFF神圣的光环|r"
 Ubertip="|cff9BA0D0让携带者的头上环绕着一道光环。 |n|n|cffFFFF80等级：|r 83|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+84% |r伤害对亡灵|n|cffFFFF00-20% |r负面状态持续时间"
 Description="|cff9BA0D0让携带者的头上环绕着一道光环。 |n|n|cffFFFF80等级：|r 83|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+84% |r伤害对亡灵|n|cffFFFF00-20% |r负面状态持续时间"
 [Q0OR]
-Name="|cffFFFF00染血之钥"
+Name="|cffFFFF00染血之钥|r"
 Hotkey=K
-Tip="|cffFFFF00染血之钥"
+Tip="|cffFFFF00染血之钥|r"
 Ubertip="|cff9BA0D0呼应着过去的浩大战争。 |n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|n|cffCCFF00野性狂怒|r|n提高|cffFFFF80200|r范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r和每秒伤害|cffFFFF80100|r|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
 Description="|cff9BA0D0呼应着过去的浩大战争。 |n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00-70% |r经验获取率|n|cffFFFF00-70% |r金钱获取率|n|n|cffCCFF00野性狂怒|r|n提高|cffFFFF80200|r范围内所有塔对兽人和人类造成的伤害|cffFFFF8012%|r和每秒伤害|cffFFFF80100|r|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.24%|r 伤害对兽人和人类|n|cffFFFF80+6|r 每秒伤害"
 [Q0P3]
@@ -5748,9 +5748,9 @@ Tip="|cffFF00BF口袋商店|r"
 Ubertip="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
 Description="|cffFFFF80等级：|r 20|cffFFFF80|n作者：|r ShyGnome|n|n|cffCCFF00买东西|r|n消耗1个充能和|cffFFFF80400|r金币购买一件随机物品。该物品的价格在|cffFFFF80251-500|r之间，至少为|cff0080FF罕见|r品质。|n|n每|cffFFFF805|r波获得1个充能，最多保存|cffFFFF805|r个充能.|n这个效果不受物品品质率属性影响。|n|cffA4AFD9激活：|n|cffFFFF001|cffFFFF80秒 冷却|r, |cffFFFF000|cffFFFF80 射程|r"
 [Q0NR]
-Name="|cffFF00BF月光精华"
+Name="|cffFF00BF月光精华|r"
 Hotkey=K
-Tip="|cffFF00BF月光精华"
+Tip="|cffFF00BF月光精华|r"
 Ubertip="|cff9BA0D0精华里蕴含着强大的知识。 |n|n|cffFFFF80等级：|r 16|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验,和物品绑定,拿下该物品时已获得的经验会失去。如果塔在拿下该物品时的经验低于|cffFFFF80200|r,该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80200|r点。"
 Description="|cff9BA0D0精华里蕴含着强大的知识。 |n|n|cffFFFF80等级：|r 16|cffFFFF80|n作者：|r |cffEA1CE4Finger of Destiny|r|n|cffCCFF00给予携带塔|cffFFFF80200|r经验, 和物品绑定, 拿下该物品时已获得的经验会失去。 如果塔在拿下该物品时的经验低于|cffFFFF80200|r, 该物品会从下一个带上它的塔上吸取经验以达到|cffFFFF80200|r点。 "
 [Q0O3]
@@ -5854,7 +5854,7 @@ Name="|cffFFFF00巴特克之魂|r"
 Hotkey=K
 Tip="|cffFFFF00巴特克之魂|r"
 Ubertip="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化,攻击时偶尔会释放魔法爆炸。|n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击|cffFFFF8010次|r将会释放一个魔法爆炸,对目标范围|cffFFFF80300|r内的所有目标造成|cffFFFF802000|r法术伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
-Description=|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
+Description="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
 [Q0OL]
 Name="|cffFF00BF斯嘉蒂神器|r"
 Hotkey=K
