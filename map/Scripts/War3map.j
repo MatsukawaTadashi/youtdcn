@@ -7716,7 +7716,7 @@ call SetTextTagFadepoint(t,1.)
 call SetTextTagVelocity(t,0,.04)
 endfunction
 function eQv takes unit u returns string
-return BJ[AJ[GetPlayerId(GetOwningPlayer(u))]]+"'s "+GetUnitName(u)
+return BJ[AJ[GetPlayerId(GetOwningPlayer(u))]]+"的"+GetUnitName(u)
 endfunction
 function esv takes group g returns unit
 set fv=FirstOfGroup(g)

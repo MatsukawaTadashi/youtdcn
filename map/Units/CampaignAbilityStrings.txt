@@ -860,7 +860,7 @@ Hotkey=V
 [W14X]
 Name="v0JG Autocast"
 Tip="时间力场"
-Ubertip="创造出一片时间力场，用未来的伤害重创目标及其附近的单位，造成每秒|cffFFFF801500|r点的伤害，持续|cffFFFF8010|r秒。此技能可以受到时间扭曲的增益魔法持续时间加成。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+75|r 点伤害|n|n|cffFFFF80冷却时间： |cffFFFF0030 秒|r"
+Ubertip="创造出一片时间力场，用未来的伤害重创目标及其附近的单位，造成每秒|cffFFFF801500|r点的伤害，持续|cffFFFF8010|r秒。此技能可以受到时间扭曲的增益持续时间加成。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+75|r 点伤害|n|n|cffFFFF80冷却时间： |cffFFFF0030 秒|r"
 Hotkey=V
 [W0T1]
 Name="v0FK Autocast"

@@ -5523,8 +5523,8 @@ Description="|cff9BA0D0这个矿铲可以用来很好的发现宝物, 不过别�
 Name="|cffFFFF00老猎手|r"
 Hotkey=K
 Tip="|cffFFFF00老猎手|r"
-Ubertip="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
-Description="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，将|cffFFFF801|r点经验平分给|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
+Ubertip="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，向|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔各转移|cffFFFF801|r点经验。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
+Description="|cff9BA0D0“让我来教你什么是狩猎!”|n|n|cffFFFF80等级：|r 40|cffFFFF80|n作者：|r |cff000099Guennter|r|n|n|cffCCFF00老猎手|r|n携带塔杀死单位时，向|cffFFFF80500|r范围内最多|cffFFFF805|r座随机塔各转移|cffFFFF801|r点经验。携带塔必须有|cffFFFF805|r级以上才可以发动效果。"
 [Q0P4]
 Name="|cffFFFFFF神圣的光环|r"
 Hotkey=K
