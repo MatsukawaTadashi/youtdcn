@@ -5151,8 +5151,8 @@ Description="|cff9BA0D0对于一个饥饿的战士来说, 一块肉是多好的�
 Name="|cffFFFF00真视之眼|r"
 Hotkey=K
 Tip="|cffFFFF00真视之眼|r"
-Ubertip="|cff9BA0D0这只眼睛是一个神奇的人工制品,被创造出来猎杀隐形生物。|n|n|cffFFFF80等级：|r 11|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00探测|r|n显示|cffFFFF80900|r 范围内的隐形生物。 |n|n|cffCCFF00真实视域|r|n携带者对隐形怪物造成 |cffFFFF8020%|r 额外伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 伤害"
-Description="|cff9BA0D0这只眼睛是一个神奇的人工制品, 被创造出来猎杀隐形生物。 |n|n|cffFFFF80等级：|r 11|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00探测|r|n显示|cffFFFF80900|r 范围内的隐形生物。 |n|n|cffCCFF00真实视域|r|n携带者对隐形怪物造成 |cffFFFF8020%|r 额外伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 伤害"
+Ubertip="|cff9BA0D0这只眼睛是一个神奇的人工制品,被创造出来猎杀隐形生物。|n|n|cffFFFF80等级：|r 11|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00探测|r|n显示|cffFFFF80900|r 范围内的隐形生物。 |n|n|cffCCFF00真实视域|r|n对隐形怪物的攻击伤害提高 |cffFFFF8020%|r。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 伤害"
+Description="|cff9BA0D0这只眼睛是一个神奇的人工制品, 被创造出来猎杀隐形生物。 |n|n|cffFFFF80等级：|r 11|n|cffFFFF80作者：|r cedi|n|n|cffCCFF00探测|r|n显示|cffFFFF80900|r 范围内的隐形生物。 |n|n|cffCCFF00真实视域|r|n对隐形怪物的攻击伤害提高 |cffFFFF8020%|r 额外伤害。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.8%|r 伤害"
 [Q0NF]
 Name="|cffFFFF00仪式护身符|r"
 Hotkey=K
@@ -5175,8 +5175,8 @@ Description="|cff9BA0D0这颗宝石能让携带塔获得某些随机效果。 |n
 Name="|cffFFFF00相位手套|r"
 Hotkey=K
 Tip="|cffFFFF00相位手套|r"
-Ubertip="|cff9BA0D0这副手套能将持有者普通攻击伤害的一部分转变为法术伤害。|n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之力|r|n携带塔造成的|cffFFFF8030%|r攻击伤害转变为法术伤害。"
-Description="|cff9BA0D0这副手套能将持有者普通攻击伤害的一部分转变为法术伤害。 |n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之力|r|n携带塔造成的 |cffFFFF8030%|r 攻击伤害转变为法术伤害。 "
+Ubertip="|cff9BA0D0这副手套能将持有者普通攻击伤害的一部分转变为法术伤害。|n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之力|r|n普通攻击造成的|cffFFFF8030%|r 伤害转变为法术伤害。"
+Description="|cff9BA0D0这副手套能将持有者普通攻击伤害的一部分转变为法术伤害。 |n|n|cffFFFF80等级：|r 20|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00相位之力|r|n普通攻击造成的 |cffFFFF8030%|r 伤害转变为法术伤害。 "
 [Q0NL]
 Name="|cff0080FF战衣|r"
 Hotkey=K
