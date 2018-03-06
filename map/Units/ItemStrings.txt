@@ -4983,14 +4983,14 @@ Description="|cff9BA0D0连砍树都很吃力的一把斧头。 |n|n|cffFFFF80等
 Name="|cffFF00BF暴击之刃|r"
 Hotkey=K
 Tip="|cffFF00BF暴击之刃|r"
-Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,加成重置。加成与物品绑定。"
-Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n每次攻击都会提高暴击几率和暴击伤害|cffFFFF801.5%|r。一旦暴击,加成重置。加成与物品绑定。"
+Ubertip="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n攻击时提高暴击几率和暴击伤害|cffFFFF801.5%|r，可无限叠加，加成在普通攻击暴击时重置。加成与物品绑定。"
+Description="|cff9BA0D0可以提高暴击效果。|n|n|cffFFFF80等级：|r 0|cffFFFF80|n作者：|r Ranakastrasz|n|n|cffCCFF00暴击累积|r|n攻击时提高暴击几率和暴击伤害|cffFFFF801.5%|r，可无限叠加，加成在普通攻击暴击时重置。加成与物品绑定。"
 [Q0KD]
 Name="|cff0080FF神秘贝壳|r"
 Hotkey=K
 Tip="|cff0080FF神秘贝壳|r"
-Ubertip="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。 |n|n|cffFFFF80等级：|r 5|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔|cffFFFF8010%|rx基础攻击速度对目标释放一个负面状态,增加目标受到的所有法术伤害|cffFFFF8015%|r持续|cffFFFF805|r秒。"
-Description="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。 |n|n|cffFFFF80等级：|r 5|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n给予携带塔 |cffFFFF8010%|r x 基础攻击速度 对目标释放一个负面状态, 增加目标受到的所有法术伤害 |cffFFFF8015%|r 持续 |cffFFFF805|r 秒。 "
+Ubertip="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。 |n|n|cffFFFF80等级：|r 5|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n攻击时有 |cffFFFF8010%|r*基础攻击速度 的几率使目标受到的所有法术伤害提高|cffFFFF8015%|r，持续|cffFFFF805|r秒。"
+Description="|cff9BA0D0靠近贝壳你竟然可以听到海的声音。 |n|n|cffFFFF80等级：|r 5|n|cffFFFF80作者：|r |cffcc6600drol|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00共鸣|r|n攻击时有 |cffFFFF8010%|r*基础攻击速度 的几率使目标受到的所有法术伤害提高|cffFFFF8015%|r，持续|cffFFFF805|r秒。"
 [Q0KG]
 Name="|cffFFFFFF古老水晶球|r"
 Hotkey=K
@@ -5853,7 +5853,7 @@ Description="|cff9BA0D0火焰箭能增加携带塔的伤害。 |n|n|cffFFFF80等
 Name="|cffFFFF00巴特克之魂|r"
 Hotkey=K
 Tip="|cffFFFF00巴特克之魂|r"
-Ubertip="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化,攻击时偶尔会释放魔法爆炸。|n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击|cffFFFF8010次|r将会释放一个魔法爆炸,对目标范围|cffFFFF80300|r内的所有目标造成|cffFFFF802000|r法术伤害。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
+Ubertip="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
 Description="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
 [Q0OL]
 Name="|cffFF00BF斯嘉蒂神器|r"
@@ -5895,14 +5895,14 @@ Description="|cff9BA0D0这面神圣的护盾能协助持有者抵抗有害的魔
 Name="|cffFFFF00晕眩机|r"
 Hotkey=K
 Tip="|cffFFFF00晕眩机|r"
-Ubertip="|cff9BA0D0用来击晕敌人的先进器具。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n携带者在击中时有|cffFFFF8015%|r*基础攻击速度的几率击晕目标|cffFFFF801|r秒。对于boss的触发率只有|cffFFFF801/3|r|n|n|cffFF8000等级奖励：|r|n|cffFFFF80+0.25%|r几率"
-Description="|cff9BA0D0用来击晕敌人的先进器具。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n携带者在击中时有 |cffFFFF8015%|r*基础攻击速度的几率击晕目标 |cffFFFF801|r 秒。 对于boss的触发率只有|cffFFFF801/3|r |n|n|cffFF8000等级奖励：|r|n|cffFFFF80+0.25%|r几率"
+Ubertip="|cff9BA0D0用来击晕敌人的先进器具。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n击中时有|cffFFFF8015%|r*基础攻击速度 的几率击晕目标|cffFFFF801|r秒。对于boss的触发率只有|cffFFFF801/3|r|n|n|cffFF8000等级奖励：|r|n|cffFFFF80+0.25%|r几率"
+Description="|cff9BA0D0用来击晕敌人的先进器具。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r |cff00CD00Boekie|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00击晕|r|n击中时有 |cffFFFF8015%|r*基础攻击速度 的几率击晕目标 |cffFFFF801|r 秒。对于boss的触发率只有|cffFFFF801/3|r |n|n|cffFF8000等级奖励：|r|n|cffFFFF80+0.25%|r几率"
 [Q0OJ]
 Name="|cffFF00BF艾露恩之弓|r"
 Hotkey=K
 Tip="|cffFF00BF艾露恩之弓|r"
-Ubertip="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德,并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。"
-Description="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德, 并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00艾露恩的优雅|r|n持有塔对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。 "
+Ubertip="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德,并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00艾露恩的优雅|r|n对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。"
+Description="|cff9BA0D0艾露恩女神将这此弓赐予女祭司泰兰德, 并下令：'粉碎敌人!'|n|n|cffFFFF80等级：|r 28|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00艾露恩的优雅|r|n对主目标的攻击伤害不会因护甲或抗性而被降低至基础攻击力以下。 "
 [Q0QS]
 Name="|cffFF00BF巴尔的精髓|r"
 Hotkey=K
@@ -5914,7 +5914,7 @@ Name="|cffFF00BF机敏的垂饰|r"
 Hotkey=K
 Tip="|cffFF00BF机敏的垂饰|r"
 Ubertip="|cff9BA0D0撕裂时空,让携带者拥有不可思议的速度。|n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n有代价的急速攻击。攻击时燃烧携带者|cffFFFF807%|r最大法力值。没有法力则不能攻击。"
-Description="|cff9BA0D0撕裂时空, 让携带者拥有不可思议的速度。 |n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n有代价的急速攻击。 攻击时燃烧携带者 |cffFFFF807%|r 最大法力值。 没有法力则不能攻击。 "
+Description="|cff9BA0D0撕裂时空, 让携带者拥有不可思议的速度。 |n|n|cffFFFF80等级：|r 76|n|cffFFFF80作者：|r |cffff6347Glowackos|r|n|cffFFFF80特殊能力：|r|n|cffFFFF00+75% |r攻击速度 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00能量倾泻|r|n有代价的急速攻击。攻击时燃烧携带者 |cffFFFF807%|r 最大法力值。没有法力则不能攻击。"
 [Q0QT]
 Name="|cffFF00BF悲剧神翼|r"
 Hotkey=K
@@ -6016,7 +6016,7 @@ Name="|cffFFFF00艾尔神剑|r"
 Hotkey=K
 Tip="|cffFFFF00艾尔神剑|r"
 Ubertip="|cff9BA0D0传说中的艾尔神剑!(魔*争霸3和哥*王国3？)|n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+1%|r/级)|n|cffFFFF00+5% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00+15% |r伤害对兽人 (|cffFFFF00+2%|r/级)|n|cffFFFF00+15% |r攻击力 (|cffFFFF00+1%|r/级)"
-Description="|cff9BA0D0传说中的艾尔神剑! ( 魔*争霸3和哥*王国3 ？ )|n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+1%|r/级)|n|cffFFFF00+5% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00+15% |r伤害对兽人 (|cffFFFF00+2%|r/级)|n|cffFFFF00+15% |r攻击力 (|cffFFFF00+1%|r/级)"
+Description="|cff9BA0D0传说中的艾尔神剑!(魔*争霸3和哥*王国3 ？)|n|n|cffFFFF80等级：|r 67|n|cffFFFF80作者：|r cedi|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+1%|r/级)|n|cffFFFF00+5% |r伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00+15% |r伤害对兽人 (|cffFFFF00+2%|r/级)|n|cffFFFF00+15% |r攻击力 (|cffFFFF00+1%|r/级)"
 [Q0QA]
 Name="|cffFFFF00月光权杖|r"
 Hotkey=K
