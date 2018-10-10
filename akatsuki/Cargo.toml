@@ -1,8 +1,7 @@
 [package]
 name = "akatsuki"
 version = "0.1.0"
-authors = ["S.W.C.3 <liangzhenduo@163.com>"]
+authors = ["S.W.C.3 <sunqinzheng@126.com>"]
 
 [dependencies]
-log = "0.4.5"
 clap = "2.32.0"
