@@ -1,41 +1,41 @@
 [HERO]
 Name=A Hero
 [nshe]
-Name=Sheep
+Name=羊
 Tip=Invoke Sheep
 Ubertip="Call upon the spirit of Sheep to save you."
 [nsha]
-Name=Sheep
+Name=羊
 Tip=Invoke Sheep
 Ubertip="Call upon the spirit of Sheep to save you."
 EditorSuffix= (Amphibious)
 [nshw]
-Name=Sheep
+Name=羊
 Tip=Invoke Sheep
 Ubertip="Call upon the spirit of Sheep to save you."
 EditorSuffix= (Waterborne)
 [nshf]
-Name=Flying Sheep
+Name=飞羊
 Tip=Invoke Uber Sheep
 Ubertip="Call upon the Uber Sheep to save you."
 [nwgt]
-Name=Way Gate
+Name=传送门
 Tip=Build Way Gate
 Description=Teleports units to a sister Way Gate.
 [cSKS]
-Name="Skeleton"
+Name="骷髅"
 Tip=Hire Razormane Brute
 EditorSuffix="Mass"
 [cSKL]
-Name="Skeleton"
+Name="骷髅"
 Tip=Hire Razormane Brute
 EditorSuffix="Normal"
 [vCSZ]
-Name="zed"
+Name="KySoto"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSX]
-Name="Sunken"
+Name="Khlox-NL-"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSY]
@@ -43,43 +43,43 @@ Name="Zloj"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSV]
-Name="Bartuck"
+Name="Cyrganth"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSW]
-Name="LordHellHunter"
+Name="Sunken"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSL]
-Name="axllow"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSM]
 Name="Guennter"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSJ]
-Name="hokkei"
+[vCSM]
+Name="Ely"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSK]
+[vCSJ]
 Name="F12ight"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSH]
-Name="limfa"
+[vCSK]
+Name="axllow"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSI]
+[vCSH]
 Name="SymphonyX"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
+[vCSI]
+Name="hokkei"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
 [vCSF]
-Name="Coldrocker"
+Name="the-red-terror"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSG]
-Name="the-red-terror"
+Name="McDoNaLdGaNgStA"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCST]
@@ -87,27 +87,27 @@ Name="YouJizzTD"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSU]
-Name="Cyrganth"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSR]
 Name="Ranakastrasz"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
+[vCSR]
+Name="Bartuck"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
 [vCSS]
-Name="Khlox-NL-"
+Name="LordHellHunter"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSP]
-Name="Ely"
-Tip=Invoke Crab
-Ubertip="Call upon the spirit of Crab to save you."
-[vCSQ]
 Name="TopBanana"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
-[vCSN]
+[vCSQ]
 Name="Kricz"
+Tip=Invoke Crab
+Ubertip="Call upon the spirit of Crab to save you."
+[vCSN]
+Name="Deikorim"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSO]
@@ -115,11 +115,11 @@ Name="Nubz"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCT0]
-Name="KySoto"
+Name="zed"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRY]
-Name="Ashbringer"
+Name="Chronos"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRZ]
@@ -127,7 +127,7 @@ Name="Lapsus"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRW]
-Name="His_Shadow"
+Name="Palandu"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS8]
@@ -135,7 +135,7 @@ Name="BetrayedKnight"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRX]
-Name="Chronos"
+Name="His_Shadow"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS9]
@@ -143,27 +143,27 @@ Name="Killamasta"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRU]
-Name="Neotopia"
+Name="Ashbringer"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS6]
-Name="Monolith"
+Name="ShyGnome"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRV]
-Name="Palandu"
+Name="Neotopia"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS7]
-Name="KublaiKhan1"
+Name="Monolith"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSD]
-Name="☞☞☞"
+Name="???"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSE]
-Name="McDoNaLdGaNgStA"
+Name="Coldrocker"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSB]
@@ -187,7 +187,7 @@ Name="mOck"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRI]
-Name="SirCoqaLot."
+Name="cedi"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRJ]
@@ -199,7 +199,7 @@ Name="drol"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRH]
-Name="cedi"
+Name="SirCoqaLot."
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRE]
@@ -215,7 +215,7 @@ Name="der_kleine_Tomy"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS4]
-Name="Deikorim"
+Name="IamanEvilMan"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRT]
@@ -223,7 +223,7 @@ Name="MasterCassim"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS5]
-Name="ShyGnome"
+Name="Cyony"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRQ]
@@ -231,7 +231,7 @@ Name="Deemzul"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS2]
-Name="Cyony"
+Name="Glowackos"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRR]
@@ -239,7 +239,7 @@ Name="Velex"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS3]
-Name="IamanEvilMan"
+Name="poussix"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRO]
@@ -247,7 +247,7 @@ Name="tolleder"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS0]
-Name="Glowackos"
+Name="KublaiKhan1"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRP]
@@ -255,7 +255,7 @@ Name="DaveMatthews"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCS1]
-Name="poussix"
+Name="limfa"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCRM]
@@ -303,1195 +303,1195 @@ Name="Sexy Chick"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [cR10]
-Name="Elven Defender"
+Name="精灵守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human normal medium"
 [cR0O]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human normal divine"
 [cR11]
-Name="Elven Defender"
+Name="精灵守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human normal none"
 [cR0P]
-Name="Defender"
+Name="守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human normal medium"
 [cR0M]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human normal small"
 [cR0N]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human normal large"
 [cR0K]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human normal medium"
 [cR0L]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human normal none"
 [cR0I]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human normal large"
 [cR0J]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human normal divine"
 [cR0G]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human normal none"
 [cR0H]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human normal small"
 [cR0E]
-Name="Skirmisher"
+Name="散兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human normal divine"
 [cR0F]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human normal medium"
 [cR0C]
-Name="Skirmisher"
+Name="散兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human normal small"
 [cR0D]
-Name="Skirmisher"
+Name="散兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human normal large"
 [cR0A]
-Name="Skirmisher"
+Name="散兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human normal medium"
 [cR0B]
-Name="Skirmisher"
+Name="散兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human normal none"
 [cR1A]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human normal medium"
 [cR0Y]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human normal divine"
 [cR18]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human normal large"
 [cR0W]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human normal small"
 [cR19]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human normal divine"
 [cR0X]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human normal large"
 [cR16]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human normal none"
 [cR0U]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human normal medium"
 [cR17]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human normal small"
 [cR0V]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human normal none"
 [cR14]
-Name="Elven Defender"
+Name="精灵守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human normal divine"
 [cR0S]
-Name="Defender"
+Name="守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human normal large"
 [cR15]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human normal medium"
 [cR0T]
-Name="Defender"
+Name="守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human normal divine"
 [cR12]
-Name="Elven Defender"
+Name="精灵守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human normal small"
 [cR0Q]
-Name="Defender"
+Name="守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human normal none"
 [cR13]
-Name="Elven Defender"
+Name="精灵守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human normal large"
 [cR0R]
-Name="Defender"
+Name="守卫者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human normal small"
 [cR00]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human normal medium"
 [cR09]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human normal divine"
 [cR07]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human normal small"
 [cR08]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human normal large"
 [cR05]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human normal medium"
 [cR06]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human normal none"
 [cR03]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human normal large"
 [cR04]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human normal divine"
 [cR01]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human normal none"
 [cR02]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human normal small"
 [cR32]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human boss small"
 [cR2Q]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human boss none"
 [cR33]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human boss large"
 [cR2R]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human boss small"
 [cR30]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human boss medium"
 [cR2O]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss divine"
 [cR31]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human boss none"
 [cR2P]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human boss medium"
 [cR2M]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss small"
 [cR2N]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss large"
 [cR2K]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss medium"
 [cR2L]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human boss none"
 [cR2I]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss large"
 [cR2J]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss divine"
 [cR2G]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss none"
 [cR2H]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss small"
 [cR2E]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss divine"
 [cR2F]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human boss medium"
 [cR2C]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss small"
 [cR2D]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss large"
 [cR3B]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human boss none"
 [cR3C]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human boss small"
 [cR3A]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human boss medium"
 [cR2Y]
-Name="Wizard"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human boss divine"
 [cR38]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human boss large"
 [cR2W]
-Name="Wizard"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human boss small"
 [cR39]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human boss divine"
 [cR2X]
-Name="Wizard"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human boss large"
 [cR36]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human boss none"
 [cR2U]
-Name="Wizard"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human boss medium"
 [cR37]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human boss small"
 [cR2V]
-Name="Wizard"
+Name="巫师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 human boss none"
 [cR34]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 human boss divine"
 [cR2S]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human boss large"
 [cR35]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 human boss medium"
 [cR2T]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 human boss divine"
 [cR21]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human normal none"
 [cR1P]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human normal medium"
 [cR22]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human normal small"
 [cR1Q]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human normal none"
 [cR1N]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human normal large"
 [cR20]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human normal medium"
 [cR1O]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human normal divine"
 [cR1L]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human normal none"
 [cR1M]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human normal small"
 [cR1J]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human normal divine"
 [cR1K]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human normal medium"
 [cR1H]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human normal small"
 [cR1I]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human normal large"
 [cR1F]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human normal medium"
 [cR1G]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human normal none"
 [cR1D]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human normal large"
 [cR1E]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human normal divine"
 [cR1B]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human normal none"
 [cR1C]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human normal small"
 [cR2A]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss medium"
 [cR2B]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human boss none"
 [cR29]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human boss divine"
 [cR1X]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human normal large"
 [cR1Y]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human normal divine"
 [cR27]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human boss small"
 [cR1V]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human normal none"
 [cR28]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human boss large"
 [cR1W]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human normal small"
 [cR25]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human boss medium"
 [cR1T]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human normal divine"
 [cR26]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human boss none"
 [cR1U]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human normal medium"
 [cR23]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human normal large"
 [cR1R]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human normal small"
 [cR24]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human normal divine"
 [cR1S]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human normal large"
 [cR54]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead normal divine"
 [cR4S]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human air large"
 [cR55]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead normal medium"
 [cR4T]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human air divine"
 [cR52]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead normal small"
 [cR4Q]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human air none"
 [cR53]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead normal large"
 [cR4R]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human air small"
 [cR50]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead normal medium"
 [cR4O]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human air divine"
 [cR51]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead normal none"
 [cR4P]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 human air medium"
 [cR4M]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human air small"
 [cR4N]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human air large"
 [cR4K]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human air medium"
 [cR4L]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 human air none"
 [cR4I]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human air large"
 [cR4J]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human air divine"
 [cR4G]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human air none"
 [cR4H]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human air small"
 [cR4E]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human air divine"
 [cR4F]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 human air medium"
 [cR5D]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead normal large"
 [cR5E]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead normal divine"
 [cR5B]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead normal none"
 [cR5C]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead normal small"
 [cR5A]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead normal medium"
 [cR4Y]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead normal divine"
 [cR58]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead normal large"
 [cR4W]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead normal small"
 [cR59]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead normal divine"
 [cR4X]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead normal large"
 [cR56]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead normal none"
 [cR4U]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead normal medium"
 [cR57]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead normal small"
 [cR4V]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead normal none"
 [cR43]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human boss large"
 [cR3R]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human boss small"
 [cR44]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human boss divine"
 [cR3S]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human boss large"
 [cR41]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human boss none"
 [cR3P]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human boss medium"
 [cR42]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human boss small"
 [cR3Q]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human boss none"
 [cR3N]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human boss large"
 [cR40]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 human boss medium"
 [cR3O]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human boss divine"
 [cR3L]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human boss none"
 [cR3M]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human boss small"
 [cR3J]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human boss divine"
 [cR3K]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 human boss medium"
 [cR3H]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human boss small"
 [cR3I]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human boss large"
 [cR3F]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human boss medium"
 [cR3G]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 human boss none"
 [cR3D]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human boss large"
 [cR3E]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 human boss divine"
 [cR4C]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human air small"
 [cR4D]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human air large"
 [cR4A]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human air medium"
 [cR4B]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 human air none"
 [cR49]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human boss divine"
 [cR3X]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human boss large"
 [cR3Y]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human boss divine"
 [cR47]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human boss small"
 [cR3V]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human boss none"
 [cR48]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human boss large"
 [cR3W]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human boss small"
 [cR45]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human boss medium"
 [cR3T]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 human boss divine"
 [cR46]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 human boss none"
 [cR3U]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 human boss medium"
 [cR76]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead boss none"
 [cR6U]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead normal medium"
 [cR77]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead boss small"
 [cR6V]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead normal none"
 [cR74]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead boss divine"
 [cR6S]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead normal large"
 [cR75]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead boss medium"
 [cR6T]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead normal divine"
 [cR72]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead boss small"
 [cR6Q]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead normal none"
 [cR73]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead boss large"
 [cR6R]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead normal small"
 [cR70]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead boss medium"
 [cR6O]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead normal divine"
 [cR71]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead boss none"
 [cR6P]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead normal medium"
 [cR6M]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead normal small"
 [cR6N]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead normal large"
 [cR6K]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead normal medium"
 [cR6L]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead normal none"
 [cR6I]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead normal large"
 [cR6J]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead normal divine"
 [cR6G]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead normal none"
 [cR6H]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead normal small"
 [cR7F]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead boss medium"
 [cR7G]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead boss none"
 [cR7D]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead boss large"
 [cR7E]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead boss divine"
 [cR7B]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead boss none"
 [cR7C]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead boss small"
 [cR7A]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead boss medium"
 [cR6Y]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead normal divine"
 [cR78]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead boss large"
 [cR6W]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead normal small"
 [cR79]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead boss divine"
 [cR6X]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead normal large"
 [cR65]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead normal medium"
 [cR5T]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead normal divine"
 [cR66]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead normal none"
 [cR5U]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead normal medium"
 [cR63]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead normal large"
 [cR5R]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead normal small"
 [cR64]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead normal divine"
 [cR5S]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead normal large"
 [cR61]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead normal none"
 [cR5P]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead normal medium"
 [cR62]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead normal small"
 [cR5Q]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead normal none"
 [cR5N]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead normal large"
 [cR60]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead normal medium"
 [cR5O]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead normal divine"
 [cR5L]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead normal none"
 [cR5M]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead normal small"
 [cR5J]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead normal divine"
 [cR5K]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead normal medium"
 [cR5H]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead normal small"
 [cR5I]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead normal large"
 [cR5F]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead normal medium"
 [cR5G]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead normal none"
 [cR6E]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead normal divine"
 [cR6F]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead normal medium"
 [cR6C]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead normal small"
 [cR6D]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead normal large"
 [cR6A]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead normal medium"
 [cR6B]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead normal none"
 [cR69]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead normal divine"
 [cR5X]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead normal large"
 [cR5Y]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead normal divine"
 [cR67]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead normal small"
 [cR5V]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead normal none"
 [cR68]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead normal large"
 [cR5W]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead normal small"
 [cR98]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead air large"
 [cR8W]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead boss small"
 [cR99]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead air divine"
 [cR8X]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead boss large"
 [cR96]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead air none"
 [cR8U]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead boss medium"
 [cR97]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead air small"
 [cR8V]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead boss none"
 [cR94]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead boss divine"
 [cR8S]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead boss large"
 [cR95]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 undead air medium"
 [cR8T]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead boss divine"
 [cR92]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead boss small"
 [cR8Q]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead boss none"
 [cR93]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead boss large"
 [cR8R]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead boss small"
 [cR90]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead boss medium"
 [cR8O]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead boss divine"
 [cR91]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 undead boss none"
 [cR8P]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 undead boss medium"
 [cR8M]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead boss small"
 [cR8N]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead boss large"
 [cR8K]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead boss medium"
 [cR8L]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 undead boss none"
 [cR8I]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead boss large"
 [cR8J]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead boss divine"
 [cR9H]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead air small"
 [cR9I]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead air large"
 [cR9F]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead air medium"
 [cR9G]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead air none"
 [cR9D]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead air large"
 [cR9E]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead air divine"
 [cR9B]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead air none"
 [cR9C]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead air small"
 [cR9A]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 undead air medium"
 [cR8Y]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 undead boss divine"
 [c055]
@@ -1499,11 +1499,11 @@ Name="geX"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 120 challenge"
 [cR87]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead boss small"
 [cR7V]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead boss none"
 [c054]
@@ -1511,23 +1511,23 @@ Name="tolleder"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 104 challenge"
 [cR88]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead boss large"
 [cR7W]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead boss small"
 [c057]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 32 challenge"
 [cR85]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead boss medium"
 [cR7T]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead boss divine"
 [c056]
@@ -1535,11 +1535,11 @@ Name="mOck"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 challenge"
 [cR86]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead boss none"
 [cR7U]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead boss medium"
 [c051]
@@ -1547,11 +1547,11 @@ Name="cedi"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 56 challenge"
 [cR83]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead boss large"
 [cR7R]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead boss small"
 [c050]
@@ -1559,11 +1559,11 @@ Name="D1000"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 40 challenge"
 [cR84]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead boss divine"
 [cR7S]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead boss large"
 [c053]
@@ -1571,11 +1571,11 @@ Name="MasterCassim"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 88 challenge"
 [cR81]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead boss none"
 [cR7P]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead boss medium"
 [c052]
@@ -1583,47 +1583,47 @@ Name="boekie"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 72 challenge"
 [cR82]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead boss small"
 [cR7Q]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 undead boss none"
 [cR7N]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead boss large"
 [cR80]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 undead boss medium"
 [cR7O]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead boss divine"
 [cR7L]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead boss none"
 [cR7M]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead boss small"
 [cR7J]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead boss divine"
 [cR7K]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 undead boss medium"
 [cR7H]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead boss small"
 [cR7I]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead boss large"
 [c05E]
@@ -1631,7 +1631,7 @@ Name="Gecklow"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 240 challenge"
 [cR8G]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead boss none"
 [c05D]
@@ -1639,11 +1639,11 @@ Name="Glowackos"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 240 challenge"
 [cR8H]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead boss small"
 [cR8E]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead boss divine"
 [c05F]
@@ -1651,43 +1651,43 @@ Name="Drackos"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 240 challenge"
 [cR8F]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 undead boss medium"
 [c05A]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 80 challenge"
 [cR8C]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead boss small"
 [cR8D]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead boss large"
 [c05C]
-Name="Challenge 14"
+Name="挑战者 14"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 112 challenge"
 [cR8A]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead boss medium"
 [c05B]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 96 challenge"
 [cR8B]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 undead boss none"
 [c059]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 64 challenge"
 [c058]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 48 challenge"
 [c04Z]
@@ -1695,11 +1695,11 @@ Name="drol"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 24 challenge"
 [cR89]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 undead boss divine"
 [cR7X]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead boss large"
 [c04Y]
@@ -1707,2350 +1707,2350 @@ Name="SirCoqaLot."
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 challenge"
 [cR7Y]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 undead boss divine"
 [cR9X]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc normal large"
 [cR9Y]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc normal divine"
 [cR9V]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc normal none"
 [cR9W]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc normal small"
 [cR9T]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc normal divine"
 [cR9U]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc normal medium"
 [cR9R]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc normal small"
 [cR9S]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc normal large"
 [cR9P]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc normal medium"
 [cR9Q]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc normal none"
 [cR9N]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead air large"
 [cR9O]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead air divine"
 [cR9L]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead air none"
 [cR9M]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead air small"
 [cR9J]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 undead air divine"
 [cR9K]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 undead air medium"
 [cRAA]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc normal medium"
 [cRA8]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc normal large"
 [cRA9]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc normal divine"
 [cRA6]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc normal none"
 [cRA7]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc normal small"
 [cRA4]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc normal divine"
 [cRA5]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc normal medium"
 [cRA2]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc normal small"
 [cRA3]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc normal large"
 [cRB1]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal none"
 [cRAP]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal medium"
 [cRB2]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal small"
 [cRAQ]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal none"
 [cRAN]
-Name="Vicious Battler"
+Name="邪恶战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal large"
 [cRB0]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal medium"
 [cRAO]
-Name="Vicious Battler"
+Name="邪恶战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal divine"
 [cRAL]
-Name="Vicious Battler"
+Name="邪恶战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal none"
 [cRAM]
-Name="Vicious Battler"
+Name="邪恶战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal small"
 [cRAJ]
-Name="Battler"
+Name="战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal divine"
 [cRAK]
-Name="Vicious Battler"
+Name="邪恶战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal medium"
 [cRAH]
-Name="Battler"
+Name="战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal small"
 [cRAI]
-Name="Battler"
+Name="战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal large"
 [cRAF]
-Name="Battler"
+Name="战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal medium"
 [cRAG]
-Name="Battler"
+Name="战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal none"
 [cRAD]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc normal large"
 [cRAE]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc normal divine"
 [cRAB]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc normal none"
 [cRAC]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc normal small"
 [cRA0]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc normal medium"
 [cRA1]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc normal none"
 [cRCB]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc boss none"
 [cRCC]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc boss small"
 [cRCA]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc boss medium"
 [cRBY]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc normal divine"
 [cRC8]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc boss large"
 [cRBW]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc normal small"
 [cRC9]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc boss divine"
 [cRBX]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc normal large"
 [cRC6]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc boss none"
 [cRBU]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc normal medium"
 [cRC7]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc boss small"
 [cRBV]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc normal none"
 [cRC4]
-Name="Peon Garbage Collector"
+Name="垃圾收集苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc boss divine"
 [cRBS]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc normal large"
 [cRC5]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc boss medium"
 [cRBT]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc normal divine"
 [cRD3]
-Name="Kodo Drummer"
+Name="科多兽鼓手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc boss large"
 [cRCR]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc boss small"
 [cRD4]
-Name="Kodo Drummer"
+Name="科多兽鼓手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc boss divine"
 [cRCS]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc boss large"
 [cRD1]
-Name="Kodo Drummer"
+Name="科多兽鼓手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc boss none"
 [cRCP]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc boss medium"
 [cRD2]
-Name="Kodo Drummer"
+Name="科多兽鼓手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc boss small"
 [cRCQ]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc boss none"
 [cRCN]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc boss large"
 [cRD0]
-Name="Kodo Drummer"
+Name="科多兽鼓手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc boss medium"
 [cRCO]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc boss divine"
 [cRCL]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc boss none"
 [cRCM]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc boss small"
 [cRCJ]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc boss divine"
 [cRCK]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 orc boss medium"
 [cRCH]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc boss small"
 [cRCI]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc boss large"
 [cRCF]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc boss medium"
 [cRCG]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc boss none"
 [cRCD]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc boss large"
 [cRCE]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc boss divine"
 [cRBA]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc normal medium"
 [cRBB]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc normal none"
 [cRB9]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc normal divine"
 [cRAX]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc normal large"
 [cRAY]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc normal divine"
 [cRB7]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc normal small"
 [cRAV]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc normal none"
 [cRB8]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc normal large"
 [cRAW]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc normal small"
 [cRB5]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc normal medium"
 [cRAT]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal divine"
 [cRB6]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc normal none"
 [cRAU]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc normal medium"
 [cRB3]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal large"
 [cRAR]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal small"
 [cRB4]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal divine"
 [cRAS]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal large"
 [cRC2]
-Name="Peon Garbage Collector"
+Name="垃圾收集苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc boss small"
 [cRBQ]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc normal none"
 [cRC3]
-Name="Peon Garbage Collector"
+Name="垃圾收集苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc boss large"
 [cRBR]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc normal small"
 [cRC0]
-Name="Peon Garbage Collector"
+Name="垃圾收集苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc boss medium"
 [cRBO]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc normal divine"
 [cRC1]
-Name="Peon Garbage Collector"
+Name="垃圾收集苦工"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc boss none"
 [cRBP]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc normal medium"
 [cRBM]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc normal small"
 [cRBN]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc normal large"
 [cRBK]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc normal medium"
 [cRBL]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc normal none"
 [cRBI]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc normal large"
 [cRBJ]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc normal divine"
 [cRBG]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc normal none"
 [cRBH]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc normal small"
 [cRBE]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc normal divine"
 [cRBF]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc normal medium"
 [cRBC]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc normal small"
 [cRBD]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc normal large"
 [cRED]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc air large"
 [cREE]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc air divine"
 [cREB]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc air none"
 [cREC]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc air small"
 [cREA]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 orc air medium"
 [cRDY]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc boss divine"
 [cRE8]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc boss large"
 [cRDW]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc boss small"
 [cRE9]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc boss divine"
 [cRDX]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc boss large"
 [cRE6]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc boss none"
 [cRDU]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc boss medium"
 [cRE7]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc boss small"
 [cRDV]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 orc boss none"
 [cRF5]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic normal medium"
 [cRET]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc air divine"
 [cRF6]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic normal none"
 [cREU]
-Name="Kobold Rascal"
+Name="狗头人流氓"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic normal medium"
 [cRF3]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic normal large"
 [cRER]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc air small"
 [cRF4]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic normal divine"
 [cRES]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc air large"
 [cRF1]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic normal none"
 [cREP]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc air medium"
 [cRF2]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic normal small"
 [cREQ]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 orc air none"
 [cREN]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc air large"
 [cRF0]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic normal medium"
 [cREO]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc air divine"
 [cREL]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc air none"
 [cREM]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc air small"
 [cREJ]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc air divine"
 [cREK]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 orc air medium"
 [cREH]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc air small"
 [cREI]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc air large"
 [cREF]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc air medium"
 [cREG]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 orc air none"
 [cRDC]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc boss small"
 [cRDD]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc boss large"
 [cRDA]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc boss medium"
 [cRDB]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc boss none"
 [cRD9]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc boss divine"
 [cRCX]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc boss large"
 [cRCY]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc boss divine"
 [cRD7]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc boss small"
 [cRCV]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc boss none"
 [cRD8]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc boss large"
 [cRCW]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc boss small"
 [cRD5]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc boss medium"
 [cRCT]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc boss divine"
 [cRD6]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 orc boss none"
 [cRCU]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc boss medium"
 [cRE4]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc boss divine"
 [cRDS]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc boss large"
 [cRE5]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 orc boss medium"
 [cRDT]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc boss divine"
 [cRE2]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc boss small"
 [cRDQ]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc boss none"
 [cRE3]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc boss large"
 [cRDR]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc boss small"
 [cRE0]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc boss medium"
 [cRDO]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc boss divine"
 [cRE1]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 orc boss none"
 [cRDP]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 orc boss medium"
 [cRDM]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc boss small"
 [cRDN]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc boss large"
 [cRDK]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc boss medium"
 [cRDL]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 orc boss none"
 [cRDI]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc boss large"
 [cRDJ]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc boss divine"
 [cRDG]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc boss none"
 [cRDH]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc boss small"
 [cRDE]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc boss divine"
 [cRDF]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 orc boss medium"
 [cRGF]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic normal medium"
 [cRGG]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic normal none"
 [cRGD]
-Name="Demoness"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic normal large"
 [cRGE]
-Name="Demoness"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic normal divine"
 [cRGB]
-Name="Demoness"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic normal none"
 [cRGC]
-Name="Demoness"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic normal small"
 [cRGA]
-Name="Demoness"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic normal medium"
 [cRFY]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic normal divine"
 [cRG8]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic normal large"
 [cRFW]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic normal small"
 [cRG9]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic normal divine"
 [cRFX]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic normal large"
 [cRH7]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic normal small"
 [cRGV]
-Name="Fire Elemental"
+Name="火焰元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic normal none"
 [cRH8]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic normal large"
 [cRGW]
-Name="Fire Elemental"
+Name="火焰元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic normal small"
 [cRH5]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic normal medium"
 [cRGT]
-Name="Water Elemental"
+Name="流水元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic normal divine"
 [cRH6]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic normal none"
 [cRGU]
-Name="Fire Elemental"
+Name="火焰元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic normal medium"
 [cRH3]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic normal large"
 [cRGR]
-Name="Water Elemental"
+Name="流水元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic normal small"
 [cRH4]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic normal divine"
 [cRGS]
-Name="Water Elemental"
+Name="流水元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic normal large"
 [cRH1]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic normal none"
 [cRGP]
-Name="Water Elemental"
+Name="流水元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic normal medium"
 [cRH2]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic normal small"
 [cRGQ]
-Name="Water Elemental"
+Name="流水元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic normal none"
 [cRGN]
-Name="Siren"
+Name="塞壬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic normal large"
 [cRH0]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic normal medium"
 [cRGO]
-Name="Siren"
+Name="塞壬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic normal divine"
 [cRGL]
-Name="Siren"
+Name="塞壬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic normal none"
 [cRGM]
-Name="Siren"
+Name="塞壬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic normal small"
 [cRGJ]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic normal divine"
 [cRGK]
-Name="Siren"
+Name="塞壬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic normal medium"
 [cRGH]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic normal small"
 [cRGI]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic normal large"
 [cRFE]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic normal divine"
 [cRFF]
-Name="Felhound"
+Name="地狱猎犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic normal medium"
 [cRFC]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic normal small"
 [cRFD]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic normal large"
 [cRFA]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic normal medium"
 [cRFB]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic normal none"
 [cRF9]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic normal divine"
 [cREX]
-Name="Kobold Rascal"
+Name="狗头人流氓"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic normal large"
 [cREY]
-Name="Kobold Rascal"
+Name="狗头人流氓"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic normal divine"
 [cRF7]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic normal small"
 [cREV]
-Name="Kobold Rascal"
+Name="狗头人流氓"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic normal none"
 [cRF8]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic normal large"
 [cREW]
-Name="Kobold Rascal"
+Name="狗头人流氓"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic normal small"
 [cRG6]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic normal none"
 [cRFU]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic normal medium"
 [cRG7]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic normal small"
 [cRFV]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic normal none"
 [cRG4]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic normal divine"
 [cRFS]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic normal large"
 [cRG5]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic normal medium"
 [cRFT]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic normal divine"
 [cRG2]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic normal small"
 [cRFQ]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic normal none"
 [cRG3]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic normal large"
 [cRFR]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic normal small"
 [cRG0]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic normal medium"
 [cRFO]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic normal divine"
 [cRG1]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic normal none"
 [cRFP]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic normal medium"
 [cRFM]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic normal small"
 [cRFN]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic normal large"
 [cRFK]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic normal medium"
 [cRFL]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic normal none"
 [cRFI]
-Name="Felhound"
+Name="地狱猎犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic normal large"
 [cRFJ]
-Name="Felhound"
+Name="地狱猎犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic normal divine"
 [cRFG]
-Name="Felhound"
+Name="地狱猎犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic normal none"
 [cRFH]
-Name="Felhound"
+Name="地狱猎犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic normal small"
 [cRIH]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic boss small"
 [cRII]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic boss large"
 [cRIF]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic boss medium"
 [cRIG]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic boss none"
 [cRID]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic boss large"
 [cRIE]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic boss divine"
 [cRIB]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic boss none"
 [cRIC]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic boss small"
 [cRIA]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 magic boss medium"
 [cRHY]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic boss divine"
 [cRJ9]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic boss divine"
 [cRIX]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic boss large"
 [cRIY]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic boss divine"
 [cRJ7]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic boss small"
 [cRIV]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic boss none"
 [cRJ8]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic boss large"
 [cRIW]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic boss small"
 [cRJ5]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic boss medium"
 [cRIT]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic boss divine"
 [cRJ6]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 magic boss none"
 [cRIU]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 magic boss medium"
 [cRJ3]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic boss large"
 [cRIR]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic boss small"
 [cRJ4]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic boss divine"
 [cRIS]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic boss large"
 [cRJ1]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic boss none"
 [cRIP]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic boss medium"
 [cRJ2]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic boss small"
 [cRIQ]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 magic boss none"
 [cRIN]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic boss large"
 [cRJ0]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 magic boss medium"
 [cRIO]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic boss divine"
 [cRIL]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic boss none"
 [cRIM]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic boss small"
 [cRIJ]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 magic boss divine"
 [cRIK]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 magic boss medium"
 [cRHG]
-Name="Kobold Mischief-Maker"
+Name="恶搞狗头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic boss none"
 [cRHH]
-Name="Kobold Mischief-Maker"
+Name="恶搞狗头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic boss small"
 [cRHE]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 18 magic normal divine"
 [cRHF]
-Name="Kobold Mischief-Maker"
+Name="恶搞狗头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic boss medium"
 [cRHC]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 18 magic normal small"
 [cRHD]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 18 magic normal large"
 [cRHA]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 18 magic normal medium"
 [cRHB]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 18 magic normal none"
 [cRH9]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic normal divine"
 [cRGX]
-Name="Fire Elemental"
+Name="火焰元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic normal large"
 [cRGY]
-Name="Fire Elemental"
+Name="火焰元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic normal divine"
 [cRI8]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic boss large"
 [cRHW]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic boss small"
 [cRI9]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic boss divine"
 [cRHX]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic boss large"
 [cRI6]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic boss none"
 [cRHU]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic boss medium"
 [cRI7]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic boss small"
 [cRHV]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic boss none"
 [cRI4]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic boss divine"
 [cRHS]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic boss large"
 [cRI5]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 magic boss medium"
 [cRHT]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic boss divine"
 [cRI2]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic boss small"
 [cRHQ]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic boss none"
 [cRI3]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic boss large"
 [cRHR]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic boss small"
 [cRI0]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic boss medium"
 [cRHO]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic boss divine"
 [cRI1]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 magic boss none"
 [cRHP]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic boss medium"
 [cRHM]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic boss small"
 [cRHN]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic boss large"
 [cRHK]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic boss medium"
 [cRHL]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic boss none"
 [cRHI]
-Name="Kobold Mischief-Maker"
+Name="恶搞狗头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic boss large"
 [cRHJ]
-Name="Kobold Mischief-Maker"
+Name="恶搞狗头人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic boss divine"
 [cRKJ]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature normal divine"
 [cRKK]
-Name="Piggy"
+Name="小猪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature normal medium"
 [cRKH]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature normal small"
 [cRKI]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature normal large"
 [cRKF]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature normal medium"
 [cRKG]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature normal none"
 [cRKD]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic air large"
 [cRKE]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic air divine"
 [cRKB]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic air none"
 [cRKC]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic air small"
 [cRKA]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 magic air medium"
 [cRL9]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature normal divine"
 [cRKX]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature normal large"
 [cRKY]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature normal divine"
 [cRL7]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature normal small"
 [cRKV]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature normal none"
 [cRL8]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature normal large"
 [cRKW]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature normal small"
 [cRL5]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature normal medium"
 [cRKT]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature normal divine"
 [cRL6]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature normal none"
 [cRKU]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature normal medium"
 [cRL3]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature normal large"
 [cRKR]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature normal small"
 [cRL4]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature normal divine"
 [cRKS]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature normal large"
 [cRL1]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature normal none"
 [cRKP]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature normal medium"
 [cRL2]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature normal small"
 [cRKQ]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature normal none"
 [cRKN]
-Name="Piggy"
+Name="小猪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature normal large"
 [cRL0]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature normal medium"
 [cRKO]
-Name="Piggy"
+Name="小猪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature normal divine"
 [cRKL]
-Name="Piggy"
+Name="小猪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature normal none"
 [cRKM]
-Name="Piggy"
+Name="小猪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature normal small"
 [cRJI]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic boss large"
 [cRJJ]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic boss divine"
 [cRJG]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic boss none"
 [cRJH]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic boss small"
 [cRJE]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic boss divine"
 [cRJF]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 magic boss medium"
 [cRJC]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic boss small"
 [cRJD]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic boss large"
 [cRJA]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic boss medium"
 [cRJB]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 magic boss none"
 [cRJY]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic air divine"
 [cRK8]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic air large"
 [cRJW]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic air small"
 [cRK9]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic air divine"
 [cRJX]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic air large"
 [cRK6]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic air none"
 [cRJU]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic air medium"
 [cRK7]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic air small"
 [cRJV]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 magic air none"
 [cRK4]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic air divine"
 [cRJS]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic boss large"
 [cRK5]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 magic air medium"
 [cRJT]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic boss divine"
 [cRK2]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic air small"
 [cRJQ]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic boss none"
 [cRK3]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic air large"
 [cRJR]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic boss small"
 [cRK0]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic air medium"
 [cRJO]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic boss divine"
 [cRK1]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 magic air none"
 [cRJP]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 17 magic boss medium"
 [cRJM]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic boss small"
 [cRJN]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic boss large"
 [cRJK]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic boss medium"
 [cRJL]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 16 magic boss none"
 [cRML]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature boss none"
 [cRMM]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature boss small"
 [cRMJ]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature normal divine"
 [cRMK]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature boss medium"
 [cRMH]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature normal small"
 [cRMI]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature normal large"
 [cRMF]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature normal medium"
 [cRMG]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature normal none"
 [cRMD]
-Name="Dryad"
+Name="林精"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature normal large"
 [cRME]
-Name="Dryad"
+Name="林精"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature normal divine"
 [cRMB]
-Name="Dryad"
+Name="林精"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature normal none"
 [cRMC]
-Name="Dryad"
+Name="林精"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature normal small"
 [cRMA]
-Name="Dryad"
+Name="林精"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature normal medium"
 [cRN9]
-Name="Murloc Sorcerer"
+Name="鱼人术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature boss divine"
 [cRMX]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature boss large"
 [cRMY]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature boss divine"
 [cRN7]
-Name="Murloc Sorcerer"
+Name="鱼人术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature boss small"
 [cRMV]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature boss none"
 [cRN8]
-Name="Murloc Sorcerer"
+Name="鱼人术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature boss large"
 [cRMW]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature boss small"
 [cRN5]
-Name="Murloc Sorcerer"
+Name="鱼人术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature boss medium"
 [cRMT]
-Name="Quill Beast"
+Name="刺棘兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature boss divine"
 [cRN6]
-Name="Murloc Sorcerer"
+Name="鱼人术士"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature boss none"
 [cRMU]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature boss medium"
 [cRN3]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature boss large"
 [cRMR]
-Name="Quill Beast"
+Name="刺棘兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature boss small"
 [cRN4]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature boss divine"
 [cRMS]
-Name="Quill Beast"
+Name="刺棘兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature boss large"
 [cRN1]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature boss none"
 [cRMP]
-Name="Quill Beast"
+Name="刺棘兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature boss medium"
 [cRN2]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature boss small"
 [cRMQ]
-Name="Quill Beast"
+Name="刺棘兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature boss none"
 [cRMN]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature boss large"
 [cRN0]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature boss medium"
 [cRMO]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature boss divine"
 [cRLK]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature normal medium"
 [cRLL]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature normal none"
 [cRLI]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature normal large"
 [cRLJ]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature normal divine"
 [cRLG]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature normal none"
 [cRLH]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature normal small"
 [cRLE]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature normal divine"
 [cRLF]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature normal medium"
 [cRLC]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature normal small"
 [cRLD]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature normal large"
 [cRLA]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature normal medium"
 [cRLB]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature normal none"
 [cRLY]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature normal divine"
 [cRM8]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature normal large"
 [cRLW]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature normal small"
 [cRM9]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature normal divine"
 [cRLX]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature normal large"
 [cRM6]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature normal none"
 [cRLU]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature normal medium"
 [cRM7]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature normal small"
 [cRLV]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature normal none"
 [cRM4]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature normal divine"
 [cRLS]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature normal large"
 [cRM5]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature normal medium"
 [cRLT]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature normal divine"
 [cRM2]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature normal small"
 [cRLQ]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature normal none"
 [cRM3]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature normal large"
 [cRLR]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature normal small"
 [cRM0]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature normal medium"
 [cRLO]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature normal divine"
 [cRM1]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature normal none"
 [cRLP]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature normal medium"
 [cRLM]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature normal small"
 [cRLN]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature normal large"
 [cRON]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature boss large"
 [cRP0]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature air medium"
 [cROO]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature boss divine"
 [cROL]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature boss none"
 [cROM]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature boss small"
 [cROJ]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature boss divine"
 [cROK]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 15 nature boss medium"
 [cROH]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature boss small"
 [cROI]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature boss large"
 [cROF]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature boss medium"
 [cROG]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 14 nature boss none"
 [cROD]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature boss large"
 [cROE]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature boss divine"
 [cROB]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature boss none"
 [cROC]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature boss small"
 [cROA]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 13 nature boss medium"
 [cRP9]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature air divine"
 [cROX]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature air large"
 [cROY]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature air divine"
 [cRP7]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature air small"
 [cROV]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature air none"
 [cRP8]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature air large"
 [cROW]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature air small"
 [cRP5]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature air medium"
 [cROT]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature air divine"
 [cRP6]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 4 nature air none"
 [cROU]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 2 nature air medium"
 [cRP3]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature air large"
 [cROR]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature air small"
 [cRP4]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature air divine"
 [cROS]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature air large"
 [cRP1]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature air none"
 [cROP]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature air medium"
 [cRP2]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 3 nature air small"
 [cROQ]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 1 nature air none"
 [cRNM]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature boss small"
 [cRNN]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature boss large"
 [cRNK]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature boss medium"
 [cRNL]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature boss none"
 [cRNI]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature boss large"
 [cRNJ]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature boss divine"
 [cRNG]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature boss none"
 [cRNH]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature boss small"
 [cRNE]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature boss divine"
 [cRNF]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature boss medium"
 [cRNC]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature boss small"
 [cRND]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature boss large"
 [cRNA]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature boss medium"
 [cRNB]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature boss none"
 [cRNY]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature boss divine"
 [cRO8]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature boss large"
 [cRNW]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature boss small"
 [cRO9]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature boss divine"
 [cRNX]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature boss large"
 [cRO6]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature boss none"
 [cRNU]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature boss medium"
 [cRO7]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature boss small"
 [cRNV]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature boss none"
 [cRO4]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature boss divine"
 [cRNS]
-Name="Owlbear"
+Name="枭熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature boss large"
 [cRO5]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 12 nature boss medium"
 [cRNT]
-Name="Owlbear"
+Name="枭熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature boss divine"
 [cRO2]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature boss small"
 [cRNQ]
-Name="Owlbear"
+Name="枭熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature boss none"
 [cRO3]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature boss large"
 [cRNR]
-Name="Owlbear"
+Name="枭熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature boss small"
 [cRO0]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature boss medium"
 [cRNO]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature boss divine"
 [cRO1]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature boss none"
 [cRNP]
-Name="Owlbear"
+Name="枭熊"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature boss medium"
 [cRQ0]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature air medium"
 [cRPO]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature air divine"
 [cRQ1]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature air none"
 [cRPP]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature air medium"
 [cRPM]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature air small"
 [cRPN]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature air large"
 [cRPK]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature air medium"
 [cRPL]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 nature air none"
 [cRPI]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature air large"
 [cRPJ]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature air divine"
 [cRPG]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature air none"
 [cRPH]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature air small"
 [cRPE]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature air divine"
 [cRPF]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 nature air medium"
 [cRPC]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature air small"
 [cRPD]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature air large"
 [cRPA]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature air medium"
 [cRPB]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 5 nature air none"
 [cRPY]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature air divine"
 [cRQ8]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature air large"
 [cRPW]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature air small"
 [cRQ9]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature air divine"
 [cRPX]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature air large"
 [cRQ6]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature air none"
 [cRPU]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature air medium"
 [cRQ7]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature air small"
 [cRPV]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 9 nature air none"
 [cRQ4]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature air divine"
 [cRPS]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature air large"
 [cRQ5]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 11 nature air medium"
 [cRPT]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature air divine"
 [cRQ2]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature air small"
 [cRPQ]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature air none"
 [cRQ3]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 nature air large"
 [cRPR]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 nature air small"

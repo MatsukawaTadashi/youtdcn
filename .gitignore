@@ -1,4 +1,2 @@
-# User-specific stuff:
-tools/.idea/*
-tools/__pycache__/*
-tools/lib/__pycache__/*
+__pycache__/
+.vscode/

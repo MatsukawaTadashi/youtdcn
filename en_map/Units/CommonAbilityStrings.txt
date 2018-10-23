@@ -42,17 +42,17 @@ Name=Reveal
 Tip=|cffffcc00R|reveal
 Hotkey=R
 [Bdet]
-Bufftip=Detected
-Buffubertip="This unit is detected; an enemy player can see it."
+Bufftip=侦测
+Buffubertip="这个单位被侦测到了。敌方将可看到它。"
 [Bvul]
-Bufftip=Invulnerable
-Buffubertip="This unit is invulnerable; it will not take damage from attacks and cannot be targeted by spells."
+Bufftip=无敌
+Buffubertip="这个单位处于无敌状态。不会受到任何伤害也无法被法术指定为目标。"
 [Bspe]
-Bufftip=Speed Bonus
-Buffubertip="This unit has a speed bonus; it moves more quickly than it normally does."
+Bufftip=速度提高
+Buffubertip="这个单位的移动速度增加了；它的移动速度比平时更快。"
 [Bfro]
-Bufftip=Slowed
-Buffubertip="This unit is slowed; it moves more slowly than it normally does."
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 [Arep]
 Name=Repair
 Tip=|cffffcc00R|repair
@@ -96,11 +96,11 @@ Name=Locust
 [Amov]
 Name=Move
 [BSTN]
-Bufftip=Stunned
-Buffubertip="This unit is stunned; it cannot move, attack or cast spells."
+Bufftip=击晕
+Buffubertip="这个单位被击晕了；它无法移动、攻击或施法。"
 [BPSE]
-Bufftip=Stunned
-Buffubertip="This unit will not move."
+Bufftip=击晕
+Buffubertip="这个单位无法移动。"
 EditorSuffix= (Pause)
 [Xbdt]
 EditorName=Reveal (Effect)
@@ -109,89 +109,89 @@ EditorName=Blight (Effect)
 [Xdis]
 EditorName=Hero Dissipate (Effect)
 [BBAN]
-Bufftip=Banished
-Buffubertip=This unit cannot attack but can still cast spells; it will also take extra damage from magic attacks and spells.
+Bufftip=虚无
+Buffubertip=这个单位无法进行攻击，也不会受到物理攻击。但是它可以施法，并且从魔法攻击和法术中受到额外伤害。
 [R00F]
-Bufftip=Soul Chill
-Buffubertip=This unit is slowed by Soul Chill.
+Bufftip=灵魂深寒
+Buffubertip=这个单位被灵魂深寒减速了。
 EditorName=Soul Chill
 [R00L]
-Bufftip=Slowed
-Buffubertip=This unit has decreased movement speed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=Slowed
 [R001]
-Bufftip=Slowed
-Buffubertip=This unit has been chilled to the bone; it has reduced movespeed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=!Slow
 [R01S]
-Bufftip=Slowed
-Buffubertip=This unit has decreased movement speed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=Slowed
 [R02J]
-Bufftip=Concussive Bomb
-Buffubertip=This unit is slowed.
+Bufftip=震荡弹
+Buffubertip=这个单位被减速了。
 [R02K]
-Bufftip=Smoke Bomb
-Buffubertip=This unit is equipped with smoke bombs.
+Bufftip=烟雾弹
+Buffubertip=这个单位装备了烟雾弹。
 [R02H]
-Bufftip=Concussive Bomb
-Buffubertip=This unit is equipped with concussive bombs.
+Bufftip=震荡弹
+Buffubertip=这个单位装备了震荡弹。
 [R02I]
-Bufftip=Acid Bomb
-Buffubertip=This unit is equipped with acid bombs.
+Bufftip=酸蚀弹
+Buffubertip=这个单位装备了酸蚀弹。
 [R02L]
-Bufftip=Acid Bomb
-Buffubertip=This unit has its armor reduced.
+Bufftip=酸性炸弹
+Buffubertip=这个单位的护甲降低。
 [R00V]
-Bufftip=Slowed
-Buffubertip=This unit is slowed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=Slowed
 [R015]
-Bufftip=Absolute Zero
-Buffubertip=This unit was hit with a cloud of freezing snow; its movement speed is reduced.
+Bufftip=绝对零度
+Buffubertip=这个单位被暴风雪击中，它的移动速度降低。
 [R00U]
-Bufftip=Nova Chill
-Buffubertip=This unit was hit by an ice nova so it moves slower.
+Bufftip=新星之寒
+Buffubertip=这个单位被冰霜新星击中，它的移动速度降低。
 [R01I]
-Bufftip=Frost
-Buffubertip=This creep is slowed down.
+Bufftip=霜冻
+Buffubertip=这个单位被减速了。
 [R01N]
-Bufftip=Electrified
-Buffubertip=The creep has a chance to take extra damage.
+Bufftip=感电
+Buffubertip=这个单位有几率受到更多伤害。
 [R04C]
-Bufftip=Slowed
-Buffubertip=This unit has decreased movement speed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=Slowed
 [R04J]
-Bufftip=Cursed
-Buffubertip=This creep has a chance to have its susceptibility to fire increased when damaged.
+Bufftip=诅咒
+Buffubertip=这个单位在受到伤害时有几率提高它所受到的火焰伤害。
 [R04P]
-Bufftip=Slowed
-Buffubertip=This unit is slowed and moves slower.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=!Slow
 [R04Q]
-Bufftip=Slowed
-Buffubertip=This unit is slowed and moves slower.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=!Slow
 [R02W]
-Bufftip=Frost
-Buffubertip=This creep is slowed down.
+Bufftip=霜冻
+Buffubertip=这个单位被减速了。
 [R02T]
-Bufftip=Slowed
-Buffubertip=This unit has decreased movement speed.
+Bufftip=减速
+Buffubertip=这个单位被减速了。
 EditorName=Slowed
 [R05X]
-Bufftip=Frost
-Buffubertip=This creep is slowed down.
+Bufftip=霜冻
+Buffubertip=这个单位被减速了。
 [BSTU]
-Bufftip=Stunned
-Buffubertip=This unit cannot move.
+Bufftip=击晕
+Buffubertip=这个单位无法移动。
 [BUNL]
-Bufftip=Unlucky
-Buffubertip=This unit's triggerchances are reduced.
+Bufftip=不幸
+Buffubertip=这个单位的触发几率被降低了。
 [BPRO]
-Bufftip=Cursed
-Buffubertip=This unit's damage is greatly reduced.
+Bufftip=诅咒
+Buffubertip=这个单位的攻击被大幅度降低了。
 [BPUR]
-Bufftip=Purged
-Buffubertip=This unit's attack speed is reduced.
+Bufftip=净化
+Buffubertip=这个单位的攻击速度被降低了。

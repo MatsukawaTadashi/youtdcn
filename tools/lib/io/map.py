@@ -1,8 +1,8 @@
 import os
 import re
 import sys
+from ..constants import R_MAP_VERSION, JASS_DIR
 
-jass_dir = "scripts/war3map.j"
 abilities_slk_dir = "Units/UnitAbilities.slk"
 unit_dir = "Units/"
 r_unit_id = r"^\[\w{4}\]$"
@@ -17,7 +17,7 @@ class UnitText:
 
         for line in lines:
             if '=' not in line:
-                print('Warning: Illegal attribute:',id, line, file=sys.stderr)
+                print('Warning: Illegal attribute:', id, line, file=sys.stderr)
                 continue
             splited = line.split('=')
 
@@ -97,6 +97,7 @@ class Unit:
 
 class War3Map:
     def __init__(self, root_path):
+        self.path = root_path
         self.jass = []
         self.jass_function_list = []
         self.abilities_slk = []
@@ -106,7 +107,7 @@ class War3Map:
         print('Reading map: {0}'.format(root_path), file=sys.stderr)
 
         # 1.jass
-        jass_path = os.path.join(root_path, jass_dir)
+        jass_path = os.path.join(root_path, JASS_DIR)
         with open(jass_path, 'r', encoding='utf8') as ifile:
             self.jass = ifile.readlines()
 
@@ -172,6 +173,13 @@ class War3Map:
                 func_file = id2func_file[id]
             self.unit_collection[id] = Unit(id, string_file, func_file)
 
+    def get_version(self):
+        for line in self.jass:
+            match = re.search(R_MAP_VERSION, line)
+            if match:
+                return match[1]
+        raise Exception('Get map version failed {0}'.format(self.path))
+
     @staticmethod
     def parse_slk(path):
         with open(path, 'r', encoding='utf8') as ifile:
@@ -196,4 +204,3 @@ class War3Map:
                     res.setdefault(Y, {})
                     res[Y].setdefault(X, val)
         return res
-

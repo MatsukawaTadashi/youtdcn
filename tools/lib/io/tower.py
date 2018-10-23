@@ -1,8 +1,7 @@
-import argparse
 import re
 import bisect
-import sys
-from lib.io import War3Map
+from ..constants import R_AUTOCAST_FUNC, R_BUFF_FUNC, R_ITEM_FUNC
+from .map import War3Map
 
 
 class Tower:
@@ -16,9 +15,9 @@ class Tower:
 
 class TowerCollection:
 
-    def __init__(self, path, version):
-        self.ytd = War3Map(path)
-        self.__init_regex(version)
+    def __init__(self, ytd):
+        self.ytd = ytd
+        self.__init_regex(ytd.get_version())
 
         self.abil_id_dict = {}
         self.__init_abil_dict()
@@ -45,25 +44,13 @@ class TowerCollection:
 
     # 0. regex
     def __init_regex(self, version):
-        r_item_funcs = {
-            108: r"bfv\('(\w{4})'.*?'(\w{4})'.*?\)",
-            109: r"cIv\('(\w{4})'.*?'(\w{4})'.*?\)"
-        }
 
-        self.r_item_func = r_item_funcs[version]
+        self.r_item_func = R_ITEM_FUNC[version]
         self.r_item_results = []
 
-        r_buff_funcs = {
-            108: r"IIv\(.*?'\w{4}'.*?'(\w{4})'\)",
-            109: r"Azv\(.*?'\w{4}'.*?'(\w{4})'\)"
-        }
-        self.r_buff_func = r_buff_funcs[version]
+        self.r_buff_func = R_BUFF_FUNC[version]
 
-        r_autocast_funcs = {
-            108: "rmv\(.*?,.*?,.*?'(\w{4})'",
-            109: "avv\(.*?,.*?,.*?'(\w{4})'"
-        }
-        self.r_autocast_func = r_autocast_funcs[version]
+        self.r_autocast_func = R_AUTOCAST_FUNC[version]
 
         # init function list
         self.function_list = []
@@ -182,11 +169,11 @@ class TowerCollection:
                     if bfv_match:
                         res = bfv_match.group(1)
                         if id is not None and id != res:
-                            assert False;
+                            assert False
                         id = res
             if id:
-                tower_name = self.ytd.unit_collection[id].string_text.attr_dict['Name'][1]
-                buff_name = self.ytd.unit_collection[buff_id].string_text.attr_dict['Bufftip'][1]
+                # tower_name = self.ytd.unit_collection[id].string_text.attr_dict['Name'][1]
+                # buff_name = self.ytd.unit_collection[buff_id].string_text.attr_dict['Bufftip'][1]
                 # print('Tower Name: {0} Buff Name: {1}'.format(tower_name, buff_name), file=sys.stderr)
                 self.buff_id_dict[id].add(buff_id)
 
@@ -224,8 +211,8 @@ class TowerCollection:
                             assert False
                         id = res
             if id:
-                tower_name = self.ytd.unit_collection[id].string_text.attr_dict['Name'][1]
-                abil_name = self.ytd.unit_collection[abil_id].string_text.attr_dict['Tip'][1]
+                # tower_name = self.ytd.unit_collection[id].string_text.attr_dict['Name'][1]
+                # abil_name = self.ytd.unit_collection[abil_id].string_text.attr_dict['Tip'][1]
                 # print('Tower Name: {0} Ability Name: {1}'.format(tower_name, abil_name), file=sys.stderr)
                 self.abil_id_dict[id].add(abil_id)
 
@@ -288,19 +275,11 @@ class TowerCollection:
             string, func = self.ytd.unit_text_file_collection[prefix]
             string.write_back()
 
-if __name__ == '__main__':
-    parser = argparse.ArgumentParser()
-    parser.add_argument('-b', '--base', type=str, help='The directory to the map.')
-    parser.add_argument('-o', '--output', type=str, help='The output file')
-    parser.add_argument('-v', '--version', type=int, default=109)
-    args = parser.parse_args()
-    if not args.base:
-        args.base = '../en_map'
-    if not args.output:
-        args.output = 'en.txt'
 
-    tc = TowerCollection(args.base, args.version)
-    with open(args.output, 'w', encoding='utf8') as ofile:
+def print_towers(map_dir, i18n_unit_file):
+    ytd = War3Map(map_dir)
+    tc = TowerCollection(ytd)
+    with open(i18n_unit_file, 'w', encoding='utf8') as ofile:
         for tower in tc.tower_families:
             t = tower
             # print tower family
@@ -310,5 +289,3 @@ if __name__ == '__main__':
                     t = tc.towers[t.upgrade_id]
                 else:
                     break
-
-

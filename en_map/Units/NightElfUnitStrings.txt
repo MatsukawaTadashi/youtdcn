@@ -2,22 +2,27 @@
 Name=Vorpal Blades
 Tip=Vorpal Blades
 Ubertip="Permits the glaives launched by the Glaive Thrower to strike through initial ground targets and damage those behind. Also allows the Glaive Thrower to attack trees."
-[v0BD]
+[v0BF]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0CY]
+[v0B5]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0CN]
+[v0D0]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0BZ]
+[v0CP]
+Name="special effect"
+Hotkey=W
+Tip=""
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[v0C1]
 Name="special effect"
 Hotkey=W
 Tip=""
@@ -27,47 +32,47 @@ Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0EO]
+[v0FE]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0F8]
+[v0ER]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0EA]
+[v0EC]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0DM]
+[v0ED]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0E9]
+[v0DO]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0HG]
+[v0HJ]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0H4]
+[v0GW]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0GT]
+[v0H7]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JF]
+[v0K0]
 Name="special effect"
 Hotkey=W
 Tip=""
@@ -77,12 +82,27 @@ Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[v0JI]
+Name="special effect"
+Hotkey=W
+Tip=""
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[v0IU]
+Name="special effect"
+Hotkey=W
+Tip=""
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
 [v0IS]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0IQ]
+[v0IY]
+Name="special effect"
+Hotkey=W
+Tip=""
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[v0IX]
 Name="special effect"
 Hotkey=W
 Tip=""
@@ -92,7 +112,7 @@ Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0ID]
+[v0IH]
 Name="special effect"
 Hotkey=W
 Tip=""
@@ -102,27 +122,32 @@ Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JT]
+[v0K7]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JU]
+[v0K5]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JR]
+[v0K3]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JQ]
+[v0K4]
 Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v0JX]
+[v0JP]
+Name="special effect"
+Hotkey=W
+Tip=""
+Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
+[v0K1]
 Name="special effect"
 Hotkey=W
 Tip=""
@@ -202,7 +227,7 @@ Name="special effect"
 Hotkey=W
 Tip=""
 Ubertip="Basic worker unit. Can harvest gold and lumber, create Night Elf buildings and Renew. |nCan Detonate to dispel magic, hurt summoned creatures and drain mana in an area."
-[v090]
+[v092]
 Name="special effect"
 Hotkey=W
 Tip=""
