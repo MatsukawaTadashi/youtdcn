@@ -75,22 +75,22 @@ Researchhotkey=C
 [R007]
 Bufftip=月之优雅
 Buffubertip=这个单位承受的法术伤害提高。
-EditorName=Lunar Grace
+EditorName=月之优雅
 [R00J]
 Bufftip=灵魂散落
 Buffubertip=这座塔的攻击速度降低。
 [R000]
 Bufftip=萎缩
 Buffubertip=这个单位正在萎缩，它的移动速度降低了。
-EditorName=Atrophy
+EditorName=萎缩
 [R026]
 Bufftip=致命缠绕
 Buffubertip=这个单位受到了致命缠绕的影响，它对人类和兽人怪物的伤害提高。
-EditorName=Mortal Coil
+EditorName=致命缠绕
 [R025]
 Bufftip=削弱
 Buffubertip=这个单位被削弱，它的移动速度降低，并且受到的法术伤害提高。
-EditorName=Weaken
+EditorName=削弱
 [R02B]
 Bufftip=冰冻
 Buffubertip=这个单位被冻住了，它无法移动。
@@ -113,20 +113,20 @@ Bufftip=霜冻光环
 Buffubertip=这个单位的移动速度降低。
 [R00T]
 Bufftip=黑暗诅咒
-Buffubertip=这个单位受到的物理伤害提高。
-EditorName=Dark Curse
+Buffubertip=这个单位受到的攻击伤害提高。
+EditorName=黑暗诅咒
 [R04D]
 Bufftip=残废
 Buffubertip=这个单位残废了，它的移动速度会持续降低。
-EditorName=Maim
+EditorName=残废
 [R04R]
 Bufftip=科多兽的粪便
 Buffubertip=这个单位从燃烧着的科多粪中获得了能量。
-EditorName=Kodo Dung
+EditorName=科多兽的粪便
 [R051]
 Bufftip=暗影波
 Buffubertip=这个单位的下次攻击会眩晕它自己。
-EditorName=Dark Surge
+EditorName=暗影波
 [R06D]
 Bufftip=星辰爆发
 Buffubertip=星辰爆发刚刚通过了传送门
@@ -142,27 +142,27 @@ Buffubertip=这个单位的攻击力提高。
 [R06R]
 Bufftip=魔力爆发
 Buffubertip=这座塔的法术伤害提高。
-EditorName=Magic Boost
+EditorName=魔力爆发
 [R05I]
 Bufftip=过载
 Buffubertip=这个单位的移动速度降低。
-EditorName=Overload
+EditorName=过载
 [R05J]
 Bufftip=能量场
 Buffubertip=这个单位受到风暴系塔的伤害提高。
-EditorName=Electric Field
+EditorName=能量场
 [R05H]
 Bufftip=电磁脉冲
 Buffubertip=这个单位受到了电磁脉冲的影响，当它移动时会受到伤害。
-EditorName=Magnetic Surge
+EditorName=电磁脉冲
 [R08F]
 Bufftip=幸运宝石减速
 Buffubertip=这个单位被幸运宝石减速了。
-EditorName=Gem Slow
+EditorName=幸运宝石减速
 [R08L]
 Bufftip=致残
 Buffubertip=这个单位被致残，它的移动速度降低。
-EditorName=Cripple
+EditorName=致残
 [R06Z]
 Bufftip=蓝蜉蝣
 Buffubertip=这个单位被蓝蜉蝣减速了。
@@ -171,11 +171,11 @@ Bufftip=不朽的意志
 Buffubertip=这个单位的攻击力降低。
 [R06Y]
 Bufftip=凋零的存在
-Buffubertip=这个单位的生命恢复速度降低，并且受到来自黑暗系塔的额外伤害。
+Buffubertip=这个单位的生命恢复速度降低。
 [R07B]
 Bufftip=依米尔之血
 Buffubertip=这个单位受到了依米尔之血的影响，受到来自寒冰系塔的额外伤害。
-EditorName=Blood of Ymir
+EditorName=依米尔之血
 [R080]
 Bufftip=准备捡东西！
 Buffubertip=下一个被此塔击杀的怪物一定会掉落物品。
@@ -189,7 +189,7 @@ Buffubertip=这个单位被减速。
 [R07W]
 Bufftip=缓慢凋零
 Buffubertip=这个单位的生命力被缓慢吸收，当它的血量低于某个百分比时会直接死亡。
-EditorName=Slow Decay
+EditorName=缓慢凋零
 [R085]
 Bufftip=吹起
 Buffubertip=这个单位被吹起，在空中被击杀时会给予更多经验值。

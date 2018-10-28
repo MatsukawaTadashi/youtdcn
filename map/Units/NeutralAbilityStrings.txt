@@ -84,12 +84,12 @@ Name=Revenge
 [Adtg]
 Name=真实视野
 EditorSuffix= (Neutral 1)
-Tip=True Sight
+Tip=真实视野
 Ubertip="显示附近的隐形单位。"
 [ANtr]
 Name=真实视野
 EditorSuffix= (Neutral 2)
-Tip=True Sight
+Tip=真实视野
 Ubertip="显示附近的隐形单位。"
 [Abgm]
 Name=Blighted Gold Mine Ability
@@ -922,14 +922,14 @@ EditorSuffix=""
 Name="Effect abil for R06T"
 EditorSuffix=""
 [W12B]
-Name="Surge"
-Tip="Surge"
+Name="涌动"
+Tip="涌动"
 Ubertip=""
 Hotkey=
 EditorSuffix=""
 [W12C]
-Name="Manastorm"
-Tip="Manastorm"
+Name="法力风暴"
+Tip="法力风暴"
 Ubertip=""
 Hotkey=
 EditorSuffix=""
@@ -1081,9 +1081,9 @@ EditorSuffix=""
 Name="Effect abil for R04K"
 EditorSuffix=""
 [W14P]
-Name="Glaivesaw"
-Tip="Glaivesaw"
-Ubertip="Create a Glaivesaw at the target location. Glaivesaws deal |cffffff8050%|r of attack damage as Lacerate damage to enemies within |cffffff80150|r range per second. Limit |cffffff803|r.|n|n|cffFF8000Level Bonus:|r|n|cffFFFF80+1%|r damage"
+Name="刀刃守卫"
+Tip="刀刃守卫"
+Ubertip="在目标点设置一个刀刃守卫，每秒对 |cffffff80150|r 范围内的敌人造成相当于 |cffffff8050%|r 攻击力的 割裂 伤害。最多放置 |cffffff803|r个。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+1%|r 攻击力比例"
 Hotkey=
 EditorSuffix=""
 [W151]
@@ -1484,23 +1484,23 @@ Buffubertip=
 [R02F]
 Bufftip=警戒
 Buffubertip=这座塔处于警戒状态，它的基础攻击力增加了。
-EditorName=Alert
+EditorName=警戒
 [R02G]
 Bufftip=非法入侵
 Buffubertip=这个单位非法入侵，它的护甲被降低了。
-EditorName=Trespassing
+EditorName=非法入侵
 [R02O]
 Bufftip=光明光环
 Buffubertip=这个单位对亡灵造成更多伤害。
-EditorName=Aura of Light
+EditorName=光明光环
 [R01A]
 Bufftip=新星风暴
 Buffubertip=这个单位被新星风暴击中，它的移动速度降低了。
-EditorName=Nova Storm
+EditorName=新星风暴
 [R020]
 Bufftip=古代魔法
 Buffubertip=这个单位受到古代魔法效果影响，它的法术暴击几率增加了。
-EditorName=Ancient Magic
+EditorName=古代魔法
 [R021]
 Bufftip=极度寒冷
 Buffubertip=这个单位受到极度寒冷效果的影响，它的移动速度降低，效果消失后会进入眩晕状态。
@@ -1508,15 +1508,15 @@ EditorName=Extreme Cold
 [R03X]
 Bufftip=地穴剧毒
 Buffubertip=这个单位被地穴剧毒感染
-EditorName=Nerubian Poison
+EditorName=地穴剧毒
 [R04T]
 Bufftip=液态火
 Buffubertip=这个单位持续受到伤害，并且受到火焰系塔的伤害提高。
-EditorName=Liquid Fire
+EditorName=液态火
 [R03D]
 Bufftip=神圣教育
 Buffubertip=这个单位将越来越聪明，获得额外的经验值。
-EditorName=Divine Teachings
+EditorName=神圣教育
 [BSIL]
 Bufftip=沉默
 Buffubertip=这个单位不能使用技能
@@ -1527,12 +1527,12 @@ Buffubertip=
 Bufftip=冰冻之雾
 Buffubertip=这个单位被冰冻之雾减速了
 EditorSuffix=
-EditorName=Freezing Mist
+EditorName=冰冻之雾
 [R072]
 Bufftip=热量光环
 Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会发生爆炸
 EditorSuffix=
-EditorName=Heat Aura
+EditorName=热量光环
 [R04X]
 EditorName=Item Change Time of Day
 [R059]
@@ -1542,14 +1542,14 @@ Buffubertip=
 Bufftip=灵魂偷取
 Buffubertip=这个单位的灵魂被囚禁在穹窿中，它会受到更多法术伤害。
 [R07C]
-EditorName=Flesh of Ymir
-Buffubertip=伊米尔的古老肉体可以减少的负面状态持续时间。
+EditorName=伊米尔之身
+Buffubertip=伊米尔的古老肉体可以减少负面状态持续时间。
 Bufftip=伊米尔之身
 [R07D]
 Bufftip=伊米尔之怒
 Buffubertip=这个单位被伊米尔之怒减速了。
-EditorName=Wrath of Ymir
+EditorName=伊米尔之怒
 [R07X]
 Bufftip=遭受攻击
 Buffubertip=这个单位受到伤害
-EditorName=Under Attack
+EditorName=遭受攻击

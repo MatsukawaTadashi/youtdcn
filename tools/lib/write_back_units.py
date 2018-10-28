@@ -1,5 +1,5 @@
-from .io import War3Map
-from .io import UnitTextFile
+from .io.map import War3Map
+from .io.map import UnitTextFile
 
 
 def write_back_units(i18n_unit_file, map_dir):

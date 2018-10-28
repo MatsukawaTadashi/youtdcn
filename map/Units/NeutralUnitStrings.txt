@@ -159,7 +159,7 @@ Name="Monolith"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSD]
-Name="???"
+Name="廛~廛~廛~"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [vCSE]
@@ -1827,7 +1827,7 @@ Name="科多兽"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 8 orc normal none"
 [cRAN]
-Name="邪恶战士"
+Name="Vicious Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal large"
 [cRB0]
@@ -1835,39 +1835,39 @@ Name="萨满"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 10 orc normal medium"
 [cRAO]
-Name="邪恶战士"
+Name="Vicious Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal divine"
 [cRAL]
-Name="邪恶战士"
+Name="Vicious Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal none"
 [cRAM]
-Name="邪恶战士"
+Name="Vicious Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal small"
 [cRAJ]
-Name="战士"
+Name="Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal divine"
 [cRAK]
-Name="邪恶战士"
+Name="Vicious Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 7 orc normal medium"
 [cRAH]
-Name="战士"
+Name="Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal small"
 [cRAI]
-Name="战士"
+Name="Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal large"
 [cRAF]
-Name="战士"
+Name="Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal medium"
 [cRAG]
-Name="战士"
+Name="Battler"
 Tip=Hire Razormane Brute
 EditorSuffix="Level 6 orc normal none"
 [cRAD]
