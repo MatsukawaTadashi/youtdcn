@@ -5535,8 +5535,8 @@ Description="|cff9BA0D0让珍贵的矿石在黑暗中闪闪发光。 |n|n|cffFFF
 Name="|cffFFFF00巴特克之魂|r"
 Hotkey=K
 Tip="|cffFFFF00巴特克之魂|r"
-Ubertip=|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
-Description=|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
+Ubertip="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
+Description="|cff9BA0D0使携带塔受到上古恶魔战士巴特克的灵魂的强化, 攻击时偶尔会释放魔法爆炸。 |n|n|cffFFFF80等级：|r 40|n|cffFFFF80作者：|r Bartuck|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00巴特克之魂|r|n每攻击 |cffFFFF8010次|r 将会释放一个魔法爆炸, 对目标范围 |cffFFFF80300|r 内的所有目标造成 |cffFFFF802000|r 法术伤害 。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+80|r 法术伤害"
 [Q0P3]
 Name="|cffFFFFFF闪电马蹄铁|r"
 Hotkey=K
