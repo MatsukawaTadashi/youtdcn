@@ -28568,7 +28568,7 @@ call erv(m,30,.5,.02)
 call Nsv(WR,'W16U','R07R')
 set WQ[(WR)]=(m)
 set yR=VAv(1)
-set wj[Wj[(yR)]+(0)]=("Awaken Cast")
+set wj[Wj[(yR)]+(0)]=("觉醒")
 endfunction
 function KRv takes integer bt returns nothing
 local integer ac
