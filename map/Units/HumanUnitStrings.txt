@@ -1600,7 +1600,7 @@ Ubertip="|cff9BA0D0黑冰柱顶端的一颗远古结晶。|n|n|cffFFFF80作者:|
 Name="|cffFF00BF刀锋领主|r"
 Hotkey=T
 Tip="|cffFF00BF刀锋领主|r"
-Ubertip="|cff9BA0D0放干他们的血，剔净他们的肉。|n|n|cffFFFF80作者: |r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力: |cffFFFF001325|r 每秒伤害， |cffC0C0C0穿刺|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n|n|cffCCFF00刀刃守卫|r|n在目标位置设立一个 |cffffff803|r 刀刃守卫范围内的所有单位造成伤害。|n|n|cffCCFF00弹射|r|n攻击有几率释放一个在守卫之间弹射的刀刃。|n|n|cffCCFF00刀刃风暴|r|n击中时有几率释放一个在本塔和怪物之间弹射的刀刃|n|n|cffCCFF00割裂|r|n攻击和技能造成的一部分伤害会转换为持续伤害。"
+Ubertip="|cff9BA0D0放干他们的血，剔净他们的肉。|n|n|cffFFFF80作者: |r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力: |cffFFFF001325|r 每秒伤害， |cffC0C0C0穿刺|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n|n|cffCCFF00刀刃守卫|r|n在目标位置设立一个刀刃守卫，对范围内的所有单位造成伤害。|n|n|cffCCFF00弹射|r|n攻击有几率释放一个在守卫之间弹射的刀刃。|n|n|cffCCFF00刀刃风暴|r|n击中时有几率释放一个在本塔和怪物之间弹射的刀刃|n|n|cffCCFF00割裂|r|n攻击和技能造成的一部分伤害会转换为持续伤害。"
 [v0J6]
 Name="|cffFF00BF天平(Scales)|r"
 Hotkey=T

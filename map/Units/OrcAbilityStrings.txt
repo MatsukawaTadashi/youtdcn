@@ -184,7 +184,7 @@ Buffubertip=这个单位受到了绿龙之力的影响，它的多重暴击数�
 EditorName=绿龙之力
 [R03G]
 Bufftip=手榴弹碎片
-Buffubertip=这个单位被手榴弹的碎片击中，受到的穿刺伤害提高。
+Buffubertip=这个单位被手榴弹的碎片击中，受到的攻击伤害提高。
 EditorName=手榴弹碎片
 [R03F]
 Bufftip=兴奋剂

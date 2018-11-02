@@ -2162,7 +2162,7 @@ Ubertip="攻击时有|cffFFFF8026%|r几率吹起它的目标，持续|cffFFFF800
 [W0KW]
 Name="v0BL Header"
 Tip="破片手榴弹"
-Ubertip="击中时有|cffFFFF8020%|r几率投掷一枚破片手榴弹，在短暂的延迟后炸裂为|cffFFFF806|r块。每块碎片造成|cffFFFF801200|r法术伤害，并且提高目标受到的穿刺伤害|cffFFFF802%|r，最大叠加至|cffFFFF8050%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 几率|r|n|cffFFFF80+100|r 法术伤害|r|n|cffFFFF80+0.1%|r 易伤"
+Ubertip="击中时有|cffFFFF8020%|r几率投掷一枚破片手榴弹，在短暂的延迟后炸裂为|cffFFFF806|r块。每块碎片造成|cffFFFF801200|r法术伤害，并且提高目标受到的攻击伤害|cffFFFF802%|r，最大叠加至|cffFFFF8050%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 几率|r|n|cffFFFF80+100|r 法术伤害|r|n|cffFFFF80+0.1%|r 易伤"
 [W0L9]
 Name="v0BP abils"
 Tip="特殊能力"
@@ -3431,7 +3431,7 @@ Ubertip="|cffCCFF00溅射攻击：|n   |cffFFFF00400|r 范围内 |cffFF800025%|r
 [W0TB]
 Name="v0FQ Header"
 Tip="破片手榴弹"
-Ubertip="击中时有|cffFFFF8025%|r几率投掷一枚破片手榴弹，在短暂的延迟后炸裂为|cffFFFF808|r块。每块碎片造成|cffFFFF801800|r法术伤害，并且提高目标受到的穿刺伤害|cffFFFF802%|r，最大叠加至|cffFFFF8050%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|r|n|cffFFFF80+150|r 法术伤害|r|n|cffFFFF80+0.1%|r 易伤"
+Ubertip="击中时有|cffFFFF8025%|r几率投掷一枚破片手榴弹，在短暂的延迟后炸裂为|cffFFFF808|r块。每块碎片造成|cffFFFF801800|r法术伤害，并且提高目标受到的攻击伤害|cffFFFF802%|r，最大叠加至|cffFFFF8050%|r。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.4%|r 几率|r|n|cffFFFF80+150|r 法术伤害|r|n|cffFFFF80+0.1%|r 易伤"
 [W15B]
 Name="v0JM On Damage"
 Tip="伊米尔之怒"
