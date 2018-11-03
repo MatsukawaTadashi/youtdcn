@@ -6932,7 +6932,7 @@ function v4v takes string v5v,player p,integer v6v,string v7v returns nothing
 local string vNv
 set vNv="
 
-Enter this code during builder select:
+在选择建造者期间输入如下代码：
 -load "+v5v+"
 
 玩家： "+GetPlayerName(p)+" (等级 "+I2S(v6v)+")
