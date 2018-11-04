@@ -456,10 +456,10 @@ Tip="购买 次级星辰守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0065|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q01G]
-Name="小型镭射"
+Name="小型镭射冲击塔"
 Hotkey=F
-Tip="购买 小型镭射"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 小型镭射冲击塔"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q01F]
 Name="积云战士"
@@ -801,7 +801,7 @@ Description="点击以建造一座塔"
 Name="镭射冲击塔"
 Hotkey=F
 Tip="购买 镭射冲击塔"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00810|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q02U]
 Name="燃烧犬"
@@ -1962,10 +1962,10 @@ Tip="购买 熊怪"
 Ubertip="|cff9BA0D0不惹它生气的时候，它是一种友善的生物。不幸的是，它们非常容易发脾气。|n|n|cffFFFF80作者：|r geX|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00517|r 每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q06K]
-Name="大型镭射"
+Name="大型镭射冲击塔"
 Hotkey=F
-Tip="购买 大型镭射"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 大型镭射冲击塔"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q06N]
 Name="闪电图腾"
@@ -2778,10 +2778,10 @@ Tip="购买 大型钢铁守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001350|r 每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0AA]
-Name="巨型镭射"
+Name="特制镭射冲击塔"
 Hotkey=F
-Tip="购买 巨型镭射"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 特制镭射冲击塔"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CI]
 Name="异型研究设施"
@@ -3939,7 +3939,7 @@ Description="点击以建造一座塔"
 Name="镭射冲击塔2.0"
 Hotkey=F
 Tip="购买 镭射冲击塔2.0"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0FT]
 Name="灵魂穹窿"
