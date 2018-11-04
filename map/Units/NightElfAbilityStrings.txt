@@ -766,7 +766,7 @@ Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r�
 [W053]
 Name="v039 Header"
 Tip="分解"
-Ubertip="击中时提高目标的物品获取率和物品品质率 |cffFFFF808%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+0.35%|r 物品品质率 |n |cffFFFF80+0.5%|r 物品获取率 |n |cffFFFF80+0.1|r 秒"
+Ubertip="击中时提高目标的物品获取率和物品品质率 |cffFFFF808%|r 持续 |cffFFFF805|r 秒。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+0.35%|r 物品品质率 |n |cffFFFF80+0.35%|r 物品获取率 |n |cffFFFF80+0.1|r 秒"
 [W07F]
 Name="v04V abils"
 Tip="特殊能力"
@@ -1934,7 +1934,7 @@ Ubertip="狼强烈的野性激励着 |cffFFFF80250|r 范围内的塔，增加其
 [W0J8]
 Name="v0AN Header"
 Tip="分解"
-Ubertip="击中时提高目标的物品获取率和物品品质率 |cffFFFF8012%|r 持续 |cffFFFF803|r 秒。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+0.45%|r 物品品质率 |n |cffFFFF80+0.45%|r 物品获取率 |n |cffFFFF80+0.5|r 秒"
+Ubertip="击中时提高目标的物品获取率和物品品质率 |cffFFFF8012%|r 持续 |cffFFFF806|r 秒。|n|n|cffFF8000等级加成：|r|n |cffFFFF80+0.45%|r 物品品质率 |n |cffFFFF80+0.45%|r 物品获取率 |n |cffFFFF80+0.1|r 秒"
 [W0JI]
 Name="v0AU On Damage"
 Tip="惩击"
