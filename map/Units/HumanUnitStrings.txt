@@ -261,10 +261,10 @@ Hotkey=T
 Tip="|cff0080FF星穹观察者|r"
 Ubertip="|cff9BA0D0罕见星辰塔。普通攻击命中时造成法术伤害。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00611|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力 ：|r|n|n|cffCCFF00法术切割|r|n这座塔的普通攻击造成额外法术伤害。"
 [v0AN]
-Name="|cff0080FF巨型镭射|r"
+Name="|cff0080FF特制镭射冲击塔|r"
 Hotkey=T
-Tip="|cff0080FF巨型镭射|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF特制镭射冲击塔|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v0AK]
 Name="|cffFFFF00鹰身女巫|r"
 Hotkey=T
@@ -1525,7 +1525,7 @@ Ubertip="|cff9BA0D0一个闪电国王，具有弹射攻击并有几率操纵闪�
 Name="|cff0080FF镭射冲击塔2.0|r"
 Hotkey=T
 Tip="|cff0080FF镭射冲击塔2.0|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v0JF]
 Name="|cffFF00BF活火山|r"
 Hotkey=T
@@ -2203,10 +2203,10 @@ Hotkey=T
 Tip="|cff0080FF小蜥蜴|r"
 Ubertip="|cff9BA0D0它喜欢拥抱人类。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力： |cffFFFF0031|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00毒性皮肤|r|n这座塔和它 |cffFFFF80200|r 范围内的其他塔都会获得毒性攻击的能力。"
 [v01I]
-Name="|cff0080FF小型镭射|r"
+Name="|cff0080FF小型镭射冲击塔|r"
 Hotkey=T
-Tip="|cff0080FF小型镭射|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF小型镭射冲击塔|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v01J]
 Name="|cffFFFFFF小冰火|r"
 Hotkey=T
@@ -2673,7 +2673,7 @@ Ubertip="|cff9BA0D0一座黑暗塔，对亡灵单位较弱，对魔法单位较�
 Name="|cff0080FF镭射冲击塔|r"
 Hotkey=T
 Tip="|cff0080FF镭射冲击塔|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00810|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v02Y]
 Name="|cff0080FF层积云战士|r"
 Hotkey=T
@@ -3436,10 +3436,10 @@ Hotkey=T
 Tip="|cff0080FF民兵哨塔|r"
 Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00304|r每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20%|r 伤害对boss (|cffFFFF00+0.7%|r/级)|n|cffFFFF00-20%|r 伤害对亡灵 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+20%|r 伤害对自然(|cffFFFF00+0.5%|r/级)|n|n|cffCCFF00战斧雨|r|n同时攻击多个敌人但有一定几率丢失。"
 [v06R]
-Name="|cff0080FF大型镭射|r"
+Name="|cff0080FF大型镭射冲击塔|r"
 Hotkey=T
-Tip="|cff0080FF大型镭射|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF大型镭射冲击塔|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v073]
 Name="|cff0080FF猛犸破坏者|r"
 Hotkey=T
