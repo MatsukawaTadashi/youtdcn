@@ -8521,7 +8521,7 @@ set eSv="每波之间的间隔时间降低到"+xJv(2.)+" 秒，并且当任意�
 call otv("|cff804000竞赛模式|r",0,eSv)
 set eSv="玩家将在公共储藏箱购买防御塔。"
 call otv("|cff9D9DA1公用储存箱|r",1,eSv)
-set eSv="所有的玩家使用同一个建造者r, 由主机选择."
+set eSv="所有的玩家使用同一个建造者, 由主机选择."
 call otv("|cff63eb77同一建造者|r",2,eSv)
 endfunction
 function oWv takes nothing returns nothing
@@ -13990,7 +13990,7 @@ endfunction
 function Ojv takes integer c3,integer B8 returns nothing
 local real M7=lL[LL[c3]+B8]/ mL[ML[c3]+B8]
 call DestroyEffect(AddSpecialEffect("war3mapImported\\LifeLost.mdx",GetUnitX(cB),GetUnitY(cB)))
-call ORv(c3,"|cffFFFF80你的团队对挑战者造成了 |cffFFFF00"+xQv(M7,1)+"|cffFFFF80 点伤害,获得了 |cffFFFF00"+I2S(R2I(kL[KL[c3]+B8]))+"|cffFFFF80 points!|r",30.)
+call ORv(c3,"|cffFFFF80你的团队对挑战者造成了 |cffFFFF00"+xQv(M7,1)+"|cffFFFF80 点伤害,获得了 |cffFFFF00"+I2S(R2I(kL[KL[c3]+B8]))+"|cffFFFF80 积分!|r",30.)
 endfunction
 function OJv takes integer c3 returns nothing
 local integer w3=Obv(c3)
@@ -20752,7 +20752,7 @@ call dfv(r6v,65,.3)
 call dhv(r6v,"bounty")
 call dhv(r6v,"relic")
 set r6v=dbv("极致聪慧","智慧","|cffC58989",1.,0,'d',false)
-set iw[(r6v)]=("这波敌人不提供金钱,但是能提供 300% 的经验值")
+set iw[(r6v)]=("这波敌人不提供金钱和物品掉落,但是能提供 300% 的经验值")
 call djv(r6v,true,true,true,true)
 call dfv(r6v,61,-1.)
 call dfv(r6v,60,2.)
@@ -23745,7 +23745,7 @@ endloop
 set lW[Djv]=k
 set jW[Djv]="|cffFFFF00杂兵挑战者|r"
 call ffv(Djv,true,false,false,false,false,"
-|cffFF0000如果这个BOSS没被击败,你会损失 100% 的生命,你必须击败他!!|r")
+|cffFF0000你不会在这一波损失生命值.挑战者们仅仅想来测试一下你的塔究竟能输出多高的伤害值!|r")
 elseif i==UP then
 call fDv(Djv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00: FINAL BOSS ===
 |r")
