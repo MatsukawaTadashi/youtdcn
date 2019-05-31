@@ -16,6 +16,8 @@ class UnitText:
         self.attr_list = []
 
         for line in lines:
+            if line.startswith('//'):
+                continue
             if '=' not in line:
                 print('Warning: Illegal attribute:', id, line, file=sys.stderr)
                 continue
@@ -100,6 +102,7 @@ class War3Map:
         self.path = root_path
         self.jass = []
         self.jass_function_list = []
+        self.wts = {}
         self.abilities_slk = []
         self.unit_text_file_collection = {}
         self.unit_collection = {}
@@ -118,6 +121,22 @@ class War3Map:
         # 3. units
         unit_path = os.path.join(root_path, unit_dir)
         files = os.listdir(unit_path)
+
+        # 3.5 wts
+        wts_path = os.path.join(root_path, 'war3map.wts')
+        if os.path.exists(wts_path):
+            wts_i = 0
+            wts_content = False
+            with open(wts_path, 'r', encoding='utf8') as ifile:
+                for line in ifile:
+                    if line.strip() == '{':
+                        wts_content = True
+                    elif line.strip() == '}':
+                        wts_content = False
+                    elif wts_content:
+                        self.wts[wts_i] = line.strip()
+                    elif line.startswith('STRING'):
+                        wts_i = int(line[7:])
 
         string_files = [x for x in files if x.endswith('Strings.txt')]
         for file_name in string_files:
@@ -177,7 +196,13 @@ class War3Map:
         for line in self.jass:
             match = re.search(R_MAP_VERSION, line)
             if match:
-                return match[1]
+                target = match[1]
+                if target.startswith('TRIGSTR_'):
+                    idx = int(target[8:])
+                    target = self.wts[idx]
+                if target.startswith('YouTD v'):
+                    print('Version {0}'.format(target), file=sys.stderr)
+                    return target[7:]
         raise Exception('Get map version failed {0}'.format(self.path))
 
     @staticmethod

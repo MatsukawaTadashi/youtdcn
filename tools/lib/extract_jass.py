@@ -87,8 +87,8 @@ def extract_jass(old_en, old_cn, new_en, i18n_jass_file, ignore_list_file):
     outfile.close()
 
     # write back confident translations
-    with open(join(new_en, JASS_DIR), 'w', encoding='utf8') as ofile:
-        ofile.write(text_new)
+    #with open(join(new_en, JASS_DIR), 'w', encoding='utf8') as ofile:
+    #    ofile.write(text_new)
 
     # generate ignore list file
     if ignore_list_file:
