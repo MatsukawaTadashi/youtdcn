@@ -1,13 +1,19 @@
+// Attribute Bonus
 [ANha]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Unart=ReplaceableTextures\CommandButtons\BTNReturnGoods.blp
 Buttonpos=3,1
 UnButtonpos=3,1
 Order=harvest
+
+// Shockwave
 [AGbu]
 Art=ReplaceableTextures\CommandButtons\BTNBasicStruct.blp
 Buttonpos=0,2
 Order=nagabuild
+
+// Cyclone (naga)
+
 [ANcl]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -18,6 +24,11 @@ Targetart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+//orc campaign hero stuff
+
+// War Stomp (Cairn)
+
 [AOls]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
@@ -25,6 +36,8 @@ Buttonpos=3,2
 Researchbuttonpos=3,0
 Order=Locustswarm
 Effectsoundlooped=LocustSwarmLoop
+
+// Sell
 [XSEL]
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=2,0
@@ -35,6 +48,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Show Range
 [XSRN]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Play.blp
 Buttonpos=3,0
@@ -45,6 +60,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Use Consumable
 [XCON]
 Art=ReplaceableTextures\CommandButtons\BTNHolyWater.blp
 Buttonpos=2,0
@@ -55,6 +72,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Perfect
 [XCU3]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeMaster.blp
 Buttonpos=3,0
@@ -65,6 +84,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Reassemble
 [XCU2]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfRegenerationGreen.blp
 Buttonpos=2,0
@@ -75,6 +96,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Imbue
 [XCU5]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollGreen.blp
 Buttonpos=1,1
@@ -85,6 +108,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Precipitate
 [XCU4]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfProtection.blp
 Buttonpos=0,1
@@ -95,6 +120,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Liquefy
 [XCU6]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollPurple.blp
 Buttonpos=2,1
@@ -105,6 +132,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Distill
 [XCU1]
 Art=ReplaceableTextures\CommandButtons\BTNScrollUber.blp
 Buttonpos=1,0
@@ -115,6 +144,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Rebrew
 [XCU0]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfHealing.blp
 Buttonpos=0,0
@@ -125,6 +156,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Conversion
 [XCUB]
 Art=ReplaceableTextures\CommandButtons\BTNillidanprisonwagon.tga
 Buttonpos=3,2
@@ -135,6 +168,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v01J Autocast
 [W022]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,2
@@ -145,6 +180,8 @@ Targetart=Abilities\Spells\Undead\RaiseSkeletonWarrior\RaiseSkeleton.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Drop All Items
 [XCUD]
 Art=ReplaceableTextures\CommandButtons\BTNUnload.blp
 Buttonpos=0,2
@@ -155,6 +192,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v01F Autocast
 [W01V]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=3,2
@@ -165,6 +204,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v01G Autocast
 [W01W]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=3,2
@@ -175,6 +216,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v00R Autocast
 [W011]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=3,2
@@ -185,6 +228,8 @@ Targetart=Abilities\Spells\Items\AIil\AIilTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v024 Autocast
 [W03D]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,2
@@ -195,6 +240,8 @@ Targetart=Abilities\Spells\Human\Banish\BanishTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v02A Autocast
 [W03O]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 Buttonpos=3,2
@@ -205,6 +252,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v02I Autocast
 [W041]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
 Buttonpos=3,2
@@ -215,6 +264,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v01N Autocast
 [W02F]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,2
@@ -225,6 +276,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Show Unit Stats
 [XTWI]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Buttonpos=1,1
@@ -235,6 +288,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v01V Autocast
 [W031]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=3,2
@@ -245,6 +300,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v03V Autocast
 [W05Z]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,2
@@ -255,6 +312,8 @@ Targetart=Abilities\Spells\Undead\Curse\CurseTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v03C Autocast
 [W056]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=3,2
@@ -265,6 +324,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v03D Autocast
 [W057]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=3,2
@@ -275,6 +336,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v03E Autocast
 [W059]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,2
@@ -285,6 +348,8 @@ Targetart=Abilities\Spells\Undead\RaiseSkeletonWarrior\RaiseSkeleton.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v056 Autocast
 [W082]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -295,6 +360,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v045 Autocast
 [W06E]
 Art=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
 Buttonpos=3,2
@@ -305,6 +372,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v046 Autocast
 [W06I]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
 Buttonpos=3,2
@@ -315,6 +384,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v04N Autocast
 [W076]
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=3,2
@@ -325,6 +396,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v04G Autocast
 [W06X]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=3,2
@@ -335,6 +408,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05N Autocast
 [W09L]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,2
@@ -345,6 +420,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05U Autocast
 [W09Y]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=3,2
@@ -355,6 +432,8 @@ Targetart=Abilities\Spells\Items\AIil\AIilTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05S Autocast
 [W09V]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,2
@@ -365,6 +444,8 @@ Targetart=Abilities\Spells\Undead\Curse\CurseTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v059 Autocast
 [W08H]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
 Buttonpos=3,2
@@ -375,6 +456,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05A Autocast
 [W08M]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -385,6 +468,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v058 Autocast
 [W08D]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,2
@@ -395,6 +480,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05D Autocast
 [W08Z]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=3,2
@@ -405,6 +492,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05B Autocast
 [W08R]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -415,6 +504,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05E Autocast
 [W093]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=3,2
@@ -425,6 +516,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05C Autocast
 [W08V]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
 Buttonpos=3,2
@@ -435,6 +528,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVK]
 Art=ReplaceableTextures\CommandButtons\BTNlevel10.blp
 Buttonpos=0,0
@@ -445,6 +540,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVJ]
 Art=ReplaceableTextures\CommandButtons\BTNlevel9.blp
 Buttonpos=0,0
@@ -455,6 +552,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVM]
 Art=ReplaceableTextures\CommandButtons\BTNlevel12.blp
 Buttonpos=0,0
@@ -465,6 +564,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVL]
 Art=ReplaceableTextures\CommandButtons\BTNlevel11.blp
 Buttonpos=0,0
@@ -475,6 +576,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVO]
 Art=ReplaceableTextures\CommandButtons\BTNlevel14.blp
 Buttonpos=0,0
@@ -485,6 +588,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVN]
 Art=ReplaceableTextures\CommandButtons\BTNlevel13.blp
 Buttonpos=0,0
@@ -495,6 +600,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVQ]
 Art=ReplaceableTextures\CommandButtons\BTNlevel16.blp
 Buttonpos=0,0
@@ -505,6 +612,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVP]
 Art=ReplaceableTextures\CommandButtons\BTNlevel15.blp
 Buttonpos=0,0
@@ -515,6 +624,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVC]
 Art=ReplaceableTextures\CommandButtons\BTNlevel2.blp
 Buttonpos=0,0
@@ -525,6 +636,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVB]
 Art=ReplaceableTextures\CommandButtons\BTNlevel1.blp
 Buttonpos=0,0
@@ -535,6 +648,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVE]
 Art=ReplaceableTextures\CommandButtons\BTNlevel4.blp
 Buttonpos=0,0
@@ -545,6 +660,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVD]
 Art=ReplaceableTextures\CommandButtons\BTNlevel3.blp
 Buttonpos=0,0
@@ -555,6 +672,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVG]
 Art=ReplaceableTextures\CommandButtons\BTNlevel6.blp
 Buttonpos=0,0
@@ -565,6 +684,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v06F Autocast
 [W0AL]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,2
@@ -575,6 +696,8 @@ Targetart=Abilities\Spells\Human\Banish\BanishTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVF]
 Art=ReplaceableTextures\CommandButtons\BTNlevel5.blp
 Buttonpos=0,0
@@ -585,6 +708,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVI]
 Art=ReplaceableTextures\CommandButtons\BTNlevel8.blp
 Buttonpos=0,0
@@ -595,6 +720,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVH]
 Art=ReplaceableTextures\CommandButtons\BTNlevel7.blp
 Buttonpos=0,0
@@ -605,6 +732,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVZ]
 Art=ReplaceableTextures\CommandButtons\BTNlevel25.blp
 Buttonpos=0,0
@@ -615,6 +744,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v06X Autocast
 [W0BG]
 Art=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
 Buttonpos=3,2
@@ -625,6 +756,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVS]
 Art=ReplaceableTextures\CommandButtons\BTNlevel18.blp
 Buttonpos=0,0
@@ -635,6 +768,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVR]
 Art=ReplaceableTextures\CommandButtons\BTNlevel17.blp
 Buttonpos=0,0
@@ -645,6 +780,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVU]
 Art=ReplaceableTextures\CommandButtons\BTNlevel20.blp
 Buttonpos=0,0
@@ -655,6 +792,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVT]
 Art=ReplaceableTextures\CommandButtons\BTNlevel19.blp
 Buttonpos=0,0
@@ -665,6 +804,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVW]
 Art=ReplaceableTextures\CommandButtons\BTNlevel22.blp
 Buttonpos=0,0
@@ -675,6 +816,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVV]
 Art=ReplaceableTextures\CommandButtons\BTNlevel21.blp
 Buttonpos=0,0
@@ -685,6 +828,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVY]
 Art=ReplaceableTextures\CommandButtons\BTNlevel24.blp
 Buttonpos=0,0
@@ -695,6 +840,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVX]
 Art=ReplaceableTextures\CommandButtons\BTNlevel23.blp
 Buttonpos=0,0
@@ -705,6 +852,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Level Info
 [XLVA]
 Art=ReplaceableTextures\CommandButtons\BTNlevel0.blp
 Buttonpos=0,0
@@ -715,6 +864,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v05Z Autocast
 [W0A9]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 Buttonpos=3,2
@@ -725,6 +876,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v07N Autocast
 [W0CX]
 Art=ReplaceableTextures\CommandButtons\BTNQuillSpray.blp
 Buttonpos=3,2
@@ -735,6 +888,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v07U Autocast
 [W0DB]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,2
@@ -745,6 +900,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v071 Autocast
 [W0BT]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=3,2
@@ -755,6 +912,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v072 Autocast
 [W0BU]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=3,2
@@ -765,6 +924,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v074 Autocast
 [W0BX]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,2
@@ -775,6 +936,8 @@ Targetart=Abilities\Spells\Undead\RaiseSkeletonWarrior\RaiseSkeleton.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v06Y Autocast
 [W0BJ]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
 Buttonpos=3,2
@@ -785,6 +948,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v06Z Autocast
 [W0BM]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,2
@@ -795,6 +960,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v070 Autocast
 [W0BP]
 Art=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
 Buttonpos=3,2
@@ -805,6 +972,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v07D Autocast
 [W0CF]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=3,2
@@ -815,6 +984,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v07E Autocast
 [W0CI]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=3,2
@@ -825,6 +996,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v07A Autocast
 [W0CA]
 Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
 Buttonpos=3,2
@@ -835,6 +1008,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v08I Autocast
 [W0ET]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -845,6 +1020,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v086 Autocast
 [W0E9]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -855,6 +1032,8 @@ Targetart=Abilities\Spells\Other\Monsoon\MonsoonBoltTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v085 Autocast
 [W0E1]
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=3,2
@@ -865,6 +1044,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v085 Autocast
 [W0E2]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,2
@@ -875,6 +1056,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v080 Autocast
 [W0DR]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -885,6 +1068,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v085 Autocast
 [W0E3]
 Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Buttonpos=1,2
@@ -895,6 +1080,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09E Autocast
 [W0GW]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,2
@@ -905,6 +1092,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09H Autocast
 [W0H8]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=3,2
@@ -915,6 +1104,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09F Autocast
 [W0H0]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -925,6 +1116,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09D Autocast
 [W0GS]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
 Buttonpos=3,2
@@ -935,6 +1128,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09G Autocast
 [W0H4]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
 Buttonpos=3,2
@@ -945,6 +1140,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09I Autocast
 [W0HC]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=3,2
@@ -955,6 +1152,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v08Y Autocast
 [W0FZ]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,2
@@ -965,6 +1164,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v090 Autocast
 [W0G4]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=3,2
@@ -975,6 +1176,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v099 Autocast
 [W0GJ]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 Buttonpos=3,2
@@ -985,6 +1188,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v095 Autocast
 [W0GA]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,2
@@ -995,6 +1200,8 @@ Targetart=Abilities\Spells\Undead\Curse\CurseTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0A8 Autocast
 [W0IP]
 Art=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
 Buttonpos=3,2
@@ -1005,6 +1212,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0AK Autocast
 [W0J3]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
 Buttonpos=3,2
@@ -1015,6 +1224,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0B6 Autocast
 [W0K0]
 Art=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
 Buttonpos=3,2
@@ -1025,6 +1236,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0AS Autocast
 [W0JE]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,2
@@ -1035,6 +1248,8 @@ Targetart=Abilities\Spells\Human\Banish\BanishTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v09S Autocast
 [W0HW]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=3,2
@@ -1045,6 +1260,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0A3 Autocast
 [W0IE]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -1055,6 +1272,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0BO Autocast
 [W0L8]
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=3,2
@@ -1065,6 +1284,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0BL Autocast
 [W0KX]
 Art=ReplaceableTextures\CommandButtons\BTNStatUp.blp
 Buttonpos=3,2
@@ -1075,6 +1296,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0B4 Autocast
 [W0JY]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,2
@@ -1085,6 +1308,8 @@ Targetart=Abilities\Spells\Undead\RaiseSkeletonWarrior\RaiseSkeleton.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0AZ Autocast
 [W0JQ]
 Art=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
 Buttonpos=3,2
@@ -1095,6 +1320,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0B0 Autocast
 [W0JT]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
 Buttonpos=3,2
@@ -1105,6 +1332,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0B2 Autocast
 [W0JV]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=3,2
@@ -1115,6 +1344,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0B3 Autocast
 [W0JW]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=3,2
@@ -1125,6 +1356,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0BM Autocast
 [W0L2]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=3,2
@@ -1135,6 +1368,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0BD Autocast
 [W0KE]
 Art=ReplaceableTextures\CommandButtons\BTNManual3.blp
 Buttonpos=3,2
@@ -1145,6 +1380,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CK Autocast
 [W0N7]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=3,2
@@ -1155,6 +1392,8 @@ Targetart=Abilities\Spells\Items\AIil\AIilTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0I5 Autocast
 [W103]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=3,2
@@ -1165,6 +1404,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CW Autocast
 [W0NT]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -1175,6 +1416,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D2 Autocast
 [W0O5]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=3,2
@@ -1185,6 +1428,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CT Autocast
 [W0NL]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -1195,6 +1440,8 @@ Targetart=Abilities\Spells\Other\Monsoon\MonsoonBoltTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0C6 Autocast
 [W0M7]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,2
@@ -1205,6 +1452,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CC Autocast
 [W0MO]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=3,2
@@ -1215,6 +1464,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CH Autocast
 [W0N1]
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=3,2
@@ -1225,6 +1476,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CD Autocast
 [W0MS]
 Art=ReplaceableTextures\CommandButtons\BTNQuillSpray.blp
 Buttonpos=3,2
@@ -1235,6 +1488,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CA Autocast
 [W0MG]
 Art=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
 Buttonpos=3,2
@@ -1245,6 +1500,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0CB Autocast
 [W0MK]
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=3,2
@@ -1255,6 +1512,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0DF Autocast
 [W0PC]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
 Buttonpos=3,2
@@ -1265,6 +1524,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0DG Autocast
 [W0PE]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -1275,6 +1536,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0ID Autocast
 [W10V]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Buttonpos=2,2
@@ -1285,6 +1548,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0ID Autocast
 [W10W]
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=1,2
@@ -1295,6 +1560,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IG Autocast
 [W118]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,2
@@ -1305,6 +1572,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0DB Autocast
 [W0OY]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -1315,6 +1584,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0DP Autocast
 [W0PO]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,2
@@ -1325,6 +1596,8 @@ Targetart=Abilities\Spells\Human\Banish\BanishTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IM Autocast
 [W11O]
 Art=ReplaceableTextures\CommandButtons\BTNWandOfShadowSight.blp
 Buttonpos=3,2
@@ -1335,6 +1608,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0DR Autocast
 [W0PS]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=3,2
@@ -1345,6 +1620,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IN Autocast
 [W11T]
 Art=ReplaceableTextures\CommandButtons\BTNQuillSpray.blp
 Buttonpos=3,2
@@ -1355,6 +1632,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D3 Autocast
 [W0OA]
 Art=ReplaceableTextures\CommandButtons\BTNSpy.blp
 Buttonpos=3,2
@@ -1365,6 +1644,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D2 Autocast
 [W0O6]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Loop.blp
 Buttonpos=2,2
@@ -1375,6 +1656,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D9 Autocast
 [W0OQ]
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=3,2
@@ -1385,6 +1668,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D9 Autocast
 [W0OR]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,2
@@ -1395,6 +1680,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D9 Autocast
 [W0OS]
 Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Buttonpos=1,2
@@ -1405,6 +1692,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0ID Autocast
 [W10U]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=3,2
@@ -1415,6 +1704,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IA Autocast
 [W10G]
 Art=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
 Buttonpos=3,2
@@ -1425,6 +1716,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0D5 Autocast
 [W0OH]
 Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
 Buttonpos=3,2
@@ -1435,6 +1728,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IB Autocast
 [W10L]
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=3,2
@@ -1445,6 +1740,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0J6 Autocast
 [W13G]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=3,2
@@ -1455,6 +1752,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0EA Autocast
 [W0QZ]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,2
@@ -1465,6 +1764,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0EP Autocast
 [W0RQ]
 Art=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
 Buttonpos=3,2
@@ -1475,6 +1776,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JB Autocast
 [W13V]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=3,2
@@ -1485,6 +1788,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0EM Autocast
 [W0RL]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 Buttonpos=3,2
@@ -1495,6 +1800,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JC Autocast
 [W141]
 Art=ReplaceableTextures\CommandButtons\BTNUnholyFrenzy.blp
 Buttonpos=3,2
@@ -1505,6 +1812,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0E2 Autocast
 [W0QE]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=3,2
@@ -1515,6 +1824,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0E0 Autocast
 [W0Q9]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=3,2
@@ -1525,6 +1836,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0EB Autocast
 [W0R2]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=3,2
@@ -1535,6 +1848,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0J1 Autocast
 [W12R]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,2
@@ -1545,6 +1860,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0IZ Autocast
 [W12L]
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=3,2
@@ -1555,6 +1872,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FQ Autocast
 [W0TC]
 Art=ReplaceableTextures\CommandButtons\BTNStatUp.blp
 Buttonpos=3,2
@@ -1565,6 +1884,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FR Autocast
 [W0TE]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,2
@@ -1575,6 +1896,8 @@ Targetart=Abilities\Spells\Undead\RaiseSkeletonWarrior\RaiseSkeleton.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JQ Autocast
 [W15S]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,2
@@ -1585,6 +1908,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JR Autocast
 [W15X]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -1595,6 +1920,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0G0 Autocast
 [W0TZ]
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,2
@@ -1605,6 +1932,8 @@ Targetart=Abilities\Spells\Undead\Curse\CurseTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JL Autocast
 [W153]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Loop.blp
 Buttonpos=3,2
@@ -1615,6 +1944,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JL Autocast
 [W154]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-SpeedUp.blp
 Buttonpos=2,2
@@ -1625,6 +1956,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JL Autocast
 [W155]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-SpeedDown.blp
 Buttonpos=1,2
@@ -1635,6 +1968,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FN Autocast
 [W0T7]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=3,2
@@ -1645,6 +1980,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FK Autocast
 [W0SW]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,2
@@ -1655,6 +1992,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FO Autocast
 [W0T8]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=3,2
@@ -1665,6 +2004,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JJ Autocast
 [W14Y]
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,2
@@ -1675,6 +2016,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FG Autocast
 [W0SM]
 Art=ReplaceableTextures\CommandButtons\BTNSoulBurn.blp
 Buttonpos=3,2
@@ -1685,6 +2028,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JG Autocast
 [W14N]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=3,2
@@ -1695,6 +2040,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0FL Autocast
 [W0T1]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=3,2
@@ -1705,6 +2052,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GK Autocast
 [W0VG]
 Art=ReplaceableTextures\CommandButtons\BTNUnholyFrenzy.blp
 Buttonpos=3,2
@@ -1715,6 +2064,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0K8 Autocast
 [W17G]
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,2
@@ -1725,6 +2076,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GM Autocast
 [W0VL]
 Art=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
 Buttonpos=3,2
@@ -1735,6 +2088,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GJ Autocast
 [W0VC]
 Art=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
 Buttonpos=3,2
@@ -1745,6 +2100,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0K6 Autocast
 [W17C]
 Art=ReplaceableTextures\CommandButtons\BTNBigBadVoodooSpell.blp
 Buttonpos=3,2
@@ -1755,6 +2112,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GP Autocast
 [W0VU]
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,2
@@ -1765,6 +2124,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0MF Autocast
 [W186]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1775,6 +2136,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0MR Autocast
 [W188]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1785,6 +2148,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GQ Autocast
 [W0VX]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,2
@@ -1795,6 +2160,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0MS Autocast
 [W189]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1805,6 +2172,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GO Autocast
 [W0VP]
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Buttonpos=3,2
@@ -1815,6 +2184,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0KA Autocast
 [W17P]
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,2
@@ -1825,6 +2196,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GS Autocast
 [W0W2]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Buttonpos=3,2
@@ -1835,6 +2208,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0KF Autocast
 [W17S]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1845,6 +2220,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JU Autocast
 [W16D]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-SpeedDown.blp
 Buttonpos=2,2
@@ -1855,6 +2232,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GA Autocast
 [W0UJ]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
 Buttonpos=3,2
@@ -1865,6 +2244,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JW Autocast
 [W16K]
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=3,2
@@ -1875,6 +2256,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JU Autocast
 [W16C]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-SpeedUp.blp
 Buttonpos=3,2
@@ -1885,6 +2268,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0K2 Autocast
 [W175]
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
 Buttonpos=3,2
@@ -1895,6 +2280,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JY Autocast
 [W16X]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=3,2
@@ -1905,6 +2292,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JZ Autocast
 [W170]
 Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
 Buttonpos=3,2
@@ -1915,6 +2304,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JZ Autocast
 [W171]
 Art=ReplaceableTextures\CommandButtons\BTNUnload.blp
 Buttonpos=2,2
@@ -1925,6 +2316,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0JX Autocast
 [W16R]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -1935,6 +2328,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0HC Autocast
 [W0XI]
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=3,2
@@ -1945,6 +2340,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0HI Autocast
 [W0XY]
 Art=ReplaceableTextures\CommandButtons\BTNMassTeleport.blp
 Buttonpos=3,2
@@ -1955,6 +2352,8 @@ Targetart=none
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GX Autocast
 [W0WH]
 Art=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
 Buttonpos=3,2
@@ -1965,6 +2364,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0NJ Autocast
 [W18I]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1975,6 +2376,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0GY Autocast
 [W0WJ]
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=3,2
@@ -1985,6 +2388,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0O3 Autocast
 [W18M]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -1995,6 +2400,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0MT Autocast
 [W18B]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -2005,6 +2412,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0MU Autocast
 [W18D]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -2015,6 +2424,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0H5 Autocast
 [W0WY]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
 Buttonpos=3,2
@@ -2025,6 +2436,8 @@ Targetart=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0O4 Autocast
 [W18N]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -2035,6 +2448,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Q0O5 Autocast
 [W18P]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,0
@@ -2045,6 +2460,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0H1 Autocast
 [W0WQ]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -2055,6 +2472,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0H2 Autocast
 [W0WS]
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,2
@@ -2065,6 +2484,8 @@ Targetart=Abilities\Spells\Other\Monsoon\MonsoonBoltTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0I0 Autocast
 [W0ZK]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,2
@@ -2075,6 +2496,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0HZ Autocast
 [W0ZG]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
 Buttonpos=3,2
@@ -2085,6 +2508,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0I4 Autocast
 [W0ZZ]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=3,2
@@ -2095,6 +2520,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0I2 Autocast
 [W0ZR]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=3,2
@@ -2105,6 +2532,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0I3 Autocast
 [W0ZV]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
 Buttonpos=3,2
@@ -2115,6 +2544,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0HO Autocast
 [W0YB]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=3,2
@@ -2125,6 +2556,8 @@ Targetart=Abilities\Spells\Items\AIil\AIilTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// v0HX Autocast
 [W0Z8]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Buttonpos=3,2
@@ -2135,6 +2568,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Start Next Level
 [XEST]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Play.blp
 Buttonpos=3,2
@@ -2147,6 +2582,8 @@ Effectart=
 Animnames=spell,channel
 Requiresamount=1
 Requires=vEST
+
+// Level to Max
 [XX0X]
 Art=ReplaceableTextures\CommandButtons\BTNUproot.blp
 Buttonpos=3,2
@@ -2157,6 +2594,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Advanced Fortune
 [XX09]
 Art=ReplaceableTextures\CommandButtons\BTNBash.blp
 Buttonpos=1,2
@@ -2167,6 +2606,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Element Mastery
 [XX08]
 Art=ReplaceableTextures\CommandButtons\BTNManual3.blp
 Buttonpos=0,2
@@ -2177,6 +2618,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Mastery of Pain
 [XX01]
 Art=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Buttonpos=1,0
@@ -2187,6 +2630,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Combat Mastery
 [XX00]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedUnholyStrength.blp
 Buttonpos=0,0
@@ -2197,6 +2642,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Mastery of Magic
 [XX03]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
 Buttonpos=3,0
@@ -2207,6 +2654,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Advanced Sorcery
 [XX02]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Buttonpos=2,0
@@ -2217,6 +2666,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Advanced Wisdom
 [XX05]
 Art=ReplaceableTextures\CommandButtons\BTNLesserRejuvScroll.blp
 Buttonpos=1,1
@@ -2227,6 +2678,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Swiftness Mastery
 [XX04]
 Art=ReplaceableTextures\CommandButtons\BTNInvisibility.blp
 Buttonpos=0,1
@@ -2237,6 +2690,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Mastery of Logistics
 [XX07]
 Art=ReplaceableTextures\CommandButtons\BTNCheese.blp
 Buttonpos=3,1
@@ -2247,6 +2702,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Loot Mastery
 [XX06]
 Art=ReplaceableTextures\CommandButtons\BTNMedalionOfCourage.blp
 Buttonpos=2,1
@@ -2257,6 +2714,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell
+
+// Oil Tower
 [XOIL]
 Art=ReplaceableTextures\CommandButtons\BTNHolyWater.blp
 Buttonpos=2,0
@@ -2267,6 +2726,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Pick up Oils and Consumables
 [XPUO]
 Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
 Buttonpos=2,2
@@ -2277,6 +2738,8 @@ Targetart=
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Disable Item Use
 [XIOF]
 Art=ReplaceableTextures\CommandButtons\BTNDivineShieldOff.blp
 Buttonpos=1,2
@@ -2287,6 +2750,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Enable Item Use
 [XION]
 Art=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Buttonpos=1,2
@@ -2297,6 +2762,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Decrease Range
 [XRNL]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Speeddown.blp
 Buttonpos=1,0
@@ -2307,6 +2774,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Get starting towers
 [XRND]
 Art=ReplaceableTextures\CommandButtons\BTNdices.blp
 Buttonpos=3,1
@@ -2319,6 +2788,8 @@ Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
 Requires=RCHO
 Requiresamount=1
+
+// Increase Range
 [XRNU]
 Art=ReplaceableTextures\CommandButtons\BTNReplay-Speedup.blp
 Buttonpos=0,0
@@ -2329,6 +2800,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Enable Autocast
 [XAON]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=2,2
@@ -2339,6 +2812,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Disable Autocast
 [XAOF]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlareOff.blp
 Buttonpos=2,2
@@ -2349,6 +2824,8 @@ Targetart=
 Targetattach=origin
 Effectart=Abilities\Spells\Undead\DeathPact\DeathPactTarget.mdl
 Animnames=spell,channel
+
+// Order Attack
 [XATK]
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
 Buttonpos=3,0
@@ -2359,13 +2836,18 @@ Targetart=Abilities\Spells\Items\ResourceItems\ResourceEffectTarget.mdl
 Targetattach=origin
 Effectart=
 Animnames=spell,channel
+
+// Speed Boost
 [R08D]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNScrollOfHealing.blp
 Targetart=
 Targetattach=
+
+// Strength Boost
 [R08C]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNScrollOfTownPortal.blp
 Targetart=
 Targetattach=
+

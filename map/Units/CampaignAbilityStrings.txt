@@ -1,6 +1,5 @@
 [ANha]
 Name=Harvest
-EditorSuffix= (Neutral)
 Tip=|cffffcc00G|rather
 Ubertip="Mines gold from gold mines and harvests lumber from trees."
 Untip=R|cffffcc00e|rturn Resources
@@ -1180,8 +1179,8 @@ Hotkey=A
 [R08D]
 Bufftip=速度增强
 Buffubertip=这个单位收到速度卷轴的效果，他的攻击速度增加了
-EditorName=速度增强
+EditorName=Speed Boost
 [R08C]
 Bufftip=力量增强
 Buffubertip=这个单位受到力量卷轴的效果，他的伤害增加了.
-EditorName=力量增强
+EditorName=Strength Boost

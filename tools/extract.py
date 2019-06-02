@@ -1,5 +1,6 @@
 import argparse
 from os.path import join
+from lib.io.map import War3Map
 from lib.extract_towers import extract_towers
 from lib.extract_jass import extract_jass
 from lib.extract_other import extract_other
@@ -23,9 +24,13 @@ if __name__ == '__main__':
     new = args.new
     output = args.output
 
+    old_en_map = War3Map(old_en)
+    old_cn_map = War3Map(old_cn)
+    new_map = War3Map(new)
+    
     # towers
-    extract_towers(old_en, old_cn, new, join(output, TOWERS_FILE))
+    extract_towers(old_en_map, old_cn_map, new_map, join(output, TOWERS_FILE))
     # jass
-    extract_jass(old_en, old_cn, new, join(output, JASS_FILE), join(output, JASS_IGNORE_FILE))
+    extract_jass(old_en_map, old_cn_map, new_map, join(output, JASS_FILE), join(output, JASS_IGNORE_FILE))
     # others
-    extract_other(old_en, old_cn, new, join(output, OTHER_FILE), join(output, OTHER_LOG_FILE))
+    extract_other(old_en_map, old_cn_map, new_map, join(output, OTHER_FILE), join(output, OTHER_LOG_FILE))

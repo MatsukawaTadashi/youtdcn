@@ -24,6 +24,24 @@ Hotkey=F
 Tip=Purchase Orb of |cffffcc00F|rire
 Ubertip="Adds <AIfb,DataA1> bonus fire damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air and do splash damage to nearby enemy units."
 Description=Attacks also do fire damage.
+[oli2]
+Name=Orb of Lightning
+Hotkey=L
+Tip=Purchase Orb of |cffffcc00L|rightning
+Ubertip="Adds <AIll,DataA1> bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air, and have a chance to dispel magic and slow the movement speed of the enemy for <AIlp,Dur1> seconds. |n|cffffcc00Deals <AIpg,DataC1> bonus damage to summoned units."
+Description=Attacks cause lightning damage.
+[oven]
+Name=Orb of Venom
+Hotkey=V
+Tip=Purchase Orb of |cffffcc00V|renom
+Ubertip="Adds <AIpb,DataA1> bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air and poison enemy units for <Apo2,Dur1> seconds."
+Description=Attacks cause poison damage.
+[ocor]
+Name=Orb of Corruption
+Hotkey=B
+Tip=Purchase Or|cffffcc00b|r of Corruption
+Ubertip="Adds <AIcb,DataA1> bonus damage to the attack of a Hero when carried. The Hero's attacks also become ranged when attacking air and reduce the armor of enemy units for <AIcb,Dur1> seconds."
+Description=Attacks reduce armor.
 [phea]
 Name=Potion of Healing
 Hotkey=P
@@ -36,17 +54,41 @@ Hotkey=M
 Tip=Purchase Potion of |cffffcc00M|rana
 Ubertip="Restores <AIm1,DataA1> mana when used."
 Description=Restores lost mana.
+[shea]
+Name=Scroll of Healing
+Hotkey=H
+Tip=Purchase Scroll of |cffffcc00H|realing
+Ubertip="Heals <AIha,DataA1> hit points to all friendly non-mechanical units around the Hero when used."
+Description=Restores hit points to nearby units.
 [stwp]
 Name=Scroll of Town Portal
 Hotkey=T
 Tip=Purchase Scroll of |cffffcc00T|rown Portal
 Ubertip="Teleports the Hero and any of its nearby troops to a target friendly town hall."
 Description=Transports troops to friendly town hall.
+[rnec]
+Name=Rod of Necromancy
+Hotkey=R
+Tip=Purchase |cffffcc00R|rod of Necromancy
+Ubertip="Creates two Skeleton Warriors from a corpse. |nContains <rnec,uses> charges."
+Description=Creates two Skeleton Warriors from a corpse.
+[pams]
+Name=Anti-magic Potion
+Hotkey=A
+Tip=Purchase |cffffcc00A|rnti-magic Potion
+Ubertip="Gives the Hero immunity to magical spells for <AIxs,Dur1> seconds."
+Description=Renders Hero immune to magic.
 [afac]
-Name=Alleria's Flute of Accuracy'
-Tip=Purchase Alleria's Flute of Accuracy'
+Name=Alleria's Flute of Accuracy
+Tip=Purchase Alleria's Flute of Accuracy
 Ubertip="Increases nearby ranged units' damage by <AIar,DataA1,%>%. |nDoes not stack with Trueshot Aura."
 Description="Nearby units' missile attacks do more damage."
+[hslv]
+Name=Healing Salve
+Hotkey=H
+Tip=Purchase |cffffcc00H|realing Salve
+Ubertip="|cff87ceebNon-Combat Consumable|r|nRegenerates a target unit's hit points by <AIrl,DataA1> over <AIrl,Dur1> seconds when used. |nContains <hslv,uses> charges."
+Description=Regenerates lost hit points over time.
 [plcl]
 Name=Lesser Clarity Potion
 Hotkey=C
@@ -59,12 +101,36 @@ Hotkey=R
 Tip=Purchase Scroll of |cffffcc00R|regeneration
 Ubertip="|cff87ceebNon-Combat Consumable|r|nRegenerates the hit points of all friendly non-mechanical units in an area around your Hero by <AIsl,DataA1> over <AIsl,Dur1> seconds when used."
 Description=Regenerates the health of nearby units.
+[skul]
+Name=Sacrificial Skull
+Hotkey=K
+Tip=Purchase Sacrificial S|cffffcc00k|rull
+Ubertip="Creates an area of Blight at a target location."
+Description=Creates Blight at a target location.
+[moon]
+Name=Moonstone
+Hotkey=N
+Tip=Purchase Moo|cffffcc00n|rstone
+Ubertip="Causes an eclipse that blocks out the sun and creates an artificial night. |nLasts <AIct,Dur1> seconds."
+Description=Makes it night time.
+[tgrh]
+Name=Tiny Great Hall
+Hotkey=G
+Tip=Purchase Tiny |cffffcc00G|rreat Hall
+Ubertip="Creates a Great Hall at a target location. Human, Night Elf, and Undead players will get their racial equivalent town hall."
+Description="Creates a Great Hall."
 [tsct]
 Name=Ivory Tower
 Hotkey=V
 Tip=Purchase I|cffffcc00v|rory Tower
 Ubertip="Creates a Scout Tower at a target location."
 Description="Creates a Scout Tower."
+[spre]
+Name=Staff of Preservation
+Hotkey=E
+Tip=Purchase Staff of Pr|cffffcc00e|rservation
+Ubertip="Teleports a target friendly unit to its highest level town hall."
+Description=Teleports a target unit home.
 [mcri]
 Name=Mechanical Critter
 Hotkey=E
@@ -77,6 +143,18 @@ Hotkey=N
 Tip=Purchase Staff of Sa|cffffcc00n|rctuary
 Ubertip="Teleports a target unit to your highest level town hall, stunning the unit and regenerating <ANsa,DataE1> hit points per second. Lasts until the unit is fully healed."
 Description=Heals and teleports a unit.
+[shas]
+Name=Scroll of Speed
+Hotkey=S
+Tip=Purchase Scroll of |cffffcc00S|rpeed
+Ubertip="Increases the movement speed of the Hero and nearby allied units to the maximum movement speed. |nLasts <AIsa,Dur1> seconds."
+Description=Increases movement speed of units.
+[dust]
+Name=Dust of Appearance
+Hotkey=D
+Tip=Purchase |cffffcc00D|rust of Appearance
+Ubertip="Reveals enemy invisible units in an area around the Hero. |nContains <dust,uses> charges. |nLasts <AItb,Dur1> seconds."
+Description=Reveals invisible units.
 [I051]
 Name="|cffFFFF00巫术神油|r"
 Hotkey=O
@@ -456,10 +534,10 @@ Tip="购买 次级星辰守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0065|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q01G]
-Name="小型镭射冲击塔"
+Name="小型镭射"
 Hotkey=F
-Tip="购买 小型镭射冲击塔"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 小型镭射"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q01F]
 Name="积云战士"
@@ -801,7 +879,7 @@ Description="点击以建造一座塔"
 Name="镭射冲击塔"
 Hotkey=F
 Tip="购买 镭射冲击塔"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00810|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q02U]
 Name="燃烧犬"
@@ -1962,10 +2040,10 @@ Tip="购买 熊怪"
 Ubertip="|cff9BA0D0不惹它生气的时候，它是一种友善的生物。不幸的是，它们非常容易发脾气。|n|n|cffFFFF80作者：|r geX|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力：|cffFFFF00517|r 每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00900|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q06K]
-Name="大型镭射冲击塔"
+Name="大型镭射"
 Hotkey=F
-Tip="购买 大型镭射冲击塔"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 大型镭射"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q06N]
 Name="闪电图腾"
@@ -2778,10 +2856,10 @@ Tip="购买 大型钢铁守卫"
 Ubertip="|cff9BA0D0普通基础防御塔。|n|n|cffFFFF80作者：|r Natac|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001350|r 每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00800|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0AA]
-Name="特制镭射冲击塔"
+Name="巨型镭射"
 Hotkey=F
-Tip="购买 特制镭射冲击塔"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Tip="购买 巨型镭射"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0CI]
 Name="异型研究设施"
@@ -3939,7 +4017,7 @@ Description="点击以建造一座塔"
 Name="镭射冲击塔2.0"
 Hotkey=F
 Tip="购买 镭射冲击塔2.0"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|n|n|cffFF8000把此物品放入现有塔的物品栏上以改建并继承其附加属性！|n如果放入的塔和原塔相同或是其进阶版，将收回原塔的全部造价，否则只有75%。|r"
 Description="点击以建造一座塔"
 [Q0FT]
 Name="灵魂穹窿"

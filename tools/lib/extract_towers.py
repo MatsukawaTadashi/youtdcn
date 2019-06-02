@@ -1,14 +1,10 @@
-from .io.map import War3Map
 from .io.tower import TowerCollection
 from .utils import check_attr, has_chinese
 
 
-def extract_towers(old_en, old_cn, new, i18n_unit_file):
-    old_en_map = War3Map(old_en)
+def extract_towers(old_en_map, old_cn_map, new_map, i18n_unit_file):
     old_en_towers = TowerCollection(old_en_map)
-    old_cn_map = War3Map(old_cn)
     old_cn_towers = TowerCollection(old_cn_map)
-    new_map = War3Map(new)
     new_towers = TowerCollection(new_map)
     tl_out = open(i18n_unit_file, 'w', encoding='utf8')
 

@@ -1,6 +1,6 @@
 [Hblm]
 Name=Blood Mage
-Propernames=Eldin Sunstrider,Tanin Hawkwing,Lorn Bloodseeker,Aldos Firestar,Gilaras Drakeson,Hale Magefire,Kath'ranis Remar,Tyoril Sunchaser,Sylvos Windrunner,Tenris Mirkblood,Marakanis Starfury,Geldor Earthfire,Halendor Burnkin,Kelen the Destroyer'
+Propernames=Eldin Sunstrider,Tanin Hawkwing,Lorn Bloodseeker,Aldos Firestar,Gilaras Drakeson,Hale Magefire,Kath'ranis Remar,Tyoril Sunchaser,Sylvos Windrunner,Tenris Mirkblood,Marakanis Starfury,Geldor Earthfire,Halendor Burnkin,Kelen the Destroyer
 Hotkey=B
 Tip=Summon |cffffcc00B|rlood Mage
 Ubertip="Mystical Hero, adept at controlling magic and ranged assaults. Can learn Flame Strike, Banish, Siphon Mana and Phoenix. |n|n|cffffcc00Attacks land and air units.|r"
@@ -19,11 +19,6 @@ Tip=Summon |cffffcc00A|rrchmage
 Ubertip="Mystical Hero, adept at ranged assaults. Can learn Blizzard, Summon Water Elemental, Brilliance Aura and Mass Teleport. |n|n|cffffcc00Attacks land and air units.|r"
 Revivetip=Revive |cffffcc00A|rrchmage
 Awakentip=Revive |cffffcc00A|rrchmage
-[harm]
-Name=Workshop
-Hotkey=W
-Tip=Build |cffffcc00W|rorkshop
-Ubertip="Produces Siege Engines, Flying Machines, and Mortar Teams. |nAlso contains the Flare, Fragmentation Shards, Barrage, Flying Machine Bombs, and Flak Cannons upgrades."
 [hars]
 Name=Arcane Sanctum
 Hotkey=R
@@ -54,11 +49,6 @@ Name=Farm
 Hotkey=F
 Tip=Build |cffffcc00F|rarm
 Ubertip="Provides food, which increases the maximum number of units that can be trained."
-[hfoo]
-Name=Footman
-Hotkey=F
-Tip=Train |cffffcc00F|rootman
-Ubertip="Versatile foot soldier. Can learn the Defend ability. |n|n|cffffcc00Attacks land units.|r"
 [hgra]
 Name=Gryphon Aviary
 Hotkey=G
@@ -94,11 +84,6 @@ Name=Flying Machine
 Hotkey=F
 Tip=Train |cffffcc00F|rlying Machine
 Ubertip="Fast moving flying machine. Excellent at scouting, and effective against air units. Can learn the Flying Machine Bombs and Flak Cannons upgrades. |nCan see invisible units. |n|n|cffffcc00Attacks air units.|r"
-[hkee]
-Name=Keep
-Hotkey=U
-Tip=|cffffcc00U|rpgrade to Keep
-Ubertip="Upgrade to Keep to enable the production of additional types of structures and units."
 [hkni]
 Name=Knight
 Hotkey=K
@@ -168,7 +153,6 @@ Tip=Train Siege |cffffcc00E|rngine
 Ubertip="Heavily armored vehicle, effective at destroying buildings. Can be upgraded with the Barrage ability. |n|n|cffffcc00Attacks buildings.|r"
 [hrtt]
 Name=Siege Engine
-EditorSuffix= (Barrage)
 Hotkey=E
 Tip=Train Siege |cffffcc00E|rngine
 Ubertip="Heavily armored vehicle, effective at destroying buildings. Has the Barrage ability, which fires rockets at nearby enemy air units. |n|n|cffffcc00Attacks buildings.|r"
@@ -179,13 +163,10 @@ Tip=Build Town |cffffcc00H|rall
 Ubertip="Primary structure, used to train Peasants and receive gathered resources. Can be upgraded to Keep and then Castle to enable the production of additional types of structures and units."
 [hwat]
 Name=Water Elemental
-EditorSuffix= (Level 1)
 [hwt2]
 Name=Water Elemental
-EditorSuffix= (Level 2)
 [hwt3]
 Name=Water Elemental
-EditorSuffix= (Level 3)
 [hgry]
 Name=Gryphon Rider
 Hotkey=G
@@ -261,10 +242,10 @@ Hotkey=T
 Tip="|cff0080FF星穹观察者|r"
 Ubertip="|cff9BA0D0罕见星辰塔。普通攻击命中时造成法术伤害。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00611|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00875|r 射程|n|cffFFFF80特殊能力 ：|r|n|n|cffCCFF00法术切割|r|n这座塔的普通攻击造成额外法术伤害。"
 [v0AN]
-Name="|cff0080FF特制镭射冲击塔|r"
+Name="|cff0080FF巨型镭射|r"
 Hotkey=T
-Tip="|cff0080FF特制镭射冲击塔|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF巨型镭射|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00990|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00830|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v0AK]
 Name="|cffFFFF00鹰身女巫|r"
 Hotkey=T
@@ -1525,7 +1506,7 @@ Ubertip="|cff9BA0D0一个闪电国王，具有弹射攻击并有几率操纵闪�
 Name="|cff0080FF镭射冲击塔2.0|r"
 Hotkey=T
 Tip="|cff0080FF镭射冲击塔2.0|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF001706|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v0JF]
 Name="|cffFF00BF活火山|r"
 Hotkey=T
@@ -1600,7 +1581,7 @@ Ubertip="|cff9BA0D0黑冰柱顶端的一颗远古结晶。|n|n|cffFFFF80作者:|
 Name="|cffFF00BF刀锋领主|r"
 Hotkey=T
 Tip="|cffFF00BF刀锋领主|r"
-Ubertip="|cff9BA0D0放干他们的血，剔净他们的肉。|n|n|cffFFFF80作者: |r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力: |cffFFFF001325|r 每秒伤害， |cffC0C0C0穿刺|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n|n|cffCCFF00刀刃守卫|r|n在目标位置设立一个刀刃守卫，对范围内的所有单位造成伤害。|n|n|cffCCFF00弹射|r|n攻击有几率释放一个在守卫之间弹射的刀刃。|n|n|cffCCFF00刀刃风暴|r|n击中时有几率释放一个在本塔和怪物之间弹射的刀刃|n|n|cffCCFF00割裂|r|n攻击和技能造成的一部分伤害会转换为持续伤害。"
+Ubertip="|cff9BA0D0放干他们的血，剔净他们的肉。|n|n|cffFFFF80作者: |r |cffff6600Ashbringer|r|n|cffFFFF80元素: |cFFC0C0C0钢铁|r|n|cffFFFF80攻击力: |cffFFFF001325|r 每秒伤害， |cffC0C0C0穿刺|r|r, |cffFFFF001000|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00弹射攻击:|n   |cffFFFF002|r 目标|n|n|cffCCFF00刀刃守卫|r|n在目标位置设立一个 |cffffff803|r 刀刃守卫范围内的所有单位造成伤害。|n|n|cffCCFF00弹射|r|n攻击有几率释放一个在守卫之间弹射的刀刃。|n|n|cffCCFF00刀刃风暴|r|n击中时有几率释放一个在本塔和怪物之间弹射的刀刃|n|n|cffCCFF00割裂|r|n攻击和技能造成的一部分伤害会转换为持续伤害。"
 [v0J6]
 Name="|cffFF00BF天平(Scales)|r"
 Hotkey=T
@@ -2087,11 +2068,10 @@ Hotkey=N
 Tip="建造自然基础塔"
 Ubertip="这座基础塔能够升级为高级的自然塔。"
 [vEST]
-Name="当前波怪物完全生成"
+Name="Current level thoroughly spawned"
 Hotkey=F
-Tip=建造 |cffffcc00F|r装备
-Ubertip="提供食物，能增加最大单位."
-EditorSuffix="|cff9A7CD1d|r"
+Tip=Build |cffffcc00F|rarm
+Ubertip="Provides food, which increases the maximum number of units that can be trained."
 [vNN0]
 Name="传说自然基础塔"
 Hotkey=R
@@ -2203,10 +2183,10 @@ Hotkey=T
 Tip="|cff0080FF小蜥蜴|r"
 Ubertip="|cff9BA0D0它喜欢拥抱人类。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF80FF00自然|r|n|cffFFFF80攻击力： |cffFFFF0031|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00毒性皮肤|r|n这座塔和它 |cffFFFF80200|r 范围内的其他塔都会获得毒性攻击的能力。"
 [v01I]
-Name="|cff0080FF小型镭射冲击塔|r"
+Name="|cff0080FF小型镭射|r"
 Hotkey=T
-Tip="|cff0080FF小型镭射冲击塔|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF小型镭射|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF0063|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v01J]
 Name="|cffFFFFFF小冰火|r"
 Hotkey=T
@@ -2673,7 +2653,7 @@ Ubertip="|cff9BA0D0一座黑暗塔，对亡灵单位较弱，对魔法单位较�
 Name="|cff0080FF镭射冲击塔|r"
 Hotkey=T
 Tip="|cff0080FF镭射冲击塔|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00198|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00810|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v02Y]
 Name="|cff0080FF层积云战士|r"
 Hotkey=T
@@ -3436,10 +3416,10 @@ Hotkey=T
 Tip="|cff0080FF民兵哨塔|r"
 Ubertip="|cff9BA0D0民兵守卫向敌人的头上掷出雨点般的飞斧。但他们的准头不是很好，而且惧怕亡灵和大型怪物。|n|n|cffFFFF80作者：|r ShyGnome|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00304|r每秒伤害，|cffC0C0C0穿刺|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-20%|r 伤害对boss (|cffFFFF00+0.7%|r/级)|n|cffFFFF00-20%|r 伤害对亡灵 (|cffFFFF00+0.5%|r/级)|n|cffFFFF00+20%|r 伤害对自然(|cffFFFF00+0.5%|r/级)|n|n|cffCCFF00战斧雨|r|n同时攻击多个敌人但有一定几率丢失。"
 [v06R]
-Name="|cff0080FF大型镭射冲击塔|r"
+Name="|cff0080FF大型镭射|r"
 Hotkey=T
-Tip="|cff0080FF大型镭射冲击塔|r"
-Ubertip="|cff9BA0D0罕见钢铁塔，可以增加敌人的物品获取率和品质率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
+Tip="|cff0080FF大型镭射|r"
+Ubertip="|cff9BA0D0罕见钢铁塔，可以给目标一个状态，增加该目标的物品品质率和物品获取率。|n|n|cffFFFF80作者：|r i_mOck_death|n|cffFFFF80元素：|cFFC0C0C0钢铁|r|n|cffFFFF80攻击力：|cffFFFF00537|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00820|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00分解|r|n提高目标的物品品质率和物品获取率。"
 [v073]
 Name="|cff0080FF猛犸破坏者|r"
 Hotkey=T

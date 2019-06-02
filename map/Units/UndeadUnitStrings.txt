@@ -1,3 +1,199 @@
+[Ucrl]
+Name=Crypt Lord
+Propernames=Thebis-Ra,Typhis-Ahn,Anubiros,Memphis-Ahn,Horus'aman,Nephri'thos,Arak-arahm,Tuten'arak,Pharoh-moth
+Tip=Summon |cffffcc00C|rrypt Lord
+Hotkey=C
+Ubertip="Warrior Hero, adept at summoning insect minions and crushing enemies. Can learn Impale, Spiked Carapace, Carrion Beetles and Locust Swarm. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00C|rrypt Lord
+Awakentip=Revive |cffffcc00C|rrypt Lord
+[uaco]
+Name=Acolyte
+Tip=Train A|cffffcc00c|rolyte
+Ubertip="Basic worker. Can summon structures, harvest gold, and Restore. Acolytes may be sacrificed at a Sacrificial Pit to create Shades. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=C
+[uabo]
+Name=Abomination
+Tip=Train |cffffcc00A|rbomination
+Ubertip="Heavy melee unit. Can learn the Disease Cloud ability and Cannibalize. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=A
+[Udea]
+Name=Death Knight
+Propernames=Lord Nightsorrow,Lord Soulrender,Lord Dethstorm,Lord Maldazzar,Lord Darkhallow,Lord Lightstalker,Baron Bloodbane,Baron Felblade,Duke Dreadmoore,Duke Ragereaver,Baron Frostfel,Lord Darkscythe,Duke Wintermaul,Baron Perenolde,Baron Morte
+Tip=Summon |cffffcc00D|reath Knight
+Ubertip="Warrior Hero, evil counterpart to the Human Paladin. Can learn Death Coil, Death Pact, Unholy Aura, and Animate Dead. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive |cffffcc00D|reath Knight
+Awakentip=Revive |cffffcc00D|reath Knight
+Hotkey=D
+[uban]
+Name=Banshee
+Tip=Train |cffffcc00B|ranshee
+Ubertip="Supporting caster. Can initially cast Curse, which causes enemy units to occasionally miss in combat. Can also learn Anti-magic Shell and Possession. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=B
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Curse","- Curse|n- Anti-magic Shell","- Curse|n- Anti-magic Shell|n- Possession"
+[ucrm]
+Name=Burrowed Crypt Fiend
+Tip=Train Crypt |cffffcc00F|riend
+Ubertip="Ranged combat support creature. Can learn the Web, and Burrow abilities. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+[ucry]
+Name=Crypt Fiend
+Tip=Train Crypt |cffffcc00F|riend
+Ubertip="Ranged combat support creature. Can learn the Web, and Burrow abilities. |n|n|cffffcc00Attacks land units.|r"
+Hotkey=F
+[Udre]
+Name=Dreadlord
+Propernames=Terrordar,Nerothos,Bleakill,Necros,Fearoth,Dethecus,Maldibion,Nochthitus,Gholbine,Rashgarroth,Aramachus,Zilfallon,Lorthiras,Zenedar,Mullioch,Algammon,Banehallow,Ven'Gyr
+Tip=Summon Dr|cffffcc00e|radlord
+Ubertip="Cunning Hero, adept at controlling combat. Can learn Carrion Swarm, Sleep, Vampiric Aura, and Inferno. |n|n|cffffcc00Attacks land units.|r"
+Revivetip=Revive Dr|cffffcc00e|radlord
+Awakentip=Revive Dr|cffffcc00e|radlord
+Hotkey=E
+[ufro]
+Name=Frost Wyrm
+Tip=Train |cffffcc00F|rrost Wyrm
+Ubertip="Flying heavy assault creature. Can learn the Freezing Breath ability. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=F
+[ugar]
+Name=Gargoyle
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. Can learn the Stone Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[ugrm]
+Name=Stone Form Gargoyle
+Tip=Train G|cffffcc00a|rrgoyle
+Ubertip="Flying attack creature. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=A
+[ugho]
+Name=Ghoul
+Tip=Train |cffffcc00G|rhoul
+Ubertip="Basic attack unit and lumber harvester. Can learn Cannibalize and Ghoul Frenzy. |n|n|cffffcc00Attacks land units and trees.|r"
+Hotkey=G
+[Ulic]
+Name=Lich
+Propernames=Ordin Frostbane,Ras Splinterspine,Morbent Fell,Rage Winterchill,Araj the Summoner,Kali'naj Dethknell,Rak Coldskull,Din Frostfire,Calis Wraithson,Venim Iceblade,Naze the Eternal,Ras Frostwhisper,Coldreaver,Cho'Nammoth,Kryptikk Soulslayer,Alandil Lieng
+Tip=Summon |cffffcc00L|rich
+Ubertip="Mystical Hero, particularly adept at cold magic. Can learn Frost Armor, Frost Nova, Dark Ritual and Death And Decay. |n|n|cffffcc00Attacks land and air units.|r"
+Revivetip=Revive |cffffcc00L|rich
+Awakentip=Revive |cffffcc00L|rich
+Hotkey=L
+[unec]
+Name=Necromancer
+Tip=Train |cffffcc00N|recromancer
+Ubertip="Essential spellcaster. Can initially cast Raise Dead on corpses. Can also learn Unholy Frenzy and Cripple. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=N
+Casterupgradename=Initiate, Adept, Master
+Casterupgradetip="- Raise Dead","- Raise Dead|n- Unholy Frenzy","- Raise Dead|n- Unholy Frenzy|n- Cripple"
+[uske]
+Name=Skeleton Warrior
+Tip=Summon Skeleton Warrior
+[uskm]
+Name=Skeletal Mage
+Tip=Summon Skeletal Mage
+[uplg]
+Name=Disease Cloud
+[uaod]
+Name=Altar of Darkness
+Tip=Summon |cffffcc00A|rltar of Darkness
+Ubertip="Summons Heroes. Revives slain Heroes."
+Hotkey=A
+[unpl]
+Name=Necropolis
+Tip=Summon |cffffcc00N|recropolis
+Ubertip="Primary structure, used to train Acolytes and receive lumber gathered by Ghouls. Can be upgraded to Halls of the Dead and then Black Citadel to enable the production of additional types of structures and units."
+Hotkey=N
+[unp1]
+Name=Halls of the Dead
+Tip=|cffffcc00U|rpgrade to Halls of the Dead
+Ubertip="Upgrade to Halls of the Dead to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+[unp2]
+Name=Black Citadel
+Tip=|cffffcc00U|rpgrade to Black Citadel
+Ubertip="Upgrade to Black Citadel to enable the production of additional types of structures and units. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=U
+[usep]
+Name=Crypt
+Tip=Summon |cffffcc00C|rrypt
+Ubertip="Primary troop production building. Trains Ghouls, Crypt Fiends, and Gargoyles. Also contains the upgrades Ghoul Frenzy, Cannibalize, Stone Form, Web and Burrow."
+Hotkey=C
+[utod]
+Name=Temple of the Damned
+Tip=Summon |cffffcc00T|remple of the Damned
+Ubertip="Spellcaster production building. Trains Necromancers and Banshees. |nAlso contains upgrades for Necromancers, Banshees, Skeletal Longevity, and Skeletal Mastery."
+Hotkey=T
+[utom]
+Name=Tomb of Relics
+Hotkey=R
+Tip=Summon Tomb of |cffffcc00R|relics
+Ubertip="Creates a shop with purchasable items. The items available depend upon what level of upgrade your Necropolis has (Necropolis, Halls of the Dead, or Black Citadel) and which buildings you have."
+[ugol]
+Name=Haunted Gold Mine
+Tip=Haunt |cffffcc00G|rold Mine
+Ubertip="Haunts a gold mine so that Acolytes can mine. Use on gold mines to corrupt them."
+Hotkey=G
+[uzig]
+Name=Ziggurat
+Tip=Summon |cffffcc00Z|riggurat
+Ubertip="Provides food, which increases the maximum number of units that can be trained. Can be upgraded to a defensive structure that attacks land and air units."
+Hotkey=Z
+[uzg1]
+Name=Spirit Tower
+Tip=Upgrade to Spirit |cffffcc00T|rower
+Ubertip="Upgrade to create a defensive structure. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=T
+[uzg2]
+Name=Nerubian Tower
+Tip=Upgrade to |cffffcc00N|rerubian Tower
+Ubertip="Upgrade to create a defensive structure that deals cold damage and slows enemy units. |n|n|cffffcc00Attacks land and air units.|r"
+Hotkey=N
+[umtw]
+Name=Meat Wagon
+Tip=Train |cffffcc00M|reat Wagon
+Ubertip="Corpse storage machine. Also serves as long-range siege weaponry. Exceptional damage versus buildings, but slow and vulnerable. Can learn the Disease Cloud ability. |n|n|cffffcc00Attacks land units and trees.|r"
+Hotkey=M
+[ubon]
+Name=Boneyard
+Tip=Summon |cffffcc00B|roneyard
+Ubertip="Produces Frost Wyrms. Also contains the Freezing Breath upgrade."
+Hotkey=B
+[usap]
+Name=Sacrificial Pit
+Tip=Summon |cffffcc00S|racrificial Pit
+Ubertip="Has the Sacrifice ability for turning Acolytes into Shades. Shades are invisible spirits that can see invisible units, but cannot attack."
+Hotkey=S
+[uslh]
+Name=Slaughterhouse
+Tip=Summon Slaughter|cffffcc00h|rouse
+Ubertip="Produces Abominations, Obsidian Statues, and Meat Wagons. Also contains the Disease Cloud, and Destroyer Form upgrades."
+Hotkey=H
+[ugrv]
+Name=Graveyard
+Tip=Summon Gra|cffffcc00v|reyard
+Ubertip="Provides attack and armor upgrades for Undead units. Also produces corpses and serves as a drop-off point for harvested lumber."
+Hotkey=V
+[ucs1]
+Name=Carrion Beetle
+[ucs2]
+Name=Carrion Beetle
+[ucsB]
+Name=Burrowed Carrion Beetle
+[ucs3]
+Name=Carrion Beetle
+[ucsC]
+Name=Burrowed Carrion Beetle
+[uloc]
+Name=Locust
+[uobs]
+Name=Obsidian Statue
+Tip=Create |cffffcc00O|rbsidian Statue
+Hotkey=O
+Ubertip="Fortified statue that can help replenish the life and mana of your army. Can initially cast Spirit Touch and Essence of Blight, and learn the Destroyer Form ability. |n|n|cffffcc00Attacks land and air units.|r"
+[ubsp]
+Name=Destroyer
+Tip=Morph into Des|cffffcc00t|rroyer
+Hotkey=T
+Ubertip="Large flying unit that must consume magic to sustain its mana. Excellent at destroying enemy casters and clusters of ground forces. Initially has Spell Immunity, Devour Magic, Absorb Mana, and Orb of Annihilation. |n|n|cffffcc00Attacks land and air units.|r"
 [P005]
 Name="冒险家"
 Propernames=瑟罗丁 金锤
@@ -103,10 +299,10 @@ Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
 [P018]
-Name="资深飞行员"
-Propernames=简练的兹普
-Tip="选择 资深飞行员"
-Ubertip="|cffaeaeae兹普刚刚完成了他的第三次环艾泽拉斯之旅。许多兽人做梦都想吃掉这位经验丰富的飞行员。|r|n|n级别：|cffff9900高手|r|n|n|cffffff00优势：|r|cff00ff00|n+20% 攻击速度|n+2% 攻击速度/级|r|n|cffffff00劣势：|r|n|cffff0000怪物的移动速度提高50点|r"
+Name="Veteran Pilot"
+Propernames=Zip Tersely
+Tip="Choose Veteran Pilot"
+Ubertip="|cffaeaeaeZip has performed a round trip of Azeroth. Thrice! A well seasoned flier, many ogres have dreamed about eating him.|r|n|nTier: |cffff9900Advanced|r|n|n|cffffff00PROs:|r|cff00ff00|n+20% attack speed|n+2% attack speed per level|r|n|cffffff00CONs:|r|n|cffff0000+50 movement speed to creeps|n-25% time between creep spawns"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
@@ -151,10 +347,10 @@ Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D
 [P019]
-Name="异类"
-Propernames=印第安纳·彭登特
-Tip="选择 异类"
-Ubertip="|cffaeaeae靠谁都不如靠自己。尤其是它在空中留下一串烈焰脚印的时候。|r|n|n等级：|cff800080硬核|r|n|n|cffffff00优势：|r|n|cff00ff00+50%伤害对boss|n+25%伤害对精英|n-30%负面效果持续时间|n+1%物品获取率/级|n+3%基础攻击力/级|n+3%法术伤害/级|r|n|cffffff00劣势：|r|n|cffff0000-20起始食物|n-3智慧守护者升级上限|n-50%增益状态持续时间|n塔与塔之间必须有至少1格空隙。|n无法和队友共享建造区域。|r"
+Name="Maverick"
+Propernames=Indiana Pendent
+Tip="Choose Maverick"
+Ubertip="|cffaeaeaeYou want it done right? Do it yourself. Especially when it comes to leaving a trail of flaming footsteps in the air.|r|n|nTier: |cff800080Hardcore|r|n|n|cffffff00PROs:|r|n|cff00ff00+50% damage to bosses|n+25% damage to champions|n-30% debuff duration|n+1% item find per tower level|n+3% base damage per tower level|n+3% spell damage per tower level|r|n|cffffff00CONs:|r|n|cffff0000-36 starting food|n-3 keeper of wisdom max upgrades|n-50% buff duration|nTowers cannot be built adjacent to other towers|nUnable to share build areas with allies|r"
 Revivetip=Revive |cffffcc00D|reath Knight
 Awakentip=Revive |cffffcc00D|reath Knight
 Hotkey=D

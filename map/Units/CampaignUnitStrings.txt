@@ -2,4 +2,3 @@
 Name=Medivh
 [nmdm]
 Name=Medivh
-EditorSuffix= (Raven Form)

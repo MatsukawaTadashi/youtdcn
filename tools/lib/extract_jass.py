@@ -1,12 +1,35 @@
 import re
 from os.path import join
-from .constants import JASS_DIR
+from .constants import R_BUFF_ID_FUNC, R_CONTRIBUTORS_FUNC, R_CUSTOM_STORAGE_FUNC, R_TOWEREFFECT_FUNC, R_EXP_FUNC, R_INIT_CHAR_FUNC, R_MONSTER_SKILL_TAG_FUNC
 from .utils import has_chinese
 
+def clean(text, version):
+    pattern_list = [
+        r'^call ExecuteFunc\("\w*?"\)$',
+        r'^call AddUnitAnimationProperties\(.*?\)$',
+        r'^call QueueUnitAnimation\(.*?\)$',
+        r'^call SetSoundParamsFromLabel\(.*?\)$',
+        r'^call NewSoundEnvironment\(\".*?\"\)$',
+        r'^call SetAmbientDaySound\(\".*?\"\)$',
+        r'^call SetAmbientNightSound\(\".*?\"\)$',
+        r'CreateSoundFromLabel\("\w*?".*?\)$',
+        r'StringHash\(\(\".*?\"\)\)',
+        r'^call BJDebugMsg\(\".*?\"\)$',
+        R_TOWEREFFECT_FUNC[version],
+        R_CUSTOM_STORAGE_FUNC[version],
+        R_CONTRIBUTORS_FUNC[version],
+        R_BUFF_ID_FUNC[version],
+        R_EXP_FUNC[version],
+        R_INIT_CHAR_FUNC[version],
+        R_MONSTER_SKILL_TAG_FUNC[version]
+    ]
+    for p in pattern_list:
+        text = re.sub(p, '', text, flags=re.M)
+    return text
 
-def extract_string(jass_file):
-    with open(jass_file, 'r', encoding='utf8') as infile:
-        text = infile.read()
+
+def extract_string(war3map):
+    text = clean(''.join(war3map.jass), war3map.get_version())
     r_a = r'("([^\\"]|(\\.))*")'
     r_b = r"('([^\\']|(\\.))*')"
     r_string = r_a + '|' + r_b
@@ -24,7 +47,7 @@ def ignore(x):
         x = pre[i]
         if re.search(x, text):
             return 0
-    ire = [r'^\w{1,4}$', r'^([_\-\w]+\\\\)+([_\-\w]+\.\w{3})?$', r'^[^\w]*$', r'^[A-Z_]*$', r'^[a-z_]*$']
+    ire = [r'^\w{1,4}$', r'^\|[cC]\w{8}\s*$', r'^([_\-\w]+\\\\)+([_\-\w]+\.\w{3})?$', r'^[^\w]*$', r'^[A-Z_]*$', r'^[a-z_]*$', r'^\.\w{3}$']
     for i in range(len(ire)):
         x = ire[i]
         if re.search(x, text):
@@ -32,14 +55,12 @@ def ignore(x):
     return 0
 
 
-def extract_jass(old_en, old_cn, new_en, i18n_jass_file, ignore_list_file):
+def extract_jass(old_en_map, old_cn_map, new_map, i18n_jass_file, ignore_list_file):
     outfile = open(i18n_jass_file, 'w', encoding='utf8')
-    res_new = extract_string(join(new_en, JASS_DIR))
-    res_en = extract_string(join(old_en, JASS_DIR))
-    res_cn = extract_string(join(old_cn, JASS_DIR))
+    res_new = extract_string(new_map)
+    res_en = extract_string(old_en_map)
+    res_cn = extract_string(old_cn_map)
     assert len(res_cn) == len(res_en)
-    with open(join(new_en, JASS_DIR), 'r', encoding='utf8') as ifile:
-        text_new = ifile.read()
     # Generate old dict
     old_dict = {}
     for i in range(len(res_cn)):
@@ -60,7 +81,7 @@ def extract_jass(old_en, old_cn, new_en, i18n_jass_file, ignore_list_file):
     processed = set()
     ignored_list = {}
     for sent in res_new:
-        if sent in processed:
+        if sent in processed or has_chinese(sent):
             continue
         if sent in old_dict:
             ig_res = ignore(sent)
@@ -68,7 +89,9 @@ def extract_jass(old_en, old_cn, new_en, i18n_jass_file, ignore_list_file):
                 print(sent, old_dict[sent])
             if len(old_dict[sent]) == 1:
                 processed.add(sent)
-                text_new = text_new.replace(sent, list(old_dict[sent])[0])
+                print('##Old', file=outfile)
+                print(sent, file=outfile)
+                print(list(old_dict[sent])[0], file=outfile)
             else:
                 processed.add(sent)
                 print('##Multiple choices', file=outfile)
@@ -85,10 +108,6 @@ def extract_jass(old_en, old_cn, new_en, i18n_jass_file, ignore_list_file):
             print(sent, file=outfile)
             print(sent, file=outfile)
     outfile.close()
-
-    # write back confident translations
-    with open(join(new_en, JASS_DIR), 'w', encoding='utf8') as ofile:
-        ofile.write(text_new)
 
     # generate ignore list file
     if ignore_list_file:
