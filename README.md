@@ -8,12 +8,13 @@ CN Youtd, Best Youtd!
   - map/war3map.w3i: 地图简介（需16进制编辑器）
   - map/war3mapPreview.tga: 预览图片
   - map/war3mapSkin.txt: 皮肤（包括金钱、力量的tooltip等...)
-- release: 发布的汉化地图
+  - map/war3map.wts: Trigger字符串
 - tools: 实用工具
 
 ### 汉化人员
 - 雨天放晴
-- tarmo (aka SWC3)
+- S.W.C.3 (aka 魔免教信者)
+- 眼珠怪
 - and more...
 
 ### 名人堂
