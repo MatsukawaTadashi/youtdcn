@@ -6166,18 +6166,17 @@ function vdv takes nothing returns nothing
 local quest q
 local string d
 set q=CreateQuest()
-call QuestSetTitle(q,"Tower Distribution Modes")
-set d="The host chooses one of three Tower Distribution Modes:|n|n"
-set d=d+"|cff80FF00Build|r: Your builder can build base towers that can then be upgraded to other towers, just like in most TDs. This mode is lame, so it grants the least points and you have to pay force points for uncommon, rare and unique towers.|n"
-set d=d+"|cff80FF00Random with Upgrade|r: You receive random towers throughout the game, but only the cheapest member of each tower family. Once built, the tower can then be upgraded to the stronger members of its family. Force points you pay for towers are instantly refunded. You can also replace towers in this mode, to carry over permanent bonuses.|n"
-set d=d+"|cff80FF00Totally Random|r: You gain all towers randomly. You cannot upgrade a tower, but you can replace it with another to carry over permanent bonuses. This is the most difficult mode and gives the most points."
-call QuestSetDescription(q,d)
+call QuestSetTitle(q,"塔的分配")
+set d="按照塔的来源，可将游戏模式分为三种:|n|n"
+set d=d+"|cff80FF00建造升级模式|r: 与其它TD类似，建造者可以建造基础塔，然后将其升级为各式各样的高级塔。玩家获得的经验值是三种模式中最少的，同时，建造塔需要消耗力量点（木头）。|n"
+set d=d+"|cff80FF00随机升级模式|r: 玩家可以随机获得塔，但是只有每种塔中最低阶的版本，之后可以将其进阶为更强力的版本。购买塔所消耗的力量点会立即返还。在这个模式下，你也可以将一座塔替换为其他塔来继承它之前受到的永久性加成。|n"
+set d=d+"|cff80FF00完全随机模式|r: 玩家可以随机获取游戏中的所有塔，但是塔不能进阶。不过也可以替换塔来继承它之前受到的永久加成。此模式难度最高，但是也能提供最多的经验值。"call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNdices.blp")
 call QuestSetRequired(q,true)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Player XP")
+call QuestSetTitle(q,"玩家经验")
 set d="For every 1000 points your team achieves, you gain 1 xp. This can be carried over between games using the -save and -load chat commands.|n"
 set d=d+"You gain player levels for xp, enabling additional builders and small bonuses in the Keeper of Wisdom. The xp you need for each new level increases exponentially."
 call QuestSetDescription(q,d)
@@ -6187,107 +6186,107 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"Tower Values")
-set d="|cff80FF00Buff duration:|r Modifies the duration of buffs cast by this tower.
-|cff80FF00Debuff duration:|r Modifies the duration of negative buffs cast onto this tower.
-|cff80FF00Trigger chances:|r Modifies the chances of chanced abilities. Example: Ability has a 20% chance to trigger with 200% trigger chances => 40% chance.
-|cff80FF00Item drop ratio:|r Modifies the chance of item drops for killed creeps.
-|cff80FF00Item quality ratio:|r Modifies the chance to get uncommon, rare and unique items from item drops.
-|cff80FF00Exp/Bounty ratio:|r Modifies the amount of exp/bounty received. Does not affect 'flat' gains.
-|cff80FF00Multicrit:|r Towers can crit as many times per attack as they have multicrit, with 20% reduced chance per crit. The damage stacks additively. Example: Tower with multicrit 3, 10% crit chance, x2 crit damage. If first crit succeeeds, there's an 8% chance to crit again to do x3 damage. If that succeeds there's a 6.4% chance to do x4 damage."
+set d="|cff80FF00增益持续时间:|r 修正塔 释放 的状态的持续时间。"
+set d=d+"|cff80FF00减益持续时间:|r 修正塔 受到 负面状态的持续时间。"
+set d=d+"|cff80FF00触发几率:|r 修正塔触发'有xx%几率'类型能力(包括一部分物品)的几率。 |n"
+set d=d+"|cff80FF00物品获取率:|r 修正塔击杀时掉落物品的概率。"
+set d=d+"|cff80FF00物品品质率:|r 修正塔击杀并掉落物品时，物品判定为罕见、稀有、独特品质的概率。"
+set d=d+"|cff80FF00经验/金钱获取率:|r 修正塔获得的经验、金钱数量。不会影响通过转移、均分等效果。"
+set d=d+"|cff80FF00多重暴击:|r塔有几率在单次攻击中判定产生多次暴击。第一次之后的暴击率会依次衰减20%，伤害加法叠加。例如：某座塔多重暴击为3，它的暴击几率为10%，暴击伤害为*2。如果第一次暴击判定成功，那么就会有8%几率使这次暴击的倍率提升至*3。如果两次均判定成功，那么就会有6.4%几率使得这次暴击的倍率提升至*4。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNGuardTower.blp")
 call QuestSetRequired(q,true)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Diminishing Returns")
-set d="All tower and creep bonuses located in the 'misc' section in the multiboard are kept in check with diminishing returns, to keep the numbers from getting too rowdy.
+call QuestSetTitle(q,"递减")
+set d="为避免数值膨胀，塔和怪物面板属性的'其他'部分的收益会逐步递减。
 
 "
-set d=d+"The modifications affected by diminishing returns are:
+set d=d+"以下属性受递减的影响：
 "
-set d=d+"-Bounty ratio
+set d=d+"-金钱获取率
 "
-set d=d+"-Exp ratio
+set d=d+"-经验获取率
 "
-set d=d+"-Item drop ratio
+set d=d+"-物品获取率
 "
-set d=d+"-Item quality ratio
+set d=d+"-物品品质率
 "
-set d=d+"-Trigger chances
+set d=d+"-触发几率
 "
-set d=d+"-Buff duration
+set d=d+"-增益持续时间
 "
-set d=d+"-Debuff duration
+set d=d+"-减益持续时间
 
 "
-set d=d+"These diminishing returns kick in if a given misc modification falls below 60% or rises above 175%. The decay is exponential (it has bite), so it may in some cases be worth considering sharing some bonuses across multiple towers."
+set d=d+"当这些属性值低于 60% 或高于 175% 时，它们受到递减的影响。 递减是指数级的，因此某些情况下，将你的加成分散到多个塔上或许会得到更好的效果。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNCryptFiendBurrow.blp")
 call QuestSetRequired(q,true)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Player Chat Commands")
-set d="|cff80FF00-ready|r: Mark yourself ready to start the game. Requires a tower built.
-|cff80FF00-load <YOUR_LOADCODE>|r: Loads specified xp code. See Player XP tab for more information.
-|cff80FF00-save|r: Generates a savecode for your xp at any point in the game. Useful when you need to leave early.
-|cff80FF00-allow/-forbid <WHO>|r: Controls whether teammates are allowed to build in your area. <WHO> can be the player's name, number or color. Use 'all' to target all team members at once. Initially, other players are forbidden to build in your area.
-|cff80FF00-cede/-uncede|r: Relinquish your choice on early start of waves. Then, only your teammate needs to press the 'Start Next Level' button to release the next wave.
-|cff80FF00-trust|r: Automatically uses -cede all, -allow all and shares unit control with your team.
-|cff80FF00-follow <WHO>|r: Once you're defeated, use this to follow the level details of another player's team. <WHO> can be the other player's name, number or color."
+call QuestSetTitle(q,"玩家指令")
+set d="|cff80FF00-ready|r: 表示玩家已准备好开始游戏。只能在建立至少一座塔后使用。"
+set d=d+"|cff80FF00-load 积分代码|r: 读取玩家之前游戏的经验代码。详情见'玩家经验'部分。"
+set d=d+"|cff80FF00-save|r: 在游戏的任何时候生成一个经验代码。在玩家需要提前离开，无法完成游戏时十分实用。"
+set d=d+"|cff80FF00-allow/-forbid <WHO>|r: 控制你的队友能否在你的领地内建塔。<WHO>可以替换为玩家的ID，编号或颜色（例如-allow 1）。也可以使用'all'指定所有玩家（例如-allow all）。默认设置玩家禁止在其他人的领地内建塔。"
+set d=d+"|cff80FF00-cede|r: 让玩家交出'开始下一波'的权力。这时只要你的队友点击'开始下一波'按钮，就会开始生成下一波怪物而不会询问你。使用-uncede以取消。"
+set d=d+"|cff80FF00-trust|r: 视为输入了-cede all，-allow all，并且与队友开启共享单位控制。"
+set d=d+"|cff80FF00-follow <WHO>|r: 当玩家被击败时可以使用, 来查看另一位玩家的怪物波数信息。<WHO>可以替换为玩家的ID，编号或颜色。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNBookOfSummoning.blp")
 call QuestSetRequired(q,false)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Player Chat Commands 2")
-set d="|cff80FF00-autospawn <TIME>|r: Sets up an additional timer which will automatically start the next level for you <TIME> seconds after the current level has finished spawning. Note that in team mode all teammates will need to type this, or cede their choice on an early start.
-|cff80FF00-autospawn off|r: Disables your autospawn timer.
-|cff80FF00-hintson/-hintsoff|r: Toggles the hint messages that appear at the start of each level. By default they only appear for boon players.
-|cff80FF00-incomeinfo(-ii)|r: Toggles the information about your income and interest rates in the player multiboard. By default this is disabled.
-|cff80FF00-zoom topdown|r: Sets game camera to topdown view.
-|cff80FF00-zoom reset|r: Resets game camera to default. You can also just scroll the mouse wheel.
-|cff80FF00-zoom <DISTANCE>|r: Sets the game camera's zoom. <DISTANCE> must be between 100 and 450.
-|cff80FF00-showcrits|r: Toggles crit texts."
+call QuestSetTitle(q,"玩家指令 2")
+set d="|cff80FF00-autospawn <TIME>|r: 在本波怪物完全生成后的<TIME>秒后，自动开始下一波。（例如：-autospawn 1）注意：团队模式下，你的每名队友都需要输入相同的指令，或输入-cede来自动开始下一波。"
+set d=d+"|cff80FF00-autospawn off|r: 关闭自动开始下一波功能。"
+set d=d+"|cff80FF00-hintson/-hintsoff|r: 开启/关闭每波前的提示信息。默认开启。"
+set d=d+"|cff80FF00-incomeinfo(-ii)|r: 在玩家面板上显示玩家的收入和利息比率。默认不显示。"
+set d=d+"|cff80FF00-zoom topdown|r: 设定玩家的视角为俯视"
+set d=d+"|cff80FF00-zoom reset|r: 将视角重置为默认。滚动鼠标滚轮也可重置。"
+set d=d+"|cff80FF00-zoom <DISTANCE>|r: 设定玩家的视野范围，<DISTANCE> 需在100到450之间。（例如：-zoom 233）"
+set d=d+"|cff80FF00-showcrits|r: 显示暴击伤害数字"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNBookOfSummoning.blp")
 call QuestSetRequired(q,false)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Buffgroups")
-set d="Buffgroups allow you to control which towers are targeted by other towers' autocast buffs. You can set up to 10 buffgroups (1-10) at a time. Buffgroups can be manipulated with the following commands:|n|n"
-set d=d+"|cff80FF00-add <i>|r: Adds the selected tower(s) to buffgroup <i>.|n"
-set d=d+"|cff80FF00-remove <i>|r: Removes the selected tower(s) from buffgroup <i>.|n"
-set d=d+"|cff80FF00-show <i>|r: Shows what tower(s) are currently in buffgroup <i>.|n"
-set d=d+"|cff80FF00-clear <i>|r: Removes all towers from buffgroup <i>.|n"
-set d=d+"|cff80FF00-set <i>|r: Forces the selected tower(s) to only use their buffs on towers from buffgroup <i>.|n"
-set d=d+"|cff80FF00-reset|r: Allows the selected tower(s) to buff all units again."
+call QuestSetTitle(q,"状态组")
+set d="状态组可让玩家指定某些塔的增益技能释放的目标。 玩家最多只能同时设置10个状态组(<i>可以替换为1~10)。 状态组可由下列指令来操纵：|n|n"
+set d=d+"|cff80FF00-add <i>|r: 将选中的塔添加到状态组<i>。|n"
+set d=d+"|cff80FF00-remove <i>|r: 将选中的塔从状态组<i>中移除。|n"
+set d=d+"|cff80FF00-show <i>|r: 显示状态组<i>中的塔。|n"
+set d=d+"|cff80FF00-clear <i>|r: 移除状态组<i>中的所有塔。|n"
+set d=d+"|cff80FF00-set <i>|r: 强制选中的塔只对状态组<i>中的塔释放增益。|n"
+set d=d+"|cff80FF00-reset|r: 允许选中的塔随机对任何塔释放增益。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\WorldEditUI\\Editor-MultipleUnits.blp")
 call QuestSetRequired(q,false)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Auto-oil")
-set d="Auto-oil lets you designate certain oil types to get applied automatically to selected towers.
+call QuestSetTitle(q,"自动吃油")
+set d="这个命令可以设置掉落的指定种类的油直接喂给指定的塔。"
 
-|cff80FF00-autooil <TYPE>(-ao <TYPE>)|r: Marks the selected tower to receive all <TYPE> oils. If no tower is selected, the setting is cleared for that type. <TYPE> can be any of the following:
-    sharpness, sharp, shar, atkdmg
-    swiftness, swift, swif, speed
-    accuracy, accu, crit
-    magic, magi, mana
-    sorcery, sorc, spldmg
-    seeker, seek, item
-    lore, exp
-    exuberance, exub, bounty
-    tears, tear
-    aether, aeth
-    soul
-|cff80FF00-autooil show(-ao show)|r: Shows current auto-oil settings.
-|cff80FF00-autooil clear(-ao clear)|r: Clears all auto-oil settings."
+set d=d+"|cff80FF00-autooil 类型(-ao 类型)|r: 设置某'类型'的油（白、蓝、金）直接喂给选中的塔。如果没有选中任何塔，就相当于清除对于该'类型'油的自动使用设定。油的类型如下，需要输入英文（如-ao speed即为给指定的塔自动喂所有的攻速油）："
+set d=d+"    敏锐（基础攻击力）：sharpness, sharp, shar, atkdmg|n"
+set d=d+"    迅捷（攻击速度）：swiftness, swift, swif, speed|n"
+set d=d+"    精准（暴击率）：accuracy, accu, crit|n"
+set d=d+"    法力（法力值）：magic, magi, mana|n"
+set d=d+"    巫术（法术伤害）：sorcery, sorc, spldmg|n"
+set d=d+"    寻觅（物品获取）：seeker, seek, item|n"
+set d=d+"    知识（经验获取）：lore, exp|n"
+set d=d+"    丰盛（金钱获取）：exuberance, exub, bounty|n"
+set d=d+"    神之泪：tears, tear|n"
+set d=d+"    纯净的以太：aether, aeth|n"
+set d=d+"    巫师之魂：soul|n"
+set d=d+"|cff80FF00-autooil show(-ao show)|r: 查看当前的自动吃油设置。|n"
+set d=d+"|cff80FF00-autooil clear(-ao clear)|r: 清除所有的自动吃油设置。|n"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"replaceabletextures\\commandbuttons\\BTNLesserInvisibility.blp")
 call QuestSetRequired(q,false)
