@@ -575,12 +575,12 @@ Ubertip="|cff9BA0D0稀有星辰塔，攻击时有几率释放光波伤害敌人�
 Name="|cffFFFF00成年的北地巨魔|r"
 Hotkey=T
 Tip="|cffFFFF00成年的北地巨魔|r"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001848|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15%|r 伤害对兽人 (|cffFFFF00+0.3%|r/级)|n|cffFFFF00+15%|r 伤害对人类 (|cffFFFF00+0.3%|r/级) |n|n|cffCCFF00I碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF001848|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+15%|r 伤害对兽人 (|cffFFFF00+0.3%|r/级)|n|cffFFFF00+15%|r 伤害对人类 (|cffFFFF00+0.3%|r/级) |n|n|cffCCFF00碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
 [v0D7]
 Name="|cffFFFF00虚空蜉蝣|r"
 Hotkey=T
 Tip="|cffFFFF00虚空蜉蝣|r"
-Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50%|r 经验获取率 (|cffFFFF00-6%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+12%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。|n|n|cffCCFF00"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF002814|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-50%|r 经验获取率 (|cffFFFF00-6%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+12%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。"
 [v0CS]
 Name="|cff0080FF巨型元素幽魂|r"
 Hotkey=T
@@ -1266,7 +1266,7 @@ Ubertip="|cff9BA0D0恶魔的实体，会击晕自己的塔并偷取它们的伤�
 Name="|cffFFFF00恶魔蝙蝠|r"
 Hotkey=T
 Tip="|cffFFFF00恶魔蝙蝠|r"
-Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF00758|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
+Ubertip="|cff9BA0D0就像地狱来的蝙蝠一样，我会在清晨消失!|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF8A5300黑暗|r |n|cffFFFF80攻击力： |cffFFFF002250|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF00900|r 射程|n|cffFFFF80法力： |cffFFFF0050|r (+|cffFFFF001.5|r/秒)|r|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00夜猫子|r|n在夜间造成更多的伤害，在白天降低伤害。|n|n|cffCCFF00黑暗笼罩|r|n被黑暗所笼罩。|n|cffA4AFD9主动释放：|n|cffFFFF0045|cffFFFF80 法力|r，|cffFFFF006|cffFFFF80 秒 冷却时间|r，|cffFFFF000|cffFFFF80 范围|r|n|n|cffCCFF00蝙蝠群|r|n有几率发射一大群蝙蝠攻击敌人。"
 [v0GM]
 Name="|cff0080FF神秘虺蛇守卫|r"
 Hotkey=T
@@ -1526,7 +1526,7 @@ Ubertip="|cff9BA0D0放出强大的蜉蝣攻击敌人。|n|n|cffFFFF80作者:|r E
 Name="|cffFF00BF北海巨妖|r"
 Hotkey=T
 Tip="|cffFF00BF北海巨妖|r"
-Ubertip="|cff9BA0D0你能拿醉倒的水手怎么样，能怎么样...扔到我的喉咙里。|n|n|cffFFFF80作者:|r cedi, Deemzul, His_Shadow|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF001057|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00溅射伤害:|n   |cffFFFF00100|r 范围: |cffFFFF0050%|r 伤害|r|n   |cffFFFF00250|r 范围内: |cffFF800025%|r 伤害|r|n|cffFFFF00+10% |伤害对Boss (|cffFFFF00+1%|r/级)|n|cffFFFF00+2% |攻击速度/级|n|n|cffCCFF00吞食尸体|r|n每次击杀都会永久提高北海巨妖的基础攻击力。|n|n|cffCCFF00酸性粘液|r|nn击中时有一定几率降低目标的护甲。|n|n|cffCCFF00触须攻击|r|n周期性地眩晕并伤害周围的地面目标。"
+Ubertip="|cff9BA0D0你能拿醉倒的水手怎么样，能怎么样...扔到我的喉咙里。|n|n|cffFFFF80作者:|r cedi, Deemzul, His_Shadow|n|cffFFFF80元素: |cFF8A5300黑暗|r|n|cffFFFF80攻击力: |cffFFFF001057|r 每秒伤害， |cff808000凋零|r|r, |cffFFFF001200|r 射程|n|cffFFFF80特殊能力:|r|n|cffCCFF00溅射伤害:|n   |cffFFFF00100|r 范围: |cffFFFF0050%|r 伤害|r|n   |cffFFFF00250|r 范围内: |cffFF800025%|r 伤害|r|n|cffFFFF00+10% |r伤害对Boss (|cffFFFF00+1%|r/级)|n|cffFFFF00+2% |r攻击速度/级|n|n|cffCCFF00吞食尸体|r|n每次击杀都会永久提高北海巨妖的基础攻击力。|n|n|cffCCFF00酸性粘液|r|n击中时有一定几率降低目标的护甲。|n|n|cffCCFF00触须攻击|r|n周期性地眩晕并伤害周围的地面目标。"
 [v0JB]
 Name="|cffFF00BF维度通量收集器|r"
 Hotkey=T
@@ -1666,7 +1666,7 @@ Ubertip="|cff9BA0D0使用混乱魔能瓦解敌人。|n|n|cffFFFF80作者:|r |cff
 Name="|cffFFFF00虚空巨龙|r"
 Hotkey=T
 Tip="|cffFFFF00虚空巨龙|r"
-Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-80%|r 经验获取率 (|cffFFFF00-10%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+20%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每几秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。|n|n|cffCCFF00"
+Ubertip="|cff9BA0D0一种自私的生物，虚空的先驱。|n|n|cffFFFF80作者：|r |cff57B4FBChronos|r|n|cffFFFF80元素：|cFF8A5300 黑暗|r|n|cffFFFF80攻击力：|cffFFFF005803|r 每秒伤害，|cff808000凋零|r|r，|cffFFFF001000|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00-80%|r 经验获取率 (|cffFFFF00-10%|r/级)|n|cffFFFF00+4%|r 攻击速度/级|n|cffFFFF00+20%|r 攻击力/级|n|n|cffCCFF00沉默|r|n击中时沉默目标。|n|n|cffCCFF00虚空|r|n这座塔每几秒会损失一些经验，但是不会掉级。将其他塔替换为这座塔时，经验值将被重置为0点。"
 [v0J9]
 Name="|cffFFFF00红色雷电体|r"
 Hotkey=T
@@ -1746,7 +1746,7 @@ Ubertip="|cff9BA0D0这座塔能够储存雷电，以备今后所需。|n|n|cffFF
 Name="|cffFFFF00年长的北地巨魔|r"
 Hotkey=T
 Tip="|cffFFFF00年长的北地巨魔|r"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF002729|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20%|r 伤害对兽人 (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+20%|r 伤害对人类 (|cffFFFF00+0.4%|r/级) |n|n|cffCCFF00I碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF002729|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+20%|r 伤害对兽人 (|cffFFFF00+0.4%|r/级)|n|cffFFFF00+20%|r 伤害对人类 (|cffFFFF00+0.4%|r/级) |n|n|cffCCFF00碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
 [v0I6]
 Name="|cff0080FF痛苦神殿|r"
 Hotkey=T
@@ -3329,7 +3329,7 @@ Ubertip="|cff9BA0D0一座有着优秀射程的塔，能有效克制BOSS，但对
 Name="|cffFFFF00年轻的北地巨魔|r"
 Hotkey=T
 Tip="|cffFFFF00年轻的北地巨魔|r"
-Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF00966|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10%|r 伤害对兽人 (|cffFFFF00+0.2%|r/级)|n|cffFFFF00+10%|r 伤害对人类 (|cffFFFF00+0.2%|r/级) |n|n|cffCCFF00I碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
+Ubertip="|cff9BA0D0游荡在寒冷的北方土地上寻找猎物。|n|n|cffFFFF80作者：|r DaveMatthews|n|cffFFFF80元素：|cFF00FFFF寒冰|r|n|cffFFFF80攻击力： |cffFFFF00966|r 每秒伤害，|cffFF8000元素|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+10%|r 伤害对兽人 (|cffFFFF00+0.2%|r/级)|n|cffFFFF00+10%|r 伤害对人类 (|cffFFFF00+0.2%|r/级) |n|n|cffCCFF00碎冰斧|r|n有几率丢出一个大斧头。|n|n|cffCCFF00覆冰斧|r|n对被减速的目标造成额外伤害。"
 [v07W]
 Name="|cffFFFFFF恐怖墓石|r"
 Hotkey=T

@@ -5481,14 +5481,14 @@ Description="|cff9BA0D0增加附近塔对自然系敌人的伤害。 |n|n|cffFFF
 Name="|cffFFFF00硫磺头盔|r"
 Hotkey=K
 Tip="|cffFFFF00硫磺头盔|r"
-Ubertip="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00火焰呼吸|r|n攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cffFF8000元素|r, 每次攻击回复|cffFFFF8050|r充能。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
-Description="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00火焰呼吸|r|n攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cffFF8000元素|r, 每次攻击回复|cffFFFF8050|r充能。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
+Ubertip="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00烈焰之息|r|n攻击时回复|cffFFFF8050|r充能，如果充能数足够，则消耗|cffFFFF80100|r充能，将该次攻击的伤害类型改为|cffFF8000元素|r。 这个效果在塔的面板上不可见。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
+Description="|cff9BA0D0永远不要找不喝酒的矮人铁匠定制头盔。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00烈焰之息|r|n攻击时回复|cffFFFF8050|r充能，如果充能数足够，则消耗|cffFFFF80100|r充能，将该次攻击的伤害类型改为|cffFF8000元素|r。 这个效果在塔的面板上不可见。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
 [Q0MJ]
 Name="|cffFFFF00巫妖面具|r"
 Hotkey=K
 Tip="|cffFFFF00巫妖面具|r"
-Ubertip="|cff9BA0D0它可以用来开个很好的舞会, 虽然它会熔掉你的脸。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cff808000凋零|r, 每次攻击回复|cffFFFF8050|r充能。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
-Description="|cff9BA0D0它可以用来开个很好的舞会, 虽然它会熔掉你的脸。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00攻击时消耗|cffFFFF80100|r充能使携带塔的攻击类型变成|cff808000凋零|r, 每次攻击回复|cffFFFF8050|r充能。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
+Ubertip="|cff9BA0D0它可以用来开个很好的舞会, 虽然它会熔掉你的脸。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00凋零之息|r|n攻击时回复|cffFFFF8050|r充能，如果充能数足够，则消耗|cffFFFF80100|r充能，将该次攻击的伤害类型改为|cff808000凋零|r。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
+Description="|cff9BA0D0它可以用来开个很好的舞会, 虽然它会熔掉你的脸。 |n|n|cffFFFF80等级：|r 16|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00凋零之息|r|n攻击时回复|cffFFFF8050|r充能，如果充能数足够，则消耗|cffFFFF80100|r充能，将该次攻击的伤害类型改为|cff808000凋零|r。 这个效果在塔的面板上不可见。 |n|n|cffFF8000等级加成：|r|n|cffFFFF80+1|r 充能回复"
 [Q0MM]
 Name="|cffFFFFFF魔法精髓|r"
 Hotkey=K

@@ -535,11 +535,11 @@ Ubertip="|cffFFFF00-25%|r 对亡灵伤害 (|cffFFFF00+0.2%|r/级)|n"
 [W01Q]
 Name="v01C On Damage"
 Tip="雷霆咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.3%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 攻击速度"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.3%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 初始加成"
 [W01S]
 Name="v01D On Damage"
 Tip="咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.3%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 攻击力"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.3%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.3%|r 初始加成"
 [W024]
 Name="v01K abils"
 Tip="特殊能力"
@@ -1049,7 +1049,7 @@ Ubertip="|cffFFFF00-50%|r 伤害对亡灵|n|cffFFFF00+35%|r 伤害对自然 (|cf
 [W04T]
 Name="v02W On Damage"
 Tip="咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.45%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.45%|r 攻击力"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.45%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.45%|r 初始加成"
 [W055]
 Name="v03B On Damage"
 Tip="放逐"
@@ -1103,7 +1103,7 @@ Ubertip="击中亡灵单位时，强大的圣光会削弱它们，持续|cffFFFF
 [W04R]
 Name="v02V On Damage"
 Tip="雷霆咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.45%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.45%|r 攻击速度"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.45%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.45%|r 初始加成"
 [W053]
 Name="v039 Header"
 Tip="分解"
@@ -1650,7 +1650,7 @@ Ubertip="这座塔杀死敌人时会进入狂暴状态，持续|cffFFFF803|r秒�
 [W0D6]
 Name="v07R On Damage"
 Tip="咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.6%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 攻击力"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.6%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 初始加成"
 [W0D7]
 Name="闪电狗"
 [W0CW]
@@ -1664,7 +1664,7 @@ Ubertip="|cffFFFF00+1.8%|r 攻击速度/级|n"
 [W0D9]
 Name="v07S On Damage"
 Tip="雷霆咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.6%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 攻击速度"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.6%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.6%|r 初始加成"
 [W0CK]
 Name="v07F abils"
 Tip="特殊能力"
@@ -1884,7 +1884,7 @@ Ubertip="|cffFFFF00+2% |r法力回复/级|n"
 [W0EO]
 Name="v08H On Attack"
 Tip="魔焰弹"
-Ubertip="攻击时，如果这座塔的法力值不低于 |cffffff8020|r 点，则消耗所有法力值并使这次攻击暴击。超过 |cffffff8020|r 点的部分，每1点会提升暴击伤害 |cffffff80x0.08|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.2|r 最低法力值需求"
+Ubertip="攻击时，如果这座塔的法力值不低于|cffffff8020|r点，则消耗所有法力值并使这次攻击暴击。超过|cffffff8020|r点的部分，每1点会提升暴击伤害 |cffffff80x0.08|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.2|r 最低法力值需求"
 [W0F0]
 Name="v08K On Damage"
 Tip="星刃"
@@ -2799,7 +2799,7 @@ Ubertip="元素幽魂有|cffFFFF8022.5%|r几率在攻击时释放他的愤怒，
 [W0MA]
 Name="v0C7 On Damage"
 Tip="咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.75%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.75%|r 攻击力"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.75%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.75%|r 初始加成"
 [W0MB]
 Name="闪电狗"
 [W0MC]
@@ -2873,7 +2873,7 @@ Ubertip="击中时有|cffFFFF8030%|r朝目标注射寄生虫，存活|cffFFFF801
 [W0MD]
 Name="v0C8 On Damage"
 Tip="雷霆咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.75%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.75%|r 攻击速度"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.75%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.75%|r 初始加成"
 [W0ME]
 Name="v0C9 abils"
 Tip="特殊能力"
@@ -2964,7 +2964,7 @@ Ubertip="攻击时有|cffFFFF8018%|r（对boss|cffFFFF8012%|r）几率使目标�
 [W120]
 Name="v0IP On Damage"
 Tip="咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.9%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.9%|r 攻击力"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击力，持续|cffFFFF805|r秒。如果一个塔已经受到咆哮的影响，会额外提高|cffFFFF800.9%|r攻击力并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.9%|r 初始加成"
 [W0PP]
 Name="v0DQ On Damage"
 Tip="放逐"
@@ -2996,7 +2996,7 @@ Ubertip="|cffFFFF00+10%|r 伤害对魔法 (|cffFFFF00+1%|r/级)|n"
 [W123]
 Name="v0IQ On Damage"
 Tip="雷霆咆哮"
-Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.9%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.9%|r 攻击速度"
+Ubertip="击中时有|cffFFFF8030%|r几率释放战吼，增加|cffFFFF80420|r范围内所有塔|cffFFFF805%|r攻击速度，持续|cffFFFF805|r秒。如果一个塔已经受到雷霆咆哮的影响，会额外提高|cffFFFF800.9%|r攻击速度并刷新持续时间。最多叠加|cffFFFF80100|r次。|n|n|cffFF8000等级加成：|r|n|cffFFFF80+0.9%|r 初始加成"
 [W0Q4]
 Name="v0DW Tower Aura"
 Tip="风暴之怒"
@@ -3148,7 +3148,7 @@ Ubertip="这座塔每杀死一个敌人就会产生一只臭虫，增加它的�
 [W0O9]
 Name="v0D3 On Damage"
 Tip="折磨"
-Ubertip="对被击中的单位施加一个持续|cffffff802.5|r秒的负面状态，有该状态的单位每次受到|cffffff80500|r以上伤害的攻击时，会受到该次伤害的|cffffff808%|r的法术伤害。该法术伤害不会暴击。|n|n|cffFF8000等级加成：|r|n|cffffff80+0.05|r 秒持续时间|n|cffffff80+0.1%|r 法术伤害"
+Ubertip="击中时附加折磨状态，持续|cffffff802.5|r秒。被折磨的目标受到|cffffff80500|r以上伤害的攻击时，图腾对其额外造成该次伤害|cffffff808%|r的法术伤害。这个效果不会暴击。|n|n|cffFF8000等级加成：|r|n|cffffff80+0.05|r 秒持续时间|n|cffffff80+0.1%|r 附加法术伤害"
 [W109]
 Name="v0I8 abils"
 Tip="特殊能力"
@@ -3398,7 +3398,7 @@ Ubertip="这座塔有 |cffFFFF802%|r 几率在击中时直接杀死一个除boss
 [W13T]
 Name="v0JA On Attack"
 Tip="魔焰弹"
-Ubertip="攻击时，如果这座塔的法力值不低于 |cffffff8020|r 点，则消耗所有法力值并使这次攻击暴击。超过 |cffffff8020|r 点的部分，每1点会提升暴击伤害 |cffffff80x0.1|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.3|r 最低法力值需求"
+Ubertip="攻击时，如果这座塔的法力值不低于|cffffff8020|r点，则消耗所有法力值并使这次攻击暴击。超过|cffffff8020|r点的部分，每1点会提升暴击伤害 |cffffff80x0.1|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.3|r 最低法力值需求"
 [W0RU]
 Name="v0EU On Damage"
 Tip="暗影打击"
@@ -3522,11 +3522,11 @@ Ubertip="当有单位在灵魂链接的作用时间内死亡时，这座塔会�
 [W12D]
 Name="v0IW Header"
 Tip="涌动"
-Ubertip="攻击时，主目标身上每有一层引力效果，就有 |cffFFFF801%|r 几率发动能量涌动，对其造成 |cffFFFF80200%|r 攻击伤害。此后，涌动会试图向其 |cffFFFF80750|r 范围内的其他敌人弹射，被弹射击中的几率和 奥术吸引 的层数正相关。每个目标最多只会被击中一次，弹射伤害受 法力风暴 效果加成。|n|n|cffFF8000等级加成:|r|n每层吸引 |cffFFFF80+0.02%|r 触发率|n|cffFFFF80+4%|r 攻击伤害比例"
+Ubertip="攻击时，主目标身上每有一层引力效果，就有|cffFFFF801%|r几率发动能量涌动，对其造成|cffFFFF80200%|r攻击伤害。此后，涌动会试图向其|cffFFFF80750|r范围内的其他敌人弹射，被弹射击中的几率和 奥术吸引 的层数正相关。每个目标最多只会被击中一次，弹射伤害受 法力风暴 效果加成。|n|n|cffFF8000等级加成:|r|n每层吸引 |cffFFFF80+0.02%|r 触发率|n|cffFFFF80+4%|r 攻击伤害比例"
 [W12E]
 Name="v0IW On Damage"
 Tip="奥术吸引"
-Ubertip="击中时附加一层引力效果。同时，目标的每层引力会回复本塔 |cffFFFF801|r 法力，每次攻击对每个目标只回复一次法力。目标死亡时，他身上的引力层数会平摊给 |cffFFFF80500|r 范围内的所有敌人，传递的每一层引力效果都会对目标造成 |cffFFFF8020%|r 攻击伤害。引力可以无限叠加并没有持续时间。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+10|r 传递范围|n|cffFFFF80+0.4%|r 传递伤害"
+Ubertip="击中时附加一层引力效果。同时，目标的每层引力会回复本塔|cffFFFF801|r法力，每次攻击对每个目标只回复一次法力。目标死亡时，他身上的引力层数会平摊给|cffFFFF80500|r范围内的所有敌人，传递的每一层引力效果都会对目标造成|cffFFFF8020%|r攻击伤害。引力可以无限叠加并没有持续时间。|n|n|cffFF8000等级加成:|r|n|cffFFFF80+10|r 传递范围|n|cffFFFF80+0.4%|r 传递伤害"
 [W0QF]
 Name="v0E3 abils"
 Tip="特殊能力"
@@ -3534,11 +3534,11 @@ Ubertip="|cffFFFF00+2% |r法力回复/级|n"
 [W12F]
 Name="v0IW On Tower Creation"
 Tip="法力风暴"
-Ubertip="可以额外攻击射程内的 |cffFFFF802|r 个目标，如果目标数不足，剩余攻击将击中主目标。攻击时消耗所有法力值，造成 |cffFFFF80[消耗法力]%|r 的额外伤害。每消耗 |cffFFFF8075|r 法力值，就会额外攻击一次。如果一次消耗至少|cffFFFF80100|r 法力值，多重暴击数|cffFFFF80+3|r，持续 |cffFFFF802|r 秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1|r 触发额外攻击所需法力"
+Ubertip="可以额外攻击射程内的|cffFFFF802|r个目标，如果目标数不足，剩余攻击将击中主目标。攻击时消耗所有法力值，造成|cffFFFF80[消耗法力]%|r的额外伤害。每消耗|cffFFFF8075|r法力值，就会额外攻击一次。如果一次消耗至少|cffFFFF80100|r法力值，多重暴击数|cffFFFF80+3|r，持续|cffFFFF802|r秒。|n|n|cffFF8000等级加成:|r|n|cffFFFF80-1|r 触发额外攻击所需法力"
 [W0QG]
 Name="v0E3 On Attack"
 Tip="魔焰弹"
-Ubertip="攻击时，如果这座塔的法力值不低于 |cffffff8020|r 点，则消耗所有法力值并使这次攻击暴击。超过 |cffffff8020|r 点的部分，每1点会提升暴击伤害 |cffffff80x0.09|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.25|r 最低法力值需求"
+Ubertip="攻击时，如果这座塔的法力值不低于|cffffff8020|r点，则消耗所有法力值并使这次攻击暴击。超过|cffffff8020|r点的部分，每1点会提升暴击伤害 |cffffff80x0.09|r 。|n|n|cffFF8000等级加成:|r|n|cffffff80-0.25|r 最低法力值需求"
 [W0PW]
 Name="v0DS abils"
 Tip="特殊能力"
