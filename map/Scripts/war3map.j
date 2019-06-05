@@ -6177,21 +6177,21 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"玩家经验")
-set d="For every 1000 points your team achieves, you gain 1 xp. This can be carried over between games using the -save and -load chat commands.|n"
-set d=d+"You gain player levels for xp, enabling additional builders and small bonuses in the Keeper of Wisdom. The xp you need for each new level increases exponentially."
+set d="玩家团队在游戏中每获得1000点积分，就能获得1点玩家经验值。你可以在游戏中输入-save来获取积分代码，并在下一次游戏开始前输入 -load 积分代码 来载入你的经验值。|n"
+set d=d+"经验值可以提升玩家等级，解锁高级的建造者，并在智慧守护者处获得一些奖励。每一等级需要的经验会依次提高。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNHeroBloodElfPrince.blp")
 call QuestSetRequired(q,true)
 call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
-call QuestSetTitle(q,"Tower Values")
-set d="|cff80FF00增益持续时间:|r 修正塔 释放 的状态的持续时间。"
-set d=d+"|cff80FF00减益持续时间:|r 修正塔 受到 负面状态的持续时间。"
+call QuestSetTitle(q,"塔的属性")
+set d="|cff80FF00增益持续时间:|r 修正塔 释放 的状态的持续时间。|n"
+set d=d+"|cff80FF00减益持续时间:|r 修正塔 受到 负面状态的持续时间。 |n"
 set d=d+"|cff80FF00触发几率:|r 修正塔触发'有xx%几率'类型能力(包括一部分物品)的几率。 |n"
-set d=d+"|cff80FF00物品获取率:|r 修正塔击杀时掉落物品的概率。"
-set d=d+"|cff80FF00物品品质率:|r 修正塔击杀并掉落物品时，物品判定为罕见、稀有、独特品质的概率。"
-set d=d+"|cff80FF00经验/金钱获取率:|r 修正塔获得的经验、金钱数量。不会影响通过转移、均分等效果。"
+set d=d+"|cff80FF00物品获取率:|r 修正塔击杀时掉落物品的概率。 |n"
+set d=d+"|cff80FF00物品品质率:|r 修正塔击杀并掉落物品时，物品判定为罕见、稀有、独特品质的概率。|n"
+set d=d+"|cff80FF00经验/金钱获取率:|r 修正塔获得的经验、金钱数量。不会影响通过转移、均分等效果。|n"
 set d=d+"|cff80FF00多重暴击:|r塔有几率在单次攻击中判定产生多次暴击。第一次之后的暴击率会依次衰减20%，伤害加法叠加。例如：某座塔多重暴击为3，它的暴击几率为10%，暴击伤害为*2。如果第一次暴击判定成功，那么就会有8%几率使这次暴击的倍率提升至*3。如果两次均判定成功，那么就会有6.4%几率使得这次暴击的倍率提升至*4。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNGuardTower.blp")
@@ -6228,12 +6228,12 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"玩家指令")
-set d="|cff80FF00-ready|r: 表示玩家已准备好开始游戏。只能在建立至少一座塔后使用。"
-set d=d+"|cff80FF00-load 积分代码|r: 读取玩家之前游戏的经验代码。详情见'玩家经验'部分。"
-set d=d+"|cff80FF00-save|r: 在游戏的任何时候生成一个经验代码。在玩家需要提前离开，无法完成游戏时十分实用。"
-set d=d+"|cff80FF00-allow/-forbid <WHO>|r: 控制你的队友能否在你的领地内建塔。<WHO>可以替换为玩家的ID，编号或颜色（例如-allow 1）。也可以使用'all'指定所有玩家（例如-allow all）。默认设置玩家禁止在其他人的领地内建塔。"
-set d=d+"|cff80FF00-cede|r: 让玩家交出'开始下一波'的权力。这时只要你的队友点击'开始下一波'按钮，就会开始生成下一波怪物而不会询问你。使用-uncede以取消。"
-set d=d+"|cff80FF00-trust|r: 视为输入了-cede all，-allow all，并且与队友开启共享单位控制。"
+set d="|cff80FF00-ready|r: 表示玩家已准备好开始游戏。只能在建立至少一座塔后使用。|n"
+set d=d+"|cff80FF00-load 积分代码|r: 读取玩家之前游戏的经验代码。详情见'玩家经验'部分。|n"
+set d=d+"|cff80FF00-save|r: 在游戏的任何时候生成一个经验代码。在玩家需要提前离开，无法完成游戏时十分实用。|n"
+set d=d+"|cff80FF00-allow/-forbid <WHO>|r: 控制你的队友能否在你的领地内建塔。<WHO>可以替换为玩家的ID，编号或颜色（例如-allow 1）。也可以使用'all'指定所有玩家（例如-allow all）。默认设置玩家禁止在其他人的领地内建塔。|n"
+set d=d+"|cff80FF00-cede|r: 让玩家交出'开始下一波'的权力。这时只要你的队友点击'开始下一波'按钮，就会开始生成下一波怪物而不会询问你。使用-uncede以取消。|n"
+set d=d+"|cff80FF00-trust|r: 视为输入了-cede all，-allow all，并且与队友开启共享单位控制。|n"
 set d=d+"|cff80FF00-follow <WHO>|r: 当玩家被击败时可以使用, 来查看另一位玩家的怪物波数信息。<WHO>可以替换为玩家的ID，编号或颜色。"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNBookOfSummoning.blp")
@@ -6242,13 +6242,13 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"玩家指令 2")
-set d="|cff80FF00-autospawn <TIME>|r: 在本波怪物完全生成后的<TIME>秒后，自动开始下一波。（例如：-autospawn 1）注意：团队模式下，你的每名队友都需要输入相同的指令，或输入-cede来自动开始下一波。"
-set d=d+"|cff80FF00-autospawn off|r: 关闭自动开始下一波功能。"
-set d=d+"|cff80FF00-hintson/-hintsoff|r: 开启/关闭每波前的提示信息。默认开启。"
-set d=d+"|cff80FF00-incomeinfo(-ii)|r: 在玩家面板上显示玩家的收入和利息比率。默认不显示。"
-set d=d+"|cff80FF00-zoom topdown|r: 设定玩家的视角为俯视"
-set d=d+"|cff80FF00-zoom reset|r: 将视角重置为默认。滚动鼠标滚轮也可重置。"
-set d=d+"|cff80FF00-zoom <DISTANCE>|r: 设定玩家的视野范围，<DISTANCE> 需在100到450之间。（例如：-zoom 233）"
+set d="|cff80FF00-autospawn <TIME>|r: 在本波怪物完全生成后的<TIME>秒后，自动开始下一波。（例如：-autospawn 1）注意：团队模式下，你的每名队友都需要输入相同的指令，或输入-cede来自动开始下一波。|n"
+set d=d+"|cff80FF00-autospawn off|r: 关闭自动开始下一波功能。|n"
+set d=d+"|cff80FF00-hintson/-hintsoff|r: 开启/关闭每波前的提示信息。默认开启。|n"
+set d=d+"|cff80FF00-incomeinfo(-ii)|r: 在玩家面板上显示玩家的收入和利息比率。默认不显示。|n"
+set d=d+"|cff80FF00-zoom topdown|r: 设定玩家的视角为俯视|n"
+set d=d+"|cff80FF00-zoom reset|r: 将视角重置为默认。滚动鼠标滚轮也可重置。|n"
+set d=d+"|cff80FF00-zoom <DISTANCE>|r: 设定玩家的视野范围，<DISTANCE> 需在100到450之间。（例如：-zoom 233）|n"
 set d=d+"|cff80FF00-showcrits|r: 显示暴击伤害数字"
 call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNBookOfSummoning.blp")
@@ -6273,7 +6273,7 @@ set q=CreateQuest()
 call QuestSetTitle(q,"自动吃油")
 set d="这个命令可以设置掉落的指定种类的油直接喂给指定的塔。"
 
-set d=d+"|cff80FF00-autooil 类型(-ao 类型)|r: 设置某'类型'的油（白、蓝、金）直接喂给选中的塔。如果没有选中任何塔，就相当于清除对于该'类型'油的自动使用设定。油的类型如下，需要输入英文（如-ao speed即为给指定的塔自动喂所有的攻速油）："
+set d=d+"|cff80FF00-autooil 类型(-ao 类型)|r: 设置某'类型'的油（白、蓝、金）直接喂给选中的塔。如果没有选中任何塔，就相当于清除对于该'类型'油的自动使用设定。油的类型如下，需要输入英文（如-ao speed即为给指定的塔自动喂所有的攻速油）：|n"
 set d=d+"    敏锐（基础攻击力）：sharpness, sharp, shar, atkdmg|n"
 set d=d+"    迅捷（攻击速度）：swiftness, swift, swif, speed|n"
 set d=d+"    精准（暴击率）：accuracy, accu, crit|n"
@@ -21436,7 +21436,7 @@ call N7v(Do,'W18K','R08I')
 endfunction
 function Dpv takes nothing returns nothing
 set fo=Vpv(1)
-set OJ[RJ[(fo)]+(0)]=("暴击加成")
+set OJ[RJ[(fo)]+(0)]=("暴击率加成")
 endfunction
 function DPv takes nothing returns nothing
 set Fo=N1v(4.01,0,false)
@@ -21592,7 +21592,7 @@ call N7v(qo,'W18Y','R08T')
 endfunction
 function D9v takes nothing returns nothing
 set Qo=Vpv(1)
-set OJ[RJ[(Qo)]+(0)]=("暴击率奖励")
+set OJ[RJ[(Qo)]+(0)]=("暴击伤害加成")
 endfunction
 function fvv takes nothing returns nothing
 local integer m=(d8())
@@ -21661,7 +21661,7 @@ function fEv takes nothing returns nothing
 set Yo=Nmv("Abilities\\Spells\\Other\\TinkerRocket\\TinkerRocketMissile.mdl",1000.)
 set ns[(Yo)]=(($D))
 set zo=Vpv(1)
-set OJ[RJ[(zo)]+(0)]=("伤害")
+set OJ[RJ[(zo)]+(0)]=("导弹伤害")
 endfunction
 function fXv takes nothing returns nothing
 set Zo=N5v(pe,1.8,.0,false)
@@ -23774,7 +23774,7 @@ endif
 set j=j/ 8-1
 set xy[Dyv]=7
 if(ModuloInteger(ModuloInteger(i,Eq),16)==0 and ModuloInteger(i,Eq)!=0)then
-call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00: 波杂兵挑战者 ===
+call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00 波:杂兵挑战者 ===
 ")
 set Fiv=fZv*KW[1]
 set vy[Dyv]=cWv(Uc[tc[j]],lW[1]*$A,Fiv,R2I(f_v),5,f0v,0,2.*lW[1],1,7,i,wc[tc[j]],0)
@@ -23802,7 +23802,7 @@ set wW[Dyv]="|cffFFFF00最终 Boss|r"
 call fuv(Dyv,true,false,false,false,false,"
 |cffFF0000如果这个BOSS没被击败,你会损失 100% 的生命,你必须击败他!!|r")
 else
-call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00: 波挑战者 ===
+call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00 波:挑战者 ===
 |r")
 set zW[Dyv]=1
 set Fiv=fZv*KW[7]
