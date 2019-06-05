@@ -11950,77 +11950,77 @@ set zk[Zk[Q3]+0]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("敏锐之油 不再自动使用"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 敏锐之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 敏锐之油。"))
 endif
 elseif EVv=="swiftness" or EVv=="swift" or EVv=="swif" or EVv=="speed" then
 set zk[Zk[Q3]+1]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("迅捷之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 迅捷之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 迅捷之油。"))
 endif
 elseif EVv=="accuracy" or EVv=="accu" or EVv=="crit" then
 set zk[Zk[Q3]+2]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("精准之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 精准之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 精准之油。"))
 endif
 elseif EVv=="magic" or EVv=="magi" or EVv=="mana" then
 set zk[Zk[Q3]+3]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("法力之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 法力之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 法力之油。"))
 endif
 elseif EVv=="sorcery" or EVv=="sorc" or EVv=="spldmg" then
 set zk[Zk[Q3]+4]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("巫术之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 巫术之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 巫术之油。"))
 endif
 elseif EVv=="seeker" or EVv=="seek" or EVv=="item" then
 set zk[Zk[Q3]+5]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("寻觅之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 寻觅之油"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 寻觅之油"))
 endif
 elseif EVv=="lore" or EVv=="exp" then
 set zk[Zk[Q3]+6]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("知识之油 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 知识使用 丰盛之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 知识之油。"))
 endif
 elseif EVv=="exuberance" or EVv=="exub" or EVv=="bounty" then
 set zk[Zk[Q3]+7]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("丰盛之油 不再自动使用"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 丰盛之油。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 丰盛之油。"))
 endif
 elseif EVv=="tears" or EVv=="tear" then
 set zk[Zk[Q3]+8]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("神之泪 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 神之泪。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 神之泪。"))
 endif
 elseif EVv=="aether" or EVv=="aeth" then
 set zk[Zk[Q3]+9]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("纯净的以太 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 纯净的以太。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 纯净的以太。"))
 endif
 elseif EVv=="soul" then
 set zk[Zk[Q3]+au]=t
 if t==0 then
 call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("巫师之魂 不再自动使用。"))
 else
-call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("设定在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 自动使用 巫师之魂。"))
+call DisplayTextToPlayer(qJ[(Q3)],.0,.0,("在 "+dc[SU[(gm[t])]]+GetObjectName(Vd[gm[t]])+"|r 上自动使用 巫师之魂。"))
 endif
 elseif EVv=="show" then
 set i=0
@@ -12612,7 +12612,7 @@ endloop
 endfunction
 function Ewv takes integer Q3,integer EWv returns nothing
 local boolean Eyv=false
-local string s="|cffFFFF00添加选中塔到状态组 "+I2S(EWv+1)+":内的塔释放增益|r"
+local string s="|cffFFFF00添加选中塔到状态组 "+I2S(EWv+1)+":|r"
 local integer t
 if EWv>=Ge or EWv<0 then
 call DisplayTextToPlayer(qJ[(bK[Q3])],.0,.0,("|cffFF0000塔的状态组设定范围是1到10!|r"))
@@ -12642,7 +12642,7 @@ call GroupClear(IK)
 endfunction
 function EYv takes integer Q3,integer EWv returns nothing
 local boolean Ezv=false
-local string s="|cffFFFF00把选中塔移出状态组 "+I2S(EWv+1)+":内的塔释放增益|r"
+local string s="|cffFFFF00把选中塔移出状态组 "+I2S(EWv+1)+":|r"
 local integer t
 if EWv>=Ge or EWv<0 then
 call DisplayTextToPlayer(qJ[(bK[Q3])],.0,.0,("|cffFF0000塔的状态组设定范围是1到10!|r"))
@@ -12726,7 +12726,7 @@ call DisplayTextToPlayer(qJ[(bK[Q3])],.0,.0,("|cffFFFF00状态组 "+I2S(EWv+1)+"
 endfunction
 function E1v takes integer Q3,integer EWv returns nothing
 local boolean Eyv=false
-local string s="|cffFFFF00以下塔将会只对状态组 "+I2S(EWv+1)+":内的塔释放增益|r"
+local string s="|cffFFFF00以下塔将会只对状态组 "+I2S(EWv+1)+"内的塔释放增益:|r"
 local integer t
 if EWv>=Ge or EWv<0 then
 call DisplayTextToPlayer(qJ[(bK[Q3])],.0,.0,("|cffFF0000塔的状态组设定范围是1到10!|r"))
@@ -14020,7 +14020,7 @@ endif
 else
 if(Owv==5)then
 set Otv=R2I((840*OWv/ CL[Q3])*(1.-(Oyv*Oyv*Oyv*Oyv))*Lu[c])
-call Olv(Q3,(sJ[(bM[c])])+" |cffFF8000对BOSS造成了 |cffFFB300"+I2S(R2I(Oyv*'d'))+"% |cffFF8000的伤害 |cffFFB300Boss|r")
+call Olv(Q3,(sJ[(bM[c])])+" |cffFF8000对BOSS造成了 |cffFFB300"+I2S(R2I(Oyv*'d'))+"% |cffFF8000的伤害 |r")
 else
 set Otv=R2I(840*OWv/ CL[Q3]*(1.-(Oyv*Oyv*Oyv*Oyv*Oyv))*Lu[c])
 call Olv(Q3,(sJ[(bM[c])])+" |cffFF8000漏掉了一个|cffFFB300"+LW[Owv])
