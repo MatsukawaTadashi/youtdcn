@@ -6170,7 +6170,8 @@ call QuestSetTitle(q,"塔的分配")
 set d="按照塔的来源，可将游戏模式分为三种:|n|n"
 set d=d+"|cff80FF00建造升级模式|r: 与其它TD类似，建造者可以建造基础塔，然后将其升级为各式各样的高级塔。玩家获得的经验值是三种模式中最少的，同时，建造塔需要消耗力量点（木头）。|n"
 set d=d+"|cff80FF00随机升级模式|r: 玩家可以随机获得塔，但是只有每种塔中最低阶的版本，之后可以将其进阶为更强力的版本。购买塔所消耗的力量点会立即返还。在这个模式下，你也可以将一座塔替换为其他塔来继承它之前受到的永久性加成。|n"
-set d=d+"|cff80FF00完全随机模式|r: 玩家可以随机获取游戏中的所有塔，但是塔不能进阶。不过也可以替换塔来继承它之前受到的永久加成。此模式难度最高，但是也能提供最多的经验值。"call QuestSetDescription(q,d)
+set d=d+"|cff80FF00完全随机模式|r: 玩家可以随机获取游戏中的所有塔，但是塔不能进阶。不过也可以替换塔来继承它之前受到的永久加成。此模式难度最高，但是也能提供最多的经验值。"
+call QuestSetDescription(q,d)
 call QuestSetIconPath(q,"ReplaceableTextures\\CommandButtons\\BTNdices.blp")
 call QuestSetRequired(q,true)
 call QuestSetDiscovered(q,true)
@@ -6242,7 +6243,8 @@ call QuestSetDiscovered(q,true)
 call QuestSetCompleted(q,false)
 set q=CreateQuest()
 call QuestSetTitle(q,"玩家指令 2")
-set d="|cff80FF00-autospawn <TIME>|r: 在本波怪物完全生成后的<TIME>秒后，自动开始下一波。（例如：-autospawn 1）注意：团队模式下，你的每名队友都需要输入相同的指令，或输入-cede来自动开始下一波。|n"
+set d="|cff80FF00-autospawn <TIME>|r: 在本波怪物完全生成后的<TIME>秒后，自动开始下一波。（例如：-autospawn 1）|n"
+set d=d+"注意：团队模式下，你的每名队友都需要输入相同的指令，或输入-cede来自动开始下一波。|n"
 set d=d+"|cff80FF00-autospawn off|r: 关闭自动开始下一波功能。|n"
 set d=d+"|cff80FF00-hintson/-hintsoff|r: 开启/关闭每波前的提示信息。默认开启。|n"
 set d=d+"|cff80FF00-incomeinfo(-ii)|r: 在玩家面板上显示玩家的收入和利息比率。默认不显示。|n"
@@ -8536,7 +8538,7 @@ set e9v="每波之间的间隔时间降低到"+xzv(2.)+" 秒，并且当任意�
 call o7v("|cff804000竞赛模式|r",0,e9v)
 set e9v="玩家将在公共储藏箱购买防御塔。"
 call o7v("|cff9D9DA1公用储存箱|r",1,e9v)
-set e9v="所有的玩家使用同一个建造者r, 由主机选择."
+set e9v="所有的玩家使用同一个建造者, 由主机选择."
 call o7v("|cff63eb77同一建造者|r",2,e9v)
 endfunction
 function rxv takes nothing returns nothing
@@ -23790,7 +23792,7 @@ endloop
 set zW[Dyv]=k
 set wW[Dyv]="|cffFFFF00杂兵挑战者|r"
 call fuv(Dyv,true,false,false,false,false,"
-|cffFF0000如果这个BOSS没被击败,你会损失 100% 的生命,你必须击败他!!|r")
+|cffFF0000你不会在这一波损失生命值!|r")
 elseif i==Xq then
 call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00: 最终 BOSS ===
 |r")
