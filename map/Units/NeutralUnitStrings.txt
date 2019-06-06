@@ -365,2816 +365,2816 @@ Name="Sexy Chick"
 Tip=Invoke Crab
 Ubertip="Call upon the spirit of Crab to save you."
 [cR10]
-Name="Elven Defender"
+Name="精灵护卫"
 Tip=Hire Razormane Brute
 [cR0O]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 [cR11]
-Name="Elven Defender"
+Name="精灵护卫"
 Tip=Hire Razormane Brute
 [cR0P]
-Name="Defender"
+Name="护卫"
 Tip=Hire Razormane Brute
 [cR0M]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 [cR0N]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 [cR0K]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 [cR0L]
-Name="Footman"
+Name="步兵"
 Tip=Hire Razormane Brute
 [cR0I]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 [cR0J]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 [cR0G]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 [cR0H]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 [cR0E]
-Name="Skirmisher"
+Name="斥候"
 Tip=Hire Razormane Brute
 [cR0F]
-Name="Militia"
+Name="民兵"
 Tip=Hire Razormane Brute
 [cR0C]
-Name="Skirmisher"
+Name="斥候"
 Tip=Hire Razormane Brute
 [cR0D]
-Name="Skirmisher"
+Name="斥候"
 Tip=Hire Razormane Brute
 [cR0A]
-Name="Skirmisher"
+Name="斥候"
 Tip=Hire Razormane Brute
 [cR0B]
-Name="Skirmisher"
+Name="斥候"
 Tip=Hire Razormane Brute
 [cR1A]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 [cR0Y]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 [cR18]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 [cR0W]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 [cR19]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 [cR0X]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 [cR16]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 [cR0U]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 [cR17]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 [cR0V]
-Name="Dwarf"
+Name="矮人"
 Tip=Hire Razormane Brute
 [cR14]
-Name="Elven Defender"
+Name="精灵护卫"
 Tip=Hire Razormane Brute
 [cR0S]
-Name="Defender"
+Name="护卫"
 Tip=Hire Razormane Brute
 [cR15]
-Name="Elven Archer"
+Name="精灵射手"
 Tip=Hire Razormane Brute
 [cR0T]
-Name="Defender"
+Name="护卫"
 Tip=Hire Razormane Brute
 [cR12]
-Name="Elven Defender"
+Name="精灵护卫"
 Tip=Hire Razormane Brute
 [cR0Q]
-Name="Defender"
+Name="护卫"
 Tip=Hire Razormane Brute
 [cR13]
-Name="Elven Defender"
+Name="精灵护卫"
 Tip=Hire Razormane Brute
 [cR0R]
-Name="Defender"
+Name="护卫"
 Tip=Hire Razormane Brute
 [cR00]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 [cR09]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 [cR07]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 [cR08]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 [cR05]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 [cR06]
-Name="Bandit"
+Name="强盗"
 Tip=Hire Razormane Brute
 [cR03]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 [cR04]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 [cR01]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 [cR02]
-Name="Scallywag"
+Name="淘气鬼"
 Tip=Hire Razormane Brute
 [cR32]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 [cR2Q]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 [cR33]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 [cR2R]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 [cR30]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 [cR2O]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 [cR31]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 [cR2P]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 [cR2M]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 [cR2N]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 [cR2K]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 [cR2L]
-Name="Sergeant"
+Name="军士长"
 Tip=Hire Razormane Brute
 [cR2I]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 [cR2J]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 [cR2G]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 [cR2H]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 [cR2E]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 [cR2F]
-Name="Sorcerer"
+Name="巫师"
 Tip=Hire Razormane Brute
 [cR2C]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 [cR2D]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 [cR3B]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 [cR3C]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 [cR3A]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 [cR2Y]
-Name="Wizard"
+Name="术士"
 Tip=Hire Razormane Brute
 [cR38]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 [cR2W]
-Name="Wizard"
+Name="术士"
 Tip=Hire Razormane Brute
 [cR39]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 [cR2X]
-Name="Wizard"
+Name="术士"
 Tip=Hire Razormane Brute
 [cR36]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 [cR2U]
-Name="Wizard"
+Name="术士"
 Tip=Hire Razormane Brute
 [cR37]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 [cR2V]
-Name="Wizard"
+Name="术士"
 Tip=Hire Razormane Brute
 [cR34]
-Name="Mountain King"
+Name="山丘之王"
 Tip=Hire Razormane Brute
 [cR2S]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 [cR35]
-Name="Emperor"
+Name="君主"
 Tip=Hire Razormane Brute
 [cR2T]
-Name="Commander"
+Name="指挥官"
 Tip=Hire Razormane Brute
 [cR21]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 [cR1P]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 [cR22]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 [cR1Q]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 [cR1N]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 [cR20]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 [cR1O]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 [cR1L]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 [cR1M]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 [cR1J]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 [cR1K]
-Name="Spellbreaker"
+Name="破法者"
 Tip=Hire Razormane Brute
 [cR1H]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 [cR1I]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 [cR1F]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 [cR1G]
-Name="Mage"
+Name="法师"
 Tip=Hire Razormane Brute
 [cR1D]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 [cR1E]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 [cR1B]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 [cR1C]
-Name="Tank"
+Name="坦克"
 Tip=Hire Razormane Brute
 [cR2A]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 [cR2B]
-Name="Druid"
+Name="德鲁伊"
 Tip=Hire Razormane Brute
 [cR29]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 [cR1X]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 [cR1Y]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 [cR27]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 [cR1V]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 [cR28]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 [cR1W]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 [cR25]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 [cR1T]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 [cR26]
-Name="Elven Chick"
+Name="精灵少妇"
 Tip=Hire Razormane Brute
 [cR1U]
-Name="Ancient Sorceress"
+Name="古老的女巫"
 Tip=Hire Razormane Brute
 [cR23]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 [cR1R]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 [cR24]
-Name="Glory Wagon"
+Name="荣誉战车"
 Tip=Hire Razormane Brute
 [cR1S]
-Name="Knight"
+Name="骑士"
 Tip=Hire Razormane Brute
 [cR54]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 [cR4S]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 [cR55]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 [cR4T]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 [cR52]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 [cR4Q]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 [cR53]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 [cR4R]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 [cR50]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 [cR4O]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 [cR51]
-Name="Skeleton Archer"
+Name="骷髅射手"
 Tip=Hire Razormane Brute
 [cR4P]
-Name="Dragonhawk Rider"
+Name="龙鹰骑士"
 Tip=Hire Razormane Brute
 [cR4M]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 [cR4N]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 [cR4K]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 [cR4L]
-Name="Gryphon Rider"
+Name="狮鹫骑士"
 Tip=Hire Razormane Brute
 [cR4I]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 [cR4J]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 [cR4G]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 [cR4H]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 [cR4E]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 [cR4F]
-Name="Gyrokopter"
+Name="矮人机枪直升机"
 Tip=Hire Razormane Brute
 [cR5D]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 [cR5E]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 [cR5B]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 [cR5C]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 [cR5A]
-Name="Necromancer"
+Name="死灵法师"
 Tip=Hire Razormane Brute
 [cR4Y]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 [cR58]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 [cR4W]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 [cR59]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 [cR4X]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 [cR56]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 [cR4U]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 [cR57]
-Name="Skeleton Warrior"
+Name="骷髅战士"
 Tip=Hire Razormane Brute
 [cR4V]
-Name="Evil Scarab"
+Name="邪恶甲虫"
 Tip=Hire Razormane Brute
 [cR43]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 [cR3R]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 [cR44]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 [cR3S]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 [cR41]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 [cR3P]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 [cR42]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 [cR3Q]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 [cR3N]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 [cR40]
-Name="Ice Queen"
+Name="寒冰女王"
 Tip=Hire Razormane Brute
 [cR3O]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 [cR3L]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 [cR3M]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 [cR3J]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 [cR3K]
-Name="Arch Mage"
+Name="大法师"
 Tip=Hire Razormane Brute
 [cR3H]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 [cR3I]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 [cR3F]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 [cR3G]
-Name="Siege Tank"
+Name="攻城坦克"
 Tip=Hire Razormane Brute
 [cR3D]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 [cR3E]
-Name="Master Archer"
+Name="射手大师"
 Tip=Hire Razormane Brute
 [cR4C]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 [cR4D]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 [cR4A]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 [cR4B]
-Name="Rotherothopter"
+Name="矮人直升机"
 Tip=Hire Razormane Brute
 [cR49]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 [cR3X]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 [cR3Y]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 [cR47]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 [cR3V]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 [cR48]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 [cR3W]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 [cR45]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 [cR3T]
-Name="Blood Elf Sorcerer"
+Name="血魔法师"
 Tip=Hire Razormane Brute
 [cR46]
-Name="Golden Wagon of Justice"
+Name="公正黄金车"
 Tip=Hire Razormane Brute
 [cR3U]
-Name="Paladin"
+Name="圣骑士"
 Tip=Hire Razormane Brute
 [cR76]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 [cR6U]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 [cR77]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 [cR6V]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 [cR74]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 [cR6S]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 [cR75]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 [cR6T]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 [cR72]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 [cR6Q]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 [cR73]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 [cR6R]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 [cR70]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 [cR6O]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 [cR71]
-Name="Hilarious Ghoul"
+Name="疯狂食尸鬼"
 Tip=Hire Razormane Brute
 [cR6P]
-Name="Underworld Mutation"
+Name="地狱变异怪"
 Tip=Hire Razormane Brute
 [cR6M]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 [cR6N]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 [cR6K]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 [cR6L]
-Name="Infernal Machine"
+Name="地狱战车"
 Tip=Hire Razormane Brute
 [cR6I]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 [cR6J]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 [cR6G]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 [cR6H]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 [cR7F]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 [cR7G]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 [cR7D]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 [cR7E]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 [cR7B]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 [cR7C]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 [cR7A]
-Name="Skeletal Mage"
+Name="骷髅法师"
 Tip=Hire Razormane Brute
 [cR6Y]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 [cR78]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 [cR6W]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 [cR79]
-Name="Burning Archer"
+Name="燃烧射手"
 Tip=Hire Razormane Brute
 [cR6X]
-Name="Banshee"
+Name="女妖"
 Tip=Hire Razormane Brute
 [cR65]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 [cR5T]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 [cR66]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 [cR5U]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 [cR63]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 [cR5R]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 [cR64]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 [cR5S]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 [cR61]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 [cR5P]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 [cR62]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 [cR5Q]
-Name="Meatwagon"
+Name="绞肉车"
 Tip=Hire Razormane Brute
 [cR5N]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 [cR60]
-Name="Zombie"
+Name="僵尸"
 Tip=Hire Razormane Brute
 [cR5O]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 [cR5L]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 [cR5M]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 [cR5J]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 [cR5K]
-Name="Crypt Fiend"
+Name="地穴恶魔"
 Tip=Hire Razormane Brute
 [cR5H]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 [cR5I]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 [cR5F]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 [cR5G]
-Name="Major Skeleton Warrior"
+Name="骷髅勇士"
 Tip=Hire Razormane Brute
 [cR6E]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 [cR6F]
-Name="Evil Demon"
+Name="暴君"
 Tip=Hire Razormane Brute
 [cR6C]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 [cR6D]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 [cR6A]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 [cR6B]
-Name="Undead Amazon"
+Name="亡灵亚马逊"
 Tip=Hire Razormane Brute
 [cR69]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 [cR5X]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 [cR5Y]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 [cR67]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 [cR5V]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 [cR68]
-Name="Acolyte"
+Name="侍僧"
 Tip=Hire Razormane Brute
 [cR5W]
-Name="Shade"
+Name="阴影"
 Tip=Hire Razormane Brute
 [cR98]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 [cR8W]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 [cR99]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 [cR8X]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 [cR96]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 [cR8U]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 [cR97]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 [cR8V]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 [cR94]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 [cR8S]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 [cR95]
-Name="Gargoyle"
+Name="石像鬼"
 Tip=Hire Razormane Brute
 [cR8T]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 [cR92]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 [cR8Q]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 [cR93]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 [cR8R]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 [cR90]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 [cR8O]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 [cR91]
-Name="Banshee Queen"
+Name="女妖之王"
 Tip=Hire Razormane Brute
 [cR8P]
-Name="Doomsday Machine"
+Name="末日战车"
 Tip=Hire Razormane Brute
 [cR8M]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 [cR8N]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 [cR8K]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 [cR8L]
-Name="Evil Demon Lord"
+Name="邪恶领主"
 Tip=Hire Razormane Brute
 [cR8I]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 [cR8J]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 [cR9H]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9I]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9F]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9G]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9D]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 [cR9E]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 [cR9B]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 [cR9C]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 [cR9A]
-Name="Destroyer"
+Name="驱逐舰"
 Tip=Hire Razormane Brute
 [cR8Y]
-Name="Underword Emperor"
+Name="冥王"
 Tip=Hire Razormane Brute
 [c055]
 Name="geX"
 Tip=Hire Razormane Brute
 [cR87]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 [cR7V]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 [c054]
 Name="tolleder"
 Tip=Hire Razormane Brute
 [cR88]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 [cR7W]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 [c057]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cR85]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 [cR7T]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 [c056]
 Name="mOck"
 Tip=Hire Razormane Brute
 [cR86]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 [cR7U]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 [c051]
 Name="cedi"
 Tip=Hire Razormane Brute
 [cR83]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 [cR7R]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 [c050]
 Name="D1000"
 Tip=Hire Razormane Brute
 [cR84]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 [cR7S]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 [c053]
 Name="MasterCassim"
 Tip=Hire Razormane Brute
 [cR81]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 [cR7P]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 [c052]
 Name="boekie"
 Tip=Hire Razormane Brute
 [cR82]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 [cR7Q]
-Name="Crypt Lord"
+Name="地穴领主"
 Tip=Hire Razormane Brute
 [cR7N]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 [cR80]
-Name="Haunting Revenant"
+Name="萦绕之魂"
 Tip=Hire Razormane Brute
 [cR7O]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 [cR7L]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 [cR7M]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 [cR7J]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 [cR7K]
-Name="Dread Lord"
+Name="恐惧魔王"
 Tip=Hire Razormane Brute
 [cR7H]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 [cR7I]
-Name="Ghostly Necromancer"
+Name="幽灵法师"
 Tip=Hire Razormane Brute
 [c05E]
 Name="Gecklow"
 Tip=Hire Razormane Brute
 [cR8G]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 [c05D]
 Name="Glowackos"
 Tip=Hire Razormane Brute
 [cR8H]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 [cR8E]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 [c05F]
 Name="Drackos"
 Tip=Hire Razormane Brute
 [cR8F]
-Name="Undead Overlord"
+Name="亡灵领主"
 Tip=Hire Razormane Brute
 [c05A]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cR8C]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 [cR8D]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 [c05C]
-Name="Challenge 14"
+Name="挑战者 14"
 Tip=Hire Razormane Brute
 [cR8A]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 [c05B]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cR8B]
-Name="Lich"
+Name="巫妖"
 Tip=Hire Razormane Brute
 [c059]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 [c058]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [c04Z]
 Name="drol"
 Tip=Hire Razormane Brute
 [cR89]
-Name="Plague Lord"
+Name="瘟疫领主"
 Tip=Hire Razormane Brute
 [cR7X]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 [c04Y]
 Name="SirCoqaLot."
 Tip=Hire Razormane Brute
 [cR7Y]
-Name="Obsidian Statue"
+Name="黑曜石雕像"
 Tip=Hire Razormane Brute
 [cR9X]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 [cR9Y]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 [cR9V]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 [cR9W]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 [cR9T]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 [cR9U]
-Name="Forest Troll"
+Name="寒冰巨魔"
 Tip=Hire Razormane Brute
 [cR9R]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 [cR9S]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 [cR9P]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 [cR9Q]
-Name="Peon Roughneck"
+Name="粗暴的苦工"
 Tip=Hire Razormane Brute
 [cR9N]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 [cR9O]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 [cR9L]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 [cR9M]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 [cR9J]
-Name="Frost Wyrm"
+Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9K]
-Name="Demon Dreadnought"
+Name="恶魔战舰"
 Tip=Hire Razormane Brute
 [cRAA]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 [cRA8]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 [cRA9]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 [cRA6]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 [cRA7]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 [cRA4]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 [cRA5]
-Name="Grunt"
+Name="兽人"
 Tip=Hire Razormane Brute
 [cRA2]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 [cRA3]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 [cRB1]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 [cRAP]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 [cRB2]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 [cRAQ]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 [cRAN]
-Name="Vicious Battler"
+Name="邪恶斗士"
 Tip=Hire Razormane Brute
 [cRB0]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 [cRAO]
-Name="Vicious Battler"
+Name="邪恶斗士"
 Tip=Hire Razormane Brute
 [cRAL]
-Name="Vicious Battler"
+Name="邪恶斗士"
 Tip=Hire Razormane Brute
 [cRAM]
-Name="Vicious Battler"
+Name="邪恶斗士"
 Tip=Hire Razormane Brute
 [cRAJ]
-Name="Battler"
+Name="斗士"
 Tip=Hire Razormane Brute
 [cRAK]
-Name="Vicious Battler"
+Name="邪恶斗士"
 Tip=Hire Razormane Brute
 [cRAH]
-Name="Battler"
+Name="斗士"
 Tip=Hire Razormane Brute
 [cRAI]
-Name="Battler"
+Name="斗士"
 Tip=Hire Razormane Brute
 [cRAF]
-Name="Battler"
+Name="斗士"
 Tip=Hire Razormane Brute
 [cRAG]
-Name="Battler"
+Name="斗士"
 Tip=Hire Razormane Brute
 [cRAD]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 [cRAE]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 [cRAB]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 [cRAC]
-Name="Vicious Grunt"
+Name="邪恶兽人"
 Tip=Hire Razormane Brute
 [cRA0]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 [cRA1]
-Name="Troll Headhunter"
+Name="巨魔猎头者"
 Tip=Hire Razormane Brute
 [cRCB]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 [cRCC]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 [cRCA]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 [cRBY]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 [cRC8]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 [cRBW]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 [cRC9]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 [cRBX]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 [cRC6]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 [cRBU]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 [cRC7]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 [cRBV]
-Name="Tauren"
+Name="牛头人"
 Tip=Hire Razormane Brute
 [cRC4]
-Name="Peon Garbage Collector"
+Name="苦工清道夫"
 Tip=Hire Razormane Brute
 [cRBS]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 [cRC5]
-Name="Shadow Priest"
+Name="暗影牧师"
 Tip=Hire Razormane Brute
 [cRBT]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 [cRD3]
-Name="Kodo Drummer"
+Name="科多鼓手"
 Tip=Hire Razormane Brute
 [cRCR]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 [cRD4]
-Name="Kodo Drummer"
+Name="科多鼓手"
 Tip=Hire Razormane Brute
 [cRCS]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 [cRD1]
-Name="Kodo Drummer"
+Name="科多鼓手"
 Tip=Hire Razormane Brute
 [cRCP]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 [cRD2]
-Name="Kodo Drummer"
+Name="科多鼓手"
 Tip=Hire Razormane Brute
 [cRCQ]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 [cRCN]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 [cRD0]
-Name="Kodo Drummer"
+Name="科多鼓手"
 Tip=Hire Razormane Brute
 [cRCO]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 [cRCL]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 [cRCM]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 [cRCJ]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 [cRCK]
-Name="Vicious Blade Master"
+Name="邪恶剑圣"
 Tip=Hire Razormane Brute
 [cRCH]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 [cRCI]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 [cRCF]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 [cRCG]
-Name="Blade Master"
+Name="剑圣"
 Tip=Hire Razormane Brute
 [cRCD]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 [cRCE]
-Name="Shadow Hunter"
+Name="暗影猎手"
 Tip=Hire Razormane Brute
 [cRBA]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 [cRBB]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 [cRB9]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 [cRAX]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 [cRAY]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 [cRB7]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 [cRAV]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 [cRB8]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 [cRAW]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 [cRB5]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 [cRAT]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 [cRB6]
-Name="Witch Doctor"
+Name="巫医"
 Tip=Hire Razormane Brute
 [cRAU]
-Name="Goblin Team"
+Name="地精小队"
 Tip=Hire Razormane Brute
 [cRB3]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 [cRAR]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 [cRB4]
-Name="Shaman"
+Name="萨满"
 Tip=Hire Razormane Brute
 [cRAS]
-Name="Kodo"
+Name="科多兽"
 Tip=Hire Razormane Brute
 [cRC2]
-Name="Peon Garbage Collector"
+Name="苦工清道夫"
 Tip=Hire Razormane Brute
 [cRBQ]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 [cRC3]
-Name="Peon Garbage Collector"
+Name="苦工清道夫"
 Tip=Hire Razormane Brute
 [cRBR]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 [cRC0]
-Name="Peon Garbage Collector"
+Name="苦工清道夫"
 Tip=Hire Razormane Brute
 [cRBO]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 [cRC1]
-Name="Peon Garbage Collector"
+Name="苦工清道夫"
 Tip=Hire Razormane Brute
 [cRBP]
-Name="Orcish Warlord"
+Name="兽人督军"
 Tip=Hire Razormane Brute
 [cRBM]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 [cRBN]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 [cRBK]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 [cRBL]
-Name="Ogre"
+Name="食人魔"
 Tip=Hire Razormane Brute
 [cRBI]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 [cRBJ]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 [cRBG]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 [cRBH]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 [cRBE]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 [cRBF]
-Name="Vicious Wolfrider"
+Name="邪恶狼骑兵"
 Tip=Hire Razormane Brute
 [cRBC]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 [cRBD]
-Name="Wolfrider"
+Name="狼骑兵"
 Tip=Hire Razormane Brute
 [cRED]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 [cREE]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 [cREB]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 [cREC]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 [cREA]
-Name="Wyvern"
+Name="双足飞龙"
 Tip=Hire Razormane Brute
 [cRDY]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 [cRE8]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 [cRDW]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 [cRE9]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 [cRDX]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 [cRE6]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 [cRDU]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 [cRE7]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 [cRDV]
-Name="Alchimist"
+Name="炼金术士"
 Tip=Hire Razormane Brute
 [cRF5]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 [cRET]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 [cRF6]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 [cREU]
-Name="Kobold Rascal"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRF3]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 [cRER]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 [cRF4]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 [cRES]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 [cRF1]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 [cREP]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 [cRF2]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 [cREQ]
-Name="Goblin Zeppelin"
+Name="地精飞艇"
 Tip=Hire Razormane Brute
 [cREN]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 [cRF0]
-Name="Satyr"
+Name="萨特"
 Tip=Hire Razormane Brute
 [cREO]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 [cREL]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 [cREM]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 [cREJ]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 [cREK]
-Name="Wyvern Rider"
+Name="双足飞龙骑士"
 Tip=Hire Razormane Brute
 [cREH]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 [cREI]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 [cREF]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 [cREG]
-Name="Batrider"
+Name="蝙蝠骑士"
 Tip=Hire Razormane Brute
 [cRDC]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 [cRDD]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 [cRDA]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 [cRDB]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 [cRD9]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 [cRCX]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 [cRCY]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 [cRD7]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 [cRCV]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 [cRD8]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 [cRCW]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 [cRD5]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 [cRCT]
-Name="Axemaster"
+Name="斧王"
 Tip=Hire Razormane Brute
 [cRD6]
-Name="Goblin Tinker"
+Name="地精修补匠"
 Tip=Hire Razormane Brute
 [cRCU]
-Name="Vicious Axemaster"
+Name="邪恶斧王"
 Tip=Hire Razormane Brute
 [cRE4]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 [cRDS]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 [cRE5]
-Name="Tauren Chieftain"
+Name="牛头人酋长"
 Tip=Hire Razormane Brute
 [cRDT]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 [cRE2]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 [cRDQ]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 [cRE3]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 [cRDR]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 [cRE0]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 [cRDO]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 [cRE1]
-Name="Beastmaster"
+Name="兽王"
 Tip=Hire Razormane Brute
 [cRDP]
-Name="Orcish Overlord"
+Name="兽人领主"
 Tip=Hire Razormane Brute
 [cRDM]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 [cRDN]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 [cRDK]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 [cRDL]
-Name="Farseer"
+Name="先知"
 Tip=Hire Razormane Brute
 [cRDI]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 [cRDJ]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 [cRDG]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 [cRDH]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 [cRDE]
-Name="Warlock"
+Name="术士"
 Tip=Hire Razormane Brute
 [cRDF]
-Name="Spirit Walker"
+Name="灵魂行者"
 Tip=Hire Razormane Brute
 [cRGF]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 [cRGG]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 [cRGD]
-Name="Demoness"
+Name="女魔头"
 Tip=Hire Razormane Brute
 [cRGE]
-Name="Demoness"
+Name="女魔头"
 Tip=Hire Razormane Brute
 [cRGB]
-Name="Demoness"
+Name="女魔头"
 Tip=Hire Razormane Brute
 [cRGC]
-Name="Demoness"
+Name="女魔头"
 Tip=Hire Razormane Brute
 [cRGA]
-Name="Demoness"
+Name="女魔头"
 Tip=Hire Razormane Brute
 [cRFY]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 [cRG8]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 [cRFW]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 [cRG9]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 [cRFX]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 [cRH7]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 [cRGV]
-Name="Fire Elemental"
+Name="火元素"
 Tip=Hire Razormane Brute
 [cRH8]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 [cRGW]
-Name="Fire Elemental"
+Name="火元素"
 Tip=Hire Razormane Brute
 [cRH5]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 [cRGT]
-Name="Water Elemental"
+Name="水元素"
 Tip=Hire Razormane Brute
 [cRH6]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 [cRGU]
-Name="Fire Elemental"
+Name="火元素"
 Tip=Hire Razormane Brute
 [cRH3]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 [cRGR]
-Name="Water Elemental"
+Name="水元素"
 Tip=Hire Razormane Brute
 [cRH4]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 [cRGS]
-Name="Water Elemental"
+Name="水元素"
 Tip=Hire Razormane Brute
 [cRH1]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 [cRGP]
-Name="Water Elemental"
+Name="水元素"
 Tip=Hire Razormane Brute
 [cRH2]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 [cRGQ]
-Name="Water Elemental"
+Name="水元素"
 Tip=Hire Razormane Brute
 [cRGN]
-Name="Siren"
+Name="娜迦海妖"
 Tip=Hire Razormane Brute
 [cRH0]
-Name="Shadow Elemental"
+Name="暗影元素"
 Tip=Hire Razormane Brute
 [cRGO]
-Name="Siren"
+Name="娜迦海妖"
 Tip=Hire Razormane Brute
 [cRGL]
-Name="Siren"
+Name="娜迦海妖"
 Tip=Hire Razormane Brute
 [cRGM]
-Name="Siren"
+Name="娜迦海妖"
 Tip=Hire Razormane Brute
 [cRGJ]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 [cRGK]
-Name="Siren"
+Name="娜迦海妖"
 Tip=Hire Razormane Brute
 [cRGH]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 [cRGI]
-Name="Enchanted Treant"
+Name="魔法树人"
 Tip=Hire Razormane Brute
 [cRFE]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 [cRFF]
-Name="Felhound"
+Name="地狱犬"
 Tip=Hire Razormane Brute
 [cRFC]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 [cRFD]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 [cRFA]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 [cRFB]
-Name="Draenei Warrior"
+Name="德莱尼战士"
 Tip=Hire Razormane Brute
 [cRF9]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 [cREX]
-Name="Kobold Rascal"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cREY]
-Name="Kobold Rascal"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRF7]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 [cREV]
-Name="Kobold Rascal"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRF8]
-Name="Gnoll"
+Name="豺狼人"
 Tip=Hire Razormane Brute
 [cREW]
-Name="Kobold Rascal"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRG6]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 [cRFU]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 [cRG7]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 [cRFV]
-Name="Salamander"
+Name="火蜥蜴"
 Tip=Hire Razormane Brute
 [cRG4]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 [cRFS]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 [cRG5]
-Name="Wisp"
+Name="小精灵"
 Tip=Hire Razormane Brute
 [cRFT]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 [cRG2]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 [cRFQ]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 [cRG3]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 [cRFR]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 [cRG0]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 [cRFO]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 [cRG1]
-Name="Blood Fiend"
+Name="血恶魔"
 Tip=Hire Razormane Brute
 [cRFP]
-Name="Enchanted Ent"
+Name="魔法树妖"
 Tip=Hire Razormane Brute
 [cRFM]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 [cRFN]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 [cRFK]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 [cRFL]
-Name="Myrmidon"
+Name="暴徒"
 Tip=Hire Razormane Brute
 [cRFI]
-Name="Felhound"
+Name="地狱犬"
 Tip=Hire Razormane Brute
 [cRFJ]
-Name="Felhound"
+Name="地狱犬"
 Tip=Hire Razormane Brute
 [cRFG]
-Name="Felhound"
+Name="地狱犬"
 Tip=Hire Razormane Brute
 [cRFH]
-Name="Felhound"
+Name="地狱犬"
 Tip=Hire Razormane Brute
 [cRIH]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 [cRII]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 [cRIF]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 [cRIG]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 [cRID]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 [cRIE]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 [cRIB]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 [cRIC]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 [cRIA]
-Name="Sage Enchanted Ent"
+Name="明智树妖"
 Tip=Hire Razormane Brute
 [cRHY]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 [cRJ9]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 [cRIX]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 [cRIY]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 [cRJ7]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 [cRIV]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 [cRJ8]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 [cRIW]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 [cRJ5]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 [cRIT]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 [cRJ6]
-Name="Sea Witch"
+Name="娜迦海巫"
 Tip=Hire Razormane Brute
 [cRIU]
-Name="Demon Lord"
+Name="恶魔领主"
 Tip=Hire Razormane Brute
 [cRJ3]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 [cRIR]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 [cRJ4]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 [cRIS]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 [cRJ1]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 [cRIP]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 [cRJ2]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 [cRIQ]
-Name="Lorekeeper"
+Name="博学者"
 Tip=Hire Razormane Brute
 [cRIN]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 [cRJ0]
-Name="Sage Enchanted Treant"
+Name="明智树人"
 Tip=Hire Razormane Brute
 [cRIO]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 [cRIL]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 [cRIM]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 [cRIJ]
-Name="Ancient Salamander"
+Name="古蜥"
 Tip=Hire Razormane Brute
 [cRIK]
-Name="Void Fiend"
+Name="虚空恶魔"
 Tip=Hire Razormane Brute
 [cRHG]
-Name="Kobold Mischief-Maker"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRHH]
-Name="Kobold Mischief-Maker"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRHE]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 [cRHF]
-Name="Kobold Mischief-Maker"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRHC]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 [cRHD]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 [cRHA]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 [cRHB]
-Name="Panda Elemental"
+Name="熊猫元素"
 Tip=Hire Razormane Brute
 [cRH9]
-Name="Void Elemental"
+Name="虚空元素"
 Tip=Hire Razormane Brute
 [cRGX]
-Name="Fire Elemental"
+Name="火元素"
 Tip=Hire Razormane Brute
 [cRGY]
-Name="Fire Elemental"
+Name="火元素"
 Tip=Hire Razormane Brute
 [cRI8]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 [cRHW]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 [cRI9]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 [cRHX]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 [cRI6]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 [cRHU]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 [cRI7]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 [cRHV]
-Name="Draenei Shadowcaster"
+Name="德莱尼影法师"
 Tip=Hire Razormane Brute
 [cRI4]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 [cRHS]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 [cRI5]
-Name="Royal Guard"
+Name="皇家守卫"
 Tip=Hire Razormane Brute
 [cRHT]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 [cRI2]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 [cRHQ]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 [cRI3]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 [cRHR]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 [cRI0]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 [cRHO]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 [cRI1]
-Name="Ancient Felhound"
+Name="远古地狱犬"
 Tip=Hire Razormane Brute
 [cRHP]
-Name="Gnoll Ringleader"
+Name="豺狼人头目"
 Tip=Hire Razormane Brute
 [cRHM]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 [cRHN]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 [cRHK]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 [cRHL]
-Name="Satyr Champion"
+Name="精英萨特"
 Tip=Hire Razormane Brute
 [cRHI]
-Name="Kobold Mischief-Maker"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRHJ]
-Name="Kobold Mischief-Maker"
+Name="狗头人恶棍"
 Tip=Hire Razormane Brute
 [cRKJ]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 [cRKK]
-Name="Piggy"
+Name="猪"
 Tip=Hire Razormane Brute
 [cRKH]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 [cRKI]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 [cRKF]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 [cRKG]
-Name="Satanic Chicken"
+Name="撒旦鸡"
 Tip=Hire Razormane Brute
 [cRKD]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 [cRKE]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 [cRKB]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 [cRKC]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 [cRKA]
-Name="Phoenix"
+Name="凤凰"
 Tip=Hire Razormane Brute
 [cRL9]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 [cRKX]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 [cRKY]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 [cRL7]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 [cRKV]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 [cRL8]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 [cRKW]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 [cRL5]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 [cRKT]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 [cRL6]
-Name="Crab"
+Name="螃蟹"
 Tip=Hire Razormane Brute
 [cRKU]
-Name="Spiderling"
+Name="小蜘蛛"
 Tip=Hire Razormane Brute
 [cRL3]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 [cRKR]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 [cRL4]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 [cRKS]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 [cRL1]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 [cRKP]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 [cRL2]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 [cRKQ]
-Name="Wolf"
+Name="狼"
 Tip=Hire Razormane Brute
 [cRKN]
-Name="Piggy"
+Name="猪"
 Tip=Hire Razormane Brute
 [cRL0]
-Name="Murloc"
+Name="鱼人"
 Tip=Hire Razormane Brute
 [cRKO]
-Name="Piggy"
+Name="猪"
 Tip=Hire Razormane Brute
 [cRKL]
-Name="Piggy"
+Name="猪"
 Tip=Hire Razormane Brute
 [cRKM]
-Name="Piggy"
+Name="猪"
 Tip=Hire Razormane Brute
 [cRJI]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 [cRJJ]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 [cRJG]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 [cRJH]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 [cRJE]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 [cRJF]
-Name="Fire Lord"
+Name="火焰领主"
 Tip=Hire Razormane Brute
 [cRJC]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 [cRJD]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 [cRJA]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 [cRJB]
-Name="Reef Elemental"
+Name="暗礁元素"
 Tip=Hire Razormane Brute
 [cRJY]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 [cRK8]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 [cRJW]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 [cRK9]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 [cRJX]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 [cRK6]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 [cRJU]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 [cRK7]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 [cRJV]
-Name="Faerie Dragon"
+Name="精灵龙"
 Tip=Hire Razormane Brute
 [cRK4]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 [cRJS]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 [cRK5]
-Name="Astral Dragon"
+Name="星辰龙"
 Tip=Hire Razormane Brute
 [cRJT]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 [cRK2]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 [cRJQ]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 [cRK3]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 [cRJR]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 [cRK0]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 [cRJO]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 [cRK1]
-Name="Nether Dragon"
+Name="奈瑟龙"
 Tip=Hire Razormane Brute
 [cRJP]
-Name="Ancient Panda Elemental"
+Name="远古熊猫元素"
 Tip=Hire Razormane Brute
 [cRJM]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 [cRJN]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 [cRJK]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 [cRJL]
-Name="Ancient Shadow Elemental"
+Name="远古暗影元素"
 Tip=Hire Razormane Brute
 [cRML]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 [cRMM]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 [cRMJ]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 [cRMK]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 [cRMH]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 [cRMI]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 [cRMF]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 [cRMG]
-Name="Ancient"
+Name="古树"
 Tip=Hire Razormane Brute
 [cRMD]
-Name="Dryad"
+Name="树精"
 Tip=Hire Razormane Brute
 [cRME]
-Name="Dryad"
+Name="树精"
 Tip=Hire Razormane Brute
 [cRMB]
-Name="Dryad"
+Name="树精"
 Tip=Hire Razormane Brute
 [cRMC]
-Name="Dryad"
+Name="树精"
 Tip=Hire Razormane Brute
 [cRMA]
-Name="Dryad"
+Name="树精"
 Tip=Hire Razormane Brute
 [cRN9]
-Name="Murloc Sorcerer"
+Name="鱼人法师"
 Tip=Hire Razormane Brute
 [cRMX]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 [cRMY]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 [cRN7]
-Name="Murloc Sorcerer"
+Name="鱼人法师"
 Tip=Hire Razormane Brute
 [cRMV]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 [cRN8]
-Name="Murloc Sorcerer"
+Name="鱼人法师"
 Tip=Hire Razormane Brute
 [cRMW]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 [cRN5]
-Name="Murloc Sorcerer"
+Name="鱼人法师"
 Tip=Hire Razormane Brute
 [cRMT]
-Name="Quill Beast"
+Name="羽鬃兽"
 Tip=Hire Razormane Brute
 [cRN6]
-Name="Murloc Sorcerer"
+Name="鱼人法师"
 Tip=Hire Razormane Brute
 [cRMU]
-Name="Terror Wolf"
+Name="恐惧之狼"
 Tip=Hire Razormane Brute
 [cRN3]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 [cRMR]
-Name="Quill Beast"
+Name="羽鬃兽"
 Tip=Hire Razormane Brute
 [cRN4]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 [cRMS]
-Name="Quill Beast"
+Name="羽鬃兽"
 Tip=Hire Razormane Brute
 [cRN1]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 [cRMP]
-Name="Quill Beast"
+Name="羽鬃兽"
 Tip=Hire Razormane Brute
 [cRN2]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 [cRMQ]
-Name="Quill Beast"
+Name="羽鬃兽"
 Tip=Hire Razormane Brute
 [cRMN]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 [cRN0]
-Name="Spider"
+Name="蜘蛛"
 Tip=Hire Razormane Brute
 [cRMO]
-Name="Sheep of Doom"
+Name="厄运之羊"
 Tip=Hire Razormane Brute
 [cRLK]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 [cRLL]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 [cRLI]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 [cRLJ]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 [cRLG]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 [cRLH]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 [cRLE]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 [cRLF]
-Name="Giant Turtle"
+Name="巨型海龟"
 Tip=Hire Razormane Brute
 [cRLC]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 [cRLD]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 [cRLA]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 [cRLB]
-Name="Ent"
+Name="树妖"
 Tip=Hire Razormane Brute
 [cRLY]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 [cRM8]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 [cRLW]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 [cRM9]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 [cRLX]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 [cRM6]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 [cRLU]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 [cRM7]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 [cRLV]
-Name="Furbolg"
+Name="熊怪"
 Tip=Hire Razormane Brute
 [cRM4]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 [cRLS]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 [cRM5]
-Name="Suumpmolk"
+Name="刺蛇"
 Tip=Hire Razormane Brute
 [cRLT]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 [cRM2]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 [cRLQ]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 [cRM3]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 [cRLR]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 [cRM0]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 [cRLO]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 [cRM1]
-Name="Treant"
+Name="树人"
 Tip=Hire Razormane Brute
 [cRLP]
-Name="Wandigoo"
+Name="雪怪"
 Tip=Hire Razormane Brute
 [cRLM]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 [cRLN]
-Name="Grizzle Bear"
+Name="灰熊"
 Tip=Hire Razormane Brute
 [cRON]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 [cRP0]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 [cROO]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 [cROL]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 [cROM]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 [cROJ]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 [cROK]
-Name="Ancient Druid"
+Name="远古德鲁伊"
 Tip=Hire Razormane Brute
 [cROH]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 [cROI]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 [cROF]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 [cROG]
-Name="Keeper of the Grove"
+Name="丛林守护者"
 Tip=Hire Razormane Brute
 [cROD]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 [cROE]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 [cROB]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 [cROC]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 [cROA]
-Name="Hydra"
+Name="九头蛇"
 Tip=Hire Razormane Brute
 [cRP9]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 [cROX]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 [cROY]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 [cRP7]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 [cROV]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 [cRP8]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 [cROW]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 [cRP5]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 [cROT]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 [cRP6]
-Name="Green Dragon"
+Name="绿龙"
 Tip=Hire Razormane Brute
 [cROU]
-Name="Harpy"
+Name="鹰身女妖"
 Tip=Hire Razormane Brute
 [cRP3]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 [cROR]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 [cRP4]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 [cROS]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 [cRP1]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 [cROP]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 [cRP2]
-Name="Hippo Gryph"
+Name="角鹰兽"
 Tip=Hire Razormane Brute
 [cROQ]
-Name="Eagle"
+Name="战鹰"
 Tip=Hire Razormane Brute
 [cRNM]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 [cRNN]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 [cRNK]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 [cRNL]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 [cRNI]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 [cRNJ]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 [cRNG]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 [cRNH]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 [cRNE]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 [cRNF]
-Name="Sage Ent"
+Name="树妖贤者"
 Tip=Hire Razormane Brute
 [cRNC]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 [cRND]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 [cRNA]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 [cRNB]
-Name="Lobstrokk"
+Name="龙虾"
 Tip=Hire Razormane Brute
 [cRNY]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 [cRO8]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 [cRNW]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 [cRO9]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 [cRNX]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 [cRO6]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 [cRNU]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 [cRO7]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 [cRNV]
-Name="Ancient Wandigoo"
+Name="远古雪怪"
 Tip=Hire Razormane Brute
 [cRO4]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 [cRNS]
-Name="Owlbear"
+Name="枭兽"
 Tip=Hire Razormane Brute
 [cRO5]
-Name="Sage Treant"
+Name="树人贤者"
 Tip=Hire Razormane Brute
 [cRNT]
-Name="Owlbear"
+Name="枭兽"
 Tip=Hire Razormane Brute
 [cRO2]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 [cRNQ]
-Name="Owlbear"
+Name="枭兽"
 Tip=Hire Razormane Brute
 [cRO3]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 [cRNR]
-Name="Owlbear"
+Name="枭兽"
 Tip=Hire Razormane Brute
 [cRO0]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 [cRNO]
-Name="Giant Lizard"
+Name="巨蜥"
 Tip=Hire Razormane Brute
 [cRO1]
-Name="Furbolg Chieftain"
+Name="熊怪酋长"
 Tip=Hire Razormane Brute
 [cRNP]
-Name="Owlbear"
+Name="枭兽"
 Tip=Hire Razormane Brute
 [cRQ0]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 [cRPO]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [cRQ1]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 [cRPP]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 [cRPM]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [cRPN]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [cRPK]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [cRPL]
-Name="Challenge 6"
+Name="挑战者 6"
 Tip=Hire Razormane Brute
 [cRPI]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cRPJ]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cRPG]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cRPH]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cRPE]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 [cRPF]
-Name="Challenge 4"
+Name="挑战者 4"
 Tip=Hire Razormane Brute
 [cRPC]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 [cRPD]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 [cRPA]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 [cRPB]
-Name="Challenge 2"
+Name="挑战者 2"
 Tip=Hire Razormane Brute
 [cRPY]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cRQ8]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cRPW]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cRQ9]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cRPX]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cRQ6]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cRPU]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cRQ7]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cRPV]
-Name="Challenge 10"
+Name="挑战者 10"
 Tip=Hire Razormane Brute
 [cRQ4]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 [cRPS]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 [cRQ5]
-Name="Challenge 12"
+Name="挑战者 12"
 Tip=Hire Razormane Brute
 [cRPT]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 [cRQ2]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 [cRPQ]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
 [cRQ3]
-Name="Challenge 13"
+Name="挑战者 13"
 Tip=Hire Razormane Brute
 [cRPR]
-Name="Challenge 8"
+Name="挑战者 8"
 Tip=Hire Razormane Brute
