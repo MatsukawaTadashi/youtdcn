@@ -1241,19 +1241,19 @@ Tip=Hire Razormane Brute
 Name="冰霜巨龙"
 Tip=Hire Razormane Brute
 [cR9D]
-Name="驱逐舰"
+Name="毁灭者"
 Tip=Hire Razormane Brute
 [cR9E]
-Name="驱逐舰"
+Name="毁灭者"
 Tip=Hire Razormane Brute
 [cR9B]
-Name="驱逐舰"
+Name="毁灭者"
 Tip=Hire Razormane Brute
 [cR9C]
-Name="驱逐舰"
+Name="毁灭者"
 Tip=Hire Razormane Brute
 [cR9A]
-Name="驱逐舰"
+Name="毁灭者"
 Tip=Hire Razormane Brute
 [cR8Y]
 Name="冥王"
