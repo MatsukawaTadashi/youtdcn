@@ -1531,7 +1531,7 @@ Ubertip="|cff9BA0D0你能拿醉倒的水手怎么样，能怎么样...扔到我�
 Name="|cffFF00BF维度通量收集器|r"
 Hotkey=T
 Tip="|cffFF00BF维度通量收集器|r"
-Ubertip="|cff9BA0D0和五维空间直接连接。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力： |cffFFFF001|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00维度连接|r|n复制链接塔造成的法术伤害。|n|cffA4AFD9主动释放：|n|cffFFFF001|cffFFFF80秒 冷却时间|r，|cffFFFF00800|cffFFFF80 范围|r|n|n|cffCCFF00维度扭曲力场|r|n这座塔每秒攻击范围内的一个单位，造成连接塔的每秒法术伤害。"
+Ubertip="|cff9BA0D0和五维空间直接连接。|n|n|cffFFFF80作者：|r DreamStrider|n|cffFFFF80元素：|cFF8080FF风暴|r|n|cffFFFF80攻击力： |cffFFFF001|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00800|r 射程|n|cffFFFF80特殊能力：|r|n|n|cffCCFF00维度连接|r|n与一座塔链接并记录其每秒造成的法术伤害。|n|cffA4AFD9主动释放：|n|cffFFFF001|cffFFFF80秒 冷却时间|r，|cffFFFF00800|cffFFFF80 范围|r|n|n|cffCCFF00维度扭曲力场|r|n每秒攻击范围内的一个单位，造成基于记录值的能量伤害。"
 [v0JC]
 Name="|cffFF00BF死亡骑士|r"
 Hotkey=T
