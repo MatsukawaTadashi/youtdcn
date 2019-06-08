@@ -89,7 +89,7 @@ Hotkey=V
 [W011]
 Name="v00R Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff8050|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff8050|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8012%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+2|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+20|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+3%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff8050|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff8050|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8012%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+2|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+20|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+3%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W03D]
 Name="v024 Autocast"
@@ -174,7 +174,7 @@ Hotkey=V
 [W09Y]
 Name="v05U Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff80500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff80500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8016%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+20|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+200|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+4%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff80500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff80500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8016%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+20|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+200|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+4%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W09V]
 Name="v05S Autocast"
@@ -574,7 +574,7 @@ Hotkey=V
 [W0N7]
 Name="v0CK Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff801500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff801500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8020%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+60|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+600|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+5%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff801500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff801500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8020%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+60|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+600|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+5%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W103]
 Name="v0I5 Autocast"
@@ -1059,7 +1059,7 @@ Hotkey=V
 [W0YB]
 Name="v0HO Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff802500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff802500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8024%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+100|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+1000|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+6%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff802500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff802500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8024%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+100|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+1000|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+6%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W0Z8]
 Name="v0HX Autocast"
