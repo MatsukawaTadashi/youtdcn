@@ -753,7 +753,7 @@ Ubertip="|cffCCFF00溅射攻击：|n   |cffFFFF00320|r 范围内|cffFFFF0050%|r 
 [W03K]
 Name="v029 On Attack"
 Tip="元素混沌"
-Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8066%|r 几率，|cffFFFF80200|r 范围，|cffFFFF80190|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8033%|r几率，|cffFFFF80250|r范围，|cffFFFF80125|r伤害，|cffFFFF8010%|r减速持续|cffFFFF803|r秒|n|n|cffFF8000等级加成：|r|n+|cffFFFF807.6|r 伤害 (火焰冲击)|n+|cffFFFF805|r 伤害 (霜之新星)"
+Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8066%|r 几率，|cffFFFF80200|r 范围，|cffFFFF80190|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8033%|r几率，|cffFFFF80250|r范围，|cffFFFF80125|r伤害，|cffFFFF8010%|r减速，持续|cffFFFF803|r秒|n|n|cffFF8000等级加成：|r|n+|cffFFFF807.6|r 伤害 (火焰冲击)|n+|cffFFFF805|r 伤害 (霜之新星)"
 [W03M]
 Name="v02A abils"
 Tip="特殊能力"
@@ -1179,7 +1179,7 @@ Ubertip="狼强烈的野性激励着 |cffFFFF80200|r 范围内的塔，增加其
 [W080]
 Name="v055 On Attack"
 Tip="元素混沌"
-Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8040%|r几率，|cffFFFF80250|r 范围，|cffFFFF80500|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80250|r范围，|cffFFFF80250|r伤害，|cffFFFF8012%|r减速持续|cffFFFF803|r秒|n|cffFF8000余震：|r |cffFFFF8040%|r几率，|cffFFFF80750|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|n|cffFF8000等级加成：|r|n+|cffFFFF8010|r 伤害 (火焰冲击)|n+|cffFFFF808|r 伤害 (霜之新星)|n+|cffFFFF800.01|r 秒 眩晕 (余震)"
+Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8040%|r几率，|cffFFFF80250|r 范围，|cffFFFF80500|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80250|r范围，|cffFFFF80250|r伤害，|cffFFFF8012%|r减速，持续|cffFFFF803|r秒|n|cffFF8000余震：|r |cffFFFF8040%|r几率，|cffFFFF80750|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|n|cffFF8000等级加成：|r|n+|cffFFFF8010|r 伤害 (火焰冲击)|n+|cffFFFF808|r 伤害 (霜之新星)|n+|cffFFFF800.01|r 秒 眩晕 (余震)"
 [W07P]
 Name="v051 abils"
 Tip="特殊能力"
@@ -2403,7 +2403,7 @@ Ubertip="击中时对目标施加冰河之怒，降低其移动速度|cffFFFF801
 [W0HU]
 Name="v09R On Attack"
 Tip="元素混沌"
-Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8030%|r几率，|cffFFFF80250|r 范围，|cffFFFF801650|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80250|r范围，|cffFFFF80800|r伤害，|cffFFFF8014%|rslow持续|cffFFFF804|r秒|n|cffFF8000余震：|r |cffFFFF8030%|r几率，|cffFFFF802000|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|cffFF8000光曝：|r|cffFFFF8020%|r几率，|cffFFFF801650|r伤害，随机|cffFFFF805|r个单位在|cffFFFF80900|r范围|n|n|cffFF8000等级加成：|r|n+|cffFFFF8018|r 伤害 (火焰冲击)|n+|cffFFFF8010|r 伤害 (霜之新星)|n+|cffFFFF800.01|r 秒 眩晕 (余震)|n+|cffFFFF8030|r 伤害 (光曝)"
+Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8030%|r几率，|cffFFFF80250|r 范围，|cffFFFF801650|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80250|r范围，|cffFFFF80800|r伤害，|cffFFFF8014%|r减速，持续|cffFFFF804|r秒|n|cffFF8000余震：|r |cffFFFF8030%|r几率，|cffFFFF802000|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|cffFF8000光曝：|r|cffFFFF8020%|r几率，|cffFFFF801650|r伤害，|cffFFFF80900|r范围内随机|cffFFFF805|r个单位|n|n|cffFF8000等级加成：|r|n+|cffFFFF8018|r 伤害 (火焰冲击)|n+|cffFFFF8010|r 伤害 (霜之新星)|n+|cffFFFF800.01|r 秒 眩晕 (余震)|n+|cffFFFF8030|r 伤害 (光曝)"
 [W0HV]
 Name="v09S abils"
 Tip="特殊能力"
@@ -4004,7 +4004,7 @@ Ubertip="击中时有 |cffffff805%|r 几率向目标投掷一个月刃，造成 
 [W0ST]
 Name="v0FI On Attack"
 Tip="元素混沌"
-Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8030%|r几率，|cffFFFF80300|r 范围，|cffFFFF803000|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80300|r范围，|cffFFFF802000|r伤害，|cffFFFF8015%|rslow持续|cffFFFF804|r秒|n|cffFF8000余震：|r |cffFFFF8030%|r几率，|cffFFFF806000|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|cffFF8000光曝：|r|cffFFFF8020%|r几率，|cffFFFF801500|r伤害，随机|cffFFFF806|r个单位在|cffFFFF80900|r范围|n|n|cffFF8000等级加成：|r|n+|cffFFFF80120|r 伤害 (火焰冲击)|n+|cffFFFF8080|r 伤害 (霜之新星)|n+|cffFFFF800.02|r 秒 眩晕 (余震)|n+|cffFFFF8060|r 伤害 (光曝)"
+Ubertip="元素使攻击时将释放以下一个技能：|n|n|cffFF8000火焰冲击：|r |cffFFFF8030%|r几率，|cffFFFF80300|r 范围，|cffFFFF803000|r 伤害|n|cffFF8000霜之新星：|r|cffFFFF8020%|r几率，|cffFFFF80300|r范围，|cffFFFF802000|r伤害，|cffFFFF8015%|r减速，持续|cffFFFF804|r秒|n|cffFF8000余震：|r |cffFFFF8030%|r几率，|cffFFFF806000|r 伤害，|cffFFFF800.5|r 秒 眩晕|n|cffFF8000光曝：|r|cffFFFF8020%|r几率，|cffFFFF801500|r伤害，|cffFFFF80900|r范围内随机|cffFFFF806|r个单位|n|n|cffFF8000等级加成：|r|n+|cffFFFF80120|r 伤害 (火焰冲击)|n+|cffFFFF8080|r 伤害 (霜之新星)|n+|cffFFFF800.02|r 秒 眩晕 (余震)|n+|cffFFFF8060|r 伤害 (光曝)"
 [W0T5]
 Name="v0FM On Attack"
 Tip="山崩!"
