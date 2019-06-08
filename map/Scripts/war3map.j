@@ -26475,7 +26475,7 @@ call NJv(bt,ac)
 endfunction
 function H1v takes integer bt returns nothing
 local integer ac
-set ac=nXv("回充",(431),'W0R2',"spies",0,0,500,500,5,$C8,false)
+set ac=nXv("补充",(431),'W0R2',"spies",0,0,500,500,5,$C8,false)
 set FH[(ac)]=(0)
 set bH[(ac)]=not(true)
 set DH[(ac)]=("Abilities\\Spells\\Items\\AIma\\AImaTarget.mdl")
@@ -26486,10 +26486,10 @@ endfunction
 function H2v takes nothing returns nothing
 local integer m=(d8())
 set oE=Vpv(4)
-set OJ[RJ[(oE)]+(0)]=("攻击暴击")
-set OJ[RJ[(oE)]+(1)]=("攻击法伤")
-set OJ[RJ[(oE)]+(2)]=("攻击眩晕")
-set OJ[RJ[(oE)]+(3)]=("攻击物伤")
+set OJ[RJ[(oE)]+(0)]=("暴击")
+set OJ[RJ[(oE)]+(1)]=("额外伤害")
+set OJ[RJ[(oE)]+(2)]=("溅射")
+set OJ[RJ[(oE)]+(3)]=("攻击力提高")
 call eGv(m,94,-.1,-.001)
 set rE=N1v(5,.0,false)
 set Rs[(rE)]=(m)
