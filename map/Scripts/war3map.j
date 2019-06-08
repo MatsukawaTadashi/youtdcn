@@ -10159,7 +10159,7 @@ call UnitRemoveAbility(Ik[Eh[aYv]],'XRND')
 if(Mk[Eh[aYv]]==0)then
 call M6(Eh[aYv])
 call m6(Eh[aYv],"|cffFF00005. |cffFFFF00你所购买的塔会以 物品 的形式进入建造者的 |cffFF0000物品栏|cffFFFF00.
-|cffFF00006. |cffFFFF00PlacecffFFFF00左键点击(使用)物品来放置你的塔.|r",30.)
+|cffFF00006. |cffFFFF00左键点击(使用)物品来放置你的塔.|r",30.)
 call PanCameraToTimedForPlayer(qJ[Eh[aYv]],GetUnitX(Ok[Eh[aYv]]),GetUnitY(Ok[Eh[aYv]]),1.5)
 call ePv(1.5)
 call SelectUnitForPlayerSingle(Ok[Eh[aYv]],qJ[Eh[aYv]])
@@ -23792,7 +23792,7 @@ endloop
 set zW[Dyv]=k
 set wW[Dyv]="|cffFFFF00杂兵挑战者|r"
 call fuv(Dyv,true,false,false,false,false,"
-|cffFF0000你不会在这一波损失生命值!|r")
+|cffFF0000你不会在这一波损失生命值.挑战者们仅仅想来测试一下你的塔究竟能输出多高的伤害!|r")
 elseif i==Xq then
 call fTv(Dyv,"|cffFFFF00=== 第 |cffFF8000"+I2S(i)+"|cffFFFF00: 最终 BOSS ===
 |r")
@@ -23812,7 +23812,7 @@ set vy[Dyv]=cWv(Uc[tc[j]],lW[7]*$A,Fiv,R2I(f_v),5,f0v,0,2.*lW[7],7,7,i,wc[tc[j]]
 set bZ[YW[Dyv]]=vy[Dyv]
 set wW[Dyv]="|cffFFFF00挑战者|r"
 call fuv(Dyv,true,false,false,false,false,"
-|cffFF0000你不会在这一波损失生命值!|r")
+|cffFF0000你不会在这一波损失生命值.挑战者们仅仅想来测试一下你的塔究竟能输出多高的伤害!|r")
 endif
 call fuv(Dyv,false,false,false,true,false,"|cffFFFF80 (护甲: |cffFFFF00"+I2S(BU[vy[Dyv]])+" "+pW[5]+"|cffFFFF80, 生命: |cffFFFF00"+x2v(xd[vy[Dyv]],2)+"|cffFFFF80)|r")
 call fuv(Dyv,false,false,false,false,true,"|cffFFFF80 (护甲: |cffFFFF00"+I2S(BU[vy[Dyv]])+" "+pW[5]+"|cffFFFF80, 生命: |cffFFFF00"+x2v(xd[vy[Dyv]]*(.9-(Dyv*.002)),2)+"|cffFFFF80)|r")
