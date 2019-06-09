@@ -1189,12 +1189,12 @@ Buffubertip=这个单位不能使用技能
 Bufftip=爆裂
 Buffubertip=
 [R03P]
-Bufftip=Freezing Mist
-Buffubertip=This unit is slowed by a freezing mist.
+Bufftip=冰冻之雾
+Buffubertip=这个单位被冰冻之雾减速了
 EditorName=Freezing Mist
 [R072]
-Bufftip=Heat Aura
-Buffubertip=This unit is under the effect of Heat Aura. It will lose health with every second and has a chance to explode when it dies.
+Bufftip=热量光环
+Buffubertip=这个单位受到高温影响，不断流失生命，死亡时会发生爆炸
 EditorName=Heat Aura
 [R04X]
 EditorName=Item Change Time of Day

@@ -200,6 +200,8 @@ class War3Map:
                 if target.startswith('TRIGSTR_'):
                     idx = int(target[8:])
                     target = self.wts[idx]
+                if target.endswith('CN'):
+                    target = target[:-2].strip()
                 if target.startswith('YouTD v'):
                     return target[7:]
         raise Exception('Get map version failed {0}'.format(self.path))

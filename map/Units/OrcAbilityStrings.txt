@@ -429,12 +429,12 @@ Bufftip=灼热煤块
 Buffubertip=这个单位受到了灼热煤块效果的影响，它的暴击率提高了。
 EditorName=Hot Coals
 [R00P]
-Bufftip=Poisoned heart
-Buffubertip=This unit takes damage over time!
+Bufftip=蚀心剧毒
+Buffubertip=这个单位持续受到伤害！
 EditorName=Poisoned_heart
 [R01Y]
-Bufftip=Gift of The Forest
-Buffubertip=This unit is slowed by gift of the forest.
+Bufftip=森林之馈赠
+Buffubertip=这个单位被森林之馈赠减速了。
 EditorName=Gift of The Forest
 [R01Z]
 Bufftip=暴怒
@@ -526,8 +526,8 @@ Bufftip=静态力场
 Buffubertip=这座塔对魔免怪物造成更多伤害。
 EditorName=Static Presence
 [R07Z]
-Bufftip=Spiderling Poison
-Buffubertip=This unit is poisoned by a spiderling.
+Bufftip=蜘蛛毒
+Buffubertip=这个单位中毒了。
 EditorName=Spiderling Poison
 [R08H]
 Bufftip=萨满仪式
@@ -545,8 +545,8 @@ EditorName=Hangover
 Bufftip=法力光环
 Buffubertip=这个单位受到法力光环的影响，法力回复速度提高了。
 [R08J]
-Bufftip=Deadly Poison
-Buffubertip=This unit is afflicted with dealy poison; it will take damage over time.
+Bufftip=致命毒药
+Buffubertip=这个单位受到致命毒药的影响，持续受到伤害。
 [R08X]
 Bufftip=凋零
 Buffubertip=这个单位在腐蚀精华附近，受到的伤害提高。
@@ -561,8 +561,8 @@ Buffubertip=这座塔在腐蚀精华附近，攻击速度降低。
 Bufftip=力场
 Buffubertip=这座塔的负面效果持续时间降低。
 [R07J]
-Bufftip=Strong Wind
-Buffubertip=This unit is affected by the Strong Wind.
+Bufftip=疾风
+Buffubertip=这个单位受到了疾风的影响。
 EditorName=Strong Wind
 [R086]
 Bufftip=大地与月亮
