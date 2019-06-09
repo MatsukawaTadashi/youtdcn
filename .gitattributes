@@ -3,3 +3,4 @@
 *.blp binary
 *.txt text eol=crlf
 *.j text eol=crlf
+*.wts text eol=crlf
