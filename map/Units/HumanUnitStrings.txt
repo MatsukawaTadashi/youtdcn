@@ -775,7 +775,7 @@ Ubertip="|cff9BA0D0一只凤凰，可以同时燃烧多个目标。|n|n|cffFFFF8
 Name="|cffFFFFFF闪耀太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF闪耀太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001092|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特 殊能力：|r|n|cffFFFF00+40%|r 伤害对亡灵 (|cffFFFF00+1.75%|r/级)|n|cffFFFF00-25%|r 伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001092|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00125|r 范围内: |cffFFFF0045%|r 伤害|r|n   |cffFFFF00225|r 范围内: |cffFF800030%|r 伤害|r|n|cffFFFF00+15% |r伤害对亡灵|n|n|cffCCFF00余辉|r|n击中时有几率熔化目标的护甲。"
 [v0C3]
 Name="|cff0080FF猛犸灵魂猎手|r"
 Hotkey=T
@@ -1401,7 +1401,7 @@ Ubertip="|cff9BA0D0你总是应该考虑到地精们制造的道具会因为一�
 Name="|cffFFFFFF白热太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF白热太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001769|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+45%|r 伤害对亡灵 (|cffFFFF00+2%|r/级)|n|cffFFFF00-25%|r 伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF001769|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00125|r 范围内: |cffFFFF0055%|r 伤害|r|n   |cffFFFF00225|r 范围内: |cffFF800035%|r 伤害|r|n|cffFFFF00+15% |r伤害对亡灵|n|n|cffCCFF00余辉|r|n击中时有几率熔化目标的护甲。"
 [v0FP]
 Name="|cff0080FF负能量之源|r"
 Hotkey=T
@@ -2401,7 +2401,7 @@ Ubertip="|cff9BA0D0小心，有毒。|n|n|cffFFFF80作者：|r DreamStrider|n|cf
 Name="|cffFFFFFF发光太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF发光太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+25%|r 伤害对亡灵 (|cffFFFF00+1%|r/级)|n|cffFFFF00-25%|r 伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF0030|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00125|r 范围内: |cffFFFF0045%|r 伤害|r|n   |cffFFFF00225|r 范围内: |cffFF800015%|r 伤害|r|n|cffFFFF00+15% |r伤害对亡灵|n|n|cffCCFF00余辉|r|n击中时有几率熔化目标的护甲。"
 [v00T]
 Name="|cffFFFFFF触手幼生|r"
 Hotkey=T
@@ -2663,7 +2663,7 @@ Ubertip="|cff9BA0D0在高空中受训的战士。|n|n|cffFFFF80作者：|r |cffc
 Name="|cffFFFFFF耀眼太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF耀眼太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00186|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+30%|r 伤害对亡灵 (|cffFFFF00+1.25%|r/级)|n|cffFFFF00-25%|r 伤害对自然 (|cffFFFF00+1%|r/级)|n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00186|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00125|r 范围内: |cffFFFF0045%|r 伤害|r|n   |cffFFFF00225|r 范围内: |cffFF800020%|r 伤害|r|n|cffFFFF00+15% |r伤害对亡灵|n|n|cffCCFF00余辉|r|n击中时有几率熔化目标的护甲。"
 [v03H]
 Name="|cff0080FF民兵望塔|r"
 Hotkey=T
@@ -2913,7 +2913,7 @@ Ubertip="|cff9BA0D0一座能够爆发出强烈火焰的火坑。|n|n|cffFFFF80�
 Name="|cffFFFFFF炽热太阳球体|r"
 Hotkey=T
 Tip="|cffFFFFFF炽热太阳球体|r"
-Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffFFFF00+35%|r 伤害对亡灵 (|cffFFFF00+1.5%|r/级)|n|cffFFFF00-25%|r 伤害对自然 (|cffFFFF00+1%|r/级) |n|n|cffCCFF00余辉|r|n击中时有一定几率降低护甲。"
+Ubertip="|cff9BA0D0太阳炽热的光辉能使目标变得闪亮，尤其是那些亡灵。|n|n|cffFFFF80作者：|r MasterCassim|n|cffFFFF80元素：|cFFFFFF80星辰|r|n|cffFFFF80攻击力：|cffFFFF00432|r 每秒伤害，|cff00FFFF能量|r|r，|cffFFFF00850|r 射程|n|cffFFFF80特殊能力：|r|n|cffCCFF00溅射攻击：|n   |cffFFFF00125|r 范围内: |cffFFFF0050%|r 伤害|r|n   |cffFFFF00225|r 范围内: |cffFF800025%|r 伤害|r|n|cffFFFF00+15% |r伤害对亡灵|n|n|cffCCFF00余辉|r|n击中时有几率熔化目标的护甲。"
 [v05P]
 Name="|cffFFFFFF闪电石柱|r"
 Hotkey=T
