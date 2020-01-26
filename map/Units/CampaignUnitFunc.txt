@@ -1,5 +1,3 @@
-// Human Units
-
 [nmed]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Missileart=Abilities\Weapons\DruidoftheTalonMissile\DruidoftheTalonMissile.mdl
@@ -7,7 +5,6 @@ Missilearc=0.15
 Missilespeed=900
 MissileHoming=1
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
 [nmdm]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
 Missileart=Abilities\Weapons\DruidoftheTalonMissile\DruidoftheTalonMissile.mdl
@@ -18,4 +15,3 @@ Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplo
 Attachmentlinkprops=alternate
 Animprops=alternateex
 Boneprops=alternate
-

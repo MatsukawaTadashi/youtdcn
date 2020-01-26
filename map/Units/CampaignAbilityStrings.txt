@@ -1,5 +1,6 @@
 [ANha]
 Name=Harvest
+EditorSuffix= (Neutral)
 Tip=|cffffcc00G|rather
 Ubertip="Mines gold from gold mines and harvests lumber from trees."
 Untip=R|cffffcc00e|rturn Resources
@@ -89,7 +90,7 @@ Hotkey=V
 [W011]
 Name="v00R Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff8050|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff8050|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8012%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+2|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+20|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+3%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff8050|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff8050|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8012%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+2|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+20|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+3%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W03D]
 Name="v024 Autocast"
@@ -174,7 +175,7 @@ Hotkey=V
 [W09Y]
 Name="v05U Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff80500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff80500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8016%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+20|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+200|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+4%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff80500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff80500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8016%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+20|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+200|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+4%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W09V]
 Name="v05S Autocast"
@@ -574,7 +575,7 @@ Hotkey=V
 [W0N7]
 Name="v0CK Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff801500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff801500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8020%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+60|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+600|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+5%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff801500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff801500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8020%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+60|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+600|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+5%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W103]
 Name="v0I5 Autocast"
@@ -679,7 +680,7 @@ Hotkey=V
 [W0OA]
 Name="v0D3 Autocast"
 Tip="引力"
-Ubertip="为|cffffff80500|r范围内的|cffffff804|r座塔施加引力状态。受引力影响的塔在攻击时有[|cffffff8035%|r*攻击速度]的几率释放流星，造成|cffffff80200|r法术伤害；施法时有|cffffff80100%|r的几率释放流星，造成|cffffff80500|r法术伤害。触发的流星会飞向|cffffff801000|r范围内的一个随机单位，对其|cffffff80220|r范围内的目标造成伤害。引力状态在流星攻击释放后消失。|n|n|cffFF8000等级加成：|r|n|cffffff80+1|r 塔数目每|cffffff805|r 级|n|cffffff80+8|r攻击触发流星伤害 |n|cffffff80+20|r 施法触发流星伤害|n|n|cffFFFF80冷却时间： |cffFFFF004 秒|r|n|cffFFFF80射程： |cffFFFF00500|r"
+Ubertip="这个塔给|cffffff80500|r范围内的|cffffff804|r个塔施加一个状态。有该状态的塔攻击时有|cffffff8035%|r*攻击速度的几率释放一个造成|cffffff80200|r法术伤害的流星，施法时有|cffffff80100%|r释放一个造成|cffffff80500|r法术伤害的流星。流星飞向|cffffff801000|r范围内的一个随机单位并在其|cffffff80220|r范围内造成伤害。这个状态持续到一个流星攻击被释放为止。|n|n|cffFF8000等级加成：|r|n|cffffff80+1|r 塔数目每|cffffff805|r 级|n|cffffff80+8|r法术伤害在攻击时 |n|cffffff80+20|r 法术伤害在投射时|n|n|cffFFFF80冷却时间： |cffFFFF004 秒|r|n|cffFFFF80射程： |cffFFFF00500|r"
 Hotkey=V
 [W0O6]
 Name="v0D2 Autocast"
@@ -1059,7 +1060,7 @@ Hotkey=V
 [W0YB]
 Name="v0HO Autocast"
 Tip="月之优雅"
-Ubertip="重击一个单位，造成|cffffff802500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff802500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8024%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+100|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+1000|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+6%|r法术易伤在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
+Ubertip="重击一个单位，造成|cffffff802500|r法术伤害。有|cffffff8012.5%|r几率造成额外的|cffffff802500|r法术伤害并眩晕目标|cffffff800.3|r秒，使其在|cffffff802.5|r秒内受到的法术伤害增加|cffffff8024%|r。|n|n|cffFF8000等级加成：|r|n|cffffff80+100|r 初始和追加法术伤害 |n|cffffff80+0.5%|r 几率 |n|cffffff80+1000|r 初始伤害在等级 |cffffff8015|r |n|cffffff80+6%|r法术伤害在等级 |cffffff8015|r |n|cffffff80+0.1|r 秒眩晕在等级 |cffffff8025|r|n|n|cffFFFF80冷却时间： |cffFFFF002 秒|r|n|cffFFFF80射程： |cffFFFF001200|r"
 Hotkey=V
 [W0Z8]
 Name="v0HX Autocast"
@@ -1179,8 +1180,8 @@ Hotkey=A
 [R08D]
 Bufftip=速度增强
 Buffubertip=这个单位收到速度卷轴的效果，他的攻击速度增加了
-EditorName=Speed Boost
+EditorName=速度增强
 [R08C]
 Bufftip=力量增强
 Buffubertip=这个单位受到力量卷轴的效果，他的伤害增加了.
-EditorName=Strength Boost
+EditorName=力量增强

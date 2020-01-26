@@ -1,42 +1,29 @@
-// Aerial Shackles
 [Amls]
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=0,2
 Order=magicleash
 Animnames=spell,looping
 LightningEffect=LEAS
-
-// Aerial Shackles Caster
 [Bmlc]
 Effectsoundlooped=AerialShacklesLoop
-
-// Aerial Shackles Target
 [Bmlt]
 Buffart=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Targetart=Abilities\Spells\Human\AerialShackles\AerialShacklesTarget.mdl
 Targetattach=chest,mount
-
-// area of effect detection (scry)
 [AHta]
 Requires=Rhse
 Art=ReplaceableTextures\CommandButtons\BTNReveal.blp
 ButtonPos=0,2
 Casterart=Abilities\Spells\Items\AIta\CrystalBallCaster.mdl
 Casterattach=overhead
-
-// Feedback
 [Afbk]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFeedBack.blp
 Specialart=Abilities\Spells\Human\Feedback\SpellBreakerAttack.mdl
 Buttonpos=3,2
-
-// Feedback
 [Afbt]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFeedBack.blp
 Specialart=Abilities\Spells\Human\Feedback\ArcaneTowerAttack.mdl
 Buttonpos=3,2
-
-// Control Magic
 [Acmg]
 Requires=Rhss
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
@@ -44,12 +31,9 @@ Buttonpos=1,2
 Targetart=Abilities\Spells\Human\ControlMagic\ControlMagicTarget.mdl
 Targetattach=overhead
 Order=controlmagic
-
 [Bcmg]
 Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Effectart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-
-// Siphon Mana
 [AHdr]
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
@@ -57,59 +41,30 @@ Buttonpos=2,2
 Researchbuttonpos=2,0
 Effectsoundlooped=SiphonManaLoop
 LightningEffect=DRAB,DRAL,DRAM
-
 [Bdbb]
 Buffart=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
-
 [Bdbl]
 Buffart=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
-
 [Bdbm]
 Buffart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
-
-// Drain Life & Mana (Caster)
-// This buff isn't ever visible on the info card.
 [Bdcb]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\DrainCaster.mdl
 Targetattach=chest
-
-// Drain Life (Caster)
-// This buff isn't ever visible on the info card.
 [Bdcl]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\DrainCaster.mdl
 Targetattach=chest
-
-// Drain Mana (Caster)
-// This buff isn't ever visible on the info card.
 [Bdcm]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\ManaDrainCaster.mdl
 Targetattach=chest
-
-// Drain Life & Mana (Target)
-// This buff isn't ever visible on the info card.
 [Bdtb]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\DrainTarget.mdl
 Targetattach=chest
-
-// Drain Life (Target)
-// This buff isn't ever visible on the info card.
 [Bdtl]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\DrainTarget.mdl
 Targetattach=chest
-
-// Drain Mana (Target)
-// This buff isn't ever visible on the info card.
 [Bdtm]
-//Buffart=
 Targetart=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
 Targetattach=chest
-
-// Flak Cannons
 [Aflk]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFlakCannons.blp
 Buttonpos=2,2
@@ -118,18 +73,12 @@ Targetart=Abilities\Spells\Human\FlakCannons\FlakTarget.mdl
 Targetattach=chest
 Specialart=Abilities\Spells\Human\FlakCannons\FlakTarget.mdl
 Specialattach=chest
-
-// Frag Shards
 [Afsh]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFragmentationBombs.blp
 Buttonpos=1,2
 Requires=Rhfs
-//Missileart=Abilities\Spells\Human\FragmentationShards\FragMissile.mdl
 Targetart=Abilities\Weapons\FlyingMachine\FlyingMachineImpact.mdl
 Targetattach=chest
-//Specialart=Abilities\Spells\Human\Thunderclap\ThunderClapCaster.mdl
-
-// Rocket Attack
 [Aroc]
 Requires=Rhrt
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
@@ -138,14 +87,10 @@ Missileart=Abilities\Weapons\RocketMissile\RocketMissile.mdl
 Missilearc=0.15
 Missilespeed=900
 MissileHoming=1
-
-// Magic Defense
 [AHbu]
 Art=ReplaceableTextures\CommandButtons\BTNHumanBuild.blp
 Buttonpos=0,2
 Order=humanbuild
-
-// Sphere
 [Asph]
 Targetart=Units\Human\HeroBloodElf\BloodElfBall.mdl
 Targetattachcount=3
@@ -155,8 +100,6 @@ Targetattach2=sprite,third
 Missileart=Units\Human\HeroBloodElf\BloodElfBall.mdl
 Missilearc=0.05
 Missilespeed=1400
-
-// Spell Steal
 [Asps]
 Art=ReplaceableTextures\CommandButtons\BTNSpellStealOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSpellStealOff.blp
@@ -171,47 +114,33 @@ Missileart=Abilities\Spells\Human\SpellSteal\SpellStealMissile.mdl
 Missilearc=0.15
 Missilespeed=1000
 MissileHoming=1
-
-// Cloud of Fog
 [Aclf]
 Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Requires=Rhcd
 Buttonpos=1,2
 Order=cloudoffog
 Animnames=stand,channel
-
 [Bclf]
 Buffart=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
 Targetart=
-
 [Xclf]
 Effectart=Abilities\Spells\Human\CloudOfFog\CloudOfFog.mdl
 Effectsoundlooped=CloudOfFogLoop
-
-// Flame Strike
 [AHfs]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=0,2
 Researchbuttonpos=0,0
 Order=flamestrike
-// Beware art
 Effectart=Abilities\Spells\Human\FlameStrike\FlameStrikeTarget.mdl
-// Impact art
 Specialart=Abilities\Spells\Human\FlameStrike\FlameStrike1.mdl,Abilities\Spells\Human\FlameStrike\FlameStrike2.mdl,Abilities\Spells\Human\FlameStrike\FlameStrike.mdl
 Animnames=spell,channel
-
 [BHfs]
-// Burning art
 Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Targetart=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
-
 [XHfs]
-// AOE Burn art
 Effectart=Abilities\Spells\Human\FlameStrike\FlameStrikeEmbers.mdl
 Effectsoundlooped=HumanFireLarge
-
-// Banish
 [AHbn]
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBanish.blp
@@ -219,13 +148,10 @@ Buttonpos=1,2
 Researchbuttonpos=1,0
 Effectsound=BanishCaster
 Order=banish
-
 [BHbn]
 Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Targetart=Abilities\Spells\Human\Banish\BanishTarget.mdl
 Effectsoundlooped=BanishLoop
-
-// Summon Phoenix
 [AHpx]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
@@ -233,44 +159,28 @@ Buttonpos=3,2
 Researchbuttonpos=3,0
 Specialart=Abilities\Spells\Human\MarkOfChaos\MarkOfChaosTarget.mdl
 Order=summonphoenix
-
-// Phoenix (morph)
 [Aphx]
-
-// Phoenix (progress bar)
 [Bphx]
-
-// Phoenix Fire
 [Apxf]
 Art=ReplaceableTextures\CommandButtons\BTNHoldPosition.blp
 Buttonpos=0,2
 Missileart=Objects\RandomObject\RandomObject
 Missilespeed=900
 MissileHoming=1
-
-// Phoenix Fire
 [Bpxf]
 Buffart=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Targetart=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
-
-// Flying Machine Bombs
 [Agyb]
 Requires=Rhgb
 Art=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
 Buttonpos=1,2
-
-// Storm Hammers
 [Asth]
 Requires=Rhhb
 Art=ReplaceableTextures\PassiveButtons\PASBTNStormHammer.blp
 Buttonpos=0,2
-
-// flying machine detection
 [Agyv]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFlyingMachineTrueSight.blp
 Buttonpos=0,2
-
-// Defend
 [Adef]
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Unart=ReplaceableTextures\CommandButtons\BTNDefendStop.blp
@@ -280,8 +190,6 @@ Casterart=Abilities\Spells\Human\Defend\DefendCaster.mdl
 Requires=Rhde
 Order=defend
 Unorder=undefend
-
-// Flare
 [Afla]
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=0,2
@@ -289,19 +197,14 @@ Requires=Rhfl
 Order=flare
 Casterart=Abilities\Spells\Human\Flare\FlareCaster.mdl
 Animnames=spell,attack
-
 [Xfla]
 Effectart=Abilities\Spells\Human\Flare\FlareTarget.mdl
-
-// Magic Sentry (passive)
 [Adts]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Buttonpos=2,1
 Requires=Rhse
 Casterart=Abilities\Spells\Human\MagicSentry\MagicSentryCaster.mdl
 Casterattach=overhead
-
-// Inner Fire
 [Ainf]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFireOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNInnerFireOff.blp
@@ -314,18 +217,12 @@ Effectsound=InnerFireCast
 Order=innerfire
 Orderon=innerfireon
 Orderoff=innerfireoff
-
-// example of multiple attachment
 [Binf]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
 Targetart=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
 Targetattachcount=1
 Targetattach=overhead
-//Targetattach1=hand,left
-//Targetattach2=hand,right
-
-// Dispel Magic
 [Adis]
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=1,2
@@ -334,8 +231,6 @@ Targetart=Abilities\Spells\Human\DispelMagic\DispelMagicTarget.mdl
 Specialart=Abilities\Spells\Human\DispelMagic\DispelMagicTarget.mdl
 Requires=Rhpt
 Order=dispel
-
-// Heal
 [Ahea]
 Art=ReplaceableTextures\CommandButtons\BTNHealOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNHealOff.blp
@@ -346,16 +241,12 @@ Targetart=Abilities\Spells\Human\Heal\HealTarget.mdl
 Order=heal
 Orderon=healon
 Orderoff=healoff
-
 [Bhea]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
-
 [BNhe]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSlow.blp
-
-// Slow
 [Aslo]
 Art=ReplaceableTextures\CommandButtons\BTNSlowOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSlowOff.blp
@@ -365,13 +256,10 @@ Casterart=Abilities\Spells\Human\Slow\SlowCaster.mdl
 Order=slow
 Orderon=slowon
 Orderoff=slowoff
-
 [Bslo]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSlow.blp
 Targetart=
-
-// Invisibility
 [Aivs]
 Art=ReplaceableTextures\CommandButtons\BTNInvisibility.blp
 Buttonpos=1,2
@@ -379,18 +267,8 @@ Targetart=Abilities\Spells\Human\Invisibility\InvisibilityTarget.mdl
 Targetattach=chest
 Requires=Rhst
 Order=invisibility
-
 [Binv]
 Buffart=ReplaceableTextures\CommandButtons\BTNInvisibility.blp
-
-// Polymorph art notes:
-// - When Polymorph is cast on an air unit, the "poof" [Aply] Specialart
-//   is played on the targeted unit, and the "falling sheep" [Aply] Effectart
-//   is played on ground under the targeted unit.
-// - When cast on a ground unit, [Bply] Specialart is played on the ground
-//   under the unit when it turns into a sheep, and [Bply] Effectart is played
-//   on the ground under the unit when it turns back into the original unit.
-
 [Aply]
 Art=ReplaceableTextures\CommandButtons\BTNPolymorph.blp
 Buttonpos=2,2
@@ -400,13 +278,10 @@ Effectart=Abilities\Spells\Human\Polymorph\PolyMorphFallingSheepArt.mdl
 Requires=Rhst
 Requiresamount=2
 Order=polymorph
-
 [Bply]
 Buffart=ReplaceableTextures\CommandButtons\BTNPolymorph.blp
 Specialart=
 Effectart=Abilities\Spells\Human\Polymorph\PolyMorphDoneGround.mdl
-
-// Blizzard
 [AHbz]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
@@ -415,28 +290,21 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
 [BHbd]
 Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Targetart=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-
 [XHbz]
 Effectart=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
 Effectsoundlooped=BlizzardLoop
 Effectsound=BlizzardWave
-
-// Summon Water Elemental
 [AHwe]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Buttonpos=1,2
 Researchbuttonpos=1,0
 Order=waterelemental
-
 [BHwe]
 Buffart=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
-
-// Brilliance Aura
 [AHab]
 Art=ReplaceableTextures\PassiveButtons\PASBTNBrilliance.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
@@ -444,27 +312,20 @@ Buttonpos=2,2
 Researchbuttonpos=2,0
 Targetart=Abilities\Spells\Human\Brilliance\Brilliance.mdl
 Targetattach=origin
-
 [BHab]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
 Targetart=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
 Targetattach=origin
-
-// Mass Teleport
 [AHmt]
 Art=ReplaceableTextures\CommandButtons\BTNMassTeleport.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNMassTeleport.blp
 Buttonpos=3,2
 Researchbuttonpos=3,0
-// Shouldn't show art at targeted coordinate, so don't use Effectart.
 Areaeffectart=Abilities\Spells\Human\MassTeleport\MassTeleportTo.mdl
 Casterart=Abilities\Spells\Human\MassTeleport\MassTeleportCaster.mdl
-// The targeted unit shouldn't show an effect, so there is no Targetart.
 Specialart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
 Order=massteleport
-
-// Storm Bolt
 [AHtb]
 Art=ReplaceableTextures\CommandButtons\BTNStormBolt.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNStormBolt.blp
@@ -475,13 +336,10 @@ Missilespeed=1000
 MissileHoming=1
 Order=thunderbolt
 Animnames=spell,throw
-
 [BHtb]
 Buffart=ReplaceableTextures\CommandButtons\BTNStormBolt.blp
 Targetart=Abilities\Spells\Human\StormBolt\StormBoltTarget.mdl
 Targetattach=overhead
-
-// Thunder Clap
 [AHtc]
 Art=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
@@ -492,26 +350,20 @@ Casterattach=origin
 Effectart=
 Order=thunderclap
 Animnames=spell,slam
-
 [BHtc]
 Buffart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
 Targetart=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
 Targetattach=overhead
-
-// Bash
 [AHbh]
 Art=ReplaceableTextures\PassiveButtons\PASBTNBash.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBash.blp
 Buttonpos=2,2
 Researchbuttonpos=2,0
 Order=bash
-
 [BHbh]
 Buffart=ReplaceableTextures\CommandButtons\BTNBash.blp
 Targetart=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
 Targetattach=overhead
-
-// Avatar
 [AHav]
 Art=ReplaceableTextures\CommandButtons\BTNAvatarOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNAvatarOff.blp
@@ -521,12 +373,9 @@ Unbuttonpos=3,2
 Researchbuttonpos=3,0
 Casterart=Abilities\Spells\Human\Avatar\AvatarCaster.mdl
 Order=avatar
-
 [BHav]
 Buffart=ReplaceableTextures\CommandButtons\BTNAvatar.blp
 Targetart=
-
-// Holy Light
 [AHhb]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
@@ -534,8 +383,6 @@ Buttonpos=0,2
 Researchbuttonpos=0,0
 Targetart=Abilities\Spells\Human\HolyBolt\HolyBoltSpecialArt.mdl
 Order=holybolt
-
-// Divine Shield
 [AHds]
 Art=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Unart=ReplaceableTextures\CommandButtons\BTNDivineShieldOff.blp
@@ -545,13 +392,10 @@ Unbuttonpos=1,2
 Researchbuttonpos=1,0
 Order=divineshield
 Unorder=undivineshield
-
 [BHds]
 Buffart=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Targetart=Abilities\Spells\Human\DivineShield\DivineShieldTarget.mdl
 Targetattach=origin
-
-// Devotion Aura
 [AHad]
 Art=ReplaceableTextures\PassiveButtons\PASBTNDevotion.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
@@ -559,14 +403,11 @@ Buttonpos=2,2
 Researchbuttonpos=2,0
 Targetart=Abilities\Spells\Human\DevotionAura\DevotionAura.mdl
 Targetattach=origin
-
 [BHad]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNDevotion.blp
 Targetart=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
 Targetattach=origin
-
-// Resurrection
 [AHre]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNResurrection.blp
@@ -575,8 +416,6 @@ Researchbuttonpos=3,0
 Casterart=Abilities\Spells\Human\Resurrect\ResurrectCaster.mdl
 Targetart=Abilities\Spells\Human\Resurrect\ResurrectTarget.mdl
 Order=resurrection
-
-// Militia
 [Amil]
 Art=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Unart=ReplaceableTextures\CommandButtons\BTNBacktoWork.blp
@@ -584,11 +423,8 @@ Buttonpos=1,2
 Unbuttonpos=2,2
 Order=militia
 Unorder=militiaoff
-
 [Bmil]
 Buffart=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
-
-// Militia Conversion
 [Amic]
 Art=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Unart=ReplaceableTextures\CommandButtons\BTNBacktoWork.blp
@@ -597,16 +433,12 @@ Unbuttonpos=2,2
 Effectsound=TownHallCallToArms
 Order=townbellon
 Unorder=townbelloff
-
-// 'damaged' attachment effect, small
 [Xfhs]
 TargetArt=Environment\SmallBuildingFire\SmallBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl
 Targetattachcount=2
 Targetattach=sprite,first
 Targetattach1=sprite,fourth
 Effectsoundlooped=HumanFireSmall
-
-// medium
 [Xfhm]
 TargetArt=Environment\LargeBuildingFire\LargeBuildingFire2.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire2.mdl
 Targetattachcount=4
@@ -615,8 +447,6 @@ Targetattach1=sprite,second
 Targetattach2=sprite,fourth
 Targetattach3=sprite,fifth
 Effectsoundlooped=HumanFireMedium
-
-// large
 [Xfhl]
 TargetArt=Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\LargeBuildingFire\LargeBuildingFire0.mdl,Environment\SmallBuildingFire\SmallBuildingFire1.mdl,Environment\LargeBuildingFire\LargeBuildingFire1.mdl,Environment\SmallBuildingFire\SmallBuildingFire0.mdl
 Targetattachcount=6
@@ -627,8 +457,6 @@ Targetattach3=sprite,third
 Targetattach4=sprite,fourth
 Targetattach5=sprite,sixth
 Effectsoundlooped=HumanFireLarge
-
-// Sell Cast
 [XSEC]
 Art=ReplaceableTextures\CommandButtons\BTNSlowOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSlowOff.blp
@@ -638,13 +466,9 @@ Casterart=Abilities\Spells\Human\Slow\SlowCaster.mdl
 Order=slow
 Orderon=slowon
 Orderoff=slowoff
-
-// Magical Sight
 [W019]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
 Buttonpos=0,2
-
-// Multishot
 [W00T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
@@ -653,8 +477,6 @@ Missileart=Abilities\Spells\Other\BlackArrow\BlackArrowMissile.mdl
 Missilearc=0
 Missilespeed=1400
 MissileHoming=1
-
-// Multishot
 [W00G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
@@ -671,8 +493,6 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Multishot
 [W05I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
@@ -681,8 +501,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W04U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
@@ -691,8 +509,6 @@ Missileart=Abilities\Spells\Other\BlackArrow\BlackArrowMissile.mdl
 Missilearc=0
 Missilespeed=1400
 MissileHoming=1
-
-// Acient Effect
 [W04Z]
 Targetart=Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArt.mdl
 Targetattachcount=0
@@ -702,8 +518,6 @@ Targetattach2=
 Missileart=
 Missilearc=0
 Missilespeed=0
-
-// Magical Sight
 [W051]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
 Buttonpos=0,2
@@ -715,8 +529,6 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Multishot
 [W0B1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
@@ -725,8 +537,6 @@ Missileart=Abilities\Spells\Other\BlackArrow\BlackArrowMissile.mdl
 Missilearc=0
 Missilespeed=1400
 MissileHoming=1
-
-// Spreading Flames
 [W0AR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
@@ -735,13 +545,9 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile_mini.mdl
 Missilearc=0
 Missilespeed=1500
 MissileHoming=1
-
-// Magical Sight
 [W0AU]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
 Buttonpos=0,2
-
-// Multishot
 [W0AH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
@@ -750,8 +556,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Acient Effect
 [W0AK]
 Targetart=Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArt.mdl
 Targetattachcount=0
@@ -761,8 +565,6 @@ Targetattach2=
 Missileart=
 Missilearc=0
 Missilespeed=0
-
-// Multishot
 [W0AX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -771,8 +573,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W0AY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -781,8 +581,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Fire
 [W0F5]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=0,2
@@ -790,8 +588,6 @@ Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
 Missilespeed=900
 MissileHoming=1
 Missilearc=-0.05
-
-// Storm
 [W0F6]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=0,2
@@ -799,8 +595,6 @@ Missileart=Abilities\Weapons\ZigguratMissile\ZigguratMissile.mdl
 Missilespeed=2000
 MissileHoming=1
 Missilearc=-0.1
-
-// Darkness
 [W0F4]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=0,2
@@ -808,8 +602,6 @@ Missileart=Abilities\Spells\Undead\DevourMagic\DevourMagicBirthMissile.mdl
 Missilespeed=900
 MissileHoming=1
 Missilearc=-0.1
-
-// Multishot
 [W0FH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -818,8 +610,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W0FI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -828,8 +618,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W0FK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
@@ -846,8 +634,6 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Acient Effect
 [W0IX]
 Targetart=Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArt.mdl
 Targetattachcount=0
@@ -857,13 +643,9 @@ Targetattach2=
 Missileart=
 Missilearc=0
 Missilespeed=0
-
-// Magical Sight
 [W0HX]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
 Buttonpos=0,2
-
-// Spreading Flames
 [W0I6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
@@ -872,8 +654,6 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile_mini.mdl
 Missilearc=0
 Missilespeed=1500
 MissileHoming=1
-
-// Multishot
 [W0II]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
@@ -882,8 +662,6 @@ Missileart=Abilities\Spells\Other\BlackArrow\BlackArrowMissile.mdl
 Missilearc=0
 Missilespeed=1400
 MissileHoming=1
-
-// Multishot
 [W0L0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHealingWave.blp
@@ -892,8 +670,6 @@ Missileart=Abilities\Spells\Other\HealingSpray\HealBottleMissile.mdl
 Missilearc=0
 Missilespeed=1500
 MissileHoming=1
-
-// Burning Barrage
 [W105]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
@@ -902,8 +678,6 @@ Missileart=Abilities\Weapons\LordofFlameMissile\LordofFlameMissile.mdl
 Missilearc=0
 Missilespeed=1000
 MissileHoming=1
-
-// Multishot
 [W0Q6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
@@ -912,8 +686,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// a
 [W11U]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=0,2
@@ -937,8 +709,6 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Acient Effect
 [W0S6]
 Targetart=Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArt.mdl
 Targetattachcount=0
@@ -948,8 +718,6 @@ Targetattach2=
 Missileart=
 Missilearc=0
 Missilespeed=0
-
-// Multishot
 [W0RW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -958,8 +726,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W0RX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
@@ -968,8 +734,6 @@ Missileart=Abilities\Weapons\Dryadmissile\Dryadmissile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W0QA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
@@ -984,8 +748,6 @@ Buttonpos=0,2
 Missileart=Abilities\Weapons\SpiritOfVengeanceMissile\SpiritOfVengeanceMissile.mdl
 Missilespeed=900
 MissileHoming=1
-
-// Spreading Flames
 [W0U2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
@@ -994,8 +756,6 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile_mini.mdl
 Missilearc=0
 Missilespeed=1500
 MissileHoming=1
-
-// Leaf Storm
 [W0W0]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
@@ -1004,13 +764,9 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Nermind's Eye
 [W183]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFlyingMachineTrueSight.blp
 Buttonpos=0,2
-
-// Absorb Energy
 [W16G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
@@ -1019,8 +775,6 @@ Missileart=Abilities\Spells\Human\ManaFlare\ManaFlareMissile.mdl
 Missilearc=0
 Missilespeed=1000
 MissileHoming=1
-
-// Hellfire
 [W0UT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
@@ -1029,8 +783,6 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Hellfire
 [W0UU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
@@ -1039,8 +791,6 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Soulfire
 [W16N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
@@ -1049,8 +799,6 @@ Missileart=Abilities\Weapons\BloodElfMissile\BloodElfMissile.mdl
 Missilearc=0
 Missilespeed=1400
 MissileHoming=1
-
-// Hellfire
 [W0US]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
@@ -1059,8 +807,6 @@ Missileart=Abilities\Weapons\PhoenixMissile\Phoenix_Missile.mdl
 Missilearc=0.1
 Missilespeed=1300
 MissileHoming=1
-
-// Multishot
 [W19G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1069,8 +815,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.16
 Missilespeed=1750
 MissileHoming=1
-
-// Multishot
 [W19H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1079,8 +823,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.17
 Missilespeed=1800
 MissileHoming=1
-
-// Multishot
 [W19I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1089,8 +831,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.14
 Missilespeed=1650
 MissileHoming=1
-
-// Multishot
 [W19J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1099,8 +839,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.15
 Missilespeed=1700
 MissileHoming=1
-
-// Multishot
 [W19K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1109,8 +847,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.12
 Missilespeed=1550
 MissileHoming=1
-
-// Multishot
 [W19L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1119,8 +855,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.13
 Missilespeed=1600
 MissileHoming=1
-
-// Multishot
 [W19M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1129,8 +863,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.11
 Missilespeed=1500
 MissileHoming=1
-
-// Multishot
 [W19N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1139,8 +871,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.28
 Missilespeed=2350
 MissileHoming=1
-
-// Multishot
 [W19D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1149,8 +879,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.2
 Missilespeed=1950
 MissileHoming=1
-
-// Multishot
 [W19E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1159,8 +887,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.18
 Missilespeed=1850
 MissileHoming=1
-
-// Multishot
 [W19F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1169,8 +895,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.19
 Missilespeed=1900
 MissileHoming=1
-
-// Multishot
 [W19O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1179,8 +903,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.26
 Missilespeed=2250
 MissileHoming=1
-
-// Multishot
 [W19P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1189,8 +911,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.27
 Missilespeed=2300
 MissileHoming=1
-
-// Multishot
 [W19Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1199,8 +919,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.24
 Missilespeed=2150
 MissileHoming=1
-
-// Multishot
 [W19R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1209,8 +927,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.25
 Missilespeed=2200
 MissileHoming=1
-
-// Multishot
 [W19S]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1219,8 +935,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.23
 Missilespeed=2100
 MissileHoming=1
-
-// Multishot
 [W19T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1229,8 +943,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.1
 Missilespeed=1450
 MissileHoming=1
-
-// Multishot
 [W19U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1239,8 +951,6 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.21
 Missilespeed=2000
 MissileHoming=1
-
-// Multishot
 [W19V]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
@@ -1249,18 +959,12 @@ Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
 Missilearc=0.22
 Missilespeed=2050
 MissileHoming=1
-
-// Eye of True Sight
 [W18H]
 Art=ReplaceableTextures\PassiveButtons\PASBTNFlyingMachineTrueSight.blp
 Buttonpos=0,2
-
-// Magical Sight
 [W0WE]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
 Buttonpos=0,2
-
-// Overgrowth
 [W196]
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
@@ -1269,8 +973,6 @@ Researchbuttonpos=0,0
 Casterart=
 Order=blizzard
 Animnames=stand,channel
-
-// Slow Aura caster effect
 [WC03]
 Art=ReplaceableTextures\PassiveButtons\PASBTNBrilliance.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
@@ -1278,8 +980,6 @@ Buttonpos=2,2
 Researchbuttonpos=2,0
 Targetart=Abilities\Spells\Undead\UnholyAura\UnholyAura.mdl
 Targetattach=origin
-
-// Demana Aura caster effect
 [WC04]
 Art=ReplaceableTextures\PassiveButtons\PASBTNBrilliance.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
@@ -1287,16 +987,12 @@ Buttonpos=2,2
 Researchbuttonpos=2,0
 Targetart=Abilities\Spells\Undead\VampiricAura\VampiricAura.mdl
 Targetattach=origin
-
-// Farseer True Sight
 [INVB]
 Art=ReplaceableTextures\PassiveButtons\PASBTNMagicalSentry.blp
 Buttonpos=2,1
 Requires=
 Casterart=
 Casterattach=overhead
-
-// Builder True Sight
 [INVI]
 Art=ReplaceableTextures\PassiveButtons\PASBTNMagicalSentry.blp
 Buttonpos=2,1
@@ -1313,30 +1009,22 @@ Targetattachcount=1
 Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Targetart=
 SpecialArt=Abilities\Spells\Other\Incinerate\FireLordDeathExplode.mdl
-
-// Illuminated
 [R005]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Targetart=
 Targetattach=
 Targetattachcount=1
-
-// Acid Coating
 [R002]
 Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Targetart=
 Targetattachcount=1
-
-// Power of Light
 [R00A]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Skink Poison
 [R00H]
 Buffart=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Targetart=
@@ -1345,18 +1033,12 @@ Targetattachcount=1
 Buffart=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Targetart=
 Effectsoundlooped=BanishLoop
-
-// Poisonous Skin
 [R00G]
 Buffart=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Targetart=
-
-// Roar
 [R00D]
 Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Targetart=
-
-// Thunderous Roar
 [R00C]
 Buffart=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Targetart=
@@ -1380,8 +1062,6 @@ Buffart=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Targetart=
 Targetattach=
 Targetattachcount=1
-
-// Blizzard
 [R00M]
 Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Targetart=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
@@ -1393,14 +1073,10 @@ Effectsound=BlizzardWave
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Targetart=
-
-// Ignited
 [R01X]
 Buffart=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
 Targetart=
 EffectArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
-
-// Empowered Darkness
 [R01U]
 Buffart=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
 Targetart=
@@ -1408,14 +1084,10 @@ Targetart=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNCorpseExplode.blp
 Targetart=
-
-// For the God
 [R027]
 Buffart=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Targetart=
 Targetattachcount=1
-
-// Bloodlust
 [R024]
 Buffart=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
 Targetart=
@@ -1427,8 +1099,6 @@ Buffart=ReplaceableTextures\CommandButtons\BTNStun.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Quill Sprayed
 [R02A]
 Buffart=ReplaceableTextures\CommandButtons\BTNQuillSpray.blp
 Targetart=
@@ -1439,16 +1109,12 @@ Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Targetart=
 Targetattachcount=3
 Targetattach=
-
-// Blizzard
 [R02S]
 Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Targetart=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
 [R034]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNImpale.blp
-
-// Shadow Glaive
 [R02P]
 Buffart=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
 Targetart=
@@ -1457,13 +1123,9 @@ Targetattachcount=1
 Effectart=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
 Effectsoundlooped=BlizzardLoop
 Effectsound=BlizzardWave
-
-// Soul Split
 [R00X]
 Buffart=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Targetart=
-
-// Love Potion
 [R00W]
 Buffart=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 Targetart=
@@ -1482,8 +1144,6 @@ Targetattach=
 Targetattachcount=1
 [R013]
 Buffart=ReplaceableTextures\CommandButtons\BTNParasite.blp
-
-// Mana Distortion Field
 [R01B]
 Buffart=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Targetart=
@@ -1492,36 +1152,24 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Targetart=
 Targetattach=
-
-// Faerie Fire
 [R01H]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Targetart=
 Targetattachcount=1
-
-// Jolted
 [R01C]
 Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Targetart=
-
-// Phoenixfire
 [R022]
 Buffart=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Targetart=
-
-// Blizzard
 [R01R]
 Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Targetart=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-
-// Bloody Experience
 [R023]
 Buffart=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
 Targetart=
 Targetattachcount=1
-
-// Fire of Fury
 [R01O]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFlare.blp
@@ -1531,16 +1179,12 @@ Targetattach=
 Effectart=Abilities\Spells\Human\Blizzard\BlizzardTarget.mdl
 Effectsoundlooped=BlizzardLoop
 Effectsound=BlizzardWave
-
-// Poison
 [R01L]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Cloud of Absorption
 [R03Z]
 Buffart=ReplaceableTextures\CommandButtons\BTNHornOfFog.blp
 Targetart=
@@ -1553,62 +1197,42 @@ Spelldetail=2
 Buffart=ReplaceableTextures\PassiveButtons\PASBTNFeedBack.blp
 Targetart=
 Targetattach=
-
-// Heat
 [R03V]
 Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Targetart=
 Targetattachcount=1
-
-// Plague
 [R04E]
 Buffart=ReplaceableTextures\CommandButtons\BTNPlagueCloud.blp
 Targetart=
 Targetattachcount=1
-
-// Blizzard
 [R04B]
 Buffart=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Targetart=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-
-// Concussed
 [R04M]
 Buffart=ReplaceableTextures\CommandButtons\BTNSelfDestruct.blp
 Targetart=
 Targetattachcount=1
-
-// Ruled
 [R04H]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Targetart=
-
-// Army of the Damned
 [R04F]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Cursed
 [R04G]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNFrostmourne.blp
 Targetart=
-
-// Leaf Storm
 [R056]
 Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Targetart=
 Targetattachcount=1
-
-// Tranquility
 [R053]
 Buffart=ReplaceableTextures\CommandButtons\BTNTranquility.blp
 Targetart=
-
-// Blizzard
 [R054]
 Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Targetart=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
@@ -1616,23 +1240,15 @@ Targetart=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Effectart=Objects\Spawnmodels\NightElf\EntBirthTarget\EntBirthTarget.mdl
 Effectsoundlooped=
 Effectsound=
-
-// Clockwork Engineer
 [R04N]
 Buffart=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
 Targetart=
-
-// Probability Field Emitter
 [R04O]
 Buffart=ReplaceableTextures\CommandButtons\BTNGoblinLandMine.blp
 Targetart=
-
-// Freezing Gust
 [R050]
 Buffart=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Targetart=
-
-// Faerie Fire
 [R02X]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
@@ -1654,15 +1270,11 @@ Buffart=ReplaceableTextures\CommandButtons\BTNImpale.blp
 [R036]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
-
-// Divine Research
 [R03C]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNTome.blp
 Targetart=
 Targetattach=
-
-// Fire of Fury
 [R03A]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFlare.blp
@@ -1673,14 +1285,10 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNThoriumMelee.blp
 Targetart=
 Targetattach=
-
-// Fear the Dark
 [R03K]
 Buffart=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Targetart=
 Targetattachcount=1
-
-// Gathering
 [R03L]
 Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Targetart=
@@ -1695,86 +1303,58 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNPriestMaster.blp
 Targetart=
 Targetattach=
-
-// Coconutted
 [R03E]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNAcorn.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Extract Experience
 [R03S]
 Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Targetart=
 Effectsoundlooped=Disenchant
 Spelldetail=2
-
-// Electrified
 [R044]
 Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Targetart=
-
-// Channel Energy
 [R03T]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Energy Absorption
 [R045]
 Buffart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Targetart=
-
-// For the God
 [R042]
 Buffart=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Targetart=
 Targetattachcount=1
-
-// Weakened
 [R043]
 Buffart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Targetart=
-
-// Flowing Frost
 [R03O]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Targetart=
 Targetattach=
-
-// Attraction
 [R040]
 Buffart=ReplaceableTextures\CommandButtons\BTNSpy.blp
 Targetart=
-
-// Torture
 [R041]
 Buffart=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Targetart=
-
-// Magical Barrage
 [R03M]
 Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Targetart=
-
-// Bronzefication
 [R03N]
 Buffart=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Targetart=
-
-// Faerie Fire
 [R05Y]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Targetart=
 Targetattachcount=1
-
-// Valor's Light
 [R05W]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
@@ -1800,13 +1380,9 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNWandOfShadowSight.blp
 Targetart=
 Targetattach=
-
-// Calming Noises
 [R06B]
 Buffart=ReplaceableTextures\CommandButtons\BTNManaRecharge.blp
 Targetart=
-
-// Splash
 [R06C]
 Buffart=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Targetart=
@@ -1835,8 +1411,6 @@ Targetattach=
 [R06J]
 Buffart=ReplaceableTextures\CommandButtons\BTNSelfDestruct.blp
 Targetart=
-
-// Sliced
 [R06K]
 Buffart=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Targetart=
@@ -1845,26 +1419,18 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNHeartOfAszune.blp
 Targetart=
 Targetattach=
-
-// Dark Shroud
 [R06I]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
 Targetart=
 Targetattach=
-
-// Dimensional Link
 [R06V]
 Buffart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Targetart=
-
-// Slow
 [R077]
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
 Targetattachcount=1
-
-// Armor Reduction
 [R078]
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
@@ -1874,8 +1440,6 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Targetart=
 Targetattach=
-
-// Dimensional Distorted
 [R06U]
 Buffart=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
 Targetart=
@@ -1889,8 +1453,6 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Targetart=
 Targetattach=
-
-// Heat
 [R06S]
 Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Targetart=
@@ -1900,20 +1462,14 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
 Targetart=
 Targetattach=
-
-// Global Silence
 [R06P]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNSleep.blp
 Targetart=
 Targetattach=
-
-// Acid Goo
 [R071]
 Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Targetart=
-
-// Gust
 [R04Z]
 Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Targetart=
@@ -1925,19 +1481,13 @@ Targetattach=
 [R04V]
 Buffart=ReplaceableTextures\CommandButtons\BTNCurse.blp
 Targetart=
-
-// Thorned
 [R058]
 Buffart=ReplaceableTextures\CommandButtons\BTNThorns.blp
 Targetart=
 Targetattachcount=1
-
-// Protectress Wrath
 [R05E]
 Buffart=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Targetart=
-
-// Strike the Unprepared
 [R05F]
 Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Targetart=
@@ -1959,34 +1509,24 @@ Buffart=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
 Targetart=
 Effectsoundlooped=BanishLoop
 Targetattachcount=1
-
-// Ground Smash
 [R05M]
 Buffart=ReplaceableTextures\CommandButtons\BTNGolemThunderclap.blp
 Targetart=
 Targetattach=
-
-// Earthquake Aura
 [R05N]
 Buffart=ReplaceableTextures\CommandButtons\BTNEarthquake.blp
 Targetart=
 Targetattach=
-
-// Gift of Nature
 [R05L]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Targetart=
 Targetattach=
-
-// Fire of Fury
 [R05G]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Targetart=
 Targetattach=
-
-// Last Line of Defense
 [R05U]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNDefend.blp
@@ -1997,8 +1537,6 @@ Targetattach=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Targetart=
-
-// We Will Not Fall!
 [R05V]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
@@ -2009,8 +1547,6 @@ Targetattach=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Targetart=
-
-// Fresh Fish!
 [R05S]
 Buffart=ReplaceableTextures\CommandButtons\BTNMurgalSlave.blp
 Targetart=
@@ -2018,8 +1554,6 @@ Targetart=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
 Targetart=
-
-// Caught!
 [R05T]
 Buffart=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
 Targetart=
@@ -2028,51 +1562,35 @@ Targetattachcount=1
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Targetart=
-
-// Burn!
 [R062]
 Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Targetart=
 Targetattachcount=1
-
-// Hammer Fall
 [R063]
 Buffart=ReplaceableTextures\CommandButtons\BTNThunderclap.blp
 Targetart=
-
-// Chaos
 [R05O]
 Buffart=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Targetart=
 Targetattachcount=1
-
-// Presence of the Rift
 [R05P]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
 Targetattach=
-
-// Physical Energy Drained
 [R08A]
 Buffart=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp3.blp
 Targetart=
 Targetattachcount=1
-
-// Panic
 [R07Y]
 Buffart=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Targetart=
 Targetattachcount=1
-
-// Skadi's Influence
 [R08P]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNIceShard.blp
 Targetart=
 Targetattach=
-
-// Entangling Roots
 [R091]
 Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Targetart=
@@ -2081,26 +1599,18 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
 Targetattach=
-
-// Overgrowth (Effekt)
 [R092]
 Effectart=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
 Effectsoundlooped=
 Effectsound=
-
-// Rampage
 [R08O]
 Buffart=ReplaceableTextures\CommandButtons\BTNFurbolgElder.blp
 Targetart=
 Targetattachcount=2
-
-// Ensign's Touch
 [R090]
 Buffart=ReplaceableTextures\CommandButtons\BTNGlyph.blp
 Targetart=
 Targetattachcount=1
-
-// Motivation
 [R08M]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNHumanCaptureFlag.blp
@@ -2112,8 +1622,6 @@ Buffart=ReplaceableTextures\CommandButtons\BTNBlink.blp
 Targetart=
 Targetattachcount=1
 Targetattach=
-
-// Glaive of Surpreme Follow Up
 [R099]
 Buffart=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
 Targetart=
@@ -2121,48 +1629,32 @@ Targetattachcount=1
 [R08V]
 Buffart=ReplaceableTextures\CommandButtons\BTNSpiderSilkBroach.blp
 Targetart=
-
-// Fragmentation Round
 [R098]
 Buffart=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Targetart=
-
-// Beastial Rage
 [R08T]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNBloodKey.blp
 Targetart=
 Targetattach=
-
-// Flames of Fury
 [R08U]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Targetart=
 Targetattach=
-
-// Playing
 [R096]
 Buffart=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Targetart=
 Targetattachcount=1
-
-// Epic Equipment
 [R08R]
 Buffart=ReplaceableTextures\CommandButtons\BTNWandOfCyclone.blp
 Targetart=
-
-// Overgrowth
 [R093]
 Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Targetart=
-
-// Even More Magical Hammer
 [R08S]
 Buffart=ReplaceableTextures\CommandButtons\BTNWandOfCyclone.blp
 Targetart=
-
-// Spell Vulnerability
 [R079]
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
@@ -2177,8 +1669,6 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Targetart=
 Targetattach=
-
-// Liquide Ice
 [R07E]
 Buffart=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Targetart=
@@ -2188,8 +1678,6 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNLiquidFire.blp
 Targetart=
 Targetattach=
-
-// Regeneration Reduction
 [R07A]
 Buffart=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Targetart=
@@ -2208,8 +1696,6 @@ Targetattach=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNHermitCrab.blp
 Targetart=
-
-// Steam Power
 [R07M]
 Buffart=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
 Targetart=
@@ -2222,27 +1708,19 @@ Targetattach=
 Buffart=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Targetart=
 Targetattach=
-
-// Rot
 [R088]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
 Targetart=
 Targetattach=
-
-// Physical Energy Drained
 [R089]
 Buffart=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp3.blp
 Targetart=
 Targetattachcount=1
-
-// Maledict
 [R07V]
 Buffart=ReplaceableTextures\CommandButtons\BTNBigBadVoodooSpell.blp
 Targetart=
 Targetattachcount=1
-
-// Holy Wrath
 [R087]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNUpgradeRegenerationAura.blp
@@ -2258,22 +1736,16 @@ Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfDeath.blp
 Targetart=
 Targetattach=
-
-// Charity Aura
 [R083]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNAcorn.blp
 Targetart=
 Targetattach=
-
-// The Divine Wings of Tragedy
 [R09B]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Targetart=
 Targetattach=
-
-// Power of the Sword
 [R08Z]
 Buffart=ReplaceableTextures\CommandButtons\BTNDaggerOfEscape.blp
 Targetart=
@@ -2281,4 +1753,3 @@ Targetart=
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Targetart=
-

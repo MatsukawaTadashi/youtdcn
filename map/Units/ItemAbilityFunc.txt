@@ -1,67 +1,33 @@
-// Rune of the Watcher
-
 [AIat]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
 [AIt9]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
 [AIde]
-
 [AIhe]
 Targetart=Abilities\Spells\Items\AIhe\AIheTarget.mdl
 Targetattach=origin
-
-// single shot group area effect healing (scrolls, typically)
-[AIha]
-Art=ReplaceableTextures\CommandButtons\BTNScrollOfTownPortal.blp
-Targetart=Abilities\Spells\Items\AIhe\AIheTarget.mdl
-Targetattach=origin
-
 [AIvi]
 Targetart=Abilities\Spells\Items\AIvi\AIviTarget.mdl
 Targetattach=chest
-
-// continuous invisibility (ring)
 [AIpi]
-
-// short duration single target invulnerability (potion)
-// brings up the invulnerability buff from CommonAbility
-
 [AIma]
 Targetart=Abilities\Spells\Items\AIma\AImaTarget.mdl
 Targetattach=origin
-
-// single shot group area effect mana regain (scrolls, typically)
 [Bdef]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNScroll.blp
 Targetart=Abilities\Spells\Items\AIda\AIdaTarget.mdl
 Targetattach=overhead
-
-// area of effect detection (crystal ball)
 [AIta]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
 Casterart=Abilities\Spells\Items\AIta\CrystalBallCaster.mdl
 Casterattach=overhead
-
-// area of effect application of a detected buff (dust of appearance)
-[AItb]
-Art=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
-Casterart=Abilities\Spells\Items\AItb\AItbTarget.mdl
-
 [Bdet]
 Buffart=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
-
-// continuous Mana regeneration (ring)
-
 [AIfi]
 Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
 Missilespeed=900
 MissileHoming=1
-
-// Illusion generator
-
 [AIfb]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Missileart=Abilities\Weapons\FireBallMissile\FireBallMissile.mdl
@@ -70,299 +36,121 @@ Targetart=Abilities\Spells\Items\AIfb\AIfbTarget.mdl
 Targetattach=weapon
 Specialart=Abilities\Spells\Items\AIfb\AIfbSpecialArt.mdl
 Specialattach=chest
-
-// Hero attacks get lightning damage bonus, persistent, Orb of Lightning
-[AIll]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-Missileart=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
-Missilehoming=1
-Targetart=Abilities\Spells\Items\AIlb\AIlbTarget.mdl
-Targetattach=weapon
-Specialart=Abilities\Spells\Items\AIlb\AIlbSpecialArt.mdl
-Specialattach=chest
-
-// Hero attacks get lightning damage bonus, persistent, Orb of Lightning
-[AIpb]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-Missileart=Abilities\Spells\Items\OrbVenom\OrbVenomMissile.mdl
-Missilehoming=1
-Targetart=Abilities\Spells\Items\OrbVenom\OrbVenom.mdl
-Targetattach=weapon
-Specialart=Abilities\Spells\Items\OrbVenom\OrbVenomSpecialArt.mdl
-Specialattach=chest
-
-// Hero attacks get corruption damage bonus, persistent, Orb of Corruption
-[AIcb]
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
-Missileart=Abilities\Spells\Items\OrbCorruption\OrbCorruptionMissile.mdl
-Missilehoming=1
-Targetart=Abilities\Spells\Items\OrbCorruption\OrbCorruption.mdl
-Targetattach=weapon
-Specialart=Abilities\Spells\Items\OrbCorruption\OrbCorruptionSpecialArt.mdl
-Specialattach=chest
-
-[BIcb]
-Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
-
-// Hero attacks get defilement/BA damage bonus, persistent, Orb of Defilement
 [AIto]
-
-// magical acorn (tree restorer)
 [AIga]
 Effectart=Abilities\Spells\NightElf\NatureTouch\NatureTouchTarget.mdl
-
-// reincarnation (ankh)
 [AIte]
 Casterart=Abilities\Spells\Human\MassTeleport\MassTeleportCaster.mdl
 Targetart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
 Specialart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
-// Shouldn't show art at targeted coordinate, so don't use Effectart.
 Areaeffectart=Abilities\Spells\Human\MassTeleport\MassTeleportTo.mdl
-
-// town portal (scroll)
 [AItp]
 Art=ReplaceableTextures\CommandButtons\BTNScrollUber.blp
 Casterart=Abilities\Spells\Human\MassTeleport\MassTeleportCaster.mdl
 Targetart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
 Specialart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
-// Shouldn't show art at targeted coordinate, so don't use Effectart.
 Areaeffectart=Abilities\Spells\Human\MassTeleport\MassTeleportTo.mdl
-
-// scepter of mastery, command ability
-
 [AImn]
 Casterart=
-
-// temporary max mana bonus
 [AImm]
-
 [AIas]
-
 [AIs2]
 Art=ReplaceableTextures\CommandButtons\BTNGauntletsOfOgrePower.blp
-
 [AIi6]
 Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
-
 [AIh1]
 Art=ReplaceableTextures\CommandButtons\BTNPotionGreenSmall.blp
 Targetart=Abilities\Spells\Items\AIhe\AIheTarget.mdl
 Targetattach=origin
-
 [AIm1]
 Art=ReplaceableTextures\CommandButtons\BTNPotionBlueSmall.blp
 Casterart=Abilities\Spells\Items\AIma\AImaTarget.mdl
 Casterattach=origin
-
 [AIa2]
 Art=ReplaceableTextures\CommandButtons\BTNSlippersOfAgility.blp
-
 [AId2]
 Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
-
 [AId3]
 Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
-
 [AId4]
 Art=ReplaceableTextures\CommandButtons\BTNRingGreen.blp
-
 [AIi2]
 Art=ReplaceableTextures\CommandButtons\BTNMantleOfIntelligence.blp
-
 [AIrc]
 Art=ReplaceableTextures\CommandButtons\BTNReincarnation.blp
 Effectart=Abilities\Spells\Orc\Reincarnation\ReincarnationTarget.mdl
-
 [AIaa]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=Abilities\Spells\Items\AIlm\AIlmTarget.mdl
 Casterattach=origin
-
-// One time permanent life gain
 [AImi]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=Abilities\Spells\Items\AIlm\AIlmTarget.mdl
 Casterattach=origin
-
 [AIfc]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
-
-// Brilliance Aura (Item)
 [AIcd]
 Art=ReplaceableTextures\PassiveButtons\PASBTNGnollCommandAura.blp
 Targetart=Abilities\Spells\Orc\WarDrums\DrumsCasterHeal.mdl
 Targetattach=origin
-
-// Trueshot Aura (Item)
 [AIar]
 Art=ReplaceableTextures\CommandButtons\BTNTrueShot.blp
 Targetart=Abilities\Spells\NightElf\TrueshotAura\TrueshotAura.mdl
 Targetattach=origin
-
-// Endurance Aura (Item)
-[AIrl]
-Art=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
-Casterart=Abilities\Spells\Human\Heal\HealTarget.mdl
-Casterattach=origin
-Targetart=Abilities\Spells\Items\HealingSalve\HealingSalveTarget.mdl
-Targetattach=origin
-
-// Clarity Potion
-
 [AIpl]
 Art=ReplaceableTextures\CommandButtons\BTNLesserClarityPotion.blp
 Casterart=Abilities\Spells\Items\AIma\AImaTarget.mdl
 Casterattach=origin
-
-// Generic Rejuv scroll/potion base uberalias
-
 [AIsl]
 Casterart=Abilities\Spells\Human\Heal\HealTarget.mdl
 Casterattach=origin
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfRegenerationGreen.blp
-
-// Regeneration (Life)
 [BIrl]
 Buffart=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
-//Targetart=Abilities\Spells\Items\ScrollOfRegeneration\Scroll_Regen_Target.mdl
 Targetart=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
 Targetattach=origin
-
-// Regeneration (Mana)
 [BIrm]
 Buffart=ReplaceableTextures\CommandButtons\BTNPotionOfClarity.blp
-//Targetart=Abilities\Spells\Items\ClarityPotion\ClarityTarget.mdl
 Targetart=Abilities\Spells\Other\ANrl\ANrlTarget.mdl
 Targetattach=origin
-
-// Regeneration (Life & Mana)
 [BIrg]
 Buffart=ReplaceableTextures\CommandButtons\BTNGreaterRejuvScroll.blp
-//Targetart=Abilities\Spells\Items\ScrollOfRejuvenation\ScrollManaHealth.mdl
 Targetart=Abilities\Spells\Other\ANrl\ANrlTarget.mdl,Abilities\Spells\Other\ANrm\ANrmTarget.mdl
 Targetattach=origin
 Targetattach1=origin
 Targetattachcount=2
-
-// One time permanent gold gain
-[Ablp]
-Art=ReplaceableTextures\CommandButtons\BTNSacrificialSkull.blp
-
-// mana steal
 [AIct]
 Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
-
-// Vampiric Potion
-
 [AIbl]
 Art=ReplaceableTextures\CommandButtons\BTNTinyCastle.blp
-
-// Build Tiny Altar
-[AIbg]
-Art=ReplaceableTextures\CommandButtons\BTNTownHall.blp
-
-// Build Tiny Scout Tower
 [AIbt]
 Art=ReplaceableTextures\CommandButtons\BTNHumanWatchTower.blp
-
-// Shadowsight
-
-[ANpr]
-Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-Casterart=Abilities\Spells\Human\MassTeleport\MassTeleportCaster.mdl
-Targetart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
-Specialart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
-
-// Mechanical Critter
 [Amec]
 Art=ReplaceableTextures\CommandButtons\BTNMechanicalCritter.blp
 Targetart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-
-// Spell Shield
-
-[AIrd]
-Art=ReplaceableTextures\CommandButtons\BTNRaiseDead.blp
-
-// Staff of Sanctuary
 [ANsa]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
 Casterart=Abilities\Spells\Human\MassTeleport\MassTeleportCaster.mdl
 Targetart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
 Specialart=Abilities\Spells\Human\MassTeleport\MassTeleportTarget.mdl
-
 [BNsa]
 Buffart=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
 Targetart=Abilities\Spells\Items\StaffOfSanctuary\Staff_Sanctuary_Target.mdl
-
-// Scroll of Haste
-[AIsa]
-Art=ReplaceableTextures\CommandButtons\BTNScrollOfHaste.blp
-// target art will be taken care of by buff Bspe, in commonabilityfunc
-
-// Rune of Speed
-[AIsb]
-Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
-Missileart=Abilities\Weapons\ProcMissile\ProcMissile.mdl
-MissileHoming=1
-Targetart=Abilities\Spells\Items\OrbSlow\OrbSlow.mdl
-Targetattach=weapon
-//Specialart=
-
-[AIxs]
-Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
-Order=antimagicshell
-
 [Aami]
 Order=antimagicshell
-
-// item divine shield
-[AIpg]
-Art=ReplaceableTextures\CommandButtons\BTNEntrapmentWard.blp
-Order=purge
-
-// item purge (shamanistic totem)
-
 [AIdd]
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Casterart=Abilities\Spells\Human\Defend\DefendCaster.mdl
-
-// item chain lightning
 [XBUI]
 Art=ReplaceableTextures\CommandButtons\BTNHumanWatchTower.blp
-
-// Armor2
-[Aar7]
-// area of effect damage of destructables
-
-// Armor1
-[Aar6]
-// area of effect damage of destructables
-
-// Armor-1
-[Aar4]
-// area of effect damage of destructables
-
-// Armor-2
-[Aar3]
-// area of effect damage of destructables
-
-// Attack Speed2
 [Aas7]
 Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
-
-// Attack Speed1
 [Aas6]
 Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
-
-// Attack Speed-1
 [Aas4]
 Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
-
-// Attack Speed-2
 [Aas3]
 Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
-
-// Buff Spikes
 [W0AM]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
 Targetattach=chest
@@ -386,291 +174,188 @@ Orderoff=frenzy
 Targetattach=chest
 Targetattachcount=1
 TargetArt=Abilities\Spells\Orc\SpikeBarrier\SpikeBarrier.mdl
-
-// Damage4
 [Adm9]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage3
 [Adm8]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage2
 [Adm7]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage1
 [Adm6]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage-1
 [Adm4]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage-2
 [Adm3]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage-3
 [Adm2]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Damage-4
 [Adm1]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// Base Damage +128
 [ADMH]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +256
 [ADMI]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +32
 [ADMF]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +64
 [ADMG]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +8
 [ADMD]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +16
 [ADME]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +2
 [ADMB]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +4
 [ADMC]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +1
 [ADMA]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -256
 [ADNI]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -512
 [ADNJ]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -64
 [ADNG]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -128
 [ADNH]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -16
 [ADNE]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -32
 [ADNF]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -4
 [ADNC]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -8
 [ADND]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -1
 [ADNA]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -2
 [ADNB]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +524288
 [ADMT]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +131072
 [ADMR]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +262144
 [ADMS]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +32768
 [ADMP]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +65536
 [ADMQ]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +8192
 [ADMN]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +16384
 [ADMO]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +2048
 [ADML]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +4096
 [ADMM]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +512
 [ADMJ]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage +1024
 [ADMK]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -262144
 [ADNS]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -524288
 [ADNT]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -65536
 [ADNQ]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -131072
 [ADNR]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -16384
 [ADNO]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -32768
 [ADNP]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -4096
 [ADNM]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -8192
 [ADNN]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -1024
 [ADNK]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// Base Damage -2048
 [ADNL]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Casterart=
 Casterattach=origin
-
-// !ArmoryReduction
 [R003]
 Buffart=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Targetart=
-
-// Golden
 [R03R]
 Buffart=ReplaceableTextures\CommandButtons\BTNSpellShieldAmulet.blp
 Targetart=
 Targetattach=
-
-// Gem Armor
 [R08G]
 Buffart=ReplaceableTextures\CommandButtons\BTNPhilosophersStone.blp
-

@@ -1,256 +1,30 @@
-// Vengeance
-[Avng]
-Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcherOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNAvengingWatcherOff.blp
-Buttonpos=0,2
-Unbuttonpos=0,2
-Researchbuttonpos=0,0
-Targetart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-Order=Vengeance
-Orderon=Vengeanceon
-Orderoff=Vengeanceoff
-
-[Bvng]
-Buffart=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
-Effectart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-
-// Mana Flare
-[Amfl]
-Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-Unart=ReplaceableTextures\CommandButtons\BTNManaFlareOff.blp
-Buttonpos=1,2
-Unbuttonpos=1,2
-Order=manaflareon
-Unorder=manaflareoff
-
-[Bmfl]
-Buffart=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareBase.mdl
-Targetattach=overhead
-Effectsoundlooped=ManaFlareLoop
-LightningEffect=MFPB
-
-[Bmfa]
-Buffart=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareTarget.mdl
-Targetattach=overhead
-Missileart=Abilities\Spells\Human\ManaFlare\ManaFlareMissile.mdl
-Missilespeed=1000
-MissileHoming=1
-Specialart=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
-
-// Phase Shift
-[Apsh]
-Art=ReplaceableTextures\CommandButtons\BTNPhaseShiftOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNPhaseShiftOff.blp
-Buttonpos=0,2
-Unbuttonpos=0,2
-Effectsound=ShadowMeld
-Orderon=phaseshifton
-Orderoff=phaseshiftoff
-Order=phaseshift
-Specialart=Abilities\Spells\NightElf\FaerieDragonInvis\FaerieDragon_Invis.mdl
-
-[Bpsh]
-Buffart=ReplaceableTextures\CommandButtons\BTNPhaseShift.blp
-Specialart=Abilities\Spells\NightElf\FaerieDragonInvis\FaerieDragon_Invis.mdl
-
-// Ethereal
 [Aetl]
 Art=ReplaceableTextures\CommandButtons\BTNTemp.blp
 Buttonpos=2,2
-
-// Sphere
-[Asp1]
-Targetart=Abilities\Spells\NightElf\SpiritOfVengeance\SpiritOfVengeanceOrbs1.mdl
-Targetattachcount=1
-Targetattach=sprite,first
-Missileart=Abilities\Spells\NightElf\SpiritOfVengeance\SpiritOfVengeanceOrbs1.mdl
-Missilearc=0.05
-Missilespeed=1400
-
-// Sphere
 [AEbu]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
 Buttonpos=0,2
 Order=nightelfbuild
-
-// Grab Tree
-[Agra]
-Art=ReplaceableTextures\CommandButtons\BTNGrabTree.blp
-Buttonpos=1,2
-Order=grabtree
-Animnames=spell,eattree
-
-// Hardened Skin
 [Assk]
 Requires=Rehs
 Art=ReplaceableTextures\PassiveButtons\PASBTNHardenedSkin.blp
 Buttonpos=2,2
 Casterart=
-
-// Resistant Skin
 [Arsk]
 Art=ReplaceableTextures\PassiveButtons\PASBTNResistantSkin.blp
 Buttonpos=3,2
 Casterart=
 Requires=Rers
-
-// Taunt
-[Atau]
-Art=ReplaceableTextures\CommandButtons\BTNTaunt.blp
-Buttonpos=0,2
-Order=taunt
-Casterart=Abilities\Spells\NightElf\Taunt\TauntCaster.mdl
-
 [Btau]
 Buffart=ReplaceableTextures\CommandButtons\BTNTaunt.blp
-
-// Blink
-[AEbl]
-Art=ReplaceableTextures\CommandButtons\BTNBlink.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNBlink.blp
-Buttonpos=1,2
-Researchbuttonpos=1,0
-Order=blink
-// Art to play at the new coordinate
-Areaeffectart=Abilities\Spells\NightElf\Blink\BlinkTarget.mdl
-// Art to leave behind at old coordinate
-Specialart=Abilities\Spells\NightElf\Blink\BlinkCaster.mdl
-Animnames=spell,throw
-
-// Fan of Knives
-[AEfk]
-Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
-Buttonpos=0,2
-Researchbuttonpos=0,0
-Order=fanofknives
-Casterart=
-Effectart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesCaster.mdl
-Missileart=Abilities\Spells\NightElf\FanOfKnives\FanOfKnivesMissile.mdl
-Missilespeed=700
-MissileArc=0.10
-Animnames=spell,slam
-
-// Shadow Strike
-[AEsh]
-Art=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
-Buttonpos=2,2
-Researchbuttonpos=2,0
-Missileart=Abilities\Spells\NightElf\shadowstrike\ShadowStrikeMissile.mdl
-Missilespeed=1200
-MissileArc=0.0
-MissileHoming=1
-Order=shadowstrike
-
-// Shadow Strike Non Stack Buff
-[BEsh]
-Buffart=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
-Targetart=Abilities\Spells\NightElf\shadowstrike\shadowstrike.mdl
-Targetattach=overhead
-
-// Shadow Strike Stack Buff
 [BEsi]
 Buffart=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
 Targetart=Abilities\Spells\NightElf\shadowstrike\shadowstrike.mdl
 Targetattach=overhead
-
-// Spirit of Vengeance
-[AEsv]
-Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
-Buttonpos=3,2
-Researchbuttonpos=3,0
-Missileart=Abilities\Spells\NightElf\SpiritOfVengeance\SpiritOfVengeanceBirthMissile.mdl
-Missilespeed=700
-MissileArc=0.50
-Targetart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-Order=spiritofvengeance
-
-[BEsv]
-Buffart=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
-Effectart=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
-
-// Cargo Load entangled mine
-[Slo2]
-Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
-Buttonpos=0,2
-Order=load
-
-// Impaling Bolt - see unitfunc
-//[Aimp]
-//Requires=Repb
-//Art=ReplaceableTextures\PassiveButtons\PASBTNImpalingBolt.blp
-//Buttonpos=0,2
-
-// Moon Glaive
 [Amgl]
 Requires=Remg
 Art=ReplaceableTextures\PassiveButtons\PASBTNUpgradeMoonGlaive.blp
 Buttonpos=1,2
-
-// Moon Glaive
-[Aspo]
-Art=ReplaceableTextures\PassiveButtons\PASBTNSlowPoison.blp
-Buttonpos=1,2
-
-// Slow Poison Non Stack Buff
-[Bspo]
-Spelldetail=2
-Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
-Targetart=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
-
-// Slow Poison Stack Buff
-[Bssd]
-Spelldetail=2
-Buffart=ReplaceableTextures\PassiveButtons\PASBTNSlowPoison.blp
-Targetart=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
-
-// Shadow Meld passive nighttime cloaking ability, with its "Hide" button
-[Ashm]
-Art=ReplaceableTextures\CommandButtons\BTNAmbush.blp
-Buttonpos=2,1
-Effectsound=ShadowMeld
-Order=ambush
-
-// Shadow Meld passive nighttime cloaking ability, with its "Hide" button
-[Aesn]
-Requires=Resc
-Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-Buttonpos=0,2
-MissileSpeed=1500
-Missileart=Units\NightElf\Owl\Owl.mdl
-Order=sentinel
-
-// Sentinel
-
-[XEsn]
-Targetart=Units\NightElf\Owl\Owl.mdl
-Targetattach=overhead
-
-// Eat Tree
-[Aeat]
-Art=ReplaceableTextures\CommandButtons\BTNEatTree.blp
-Buttonpos=0,2
-Specialart=Abilities\Spells\NightElf\EatTree\EatTreeSprite.mdl
-Specialattach=eattree
-Order=eattree
-
-// Moon pool mana battery
-[Ambt]
-Art=ReplaceableTextures\CommandButtons\BTNManaRechargeOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNManaRechargeOff.blp
-Buttonpos=0,0
-Unbuttonpos=0,0
-// One for each normal race, and a special one for demons and their corrupted moon well.
-Effectart=Abilities\Spells\NightElf\MoonWell\MoonWellTarget.mdl,Abilities\Spells\NightElf\MoonWell\MoonWellTarget.mdl,Abilities\Spells\NightElf\MoonWell\MoonWellTarget.mdl,Abilities\Spells\NightElf\MoonWell\MoonWellTarget.mdl,Abilities\Spells\NightElf\MoonWell\CorruptedMoonWellTarget.mdl
-Casterart=Abilities\Spells\NightElf\MoonWell\MoonWellCasterArt.mdl
-Specialart=Abilities\Spells\Human\Heal\HealTarget.mdl
-Order=recharge
-
-// Wisp Harvest
 [Awha]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Unart=ReplaceableTextures\CommandButtons\BTNReturnGoods.blp
@@ -260,18 +34,12 @@ Targetart=Abilities\Spells\NightElf\TargetArtLumber\TargetArtLumber.mdl
 Targetattach=origin
 Effectsoundlooped=WispHarvestLoop
 Order=harvest
-
-// Wisp Harvest (Invulnerable)
 [Adtn]
-// no longer requires anything...4-5-2002 Pardo
-//Requires=Rewd
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=1,2
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
 Targetart=Abilities\Spells\Human\DispelMagic\DispelMagicTarget.mdl
 Order=detonate
-
-// Wisp Healing
 [Awhe]
 Art=ReplaceableTextures\CommandButtons\BTNWispHealOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNWispHealOff.blp
@@ -283,24 +51,6 @@ Targetart=Abilities\Spells\Human\Heal\HealTarget.mdl
 Order=wispheal
 Orderon=wisphealon
 Orderoff=wisphealoff
-
-// Entangle
-[Aent]
-Art=ReplaceableTextures\CommandButtons\BTNGoldMine.blp
-Buttonpos=1,2
-Casterart=Abilities\Spells\NightElf\EntangleMine\Roots.mdl
-Casterattach=origin
-Order=entangle
-
-// Entangled Gold Mine Cargo
-[Aenc]
-Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
-Unart=ReplaceableTextures\CommandButtons\BTNUnload.blp
-Buttonpos=1,2
-Unbuttonpos=0,2
-Effectsound=WispLoad
-
-// Root
 [Aroo]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -308,19 +58,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Bear Form
-[Abrf]
-Art=ReplaceableTextures\CommandButtons\BTNBearForm.blp
-Unart=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
-Buttonpos=3,2
-Unbuttonpos=3,2
-Requires=Redc
-Requiresamount=2
-Order=bearform
-Unorder=unbearform
-
-// Crow Form
 [Arav]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
 Unart=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
@@ -329,66 +66,11 @@ Unbuttonpos=3,2
 Requires=Redt
 Order=ravenform
 Unorder=unravenform
-
-// Auto-Dispel Magic
-[Aadm]
-Art=ReplaceableTextures\CommandButtons\BTNDryadDispelMagicOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNDryadDispelMagicOff.blp
-Requires=Resi
-Buttonpos=0,2
-Unbuttonpos=0,2
-Casterart=
-Targetart=Abilities\Spells\Human\DispelMagic\DispelMagicTarget.mdl
-Order=autodispel
-Orderon=autodispelon
-Orderoff=autodispeloff
-
-// Spell Immunity
 [Amim]
 Art=ReplaceableTextures\PassiveButtons\PASBTNMagicImmunity.blp
 Buttonpos=2,2
-
-// Ultravision
 [Ault]
 Requires=Reuv
-
-//Elune's Grace
-[Aco2]
-Art=ReplaceableTextures\CommandButtons\BTNHippogriffRider.blp
-Buttonpos=0,2
-Requires=Reht
-//Order=??
-
-[Aco3]
-Art=ReplaceableTextures\CommandButtons\BTNHippogriffRider.blp
-Buttonpos=0,2
-Requires=Reht
-Effectsound=HippogryphTaming
-//Order=??
-
-// Decouple
-[Adec]
-Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-Buttonpos=0,2
-Requires=Reht
-Effectsound=HippogryphTaming
-Order=decouple
-
-// Corrosive Breath
-[Acor]
-Art=ReplaceableTextures\PassiveButtons\PASBTNCorrosiveBreath.blp
-Buttonpos=0,2
-Requires=Recb
-Missileart=Abilities\Weapons\ChimaeraAcidMissile\ChimaeraAcidMissile.mdl
-Missilespeed=1000
-Order=corrosivebreath
-
-[Bcor]
-Buffart=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-Targetart=Abilities\Spells\NightElf\CorrosiveBreath\ChimaeraAcidTargetArt.mdl
-Targetattach=
-
-// Mana Burn
 [AEmb]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
@@ -397,130 +79,11 @@ Researchbuttonpos=0,0
 Targetart=Abilities\Spells\NightElf\ManaBurn\ManaBurnTarget.mdl
 Order=manaburn
 LightningEffect=MBUR
-
-// Immolation
-[AEim]
-Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNImmolationOff.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
-Buttonpos=1,2
-Unbuttonpos=1,2
-Researchbuttonpos=1,0
-Order=immolation
-Unorder=unimmolation
-
-[BEim]
-Buffart=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
-Targetart=Abilities\Spells\NightElf\Immolation\ImmolationTarget.mdl
-Specialart=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
-Specialattach=head
-
-// Evasion
 [AEev]
 Art=ReplaceableTextures\PassiveButtons\PASBTNEvasion.blp
 Buttonpos=2,2
 Researchart=ReplaceableTextures\CommandButtons\BTNEvasion.blp
 Researchbuttonpos=2,0
-
-// Metamorphosis
-[AEme]
-Art=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
-Buttonpos=3,2
-Researchbuttonpos=3,0
-Order=metamorphosis
-
-// Illidan Metamorphosis
-
-[BEme]
-Buffart=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
-
-// Entangling Roots
-[AEer]
-Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
-Buttonpos=0,2
-Researchbuttonpos=0,0
-Casterart=
-Order=entanglingroots
-
-[BEer]
-Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
-Targetart=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
-Targetattach=origin
-
-// Force of Nature
-[AEfn]
-Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNEnt.blp
-Buttonpos=1,2
-Researchbuttonpos=1,0
-Specialart=
-Order=forceofnature
-
-[BEfn]
-Buffart=ReplaceableTextures\CommandButtons\BTNEnt.blp
-
-// Thorns Aura
-[AEah]
-Art=ReplaceableTextures\PassiveButtons\PASBTNThorns.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNThorns.blp
-Buttonpos=2,2
-Researchbuttonpos=2,0
-Targetart=Abilities\Spells\NightElf\ThornsAura\ThornsAura.mdl
-Targetattach=origin
-
-[BEah]
-Spelldetail=2
-Buffart=ReplaceableTextures\CommandButtons\BTNThorns.blp
-Targetart=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-Targetattach=origin
-Specialart=Abilities\Spells\NightElf\ThornsAura\ThornsAuraDamage.mdl
-Specialattach=head
-
-// Tranquility
-[AEtq]
-Art=ReplaceableTextures\CommandButtons\BTNTranquility.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNTranquility.blp
-Buttonpos=3,2
-Researchbuttonpos=3,0
-Order=tranquility
-Animnames=stand,channel
-
-// Tranquility life regeneration
-[AEtr]
-Targetart=Abilities\Spells\NightElf\Tranquility\TranquilityTarget.mdl
-
-[XEtq]
-Effectart=Abilities\Spells\NightElf\Tranquility\Tranquility.mdl
-Effectsoundlooped=TranquilityLoop
-
-// Scout
-[AEst]
-Art=ReplaceableTextures\CommandButtons\BTNScout.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNScout.blp
-Buttonpos=0,2
-Researchbuttonpos=0,0
-MissileSpeed=650
-Missileart=Units\NightElf\Owl\Owl.mdl
-Order=scout
-
-// Searing Arrows
-[AHfa]
-Art=ReplaceableTextures\CommandButtons\BTNSearingArrowsOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNSearingArrowsOff.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNSearingArrows.blp
-Buttonpos=1,2
-Unbuttonpos=1,2
-Researchbuttonpos=1,0
-Missileart=Abilities\Weapons\SearingArrow\SearingArrowMissile.mdl
-Missilespeed=1500
-MissileHoming=1
-Order=flamingarrows
-Unorder=unflamingarrows
-Animnames=attack
-
-// Trueshot Aura
 [AEar]
 Art=ReplaceableTextures\PassiveButtons\PASBTNTrueShot.blp
 Buttonpos=2,2
@@ -528,91 +91,11 @@ Researchart=ReplaceableTextures\CommandButtons\BTNTrueShot.blp
 Researchbuttonpos=2,0
 Targetart=Abilities\Spells\NightElf\TrueshotAura\TrueshotAura.mdl
 Targetattach=origin
-
 [BEar]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNTrueShot.blp
 Targetart=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
 Targetattach=origin
-
-// Starfall
-[AEsf]
-Art=ReplaceableTextures\CommandButtons\BTNStarfall.blp
-Researchart=ReplaceableTextures\CommandButtons\BTNStarfall.blp
-Buttonpos=3,2
-Researchbuttonpos=3,0
-Casterart=
-Order=starfall
-Animnames=spell,looping
-
-// Starfall life drain
-[AEsd]
-Targetart=Abilities\Spells\NightElf\Starfall\StarfallTarget.mdl
-Targetattach=origin
-
-[XEsf]
-Effectart=Abilities\Spells\NightElf\Starfall\StarfallCaster.mdl
-
-// beefy starfall - campaign spell
-[Afae]
-Art=ReplaceableTextures\CommandButtons\BTNFaerieFireOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNFaerieFireOff.blp
-Buttonpos=0,2
-Unbuttonpos=0,2
-order=faeriefire
-orderon=faeriefireon
-orderoff=faeriefireoff
-
-// Faerie Fire (storm crow form)
-[Afa2]
-Requires=Reec
-Art=ReplaceableTextures\CommandButtons\BTNFaerieFireOn.blp
-Unart=ReplaceableTextures\CommandButtons\BTNFaerieFireOff.blp
-Buttonpos=0,2
-Unbuttonpos=0,2
-order=faeriefire
-orderon=faeriefireon
-orderoff=faeriefireoff
-
-[Bfae]
-Spelldetail=1
-Targetart=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
-Targetattach=head
-Buffart=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
-
-// Cyclone
-[Acyc]
-Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
-Buttonpos=1,2
-Requires=Redt
-Requiresamount=2
-order=cyclone
-
-[Bcyc]
-Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
-Effectart=Abilities\Spells\NightElf\Cyclone\CycloneTarget.mdl
-Targetattach=sprite,first
-Effectsoundlooped=CycloneLoop
-
-[Bcy2]
-Buffart=ReplaceableTextures\CommandButtons\BTNCyclone.blp
-Effectart=Abilities\Spells\NightElf\Cyclone\CycloneTarget.mdl
-Effectattach=sprite,first
-Effectsoundlooped=CycloneLoop
-
-// Rejuvenation
-[Arej]
-Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
-Buttonpos=1,2
-Requires=Redc
-order=rejuvination
-
-[Brej]
-Buffart=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
-TargetArt=Abilities\Spells\NightElf\Rejuvenation\RejuvenationTarget.mdl
-Targetattach=chest
-
-// Renew
 [Aren]
 Art=ReplaceableTextures\CommandButtons\BTNWispHealOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNWispHealOff.blp
@@ -625,60 +108,27 @@ Order=renew
 Orderon=renewon
 Orderoff=renewoff
 Animnames=stand,work
-
-// Roar
-[Aroa]
-Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
-Buttonpos=0,2
-Casterart=Abilities\Spells\NightElf\BattleRoar\RoarCaster.mdl
-Order=roar
-Animnames=spell,slam
-
-// Roar (bear form)
-[Ara2]
-Requires=Reeb
-Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
-Buttonpos=0,2
-Casterart=Abilities\Spells\NightElf\BattleRoar\RoarCaster.mdl
-Order=roar
-Animnames=spell,slam
-
-[Broa]
-Spelldetail=1
-Buffart=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
-Targetart=Abilities\Spells\NightElf\BattleRoar\RoarTarget.mdl
-Targetattach=overhead
-
-// Lightning attack
 [Alit]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// tree of life upgrade ability
 [Atol]
 Targetart=Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArt.mdl,Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArtHand.mdl,Abilities\Spells\NightElf\TreeofLifeUpgrade\TreeofLifeUpgradeTargetArtHand.mdl
 Targetattachcount=3
 Targetattach=origin
 Targetattach1=hand,left
 Targetattach2=hand,right
-
-// used by creep ability
 [Bbar]
 Buffart=ReplaceableTextures\CommandButtons\BTNBarkskin.blp
 Targetart=Abilities\Spells\NightElf\Barkskin\BarkSkinTarget.mdl
 Targetattach=chest
-
-// 'damaged' attachment effect, small
 [Xfns]
 TargetArt=Environment\NightElfBuildingFire\ElfSmallBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl
 Targetattachcount=2
 Targetattach=sprite,first
 Targetattach1=sprite,fourth
 Effectsoundlooped=NightElfFireSmall
-
-// medium
 [Xfnm]
 TargetArt=Environment\NightElfBuildingFire\ElfLargeBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire2.mdl
 Targetattachcount=4
@@ -687,8 +137,6 @@ Targetattach1=sprite,second
 Targetattach2=sprite,fourth
 Targetattach3=sprite,fifth
 Effectsoundlooped=NightElfFireMedium
-
-// large
 [Xfnl]
 TargetArt=Environment\NightElfBuildingFire\ElfLargeBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire0.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire1.mdl,Environment\NightElfBuildingFire\ElfLargeBuildingFire2.mdl,Environment\NightElfBuildingFire\ElfSmallBuildingFire0.mdl
 Targetattachcount=6
@@ -699,3121 +147,2085 @@ Targetattach3=sprite,third
 Targetattach4=sprite,fourth
 Targetattach5=sprite,sixth
 Effectsoundlooped=NightElfFireLarge
-
-// v000 abils
 [W000]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v001 abils
 [W001]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v002 abils
 [W002]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v003 On Damage
 [W003]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v004 abils
 [W004]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v005 On Damage
 [W005]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v006 On Damage
 [W006]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v013 Header
 [W01A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Buttonpos=3,1
-
-// v015 abils
 [W01C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v015 Header
 [W01D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPickUpItem.blp
 Buttonpos=2,1
-
-// v016 abils
 [W01E]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v016 On Attack
 [W01F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRedDragonDevour.blp
 Buttonpos=2,1
-
-// v017 On Damage
 [W01G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v00M On Attack
 [W00W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=2,1
-
-// v012 abils
 [W018]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00O Periodic
 [W00Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyArmor.blp
 Buttonpos=3,1
-
-// v00P abils
 [W00Z]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Blitzangriff dog
 [W01P]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v01J abils
 [W021]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01C On Damage
 [W01Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=3,1
-
-// v01D On Damage
 [W01S]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=3,1
-
-// v01K abils
 [W024]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01K On Attack
 [W025]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v01E On Damage
 [W01U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
 Buttonpos=3,1
-
-// v01L Tower Aura
 [W026]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Buttonpos=3,1
-
-// v018 abils
 [W01H]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v018 On Kill
 [W01I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v019 abils
 [W01K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Lightning Attack
 [W01L]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-
-// v01A abils
 [W01M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01A Tower Aura
 [W01N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v01B On Damage
 [W01O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumRanged.blp
 Buttonpos=3,1
-
-// v009 abils
 [W00A]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00A On Damage
 [W00B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
 Buttonpos=3,1
-
-// v00B abils
 [W00D]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00B On Damage
 [W00E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v00C On Damage
 [W00F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
 Buttonpos=3,1
-
-// v007 On Attack
 [W007]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=3,1
-
-// v008 abils
 [W009]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00I On Damage
 [W00O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Buttonpos=3,1
-
-// v00Q On Damage
 [W010]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v00J Header
 [W00Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v00S abils
 [W013]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00K abils
 [W00S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00T Header
 [W014]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v00L abils
 [W00U]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v011 On Damage
 [W016]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=3,1
-
-// v00M abils
 [W00V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00F abils
 [W00H]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00F On Damage
 [W00I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v00G abils
 [W00K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v00G On Damage
 [W00L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=2,1
-
-// v00H abils
 [W00N]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v022 On Damage
 [W03B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v023 abils
 [W03C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v025 abils
 [W03F]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v026 Header
 [W03G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v027 On Damage
 [W03H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v021 Tower Aura
 [W03A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v02C On Damage
 [W03R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,1
-
-// v02J Header
 [W043]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v02D abils
 [W03S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02K abils
 [W044]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02D On Damage
 [W03T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v02K On Damage
 [W045]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v02E On Damage
 [W03U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v02L abils
 [W046]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02F abils
 [W03V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02L On Damage
 [W047]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=2,1
-
-// v02G abils
 [W03W]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02L On Attack
 [W048]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=1,1
-
-// v02H abils
 [W03X]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02H On Attack
 [W03Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=2,1
-
-// v028 abils
 [W03J]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v029 On Attack
 [W03K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDizzy.blp
 Buttonpos=3,1
-
-// v02A abils
 [W03M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02A On Damage
 [W03N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Buttonpos=2,1
-
-// v02I Header
 [W040]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGhoulFrenzy.blp
 Buttonpos=2,1
-
-// v01M On Attack
 [W02A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=2,1
-
-// v01N abils
 [W02E]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01O abils
 [W02H]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01H abils
 [W01X]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01M On Damage
 [W029]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
 Buttonpos=3,1
-
-// v01H On Damage
 [W01Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v01I Header
 [W01Z]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,1
-
-// v01S Header
 [W02Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v01W abils
 [W033]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01T abils
 [W02S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01X abils
 [W034]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01T Header
 [W02T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v01Y abils
 [W035]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01Z abils
 [W036]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01U abils
 [W02V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v020 On Damage
 [W037]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v01U Header
 [W02W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// Wrath Attack
 [W038]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=10000
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v021 abils
 [W039]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01O On Damage
 [W02I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v01P On Attack
 [W02K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=3,1
-
-// v01P On Damage
 [W02L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
 Buttonpos=2,1
-
-// v01Q On Damage
 [W02M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v01R On Damage
 [W02O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v01V abils
 [W030]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v01S abils
 [W02P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03H abils
 [W05D]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03H On Attack
 [W05E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
 Buttonpos=2,1
-
-// v03J abils
 [W05F]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03J On Attack
 [W05G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRedDragonDevour.blp
 Buttonpos=2,1
-
-// v03K On Damage
 [W05H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Buttonpos=3,1
-
-// Wrath Attack
 [W05J]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=10000
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v03M abils
 [W05K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03F On Attack
 [W05A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
 Buttonpos=3,1
-
-// v03G abils
 [W05B]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03G On Damage
 [W05C]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=2,1
-
-// v03R On Attack
 [W05T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcBattleStandard.blp
 Buttonpos=2,1
-
-// v03Z Header
 [W065]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v03R Tower Aura
 [W05U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
 Buttonpos=1,1
-
-// v040 On Damage
 [W066]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
 Buttonpos=3,1
-
-// v040 On Attack
 [W067]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=2,1
-
-// v03S On Damage
 [W05W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v041 abils
 [W068]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03T abils
 [W05X]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v042 Header
 [W069]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v03U abils
 [W05Y]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03M Tower Aura
 [W05L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v03N abils
 [W05M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03O Tower Aura
 [W05N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Buttonpos=3,1
-
-// v03P abils
 [W05O]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03W On Damage
 [W060]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNParasite.blp
 Buttonpos=3,1
-
-// v03P On Damage
 [W05P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v03Q abils
 [W05Q]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03X On Damage
 [W062]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v03Q On Attack
 [W05R]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v03Y On Damage
 [W063]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumRanged.blp
 Buttonpos=3,1
-
-// v03R abils
 [W05S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03Z abils
 [W064]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02N abils
 [W04C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02N Header
 [W04D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPickUpItem.blp
 Buttonpos=2,1
-
-// v02O On Attack
 [W04E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
 Buttonpos=3,1
-
-// v02P abils
 [W04F]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02P On Kill
 [W04G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v02Q Periodic
 [W04H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyArmor.blp
 Buttonpos=3,1
-
-// v02R On Attack
 [W04I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=3,1
-
-// v02S abils
 [W04J]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02I abils
 [W03Z]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02M abils
 [W04A]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02M On Attack
 [W04B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v02W abils
 [W04S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03A abils
 [W054]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02W On Damage
 [W04T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// v03B On Damage
 [W055]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v02X abils
 [W04V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02Y abils
 [W04W]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v03E abils
 [W058]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v02Y On Damage
 [W04X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v02Z On Damage
 [W04Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v02S Header
 [W04K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v02T On Attack
 [W04M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v02U On Attack
 [W04O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=3,1
-
-// v037 abils
 [W050]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Blitzangriff dog
 [W04P]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v02V abils
 [W04Q]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v038 Header
 [W052]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Buttonpos=3,1
-
-// v02V On Damage
 [W04R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v039 Header
 [W053]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,1
-
-// v04V abils
 [W07F]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04V On Damage
 [W07G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v04W On Damage
 [W07H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v04X abils
 [W07I]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04Y abils
 [W07J]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04Y On Attack
 [W07K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=2,1
-
-// v04Z Tower Aura
 [W07L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
 Buttonpos=3,1
-
-// v04R On Damage
 [W07A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v04T On Attack
 [W07B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=3,1
-
-// v04U abils
 [W07C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04U On Damage
 [W07D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=2,1
-
-// v04U On Attack
 [W07E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=1,1
-
-// v053 abils
 [W07V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v053 On Damage
 [W07W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
 Buttonpos=2,1
-
-// v053 Tower Aura
 [W07X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=1,1
-
-// v054 On Damage
 [W07Z]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v050 Tower Aura
 [W07N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStrengthOfTheWild.blp
 Buttonpos=3,1
-
-// v055 On Attack
 [W080]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDizzy.blp
 Buttonpos=3,1
-
-// v051 abils
 [W07P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v056 abils
 [W081]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v051 Periodic
 [W07Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=2,1
-
-// v051 On Attack
 [W07R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Buttonpos=1,1
-
-// v057 On Damage
 [W084]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWhirlwind.blp
 Buttonpos=3,1
-
-// v052 On Attack
 [W07T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v057 Header
 [W085]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
 Buttonpos=2,1
-
-// v057 On Attack
 [W086]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=1,1
-
-// v046 abils
 [W06G]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v046 Header
 [W06H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGhoulFrenzy.blp
 Buttonpos=2,1
-
-// v047 abils
 [W06J]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v048 abils
 [W06K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v048 On Attack
 [W06L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v043 On Attack
 [W06B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=3,1
-
-// v043 On Damage
 [W06C]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
 Buttonpos=2,1
-
-// v044 abils
 [W06D]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04E On Damage
 [W06U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v04F On Damage
 [W06V]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
 Buttonpos=3,1
-
-// v04G abils
 [W06W]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04O On Attack
 [W078]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Buttonpos=3,1
-
-// v04Q On Damage
 [W079]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
 Buttonpos=3,1
-
-// v04H abils
 [W06Y]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04I abils
 [W06Z]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v049 abils
 [W06M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04A abils
 [W06N]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04A Header
 [W06O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v04J abils
 [W070]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04B Header
 [W06P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v04K On Damage
 [W071]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v04C abils
 [W06Q]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04L abils
 [W072]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04C Header
 [W06R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v04L On Damage
 [W073]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v04D On Damage
 [W06S]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=3,1
-
-// v04E abils
 [W06T]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v04M On Damage
 [W075]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
 Buttonpos=3,1
-
-// v05M abils
 [W09H]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05M Header
 [W09I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPickUpItem.blp
 Buttonpos=2,1
-
-// v05N abils
 [W09K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05O abils
 [W09N]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05O On Kill
 [W09O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v05I On Attack
 [W09A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
 Buttonpos=2,1
-
-// v05J Tower Aura
 [W09B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=3,1
-
-// Wrath Attack
 [W09D]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=10000
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v05K abils
 [W09E]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05K Tower Aura
 [W09F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v05L On Attack
 [W09G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=3,1
-
-// v05T On Kill
 [W09X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCarrionSwarm.blp
 Buttonpos=2,1
-
-// v05V On Attack
 [W09Z]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
 Buttonpos=3,1
-
-// v05P abils
 [W09P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05Q abils
 [W09Q]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05Q Header
 [W09R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v05R abils
 [W09S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05R On Attack
 [W09T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=2,1
-
-// v05T Periodic
 [W09W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,1
-
-// v059 On Damage
 [W08G]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// Green Lightning Attack
 [W08J]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=5000
 Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
 LightningEffect=MFPB
-
-// v05A abils
 [W08K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05A On Damage
 [W08L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfSearinox.blp
 Buttonpos=2,1
-
-// v05A On Attack
 [W08N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Buttonpos=1,1
-
-// v058 abils
 [W08B]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v058 On Damage
 [W08C]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Buttonpos=2,1
-
-// v059 abils
 [W08F]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05H On Damage
 [W098]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v05D abils
 [W08X]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05I abils
 [W099]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05D On Damage
 [W08Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Buttonpos=2,1
-
-// v05B abils
 [W08P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05E abils
 [W091]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05B On Damage
 [W08Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
 Buttonpos=2,1
-
-// v05E On Damage
 [W092]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=2,1
-
-// v05C abils
 [W08T]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05F On Damage
 [W095]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v05C On Damage
 [W08U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Buttonpos=2,1
-
-// v05G On Damage
 [W096]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v05H abils
 [W097]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06H abils
 [W0AP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06I Periodic
 [W0AQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyArmor.blp
 Buttonpos=3,1
-
-// v06P abils
 [W0B2]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06Q abils
 [W0B3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06J On Damage
 [W0AS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
 Buttonpos=3,1
-
-// v06R Header
 [W0B4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,1
-
-// v06S abils
 [W0B5]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06S On Attack
 [W0B6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgElder.blp
 Buttonpos=2,1
-
-// v06K Header
 [W0AV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Buttonpos=3,1
-
-// v06L On Damage
 [W0AW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v06T abils
 [W0B8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v066 abils
 [W0AI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v067 abils
 [W0AJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06G abils
 [W0AN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06G On Attack
 [W0AO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRedDragonDevour.blp
 Buttonpos=2,1
-
-// v06U Tower Aura
 [W0BA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=3,1
-
-// v06V Header
 [W0BC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v06W abils
 [W0BD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06W On Unit Comes In Range
 [W0BE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v06Y abils
 [W0BH]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06T On Damage
 [W0B9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v06M On Damage
 [W0AZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
 Buttonpos=3,1
-
-// v05W On Damage
 [W0A1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v05X On Attack
 [W0A2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v05X Header
 [W0A3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v05Y abils
 [W0A5]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v05Y Header
 [W0A6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v05Z abils
 [W0A7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v060 abils
 [W0AA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v060 On Damage
 [W0AB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=2,1
-
-// v061 Header
 [W0AC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=3,1
-
-// v061 On Kill
 [W0AD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=2,1
-
-// v063 On Attack
 [W0AE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v064 On Damage
 [W0AG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,1
-
-// v05Z On Damage
 [W0A8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Buttonpos=2,1
-
-// v07L On Attack
 [W0CR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
 Buttonpos=3,1
-
-// v07Q On Damage
 [W0D3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=3,1
-
-// v07M abils
 [W0CS]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07M On Damage
 [W0CT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// v07R abils
 [W0D5]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07M On Kill
 [W0CU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
 Buttonpos=1,1
-
-// v07R On Damage
 [W0D6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// Blitzangriff dog
 [W0D7]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v07N On Attack
 [W0CW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
 Buttonpos=3,1
-
-// v07S abils
 [W0D8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07S On Damage
 [W0D9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v07F abils
 [W0CK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07F On Attack
 [W0CL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
 Buttonpos=2,1
-
-// v07G abils
 [W0CM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07H abils
 [W0CN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07I abils
 [W0CO]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07P abils
 [W0D0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07J abils
 [W0CP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07P On Attack
 [W0D1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Buttonpos=2,1
-
-// v07K abils
 [W0CQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07P On Unit Comes In Range
 [W0D2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFelBoar.blp
 Buttonpos=1,1
-
-// v07U On Attack
 [W0DC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=2,1
-
-// v07V abils
 [W0DD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07V On Attack
 [W0DE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v07W On Damage
 [W0DF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v07X abils
 [W0DG]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07X On Attack
 [W0DH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcBattleStandard.blp
 Buttonpos=2,1
-
-// v07X Tower Aura
 [W0DI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
 Buttonpos=1,1
-
-// v07Y abils
 [W0DJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07O Tower Aura
 [W0CZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Buttonpos=3,1
-
-// v07U abils
 [W0DA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v070 Tower Aura
 [W0BQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
 Buttonpos=2,1
-
-// v078 On Damage
 [W0C2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBoneChimes.blp
 Buttonpos=2,1
-
-// v078 Tower Aura
 [W0C3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
 Buttonpos=1,1
-
-// v079 abils
 [W0C6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v073 On Damage
 [W0BV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumRanged.blp
 Buttonpos=3,1
-
-// v079 Header
 [W0C7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v074 abils
 [W0BW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07A abils
 [W0C8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07A On Damage
 [W0C9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=2,1
-
-// v06Y Header
 [W0BI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGhoulFrenzy.blp
 Buttonpos=2,1
-
-// v06Z abils
 [W0BK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v06Z On Attack
 [W0BL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=2,1
-
-// v070 abils
 [W0BO]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v077 On Attack
 [W0C0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
 Buttonpos=3,1
-
-// v078 abils
 [W0C1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07C abils
 [W0CC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07C On Damage
 [W0CD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v07D abils
 [W0CE]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07E abils
 [W0CG]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07E Header
 [W0CH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v075 Header
 [W0BY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v076 abils
 [W0BZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08I On Attack
 [W0EU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Buttonpos=1,1
-
-// v08J abils
 [W0EV]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08M abils
 [W0F7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08J On Damage
 [W0EW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=2,1
-
-// v08M On Unit Comes In Range
 [W0F8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAuraOfDarkness.blp
 Buttonpos=2,1
-
-// v08J Periodic
 [W0EX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaBurrow.blp
 Buttonpos=1,1
-
-// v08M On Tower Creation
 [W0F9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=1,1
-
-// v08J On Attack
 [W0EY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaUnBurrow.blp
 Buttonpos=0,1
-
-// v08K abils
 [W0EZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08G abils
 [W0EL]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08G On Damage
 [W0EM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v08H abils
 [W0EN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08H On Attack
 [W0EO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v08K On Damage
 [W0F0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarfall.blp
 Buttonpos=2,1
-
-// v08H Header
 [W0EP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
 Buttonpos=1,1
-
-// v08K On Attack
 [W0F1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
 Buttonpos=1,1
-
-// Green Lightning Attack
 [W0EQ]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=5000
 Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
 LightningEffect=MFPB
-
-// v08I abils
 [W0ER]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08L On Damage
 [W0F3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNParasite.blp
 Buttonpos=3,1
-
-// v08I On Damage
 [W0ES]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfSearinox.blp
 Buttonpos=2,1
-
-// v08O Header
 [W0FE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v08P abils
 [W0FF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08Q abils
 [W0FG]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08R On Damage
 [W0FJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
 Buttonpos=3,1
-
-// v08T On Damage
 [W0FL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v08N On Attack
 [W0FB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=3,1
-
-// v08N On Damage
 [W0FC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
 Buttonpos=2,1
-
-// v08O abils
 [W0FD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v080 On Attack
 [W0DS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=2,1
-
-// v081 abils
 [W0DU]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v082 On Damage
 [W0DV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Buttonpos=3,1
-
-// v083 On Attack
 [W0DW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=3,1
-
-// v084 Header
 [W0DX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Buttonpos=3,1
-
-// v084 On Unit Comes In Range
 [W0DY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v07Y On Attack
 [W0DK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v07Z abils
 [W0DL]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v07Z On Attack
 [W0DM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalkerAdeptTraining.blp
 Buttonpos=2,1
-
-// v07Z On Damage
 [W0DN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpTwo.blp
 Buttonpos=1,1
-
-// v080 On Damage
 [W0DQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,1
-
-// v08B On Damage
 [W0ED]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v08C Header
 [W0EE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
 Buttonpos=3,1
-
-// v08D On Damage
 [W0EG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=3,1
-
-// v08F On Attack
 [W0EI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v08F Tower Aura
 [W0EJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Buttonpos=2,1
-
-// v087 On Attack
 [W0EA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Buttonpos=3,1
-
-// v08A Tower Aura
 [W0EB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,1
-
-// v09E On Damage
 [W0GV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Buttonpos=2,1
-
-// v09H On Damage
 [W0H7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Buttonpos=2,1
-
-// v09F abils
 [W0GY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09F On Damage
 [W0GZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
 Buttonpos=2,1
-
-// v09C On Damage
 [W0GN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=2,1
-
-// v09C Tower Aura
 [W0GO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFarSight.blp
 Buttonpos=1,1
-
-// v09D abils
 [W0GQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09G abils
 [W0H2]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09D On Damage
 [W0GR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v09G On Damage
 [W0H3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Buttonpos=2,1
-
-// v09E abils
 [W0GU]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09H abils
 [W0H6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09K Header
 [W0HG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=3,1
-
-// v09K On Kill
 [W0HH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=2,1
-
-// v09L abils
 [W0HI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09L On Damage
 [W0HJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=2,1
-
-// v09L Tower Aura
 [W0HK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Buttonpos=1,1
-
-// v09M On Damage
 [W0HM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
 Buttonpos=3,1
-
-// v09M On Attack
 [W0HN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=2,1
-
-// v09I abils
 [W0HA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09I On Damage
 [W0HB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=2,1
-
-// v09J abils
 [W0HD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09J On Damage
 [W0HE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
 Buttonpos=2,1
-
-// v09J Tower Aura
 [W0HF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=1,1
-
-// v08X On Damage
 [W0FU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWhirlwind.blp
 Buttonpos=3,1
-
-// v08X Header
 [W0FV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
 Buttonpos=2,1
-
-// v093 abils
 [W0G7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08X On Attack
 [W0FW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=1,1
-
-// v094 abils
 [W0G8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v094 Header
 [W0G9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v08Y abils
 [W0FY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Wrath Attack
 [W0FM]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=10000
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v08U abils
 [W0FN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08U Tower Aura
 [W0FO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v08V Periodic
 [W0FP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,1
-
-// v08Z abils
 [W0G1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08V On Kill
 [W0FQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCarrionSwarm.blp
 Buttonpos=2,1
-
-// v08Z On Damage
 [W0G2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v08W abils
 [W0FR]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v090 abils
 [W0G3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v08W On Damage
 [W0FS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=2,1
-
-// v08W On Attack
 [W0FT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=1,1
-
-// v090 Tower Aura
 [W0G5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Buttonpos=2,1
-
-// v097 Header
 [W0GF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v098 On Damage
 [W0GG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v099 abils
 [W0GH]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v099 On Damage
 [W0GI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Buttonpos=2,1
-
-// v09A On Damage
 [W0GK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
 Buttonpos=3,1
-
-// v09B On Damage
 [W0GL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v09C abils
 [W0GM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v096 abils
 [W0GB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v096 On Damage
 [W0GC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPillage.blp
 Buttonpos=2,1
-
-// v096 Header
 [W0GD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Buttonpos=1,1
-
-// v097 abils
 [W0GE]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AO abils
 [W0J9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AI abils
 [W0IY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AJ abils
 [W0IZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AK abils
 [W0J1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AK On Attack
 [W0J2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTornado.blp
 Buttonpos=2,1
-
-// v0A9 abils
 [W0IU]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AL On Attack
 [W0J6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=3,1
-
-// v0A9 On Damage
 [W0IV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v0AM On Damage
 [W0J7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,1
-
-// v0AA Tower Aura
 [W0IW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStrengthOfTheWild.blp
 Buttonpos=3,1
-
-// v0AN Header
 [W0J8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,1
-
-// v0AU On Damage
 [W0JI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v0AV abils
 [W0JJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AW abils
 [W0JK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AW Periodic
 [W0JL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=2,1
-
-// v0AW On Attack
 [W0JM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Buttonpos=1,1
-
-// v0AX abils
 [W0JN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AX On Attack
 [W0JO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=2,1
-
-// v0AY On Attack
 [W0JP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
 Buttonpos=3,1
-
-// v0B6 Tower Aura
 [W0K1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
 Buttonpos=2,1
-
-// v0AP abils
 [W0JA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AQ abils
 [W0JB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AR Tower Aura
 [W0JC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=3,1
-
-// v0AT abils
 [W0JF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0AT Header
 [W0JG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v0AU abils
 [W0JH]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A1 abils
 [W0I8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A1 Tower Aura
 [W0I9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v09T Header
 [W0HY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Buttonpos=3,1
-
-// v09U abils
 [W0HZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09N On Damage
 [W0HO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v09V abils
 [W0I0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09O On Damage
 [W0HP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
 Buttonpos=3,1
-
-// v09W abils
 [W0I1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09P abils
 [W0HQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v09W On Kill
 [W0I2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v09P On Damage
 [W0HR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBoneChimes.blp
 Buttonpos=2,1
-
-// v09X Tower Aura
 [W0I3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=3,1
-
-// v09P Tower Aura
 [W0HS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
 Buttonpos=1,1
-
-// v09Y On Attack
 [W0I4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v09Q On Damage
 [W0HT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v09Z On Damage
 [W0I5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v09R On Attack
 [W0HU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDizzy.blp
 Buttonpos=3,1
-
-// v09S abils
 [W0HV]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A0 On Damage
 [W0I7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
 Buttonpos=3,1
-
-// v0A5 Header
 [W0IH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v0A6 abils
 [W0IJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A7 abils
 [W0IK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A7 Tower Aura
 [W0IL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=2,1
-
-// v0A8 abils
 [W0IN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A8 On Attack
 [W0IO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImpale.blp
 Buttonpos=2,1
-
-// v0AJ On Attack
 [W0J0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
 Buttonpos=2,1
-
-// v0A2 abils
 [W0IB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A2 Header
 [W0IC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPickUpItem.blp
 Buttonpos=2,1
-
-// v0A3 abils
 [W0ID]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0A4 On Damage
 [W0IF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
 Buttonpos=3,1
-
-// v0A5 On Attack
 [W0IG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0BP On Attack
 [W0LA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
 Buttonpos=2,1
-
-// v0BR abils
 [W0LB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BH Tower Aura
 [W0KR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
 Buttonpos=1,1
-
-// v0BM Tower Aura
 [W0L3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPriestMaster.blp
 Buttonpos=2,1
-
-// v0BI Periodic
 [W0KS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyArmor.blp
 Buttonpos=3,1
-
-// v0BJ Header
 [W0KT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v0BK abils
 [W0KU]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BN abils
 [W0L6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BK On Unit Comes In Range
 [W0KV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v0BN On Attack
 [W0L7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=2,1
-
-// v0BL Header
 [W0KW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Buttonpos=3,1
-
-// v0BP abils
 [W0L9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BX abils
 [W0LK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BX On Damage
 [W0LL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
@@ -3823,598 +2235,400 @@ Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.m
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0BY On Attack
 [W0LO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=3,1
-
-// v0C3 On Damage
 [W0M1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumRanged.blp
 Buttonpos=3,1
-
-// v0C4 On Attack
 [W0M2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v0BZ Header
 [W0LR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Buttonpos=3,1
-
-// v0BR On Damage
 [W0LC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=2,1
-
-// v0BS On Damage
 [W0LD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v0BT On Attack
 [W0LE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
 Buttonpos=3,1
-
-// v0BU abils
 [W0LF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BU Tower Aura
 [W0LG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Buttonpos=2,1
-
-// v0BV On Attack
 [W0LI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
 Buttonpos=3,1
-
-// v0BW On Attack
 [W0LJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=3,1
-
-// v0B6 abils
 [W0JZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BC Tower Aura
 [W0KA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumMelee.blp
 Buttonpos=2,1
-
-// v0B7 Header
 [W0K2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v0B0 abils
 [W0JR]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0B8 abils
 [W0K3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0B0 Header
 [W0JS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGhoulFrenzy.blp
 Buttonpos=2,1
-
-// v0B9 abils
 [W0K4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0B9 On Damage
 [W0K5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0B1 abils
 [W0JU]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BA On Damage
 [W0K6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0BB abils
 [W0K7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BB On Attack
 [W0K8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgElder.blp
 Buttonpos=2,1
-
-// v0B4 abils
 [W0JX]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BC abils
 [W0K9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BE Header
 [W0KJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
 Buttonpos=2,1
-
-// v0BG abils
 [W0KN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BG On Attack
 [W0KO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRedDragonDevour.blp
 Buttonpos=2,1
-
-// v0BH abils
 [W0KP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BM abils
 [W0L1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BH On Attack
 [W0KQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcBattleStandard.blp
 Buttonpos=2,1
-
-// v0BD abils
 [W0KC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BD Periodic
 [W0KD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=2,1
-
-// v0BD Tower Aura
 [W0KF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
 Buttonpos=1,1
-
-// v0BE abils
 [W0KI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CM On Attack
 [W0NA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Buttonpos=2,1
-
-// v0CM On Unit Comes In Range
 [W0NB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFelBoar.blp
 Buttonpos=1,1
-
-// v0CN On Damage
 [W0NC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v0CO On Attack
 [W0ND]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Buttonpos=3,1
-
-// v0CE abils
 [W0MT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CJ abils
 [W0N5]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CE Header
 [W0MU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Buttonpos=2,1
-
-// v0CJ On Attack
 [W0N6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v0CF abils
 [W0MW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CL Tower Aura
 [W0N8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Buttonpos=3,1
-
-// v0CG abils
 [W0MX]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CM abils
 [W0N9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CG On Unit Comes In Range
 [W0MY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAuraOfDarkness.blp
 Buttonpos=2,1
-
-// v0CG On Tower Creation
 [W0MZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=1,1
-
-// v0CU On Damage
 [W0NM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWhirlwind.blp
 Buttonpos=3,1
-
-// v0CU Header
 [W0NN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
 Buttonpos=2,1
-
-// v0CU On Attack
 [W0NO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=1,1
-
-// v0CV abils
 [W0NP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0D1 Tower Aura
 [W0O1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
 Buttonpos=3,1
-
-// v0I5 abils
 [W101]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CV On Attack
 [W0NQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalkerAdeptTraining.blp
 Buttonpos=2,1
-
-// Lightning Attack
 [W0O2]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0I5 On Damage
 [W102]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=2,1
-
-// v0CV On Damage
 [W0NR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpTwo.blp
 Buttonpos=1,1
-
-// v0D2 abils
 [W0O3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CW On Damage
 [W0NS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,1
-
-// v0D2 Tower Aura
 [W0O4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHornOfFog.blp
 Buttonpos=2,1
-
-// v0I6 On Damage
 [W104]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNParasite.blp
 Buttonpos=3,1
-
-// v0CQ abils
 [W0NE]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CQ On Damage
 [W0NF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// v0CQ On Kill
 [W0NG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
 Buttonpos=1,1
-
-// v0CR On Damage
 [W0NH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v0CS abils
 [W0NI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CS On Damage
 [W0NJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=2,1
-
-// v0CS On Attack
 [W0NK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=1,1
-
-// v0C7 On Damage
 [W0MA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// Blitzangriff dog
 [W0MB]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0C8 abils
 [W0MC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0BZ On Unit Comes In Range
 [W0LS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v0C5 abils
 [W0M4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0C0 abils
 [W0LT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0C5 On Attack
 [W0M5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v0C0 Header
 [W0LU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Buttonpos=2,1
-
-// v0C6 abils
 [W0M6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0C2 abils
 [W0LW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0C6 On Attack
 [W0M8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=2,1
-
-// v0C2 On Damage
 [W0LX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=2,1
-
-// v0C7 abils
 [W0M9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0C2 Tower Aura
 [W0LY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=1,1
-
-// v0CC abils
 [W0MN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CH abils
 [W0N0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CC On Attack
 [W0MP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v0CD On Attack
 [W0MR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
 Buttonpos=3,1
-
-// v0CI On Damage
 [W0N3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v0C8 On Damage
 [W0MD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v0C9 abils
 [W0ME]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CA On Tower Creation
 [W0MF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=3,1
-
-// v0CB abils
 [W0MI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CB On Spell Target
 [W0MJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=2,1
-
-// v0DF abils
 [W0PA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DF Header
 [W0PB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGhoulFrenzy.blp
 Buttonpos=2,1
-
-// v0II abils
 [W11C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DG abils
 [W0PD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0II Tower Aura
 [W11D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
@@ -4424,575 +2638,385 @@ Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.m
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0DH abils
 [W0PF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IJ On Attack
 [W11F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=3,1
-
-// Green Lightning Attack
 [W0OV]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=5000
 Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
 LightningEffect=MFPB
-
-// v0DE abils
 [W0P7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DB abils
 [W0OW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DE On Damage
 [W0P8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBoneChimes.blp
 Buttonpos=2,1
-
-// v0DB On Damage
 [W0OX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfSearinox.blp
 Buttonpos=2,1
-
-// v0DE Tower Aura
 [W0P9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
 Buttonpos=1,1
-
-// v0ID On Attack
 [W10X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Buttonpos=2,1
-
-// v0IG On Attack
 [W119]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNScout.blp
 Buttonpos=3,1
-
-// v0DB On Attack
 [W0OZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Buttonpos=1,1
-
-// v0DU On Attack
 [W0Q0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=3,1
-
-// v0IP On Damage
 [W120]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// v0DQ On Damage
 [W0PP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v0DV On Damage
 [W0Q1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
 Buttonpos=3,1
-
-// Blitzangriff dog
 [W121]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0DR abils
 [W0PQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Wrath Attack
 [W0Q2]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=10000
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0IQ abils
 [W122]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DR Header
 [W0PR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=2,1
-
-// v0DW abils
 [W0Q3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IQ On Damage
 [W123]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v0DW Tower Aura
 [W0Q4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v0IN On Attack
 [W11S]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNQuillSprayOff.blp
 Buttonpos=3,1
-
-// v0IR abils
 [W124]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DX Tower Aura
 [W0Q5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStrengthOfTheWild.blp
 Buttonpos=3,1
-
-// v0IT abils
 [W126]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DZ abils
 [W0Q7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IO On Kill
 [W11V]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBigBadVoodooSpell.blp
 Buttonpos=3,1
-
-// v0IT On Attack
 [W127]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWhirlwind.blp
 Buttonpos=2,1
-
-// v0DH On Damage
 [W0PG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
 Buttonpos=2,1
-
-// v0IK abils
 [W11G]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DH Tower Aura
 [W0PH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=1,1
-
-// v0IK Tower Aura
 [W11H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
 Buttonpos=2,1
-
-// v0DI abils
 [W0PI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IL abils
 [W11I]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DJ On Damage
 [W0PJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Buttonpos=3,1
-
-// v0IL On Damage
 [W11J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
 Buttonpos=2,1
-
-// v0DK On Damage
 [W0PK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v0IL Tower Aura
 [W11K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=1,1
-
-// v0DL abils
 [W0PL]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IM abils
 [W11L]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DM abils
 [W0PM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IM Header
 [W11M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfAszune.blp
 Buttonpos=2,1
-
-// v0DN abils
 [W0PN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IM Periodic
 [W11N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=1,1
-
-// v0I8 On Unit Comes In Range
 [W10A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAuraOfDarkness.blp
 Buttonpos=2,1
-
-// v0I8 On Tower Creation
 [W10B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=1,1
-
-// v0I9 abils
 [W10C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0D4 Header
 [W0OD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
 Buttonpos=3,1
-
-// v0I9 On Attack
 [W10D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
 Buttonpos=2,1
-
-// v0IA abils
 [W10E]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CW On Attack
 [W0NU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=2,1
-
-// v0I7 Header
 [W106]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,1
-
-// v0CX On Damage
 [W0NV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNParasite.blp
 Buttonpos=3,1
-
-// v0I7 On Damage
 [W107]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0CY Periodic
 [W0NW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,1
-
-// v0D3 abils
 [W0O8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CY On Kill
 [W0NX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCarrionSwarm.blp
 Buttonpos=2,1
-
-// v0D3 On Damage
 [W0O9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=2,1
-
-// v0I8 abils
 [W109]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0CZ On Damage
 [W0NY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
 Buttonpos=3,1
-
-// v0CZ Tower Aura
 [W0NZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=2,1
-
-// v0D7 On Damage
 [W0ON]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSilence.blp
 Buttonpos=2,1
-
-// v0IC abils
 [W10N]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0D7 Periodic
 [W0OO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGenericSpellImmunity.blp
 Buttonpos=1,1
-
-// v0DC abils
 [W0P0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IC On Attack
 [W10O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=2,1
-
-// v0D8 On Damage
 [W0OP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
 Buttonpos=3,1
-
-// v0DC On Damage
 [W0P1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=2,1
-
-// v0IC On Spell Target
 [W10P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Buttonpos=1,1
-
-// v0DC Periodic
 [W0P2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaBurrow.blp
 Buttonpos=1,1
-
-// v0IC Tower Aura
 [W10Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
 Buttonpos=0,1
-
-// v0DC On Attack
 [W0P3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaUnBurrow.blp
 Buttonpos=0,1
-
-// v0IE On Damage
 [W113]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Buttonpos=3,1
-
-// v0DD abils
 [W0P4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IE Tower Aura
 [W114]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaRecharge.blp
 Buttonpos=2,1
-
-// v0DA abils
 [W0OT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0DD On Damage
 [W0P5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarfall.blp
 Buttonpos=2,1
-
-// v0ID On Damage
 [W10T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=3,1
-
-// v0IE On Attack
 [W115]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Buttonpos=1,1
-
-// v0DA On Damage
 [W0OU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v0DD On Attack
 [W0P6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
 Buttonpos=1,1
-
-// v0D5 abils
 [W0OF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IA Header
 [W10F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStormHammer.blp
 Buttonpos=2,1
-
-// v0D5 On Damage
 [W0OG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=2,1
-
-// v0IA On Attack
 [W10H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStormBolt.blp
 Buttonpos=1,1
-
-// v0IB abils
 [W10J]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0D6 On Attack
 [W0OK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v0IB On Spell Target
 [W10K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=2,1
-
-// v0D6 Tower Aura
 [W0OL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Buttonpos=2,1
-
-// v0D7 abils
 [W0OM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EH On Attack
 [W0RA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
 Buttonpos=3,1
-
-// v0EI abils
 [W0RB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EJ abils
 [W0RC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
@@ -5002,2173 +3026,1451 @@ Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.m
 Missilespeed=1500
 Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 LightningEffect=CHIM
-
-// v0EJ On Damage
 [W0RD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0J6 abils
 [W13D]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EK On Damage
 [W0RE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
 Buttonpos=3,1
-
-// v0J6 On Damage
 [W13E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
 Buttonpos=2,1
-
-// v0EL abils
 [W0RF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J6 On Damage
 [W13F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=1,1
-
-// v0EL On Attack
 [W0RG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
 Buttonpos=2,1
-
-// v0EL On Damage
 [W0RH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Buttonpos=1,1
-
-// v0J6 On Attack
 [W13H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBronzeDragon.blp
 Buttonpos=0,1
-
-// v0EG Tower Aura
 [W0R9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
 Buttonpos=1,1
-
-// v0J3 On Damage
 [W12X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpellSteal.blp
 Buttonpos=2,1
-
-// v0J5 Header
 [W139]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Buttonpos=2,1
-
-// v0EA abils
 [W0QY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J3 Tower Aura
 [W12Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSleep.blp
 Buttonpos=1,1
-
-// v0J3 Periodic
 [W12Z]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=0,1
-
-// v0EY On Attack
 [W0S2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=3,1
-
-// v0J9 On Damage
 [W13Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=2,1
-
-// v0JC On Unit Comes In Range
 [W142]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=1,1
-
-// v0EQ Header
 [W0RR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=3,1
-
-// v0EY On Damage
 [W0S3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
 Buttonpos=2,1
-
-// v0J9 Tower Aura
 [W13R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFarSight.blp
 Buttonpos=1,1
-
-// v0EQ On Kill
 [W0RS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=2,1
-
-// v0EZ abils
 [W0S4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JA abils
 [W13S]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0ES Header
 [W0RT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThornShield.blp
 Buttonpos=3,1
-
-// v0F0 On Damage
 [W0S5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Buttonpos=3,1
-
-// v0JA On Attack
 [W13T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0EU On Damage
 [W0RU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
 Buttonpos=3,1
-
-// v0JA Header
 [W13U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNInnerFireOn.blp
 Buttonpos=1,1
-
-// v0JD abils
 [W146]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EU On Attack
 [W0RV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
 Buttonpos=2,1
-
-// v0F8 abils
 [W0S7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JD On Attack
 [W147]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBronzeDragon.blp
 Buttonpos=2,1
-
-// v0F8 On Damage
 [W0S8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
 Buttonpos=2,1
-
-// v0JB Tower Aura
 [W13W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
 Buttonpos=3,1
-
-// v0JD Header
 [W148]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Buttonpos=1,1
-
-// v0F9 Periodic
 [W0S9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyArmor.blp
 Buttonpos=3,1
-
-// v0JD Periodic
 [W149]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Buttonpos=0,1
-
-// v0EM abils
 [W0RJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J7 On Attack
 [W13J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v0EM On Damage
 [W0RK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Buttonpos=2,1
-
-// v0J7 Header
 [W13K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v0J7 On Damage
 [W13L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCleavingAttack.blp
 Buttonpos=1,1
-
-// v0EN On Damage
 [W0RM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0J8 abils
 [W13M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EO On Damage
 [W0RN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=3,1
-
-// v0J8 On Damage
 [W13N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSilence.blp
 Buttonpos=2,1
-
-// v0EP abils
 [W0RO]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EX On Damage
 [W0S0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0J8 Periodic
 [W13O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGenericSpellImmunity.blp
 Buttonpos=1,1
-
-// v0JC On Damage
 [W140]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v0EP On Attack
 [W0RP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImpale.blp
 Buttonpos=2,1
-
-// v0J9 abils
 [W13P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IV Header
 [W12A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v0E1 abils
 [W0QB]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E2 abils
 [W0QC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E2 Header
 [W0QD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v0IW Header
 [W12D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfAszune.blp
 Buttonpos=3,1
-
-// v0IW On Damage
 [W12E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=2,1
-
-// v0E3 abils
 [W0QF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IW On Tower Creation
 [W12F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=1,1
-
-// v0E3 On Attack
 [W0QG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0DS abils
 [W0PW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E0 abils
 [W0Q8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0IO On Attack
 [W11W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
 Buttonpos=2,1
-
-// v0DS Header
 [W0PX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBanish.blp
 Buttonpos=2,1
-
-// v0IO Tower Aura
 [W11X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTheBlackArrow.blp
 Buttonpos=1,1
-
-// v0IV On Attack
 [W129]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0DT On Attack
 [W0PY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=3,1
-
-// v0DT Header
 [W0PZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v0IP abils
 [W11Z]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E6 On Attack
 [W0QP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=1,1
-
-// v0EB abils
 [W0R1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J1 abils
 [W12P]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E7 abils
 [W0QQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J1 Header
 [W12Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=2,1
-
-// v0J4 On Attack
 [W132]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaRecharge.blp
 Buttonpos=3,1
-
-// v0E8 abils
 [W0QR]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0EB Tower Aura
 [W0R3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Buttonpos=2,1
-
-// v0J4 Header
 [W133]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
 Buttonpos=2,1
-
-// v0E9 On Attack
 [W0QS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v0EE abils
 [W0R4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J4 On Damage
 [W134]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaUnBurrow.blp
 Buttonpos=1,1
-
-// v0E9 Header
 [W0QT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v0EE On Kill
 [W0R5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=2,1
-
-// v0J2 abils
 [W12T]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J4 Periodic
 [W135]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfTeleportation.blp
 Buttonpos=0,1
-
-// v0E9 On Damage
 [W0QU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCleavingAttack.blp
 Buttonpos=1,1
-
-// v0EF Tower Aura
 [W0R6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Buttonpos=3,1
-
-// v0J2 On Damage
 [W12U]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPillage.blp
 Buttonpos=2,1
-
-// v0EG abils
 [W0R7]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J2 Header
 [W12V]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTransmute.blp
 Buttonpos=1,1
-
-// v0EG On Attack
 [W0R8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcBattleStandard.blp
 Buttonpos=2,1
-
-// v0J3 On Attack
 [W12W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
 Buttonpos=3,1
-
-// v0J5 abils
 [W138]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E3 Header
 [W0QH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNInnerFireOn.blp
 Buttonpos=1,1
-
-// v0E4 abils
 [W0QI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E5 On Damage
 [W0QJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfTeleportation.blp
 Buttonpos=3,1
-
-// v0E5 Tower Aura
 [W0QK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=2,1
-
-// v0IZ abils
 [W12K]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// Weak Spots
 [W0QM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNScout.blp
 Buttonpos=2,2
 Casterart=
-
-// v0J0 abils
 [W12M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0E6 abils
 [W0QN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0J0 On Damage
 [W12N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBattleRoar.blp
 Buttonpos=2,1
-
-// v0E6 Periodic
 [W0QO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
 Buttonpos=2,1
-
-// v0J0 On Kill
 [W12O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
 Buttonpos=1,1
-
-// v0JM On Unit Comes In Range
 [W15C]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
 Buttonpos=1,1
-
-// v0FR abils
 [W0TD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JM Tower Aura
 [W15D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=0,1
-
-// Reimbursement
 [W0TF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPillage.blp
 Buttonpos=1,2
-
-// Probability Field Emitter
 [W0TG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGoblinLandMine.blp
 Buttonpos=1,2
-
-// v0FS Header
 [W0TH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNClockWerkGoblin.blp
 Buttonpos=3,1
-
-// Weak Spots
 [W15H]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNScout.blp
 Buttonpos=2,2
 Casterart=
-
-// v0FS On Attack
 [W0TI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Buttonpos=2,1
-
-// v0JN abils
 [W15I]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JN Periodic
 [W15J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNeutralManaShield.blp
 Buttonpos=2,1
-
-// v0FL On Kill
 [W0SZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStormHammer.blp
 Buttonpos=2,1
-
-// v0FP Header
 [W0TA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v0JM abils
 [W15A]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FQ Header
 [W0TB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Buttonpos=3,1
-
-// v0JM On Damage
 [W15B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v0FW On Damage
 [W0TS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=3,1
-
-// v0G3 abils
 [W0U4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FX abils
 [W0TT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0G3 Header
 [W0U5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPickUpItem.blp
 Buttonpos=2,1
-
-// v0JT On Attack
 [W165]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
 Buttonpos=3,1
-
-// v0FX On Damage
 [W0TU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=2,1
-
-// v0G4 abils
 [W0U6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JT On Kill
 [W166]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v0G4 On Damage
 [W0U7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=2,1
-
-// v0JT On Damage
 [W167]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=1,1
-
-// v0G5 abils
 [W0U8]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JR Periodic
 [W15W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlink.blp
 Buttonpos=3,1
-
-// v0FY On Attack
 [W0TX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
 Buttonpos=3,1
-
-// v0G5 On Damage
 [W0U9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v0FZ abils
 [W0TY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JR Tower Aura
 [W15Y]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
 Buttonpos=2,1
-
-// v0JN On Attack
 [W15K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=1,1
-
-// v0JO On Damage
 [W15L]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v0FT On Damage
 [W0TM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
 Buttonpos=3,1
-
-// v0JO Header
 [W15M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNColdArrows.blp
 Buttonpos=2,1
-
-// v0FU abils
 [W0TN]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FU On Damage
 [W0TO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
 Buttonpos=2,1
-
-// v0G1 Header
 [W0U0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Buttonpos=3,1
-
-// v0JQ abils
 [W15O]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JS abils
 [W160]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FU Tower Aura
 [W0TP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Buttonpos=1,1
-
-// v0G1 On Unit Comes In Range
 [W0U1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v0JQ On Damage
 [W15P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLiquidFire.blp
 Buttonpos=2,1
-
-// v0JS On Attack
 [W161]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTornado.blp
 Buttonpos=2,1
-
-// v0FV abils
 [W0TQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JQ Tower Aura
 [W15Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=1,1
-
-// v0JS Header
 [W162]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=1,1
-
-// v0FV On Attack
 [W0TR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
 Buttonpos=2,1
-
-// v0G2 On Damage
 [W0U3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
 Buttonpos=3,1
-
-// v0JQ Tower Aura
 [W15R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
 Buttonpos=0,1
-
-// v0JS Tower Aura
 [W163]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
 Buttonpos=0,1
-
-// v0FA Header
 [W0SB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPlagueCloud.blp
 Buttonpos=2,1
-
-// v0FA Periodic
 [W0SC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=1,1
-
-// v0JE abils
 [W14C]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JE On Kill
 [W14D]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCannibalize.blp
 Buttonpos=2,1
-
-// v0JE On Damage
 [W14E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=1,1
-
-// v0FC On Damage
 [W0SF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostmourne.blp
 Buttonpos=3,1
-
-// v0JE Periodic
 [W14F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImpale.blp
 Buttonpos=0,1
-
-// v0FC Tower Aura
 [W0SG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Buttonpos=2,1
-
-// v0JF abils
 [W14H]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JF Header
 [W14I]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Buttonpos=2,1
-
-// v0EV On Damage
 [W0RY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
 Buttonpos=3,1
-
-// v0EW abils
 [W0RZ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JC abils
 [W13Z]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FA abils
 [W0SA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FH On Damage
 [W0SR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v0FM On Damage
 [W0T3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGrabTree.blp
 Buttonpos=2,1
-
-// v0JH On Attack
 [W14R]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
 Buttonpos=2,1
-
-// v0FI Header
 [W0SS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=3,1
-
-// v0FM Periodic
 [W0T4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHardenedSkin.blp
 Buttonpos=1,1
-
-// v0JH Header
 [W14S]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
 Buttonpos=1,1
-
-// v0FI On Attack
 [W0ST]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDizzy.blp
 Buttonpos=2,1
-
-// v0FM On Attack
 [W0T5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
 Buttonpos=0,1
-
-// v0JH On Damage
 [W14T]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
 Buttonpos=0,1
-
-// v0FJ On Damage
 [W0SU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
 Buttonpos=3,1
-
-// v0FK abils
 [W0SV]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JJ On Attack
 [W14V]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
 Buttonpos=3,1
-
-// v0JJ Header
 [W14W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
 Buttonpos=2,1
-
-// v0FK On Attack
 [W0SX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNManaDrain.blp
 Buttonpos=2,1
-
-// v0FP abils
 [W0T9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JJ On Damage
 [W14X]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
 Buttonpos=1,1
-
-// v0FL abils
 [W0SY]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FD On Damage
 [W0SJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImmolationOn.blp
 Buttonpos=3,1
-
-// v0JF On Attack
 [W14J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
 Buttonpos=1,1
-
-// v0FF Header
 [W0SK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
 Buttonpos=3,1
-
-// v0JF Tower Aura
 [W14K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=0,1
-
-// v0FG Header
 [W0SL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctorAdept.blp
 Buttonpos=3,1
-
-// v0JG abils
 [W14M]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0FG On Attack
 [W0SN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctorMaster.blp
 Buttonpos=2,1
-
-// v0FL On Damage
 [W0T0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=1,1
-
-// v0JG Tower Aura
 [W14O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Buttonpos=2,1
-
-// v0FM abils
 [W0T2]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JH abils
 [W14Q]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JL Header
 [W152]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=3,1
-
-// v0GK abils
 [W0VE]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0K8 Header
 [W17E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=3,1
-
-// v0GK On Damage
 [W0VF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNImprovedUnholyStrength.blp
 Buttonpos=2,1
-
-// v0K8 Tower Aura
 [W17F]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalLongevity.blp
 Buttonpos=2,1
-
-// v0GK On Kill
 [W0VH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
 Buttonpos=1,1
-
-// v0K9 abils
 [W17I]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GL abils
 [W0VJ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0K9 Header
 [W17J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v0GL On Unit Comes In Range
 [W0VK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v0K9 On Kill
 [W17K]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHowlOfTerror.blp
 Buttonpos=1,1
-
-// v0GI On Attack
 [W0VA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
 Buttonpos=3,1
-
-// v0K6 On Attack
 [W17A]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
 Buttonpos=2,1
-
-// v0GJ On Tower Creation
 [W0VB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=3,1
-
-// v0K6 On Damage
 [W17B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRegenerate.blp
 Buttonpos=1,1
-
-// v0GQ abils
 [W0VW]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GT abils
 [W0W9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GQ On Attack
 [W0VY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
 Buttonpos=2,1
-
-// v0GR On Damage
 [W0VZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThoriumRanged.blp
 Buttonpos=3,1
-
-// v0GN abils
 [W0VM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0KA On Attack
 [W17M]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,1
-
-// v0GN Header
 [W0VN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=2,1
-
-// v0KA Header
 [W17N]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDwarvenLongRifle.blp
 Buttonpos=2,1
-
-// v0GO abils
 [W0VO]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0KA On Kill
 [W17O]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=1,1
-
-// v0GS On Damage
 [W0W1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=3,1
-
-// v0GO Tower Aura
 [W0VQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
 Buttonpos=2,1
-
-// v0GS On Unit Comes In Range
 [W0W3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
 Buttonpos=2,1
-
-// v0GS Tower Aura
 [W0W4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTranquility.blp
 Buttonpos=1,1
-
-// v0GP Header
 [W0VT]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=3,1
-
-// v0G8 abils
 [W0UD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0G8 On Attack
 [W0UE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRedDragonDevour.blp
 Buttonpos=2,1
-
-// v0JU Tower Aura
 [W16E]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
 Buttonpos=1,1
-
-// v0G9 abils
 [W0UF]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0G9 Periodic
 [W0UG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
 Buttonpos=2,1
-
-// v0G9 On Attack
 [W0UH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Buttonpos=1,1
-
-// v0GA abils
 [W0UI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JW abils
 [W16I]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JW Tower Aura
 [W16J]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=2,1
-
-// v0GA On Attack
 [W0UK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNTornado.blp
 Buttonpos=2,1
-
-// v0G6 Header
 [W0UA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=3,1
-
-// v0JU abils
 [W16A]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0G7 On Attack
 [W0UB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Buttonpos=3,1
-
-// v0JU Header
 [W16B]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
 Buttonpos=2,1
-
-// v0GH On Damage
 [W0V5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,1
-
-// v0GH Tower Aura
 [W0V6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCurse.blp
 Buttonpos=2,1
-
-// v0GE On Damage
 [W0UV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Buttonpos=3,1
-
-// v0GH On Attack
 [W0V7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Buttonpos=1,1
-
-// v0JY abils
 [W16V]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GE On Attack
 [W0UW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
 Buttonpos=2,1
-
-// v0JY Header
 [W16W]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=2,1
-
-// v0K6 abils
 [W179]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JZ abils
 [W16Y]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GF On Attack
 [W0UZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
 Buttonpos=3,1
-
-// v0JZ Header
 [W16Z]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Buttonpos=2,1
-
-// v0GB On Attack
 [W0UL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDevour.blp
 Buttonpos=3,1
-
-// v0GB Tower Aura
 [W0UM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiendBurrow.blp
 Buttonpos=2,1
-
-// v0GC abils
 [W0UO]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GG abils
 [W0V0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0JX abils
 [W16O]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GC On Attack
 [W0UP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgElder.blp
 Buttonpos=2,1
-
-// v0GG On Attack
 [W0V1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlakCannons.blp
 Buttonpos=2,1
-
-// v0JX On Damage
 [W16P]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLifeDrain.blp
 Buttonpos=2,1
-
-// v0GD abils
 [W0UQ]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GG On Unit Comes In Range
 [W0V2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
 Buttonpos=1,1
-
-// v0JX Tower Aura
 [W16Q]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=1,1
-
-// v0JZ On Attack
 [W172]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=1,1
-
-// v0GD On Damage
 [W0UR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v0K2 On Level Up
 [W173]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStatUp.blp
 Buttonpos=3,1
-
-// v0K2 Header
 [W174]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Buttonpos=2,1
-
-// v0HC On Damage
 [W0XG]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
 Buttonpos=3,1
-
-// v0HC Tower Aura
 [W0XH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFeedBack.blp
 Buttonpos=2,1
-
-// v0HD Tower Aura
 [W0XM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenation.blp
 Buttonpos=3,1
-
-// v0H8 On Attack
 [W0XA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Buttonpos=2,1
-
-// v0H9 Tower Aura
 [W0XB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFlare.blp
 Buttonpos=3,1
-
-// v0HA abils
 [W0XD]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HA Header
 [W0XE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
 Buttonpos=2,1
-
-// v0HB Tower Aura
 [W0XF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
 Buttonpos=3,1
-
-// v0HH On Attack
 [W0XW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Buttonpos=3,1
-
-// v0HN Tower Aura
 [W0Y8]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
 Buttonpos=2,1
-
-// v0HI abils
 [W0XX]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HI On Kill
 [W0XZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v0HK abils
 [W0Y0]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HE abils
 [W0XP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HK On Attack
 [W0Y1]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNHumanArtilleryUpOne.blp
 Buttonpos=2,1
-
-// v0HE On Damage
 [W0XQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNGolemThunderclap.blp
 Buttonpos=2,1
-
-// v0HL Periodic
 [W0Y2]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=3,1
-
-// v0HE Tower Aura
 [W0XR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEarthquake.blp
 Buttonpos=1,1
-
-// v0HL On Kill
 [W0Y3]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCarrionSwarm.blp
 Buttonpos=2,1
-
-// v0HM abils
 [W0Y4]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HM On Unit Comes In Range
 [W0Y5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDarkSummoning.blp
 Buttonpos=2,1
-
-// v0HF On Damage
 [W0XU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v0HG Header
 [W0XV]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
 Buttonpos=3,1
-
-// v0HN On Damage
 [W0Y7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMassTeleport.blp
 Buttonpos=3,1
-
-// v0GV Header
 [W0WF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
 Buttonpos=3,1
-
-// v0GX abils
 [W0WG]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GX Tower Aura
 [W0WI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
 Buttonpos=2,1
-
-// v0GZ On Attack
 [W0WK]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
 Buttonpos=3,1
-
-// v0H0 abils
 [W0WM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GT On Attack
 [W0WA]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Buttonpos=2,1
-
-// v0GT On Unit Comes In Range
 [W0WB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFelBoar.blp
 Buttonpos=1,1
-
-// v0GU abils
 [W0WC]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0GU On Attack
 [W0WD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStun.blp
 Buttonpos=2,1
-
-// v0H4 abils
 [W0WV]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0H5 On Damage
 [W0WW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMetamorphosis.blp
 Buttonpos=3,1
-
-// v0H5 Tower Aura
 [W0WX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBansheeAdept.blp
 Buttonpos=2,1
-
-// v0H8 abils
 [W0X9]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0H0 On Damage
 [W0WN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
 Buttonpos=2,1
-
-// v0H0 On Attack
 [W0WO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
 Buttonpos=1,1
-
-// v0H1 On Damage
 [W0WP]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=3,1
-
-// v0H1 On Attack
 [W0WR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLocustSwarm.blp
 Buttonpos=2,1
-
-// v0H6 abils
 [W0X3]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0H6 On Damage
 [W0X4]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPossession.blp
 Buttonpos=2,1
-
-// v0H3 abils
 [W0WT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0H6 Tower Aura
 [W0X5]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=1,1
-
-// v0H3 On Attack
 [W0WU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
 Buttonpos=2,1
-
-// v0H6 Periodic
 [W0X6]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShadowMeld.blp
 Buttonpos=0,1
-
-// v0I0 abils
 [W0ZI]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0I0 On Damage
 [W0ZJ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFaerieFire.blp
 Buttonpos=2,1
-
-// v0I1 abils
 [W0ZM]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0I1 On Damage
 [W0ZN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNStarfall.blp
 Buttonpos=2,1
-
-// v0I1 On Attack
 [W0ZO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
 Buttonpos=1,1
-
-// v0I2 abils
 [W0ZP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HY abils
 [W0ZA]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HY On Damage
 [W0ZB]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNBlizzard.blp
 Buttonpos=2,1
-
-// v0HY Periodic
 [W0ZC]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaBurrow.blp
 Buttonpos=1,1
-
-// v0HY On Attack
 [W0ZD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNNagaUnBurrow.blp
 Buttonpos=0,1
-
-// v0HZ abils
 [W0ZE]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HZ On Damage
 [W0ZF]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Buttonpos=2,1
-
-// v0I4 On Damage
 [W0ZY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Buttonpos=2,1
-
-// v0I2 On Damage
 [W0ZQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
 Buttonpos=2,1
-
-// v0I3 abils
 [W0ZT]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0I3 On Damage
 [W0ZU]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Buttonpos=2,1
-
-// v0I4 abils
 [W0ZX]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HQ On Attack
 [W0YH]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Buttonpos=2,1
-
-// v0HQ Tower Aura
 [W0YI]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNPurge.blp
 Buttonpos=1,1
-
-// v0HR abils
 [W0YK]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HR Header
 [W0YL]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
 Buttonpos=2,1
-
-// v0HS On Damage
 [W0YM]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNWhirlwind.blp
 Buttonpos=3,1
-
-// v0HS Header
 [W0YN]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
 Buttonpos=2,1
-
-// v0HS On Attack
 [W0YO]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=1,1
-
-// v0HW Tower Aura
 [W0Z0]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
 Buttonpos=2,1
-
-// v0HP On Attack
 [W0YD]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
 Buttonpos=3,1
-
-// v0HP Tower Aura
 [W0YE]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Buttonpos=2,1
-
-// v0HQ abils
 [W0YG]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HU On Damage
 [W0YX]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpTwo.blp
 Buttonpos=1,1
-
-// v0HX On Attack
 [W0Z9]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNReplenishHealth.blp
 Buttonpos=1,1
-
-// v0HV Tower Aura
 [W0YY]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMagicImmunity.blp
 Buttonpos=3,1
-
-// v0HW Header
 [W0YZ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
 Buttonpos=3,1
-
-// v0HT abils
 [W0YP]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HW On Unit Comes In Range
 [W0Z1]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
 Buttonpos=1,1
-
-// v0HT On Attack
 [W0YQ]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNUnholyFrenzy.blp
 Buttonpos=2,1
-
-// v0HT Header
 [W0YR]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNMurgalSlave.blp
 Buttonpos=1,1
-
-// v0HT On Damage
 [W0YS]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNEnsnare.blp
 Buttonpos=0,1
-
-// Green Lightning Attack
 [W0Z5]
 Missileart=Abilities\Weapons\ChimaeraLightningMissile\ChimaeraLightningMissile.mdl
 Missilespeed=5000
 Targetart=Abilities\Spells\Human\ManaFlare\ManaFlareBoltImpact.mdl
 LightningEffect=MFPB
-
-// v0HX abils
 [W0Z6]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HU abils
 [W0YV]
 Requires=
 Art=ReplaceableTextures\PassiveButtons\PASBTNScatterRockets.blp
 Buttonpos=3,1
-
-// v0HX On Damage
 [W0Z7]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfSearinox.blp
 Buttonpos=2,1
-
-// v0HU On Attack
 [W0YW]
 Requires=
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalkerAdeptTraining.blp
 Buttonpos=2,1
-
-// Evade
 [WC00]
 Art=ReplaceableTextures\PassiveButtons\PASBTNEvasion.blp
 Buttonpos=2,2
 Researchart=ReplaceableTextures\CommandButtons\BTNEvasion.blp
 Researchbuttonpos=2,0
-
-// Xtreme Evade
 [WC02]
 Art=ReplaceableTextures\PassiveButtons\PASBTNEvasion.blp
 Buttonpos=2,2
 Researchart=ReplaceableTextures\CommandButtons\BTNEvasion.blp
 Researchbuttonpos=2,0
-
-// Banish effect
 [EBAN]
 Art=
 Buttonpos=0,0
@@ -7181,105 +4483,75 @@ Effectsoundlooped=CycloneLoop
 Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Targetart=
 Targetattach=
-
-// Phaze
 [R00E]
 Spelldetail=1
 Targetart=
 Targetattach=
 Buffart=ReplaceableTextures\CommandButtons\BTNPurge.blp
-
-// Burning
 [R030]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Targetart=
 Targetattachcount=1
-
-// Goldrush
 [R019]
 Buffart=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
 Targetart=
 Targetattach=
 Targetattachcount=1
-
-// Themal Boost
 [R017]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
 Targetart=
 Targetattach=
-
-// Voodoo Magic
 [R014]
 Buffart=ReplaceableTextures\CommandButtons\BTNWindSerpent.blp
 Targetart=
 Targetattach=
-
-// Burning
 [R01M]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Targetart=
 Targetattachcount=1
-
-// Corrupted
 [R01K]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
 Targetart=
 Targetattachcount=2
-
-// Xeno Vulnerability Research
 [R03Y]
 Spelldetail=2
 Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Targetart=
 Targetattach=
-
-// Shaman Totem
 [R04K]
 Buffart=ReplaceableTextures\CommandButtons\BTNWitchDoctorAdept.blp
 Targetart=
 Targetattach=
 EffectArt=Abilities\Spells\Other\SoulBurn\SoulBurnbuff.mdl
 Targetattachcount=1
-
-// Fighter Totem
 [R04I]
 Buffart=ReplaceableTextures\CommandButtons\BTNWitchDoctorMaster.blp
 Targetart=
 Targetattach=
 EffectArt=Abilities\Spells\Other\SoulBurn\SoulBurnbuff.mdl
 Targetattachcount=1
-
-// Entangling Roots
 [R055]
 Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Targetart=
 Targetattach=
-
-// Poison
 [R02Z]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Targetart=
 Targetattachcount=1
-
-// Corrupted
 [R02Y]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
 Targetart=
 Targetattachcount=2
-
-// Cleansing Water
 [R02U]
 Buffart=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
 Targetart=
 Targetattach=
-
-// Corrupted
 [R05Z]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
@@ -7289,29 +4561,21 @@ Targetattachcount=2
 Buffart=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
 Targetart=
 Targetattach=
-
-// Startled
 [R05Q]
 Spelldetail=1
 Targetart=
 Targetattach=
 Buffart=ReplaceableTextures\CommandButtons\BTNMassTeleport.blp
-
-// Poison
 [R060]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNSlowPoison.blp
 Targetart=
 Targetattachcount=1
-
-// Burning
 [R061]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
 Targetart=
 Targetattachcount=1
-
-// Command
 [R08I]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNBloodMage2.blp
@@ -7326,4 +4590,3 @@ Buffart=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Buffart=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 [R07T]
 Buffart=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
-

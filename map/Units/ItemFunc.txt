@@ -1,189 +1,74 @@
-//townhall tier 1 dependency
 [TWN1]
 DependencyOr=htow,ogre,etol,unpl
 XPFactor=0
-
-//townhall teir 2 dependency
 [TWN2]
 DependencyOr=hkee,ostr,etoa,unp1
 XPFactor=0
-
-//townhall teir 3 dependency
 [TWN3]
 DependencyOr=hcas,ofrt,etoe,unp2
 XPFactor=0
-
-//altar dependency
 [TALT]
 DependencyOr=halt,oalt,eate,uaod
-
 [ciri]
 Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
-
 [mdpb]
 Art=ReplaceableTextures\CommandButtons\BTNPebble.blp
-
-// slippers of agility +2
-
 [ofir]
 Buttonpos=0,2
 Requires=hcas
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
-
-[oli2]
-Buttonpos=0,2
-Requires=ofrt
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-
-[oven]
-Buttonpos=0,2
-Requires=etoe
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-
-[ocor]
-Buttonpos=0,2
-Requires=unp2
-Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
-
-// potion of divinity
-
 [phea]
 Requires=TWN2
 Buttonpos=0,1
 Art=ReplaceableTextures\CommandButtons\BTNPotionGreenSmall.blp
-
 [pman]
 Requires=TWN2
 Buttonpos=1,1
 Art=ReplaceableTextures\CommandButtons\BTNPotionBlueSmall.blp
-
-[shea]
-Requires=unp2
-Buttonpos=1,2
-Art=ReplaceableTextures\CommandButtons\BTNScrollOfTownPortal.blp
-
 [stwp]
 Requires=TWN2
 Buttonpos=2,1
 Art=ReplaceableTextures\CommandButtons\BTNScrollUber.blp
-
-[rnec]
-Art=ReplaceableTextures\CommandButtons\BTNRodOfNecromancy.blp
-
-// antibody potion
-[pams]
-Requires=etoe
-Buttonpos=1,2
-Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
-
-// cloak of flames
-
 [afac]
 Art=ReplaceableTextures\CommandButtons\BTNAlleriaFlute.blp
-
-// ancient janggo of endurance
-
-[hslv]
-Buttonpos=0,0
-Art=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
-
-// Clarity Potion
 [plcl]
 Buttonpos=1,0
 Art=ReplaceableTextures\CommandButtons\BTNLesserClarityPotion.blp
-
-// Minor Rejuvenation Potion
 [sreg]
 Buttonpos=0,0
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfRegenerationGreen.blp
-
-// Chest of Gold
-[skul]
-ButtonPos=2,0
-Requires=ugrv
-Art=ReplaceableTextures\CommandButtons\BTNSacrificialSkull.blp
-
-// Moonstone
-[moon]
-Buttonpos=0,0
-Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
-
-// Vampiric Potion
 [tsct]
 Buttonpos=3,1
 Requires=hkee
 Art=ReplaceableTextures\CommandButtons\BTNHumanWatchTower.blp
-
-// Tiny Great Hall
-[tgrh]
-Buttonpos=1,2
-Requires=ofrt
-Art=ReplaceableTextures\CommandButtons\BTNGreathall.blp
-
-// Wand of Shadowsight
-[spre]
-Buttonpos=3,1
-Requires=etoa
-Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Mechanical Critter
 [mcri]
 ButtonPos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNMechanicalCritter.blp
-
-// Amulet of Spell Shield
 [ssan]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
 Requires=hcas
 Buttonpos=1,2
-
-// Scroll of Speed
-[shas]
-Buttonpos=1,0
-Art=ReplaceableTextures\CommandButtons\BTNScrollOfHaste.blp
-
-// Dust of Appearance
-[dust]
-Art=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
-Buttonpos=3,0
-
-// Orb of Slow
-
 [I051]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfOmniscience.blp
-
-// |cff0080FFArcane Oil of Sorcery|r
 [I050]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNGreaterInvisibility.blp
-
-// |cff0080FFOil of Lore|r
 [I053]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNLesserRejuvPotion.blp
-
-// |cff0080FFArcane Oil of Swiftness|r
 [I052]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNRejuvPotion.blp
-
-// |cff0080FFArcane Oil of Accuracy|r
 [I055]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNLesserInvulneralbility.blp
-
-// |cff0080FFSeeker's Oil|r
 [I054]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNLesserClarityPotion.blp
-
-// |cff0080FFArcane Oil of Sharpness|r
 [I057]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionGreen.blp
-
-// |cffFFFF00Arcane Oil of Lore|r
 [I056]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNGreaterRejuvPotion.blp
@@ -196,46 +81,30 @@ Art=ReplaceableTextures\CommandButtons\BTNGreaterInvisibility.blp
 [I05A]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfDivinity.blp
-
-// |cffFFFF00Seeker's Arcane Oil|r
 [I05C]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfClarity.blp
-
-// |cffFFFFFFOil of Sharpness|r
 [I05B]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionGreenSmall.blp
-
-// |cffFFFFFFOil of Magic|r
 [I05E]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionBlueSmall.blp
 [I05D]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNVialEmpty.blp
-
-// |cffFFFFFFOil of Accuracy|r
 [I05G]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionRed.blp
-
-// |cffFFFFFFOil of Swiftness|r
 [I05F]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNMinorRejuvPotion.blp
-
-// |cffFFFF00Divine Oil of Accuracy|r
 [I05I]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNGreaterInvulneralbility.blp
-
-// |cffFFFFFFOil of Sorcery|r
 [I05H]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNLesserInvisibility.blp
-
-// |cff0080FFOil of Exuberance|r
 [I05K]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNVialFull.blp
@@ -245,23 +114,15 @@ Art=ReplaceableTextures\CommandButtons\BTNPotionOfVampirism.blp
 [I05M]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNUrnOfKelThuzad.blp
-
-// |cffFF00BFTears of the Gods|r
 [I05L]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// |cffFFFF00Divine Oil of Swiftness|r
 [I05O]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNRejuvenationPotion.blp
-
-// |cff0080FFArcane Oil of Magic|r
 [I060]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionBlue.blp
-
-// |cffFFFF00Arcane Oil of Exuberance|r
 [I05N]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNBronzeBowlfull.blp
@@ -271,8 +132,6 @@ Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
 [I062]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNLiquidFire.blp
-
-// |cffFFFF00Divine Oil of Magic|r
 [I061]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPotionBlueBig.blp
@@ -285,21 +144,15 @@ Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
 [I064]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNSpiderling.blp
-
-// |cffFF00BFWizard's Soul|r
 [I063]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
 [I05R]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNRune.blp
-
-// |cffFFFF00Divine Oil of Sharpness|r
 [I05U]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNHealingSalve.blp
-
-// |cffff00bfPure Aether|r
 [I05T]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNHolyWater.blp
@@ -323,4092 +176,2051 @@ Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
 [I06C]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// Tiny Shrub
 [Q000]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Lesser Storm Defender
 [Q00V]
 Art=ReplaceableTextures\CommandButtons\BTNEnergyTower.blp
-
-// Small Frozen Mushroom
 [Q017]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// Lesser Dark Defender
 [Q00U]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-
-// Broken Fire Pit
 [Q016]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
-
-// Lesser Ice Defender
 [Q00X]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-
-// Magnataur Warrior
 [Q019]
 Art=ReplaceableTextures\CommandButtons\BTNBlueMagnataur.blp
-
-// Lesser Natural Defender
 [Q00W]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-
-// Rotted Flashing Grave
 [Q018]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Abandoned Pit
 [Q00R]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// Thief Apprentice
 [Q013]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-
-// Lunar Sentinel
 [Q00Q]
 Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-
-// Small Light
 [Q012]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Lesser Flamy Defender
 [Q00T]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-
-// Broken Cage
 [Q015]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// Tentacle Spawn
 [Q00S]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Embershell Turtle Hatchling
 [Q014]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-
-// Stormy Dog
 [Q01A]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
-
-// Lesser Iron Defender
 [Q00Z]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-
-// Lesser Astral Defender
 [Q00Y]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-
-// Small Ray Blaster
 [Q01G]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
-
-// Cloud Warrior
 [Q01F]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
-
-// Teacher
 [Q01I]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Small Frost Fire
 [Q01H]
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
-
-// Burrow
 [Q01C]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBurrow.blp
-
-// Fiery Dog
 [Q01B]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// Broken Lightning Rod
 [Q01E]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-
-// Small Torch
 [Q01D]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// Frosty Rock
 [Q01O]
 Art=ReplaceableTextures\CommandButtons\BTNWellSpring.blp
-
-// Altar of Fortuity
 [Q020]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteArchitecture.blp
-
-// Lightning Generator
 [Q01N]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-
-// Essence of Fury
 [Q01Q]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
-
-// Lesser Skeletal Mage
 [Q022]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
-
-// Ice Weed
 [Q01P]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Fiery Stone
 [Q021]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Buried Soul
 [Q01K]
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
-
-// Skink
 [Q01J]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-
-// Lesser Priest
 [Q01M]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-
-// Cold Troll
 [Q01L]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-
-// Obelisk of Fortuity
 [Q006]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteArchitecture.blp
-
-// Frost Root
 [Q005]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Ruined Sun Pedestal
 [Q008]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Haunted Rubble
 [Q007]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
-
-// Snowy Pebble
 [Q002]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Fiery Pebble
 [Q001]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Small Cactus
 [Q004]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Tombstone
 [Q003]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Trash Heap
 [Q009]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Mossy Acid Sprayer
 [Q00F]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-
-// Tree Stump
 [Q00E]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
-
-// Abominable Snowman
 [Q00H]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-
-// Glowing Solar Orb
 [Q00G]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-
-// Small Fire Sprayer
 [Q00B]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Icy Skulls
 [Q00A]
 Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
-
-// Ruined Storm Cap
 [Q00D]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Astral Lantern
 [Q00C]
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
-
-// Wooden Trap
 [Q00N]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// Broken Circle of Wind
 [Q00M]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-
-// Felweed
 [Q00P]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Baby Plant
 [Q011]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Small Pocket Rocket
 [Q00O]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// Burning Watchtower
 [Q010]
 Art=ReplaceableTextures\CommandButtons\BTNDemolish.blp
-
-// Minor Magic Ruin
 [Q00J]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Rooted Chasm
 [Q00I]
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
-
-// Dark Fire Pit
 [Q00L]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// Ruined Monolith
 [Q00K]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Grown Felweed
 [Q02X]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Restored Cage
 [Q039]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// Stratus Warrior
 [Q02W]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
-
-// Frozen Mushroom
 [Q038]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// Small Dark Defender
 [Q02Z]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-
-// Small Flamy Defender
 [Q02Y]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-
-// Thunderous Dog
 [Q02T]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
-
-// Greater Abominable Snowman
 [Q035]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-
-// Haunted Debris
 [Q02S]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
-
-// Small Iron Defender
 [Q034]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-
-// Enhanced Dark Fire Pit
 [Q02V]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// Ray Blaster
 [Q037]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
-
-// Burning Dog
 [Q02U]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// Shining Light
 [Q036]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Torch
 [Q03A]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// Frost Fire
 [Q03C]
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
-
-// Small Lightning Rod
 [Q03B]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-
-// Tree Trunk
 [Q03I]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
-
-// Blooming Chasm
 [Q03H]
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
-
-// Digging Hole
 [Q03K]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// Maintenanced Flashing Grave
 [Q03J]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Glaring Solar Orb
 [Q03E]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-
-// Tiny Storm Lantern
 [Q03D]
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
-
-// Embershell Turtle Nestling
 [Q03G]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-
-// Militia Watchtower
 [Q03F]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-
-// Enchanted Monolith
 [Q03Q]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Small Serpent Ward
 [Q042]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-
-// Healing Obelisk
 [Q03P]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
-
-// Supply Heap
 [Q041]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Necromantic Altar
 [Q03S]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
-
-// Small Brazier
 [Q044]
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
-
-// Plant
 [Q03R]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Northern Stalker
 [Q043]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-
-// Priest
 [Q03M]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-
-// Aged Skink
 [Q03L]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-
-// Rowing Boat
 [Q03O]
 Art=ReplaceableTextures\CommandButtons\BTNHumanDestroyer.blp
-
-// Fortified Lightning Generator
 [Q040]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-
-// Sniper
 [Q03N]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-
-// Shrub
 [Q01W]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Village Witch
 [Q028]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDemoness.blp
-
-// Small Plant
 [Q01V]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Initiate Elementalist
 [Q027]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
-
-// Creepy Tombstone
 [Q01Y]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Snowy Stone
 [Q01X]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Broken Storm Column
 [Q029]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Cute Small Spider
 [Q01S]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
-
-// Small Magic Ruin
 [Q024]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Ash Geyser
 [Q01R]
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
-
-// Monolith
 [Q023]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Ruined Sun Pillar
 [Q01U]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Budding Cactus
 [Q026]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Phantom
 [Q01T]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWyvern.blp
-
-// Small Ice Mine
 [Q025]
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
-
-// Toxic Mossy Acid Sprayer
 [Q02B]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-
-// Star Gazer
 [Q02A]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// Restored Flashing Grave
 [Q01Z]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Tentacle
 [Q02H]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Tundra Stalker
 [Q02G]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-
-// Lesser Elemental Ghost
 [Q02J]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-
-// Medium Fire Sprayer
 [Q02I]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Spare Part Heap
 [Q02D]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Contraption
 [Q02C]
 Art=ReplaceableTextures\CommandButtons\BTNSupportBeam.blp
-
-// Circle of Wind
 [Q02F]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-
-// Pocket Rocket
 [Q02E]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// Basic Knowledge
 [Q02P]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// Small Natural Defender
 [Q031]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-
-// Advanced Wooden Trap
 [Q02O]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// Small Storm Defender
 [Q030]
 Art=ReplaceableTextures\CommandButtons\BTNEnergyTower.blp
-
-// Firestorm Cell
 [Q02R]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
-
-// Small Astral Defender
 [Q033]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-
-// Sewer Connection
 [Q02Q]
 Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
-
-// Small Ice Defender
 [Q032]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-
-// Thief Novice
 [Q02L]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-
-// Clever Teacher
 [Q02K]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Burning Fire Pit
 [Q02N]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
-
-// Annoyed Tree
 [Q02M]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
-
-// Mana-Touched Drake
 [Q04Z]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
-
-// Icy Spirit
 [Q04Y]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
-
-// Geothermal Extractor
 [Q04V]
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
-
-// Dark Battery
 [Q057]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
-
-// Circle of Storm
 [Q04U]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-
-// Green Lightning
 [Q056]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
-
-// Miner
 [Q04X]
 Art=ReplaceableTextures\CommandButtons\BTNPeasant.blp
-
-// Fire Battery
 [Q059]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
-
-// Lesser Wolves Den
 [Q04W]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
-
-// Poison Battery
 [Q058]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-
-// Frozen Rock
 [Q05C]
 Art=ReplaceableTextures\CommandButtons\BTNWellSpring.blp
-
-// Rancid Felweed
 [Q05B]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Baby Tuskar
 [Q05E]
 Art=ReplaceableTextures\CommandButtons\BTNTuskaarBrown.blp
-
-// Cumulus Warrior
 [Q05D]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
-
-// Storm Battery
 [Q05A]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-
-// Expanded Fire Pit
 [Q05K]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
-
-// Really Cold Troll
 [Q05J]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-
-// Broken Pipeline
 [Q05M]
 Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
-
-// Monolith of Lightning
 [Q05L]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Flashing Cenotaph
 [Q05G]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Cruel Fire
 [Q05F]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteMelee.blp
-
-// Thief
 [Q05I]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-
-// Haunted Ruins
 [Q05H]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
-
-// Crystalized Tendrils
 [Q05S]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Medium Dark Defender
 [Q064]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-
-// Bone Shrine
 [Q05R]
 Art=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
-
-// Medium Flamy Defender
 [Q063]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-
-// Essence of Anger
 [Q05U]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
-
-// Medium Natural Defender
 [Q066]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-
-// Undisturbed Crypt
 [Q05T]
 Art=ReplaceableTextures\CommandButtons\BTNNerubianZiggurat.blp
-
-// Medium Storm Defender
 [Q065]
 Art=ReplaceableTextures\CommandButtons\BTNEnergyTower.blp
-
-// Necromantic Statue
 [Q05O]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
-
-// Tree
 [Q060]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
-
-// Polar Bear Cub
 [Q05N]
 Art=ReplaceableTextures\CommandButtons\BTNPolarFurbolg.blp
-
-// Lunar Guardian
 [Q05Q]
 Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-
-// Sun Pillar
 [Q062]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Small Bug Nest
 [Q05P]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
-
-// Growing Plant
 [Q061]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Flawed Sun Pillar
 [Q03Y]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Lost Soul
 [Q03X]
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
-
-// Ugly Small Spider
 [Q049]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
-
-// Magic Ruin
 [Q03Z]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Frozen Vines
 [Q03U]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Snowy Rock
 [Q046]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Afflicted Obelisk
 [Q03T]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglemine.blp
-
-// Learned Teacher
 [Q045]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Essence of Rage
 [Q03W]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
-
-// Starving Tentacle
 [Q048]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Magnataur Reaver
 [Q03V]
 Art=ReplaceableTextures\CommandButtons\BTNBlueMagnataur.blp
-
-// Fire Geyser
 [Q047]
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
-
-// Big Fire Sprayer
 [Q04B]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Burning Sentry
 [Q04A]
 Art=ReplaceableTextures\CommandButtons\BTNDemolish.blp
-
-// Aery Phantom
 [Q04D]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWyvern.blp
-
-// Icy Bones
 [Q04C]
 Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
-
-// Astral Guide
 [Q04J]
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
-
-// Cold Obelisk
 [Q04I]
 Art=ReplaceableTextures\CommandButtons\BTNIceCrownObelisk.blp
-
-// Ruined Wind Tower
 [Q04L]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedEnergyTower.blp
-
-// Nature Sprites
 [Q04K]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
-
-// Greater Shrub
 [Q04F]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Average Cactus
 [Q04E]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Cursed Tombstone
 [Q04H]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Fiery Rock
 [Q04G]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Toxic Acid Factory
 [Q04R]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-
-// Zealot
 [Q053]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiAkama.blp
-
-// Elemental Ghost
 [Q04Q]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-
-// Energy Junction
 [Q052]
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
-
-// Upgraded Pocket Rocket
 [Q04T]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// Ice Battery
 [Q055]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
-
-// Shrine of Fortuity
 [Q04S]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteArchitecture.blp
-
-// Magic Battery
 [Q054]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
-
-// Studded Contraption
 [Q04N]
 Art=ReplaceableTextures\CommandButtons\BTNSupportBeam.blp
-
-// Reinforced Burrow
 [Q04M]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBurrow.blp
-
-// Accumulated Knowledge
 [Q04P]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// Adept Elementalist
 [Q051]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
-
-// Storm Column
 [Q04O]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Ice Mine
 [Q050]
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
-
-// Hungry Frost Fire
 [Q06X]
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
-
-// Small Quarry
 [Q079]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// Magnataur Destroyer
 [Q06W]
 Art=ReplaceableTextures\CommandButtons\BTNBlueMagnataur.blp
-
-// Grown Cactus
 [Q078]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Snowy Rock Formation
 [Q06Z]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Rending Tentacle
 [Q06Y]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Jungle Stalker
 [Q07E]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
-
-// Angry Tree
 [Q07D]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
-
-// Yellowskin Skink
 [Q07G]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-
-// Quillboar Thornweaver
 [Q07F]
 Art=ReplaceableTextures\CommandButtons\BTNRazorback.blp
-
-// Shrubfield
 [Q07A]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Fiery Rock Formation
 [Q07C]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Weapon Heap
 [Q07B]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Solar Collector
 [Q07M]
 Art=ReplaceableTextures\CommandButtons\BTNMagicVault.blp
-
-// Storm Chamber
 [Q07L]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Horrible Tombstone
 [Q07O]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Icy Core
 [Q080]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
-
-// Studied Teacher
 [Q07N]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Chilled Spire
 [Q07I]
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
-
-// Portal to Swine Purgatory
 [Q07H]
 Art=ReplaceableTextures\CommandButtons\BTNDarkPortal.blp
-
-// Stormhound
 [Q07K]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
-
-// Hellhound
 [Q07J]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// Cultivated Chasm
 [Q07U]
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
-
-// Inflamed Stone
 [Q086]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
-
-// Old Brazier
 [Q07T]
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
-
-// Mutating Acid Factory
 [Q085]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-
-// Rundown Iron Sentry
 [Q07W]
 Art=ReplaceableTextures\CommandButtons\BTNCannonTower.blp
-
-// Sea Turtle
 [Q088]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
-
-// Small Library
 [Q07V]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// Green Thunder
 [Q087]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
-
-// Skilled Sniper
 [Q07Q]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-
-// Hall of Souls
 [Q082]
 Art=ReplaceableTextures\CommandButtons\BTNBlackCitadel.blp
-
-// Frigate
 [Q07P]
 Art=ReplaceableTextures\CommandButtons\BTNHumanDestroyer.blp
-
-// Healing Monument
 [Q081]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
-
-// Hell Bat
 [Q07S]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
-
-// Warrior of Light
 [Q084]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
-
-// Young Northern Troll
 [Q07R]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollBeserker.blp
-
-// Burning Outpost
 [Q083]
 Art=ReplaceableTextures\CommandButtons\BTNDemolish.blp
-
-// Star Watcher
 [Q05Z]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// Glowing Sun Orb
 [Q05W]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-
-// Medium Astral Defender
 [Q068]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-
-// Adept Witch
 [Q05V]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDemoness.blp
-
-// Medium Ice Defender
 [Q067]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-
-// Firestorm Core
 [Q05Y]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
-
-// Particle Accelerator
 [Q05X]
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
-
-// Medium Iron Defender
 [Q069]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-
-// Iron Trap
 [Q06D]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// Large Abominable Snowman
 [Q06C]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-
-// Bright Light
 [Q06F]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Area Roaster
 [Q06E]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
-
-// Embershell Turtle Loner
 [Q06B]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-
-// Skeletal Mage
 [Q06A]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
-
-// Furbolg
 [Q06L]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgTracker.blp
-
-// Large Ray Blaster
 [Q06K]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
-
-// Lightning Totem
 [Q06N]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheMoon.blp
-
-// Experienced Priest
 [Q06M]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-
-// Forest Archer
 [Q06H]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-
-// Caged Soul
 [Q06G]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// Deep Frozen Mushroom
 [Q06J]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// Enchanted Dark Fire Pit
 [Q06I]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// Shaman
 [Q06T]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
-
-// Swift Phantom
 [Q075]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWyvern.blp
-
-// Little Phoenix
 [Q06S]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-
-// Grand Fire Sprayer
 [Q074]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Lightning Rod
 [Q06V]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-
-// Militia Outpost
 [Q077]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-
-// Burning Torch
 [Q06U]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// Shard of Souls
 [Q076]
 Art=ReplaceableTextures\CommandButtons\BTNUsedSoulGem.blp
-
-// Igloo
 [Q06P]
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
-
-// Cursed Grounds
 [Q071]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
-
-// Large Magic Ruin
 [Q06O]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Storm Lantern
 [Q070]
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
-
-// Snow Stalker
 [Q06R]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-
-// Sun Crusader
 [Q073]
 Art=ReplaceableTextures\CommandButtons\BTNAltarOfKings.blp
-
-// Serpent Ward
 [Q06Q]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-
-// Lava Geyser
 [Q072]
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
-
-// Trapped Souls
 [Q09A]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// Red Ball Lightning
 [Q08Z]
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
-
-// Dimensional Contraption
 [Q08Y]
 Art=ReplaceableTextures\CommandButtons\BTNSupportBeam.blp
-
-// Holy Light
 [Q09G]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Ethereal Phantom
 [Q09F]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWyvern.blp
-
-// Snowy Cliff
 [Q09I]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Advanced Pocket Rocket
 [Q09H]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// Afflicted Grounds
 [Q09C]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
-
-// Icy Skeleton
 [Q09B]
 Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
-
-// Master Elementalist
 [Q09E]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
-
-// Deep Ice Mine
 [Q09D]
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
-
-// Solar Emitter
 [Q09O]
 Art=ReplaceableTextures\CommandButtons\BTNBearBlink.blp
-
-// Area Igniter
 [Q09N]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
-
-// Energy Crossing
 [Q09Q]
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
-
-// Thief Master
 [Q09P]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-
-// Old Lightning Totem
 [Q09K]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheMoon.blp
-
-// Wealthy Fire Pit
 [Q09J]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
-
-// Glacier Tongue
 [Q09M]
 Art=ReplaceableTextures\CommandButtons\BTNWellSpring.blp
-
-// Chilled Spirit
 [Q09L]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
-
-// Cirrus Warrior
 [Q09W]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
-
-// Sacrificial Lamb
 [Q09V]
 Art=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
-
-// Grand Flamy Defender
 [Q09Y]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-
-// Greater Wolves Den
 [Q09X]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
-
-// Forsaken Crypt
 [Q09S]
 Art=ReplaceableTextures\CommandButtons\BTNNerubianZiggurat.blp
-
-// Astral Beacon
 [Q09R]
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
-
-// Lunar Emitter
 [Q09U]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
-
-// Engulfing Dark Fire Pit
 [Q09T]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// Gnoll Thunder Mage
 [Q07Y]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-
-// Bomb Turret
 [Q07X]
 Art=ReplaceableTextures\CommandButtons\BTNFragmentationBombs.blp
-
-// Inexperienced Huntress
 [Q089]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
-
-// Ruined Storm Tower
 [Q07Z]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedEnergyTower.blp
-
-// Major Abominable Snowman
 [Q08F]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-
-// Sun Shrine
 [Q08E]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Tree Group
 [Q08H]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
-
-// Forest Ranger
 [Q08G]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-
-// Mister Fireflies
 [Q08B]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan1.blp
-
-// Afflicted Monument
 [Q08A]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglemine.blp
-
-// Adorable Young Spider
 [Q08D]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
-
-// Stormcloud Generator
 [Q08C]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-
-// Frozen Troll
 [Q08N]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-
-// Devoted Zealot
 [Q08M]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiAkama.blp
-
-// Regenerating Well
 [Q08P]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
-
-// Magic Storage
 [Q091]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
-
-// Icy Obelisk
 [Q08O]
 Art=ReplaceableTextures\CommandButtons\BTNIceCrownObelisk.blp
-
-// Ice Storage
 [Q090]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
-
-// Elegant Flashing Cenotaph
 [Q08J]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Old Felweed
 [Q08I]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Greater Elemental Ghost
 [Q08L]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-
-// Bug Nest
 [Q08K]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
-
-// Glacial Creeper
 [Q08V]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Atom Smasher
 [Q097]
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
-
-// Essence of Hate
 [Q08U]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
-
-// Mana-Bound Drake
 [Q096]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
-
-// Fortified Burrow
 [Q08X]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBurrow.blp
-
-// Forgotten Soul
 [Q099]
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
-
-// Skilled Witch
 [Q08W]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDemoness.blp
-
-// Prince of Lightning
 [Q098]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
-
-// Chemical Center
 [Q08R]
 Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
-
-// Poison Storage
 [Q093]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-
-// Monolith of Thunder
 [Q08Q]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Dark Storage
 [Q092]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
-
-// Silver Knight
 [Q08T]
 Art=ReplaceableTextures\CommandButtons\BTNTransmute.blp
-
-// Storm Storage
 [Q095]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-
-// Necromantic Shrine
 [Q08S]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
-
-// Fire Storage
 [Q094]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
-
-// Grand Dark Defender
 [Q09Z]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-
-// Magma Geyser
 [Q0AG]
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
-
-// Skeletal Sorceror
 [Q0AF]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
-
-// Fast Growing Plant
 [Q0AI]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Holy Priest
 [Q0AH]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-
-// Burning Rock
 [Q0AC]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Greater Shrubfield
 [Q0AB]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Cruel Flames
 [Q0AE]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteMelee.blp
-
-// Treasure Heap
 [Q0AD]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Mining Grounds
 [Q0AO]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// Coconut Sapling
 [Q0B0]
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
-
-// Polar Stalker
 [Q0AN]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-
-// Greater Lightning Rod
 [Q0AQ]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-
-// Battleship
 [Q0B2]
 Art=ReplaceableTextures\CommandButtons\BTNHumanDestroyer.blp
-
-// Burning Beacon
 [Q0AP]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// Embershell Turtle Adult
 [Q0B1]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-
-// Polar Bear
 [Q0AK]
 Art=ReplaceableTextures\CommandButtons\BTNPolarFurbolg.blp
-
-// Lonely Miner
 [Q0AJ]
 Art=ReplaceableTextures\CommandButtons\BTNPeasant.blp
-
-// Enchanted Serpent Ward
 [Q0AM]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-
-// Bone Temple
 [Q0AL]
 Art=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
-
-// Dome of Fortuity
 [Q0AW]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteArchitecture.blp
-
-// Orcan Circle
 [Q0B8]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-
-// Huge Fire Sprayer
 [Q0AV]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Holy Energy
 [Q0B7]
 Art=ReplaceableTextures\CommandButtons\BTNHealingWave.blp
-
-// Dwarven Forgery
 [Q0AY]
 Art=ReplaceableTextures\CommandButtons\BTNBlacksmith.blp
-
-// Raging Furbolg
 [Q0AX]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgTracker.blp
-
-// Nature Spirits
 [Q0B9]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
-
-// Shaman Cheftain
 [Q0AS]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
-
-// Major Magic Ruin
 [Q0B4]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Hungry Frozen Flame
 [Q0AR]
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
-
-// Advanced Iron Trap
 [Q0B3]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// Utterly Frozen Mushroom
 [Q0AU]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// Marine
 [Q0B6]
 Art=ReplaceableTextures\CommandButtons\BTNMarine.blp
-
-// Revenging Tentacle
 [Q0AT]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Frozen Igloo
 [Q0B5]
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
-
-// Storm Turret
 [Q0BB]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Militia Forepost
 [Q0BA]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-
-// Library of Alexandria
 [Q0AZ]
 Art=ReplaceableTextures\CommandButtons\BTNSorceressMaster.blp
-
-// Grand Natural Defender
 [Q0A1]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-
-// Grand Storm Defender
 [Q0A0]
 Art=ReplaceableTextures\CommandButtons\BTNEnergyTower.blp
-
-// Harpy Witch
 [Q0A7]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyWitch.blp
-
-// Teenage Tuskar
 [Q0A6]
 Art=ReplaceableTextures\CommandButtons\BTNTuskaarBrown.blp
-
-// Star Observer
 [Q0A9]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// Haunted Silo
 [Q0A8]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
-
-// Grand Astral Defender
 [Q0A3]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-
-// Grand Ice Defender
 [Q0A2]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-
-// Blooming Cactus
 [Q0A5]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Grand Iron Defender
 [Q0A4]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-
-// Custom Ray Blaster
 [Q0AA]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
-
-// Xeno Research Facility
 [Q0CI]
 Art=ReplaceableTextures\CommandButtons\BTNBeastiary.blp
-
-// Large Bug Nest
 [Q0CH]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
-
-// Cloudy Temple of Absorption
 [Q0CK]
 Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
-
-// Geothermal Refinery
 [Q0CJ]
 Art=ReplaceableTextures\CommandButtons\BTNFireRocks.blp
-
-// Adult Northern Troll
 [Q0CE]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollBeserker.blp
-
-// Frenzied Zealot
 [Q0CD]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiAkama.blp
-
-// Afflicted Altar
 [Q0CG]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglemine.blp
-
-// Nightmarish Bat
 [Q0CF]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
-
-// Polar Ivy
 [Q0CQ]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// Glacier
 [Q0D2]
 Art=ReplaceableTextures\CommandButtons\BTNWellSpring.blp
-
-// Void Drake
 [Q0CP]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
-
-// Flourishing Chasm
 [Q0D1]
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
-
-// Infested Mutating Acid Factory
 [Q0CS]
 Art=ReplaceableTextures\CommandButtons\BTNCorrosiveBreath.blp
-
-// Precious Treasure Heap
 [Q0D4]
 Art=ReplaceableTextures\CommandButtons\BTNBox.blp
-
-// Grand Bomb Turret
 [Q0CR]
 Art=ReplaceableTextures\CommandButtons\BTNFragmentationBombs.blp
-
-// Snowy Peak
 [Q0D3]
 Art=ReplaceableTextures\CommandButtons\BTNFrostBolt.blp
-
-// Necropolis of Souls
 [Q0CM]
 Art=ReplaceableTextures\CommandButtons\BTNBlackCitadel.blp
-
-// Meteor Totem
 [Q0CL]
 Art=ReplaceableTextures\CommandButtons\BTNEarthquake.blp
-
-// Champion of Light
 [Q0CO]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
-
-// Ultimate Pocket Rocket
 [Q0D0]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// Sun Paladin
 [Q0CN]
 Art=ReplaceableTextures\CommandButtons\BTNAltarOfKings.blp
-
-// Energy Magnifier
 [Q0CY]
 Art=ReplaceableTextures\CommandButtons\BTNDispelMagic.blp
-
-// Arctic Stalker
 [Q0CX]
 Art=ReplaceableTextures\CommandButtons\BTNWendigo.blp
-
-// Contaminated Hitch
 [Q0D9]
 Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
-
-// Mana-Infused Drake
 [Q0CZ]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
-
-// Freezing Sea Turtle
 [Q0CU]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
-
-// Skeletal Wizard
 [Q0D6]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
-
-// Green Lightning Storm
 [Q0CT]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
-
-// Collosal Abominable Snowman
 [Q0D5]
 Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-
-// Tormented Grounds
 [Q0CW]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
-
-// Ball Lightning Accelerator
 [Q0D8]
 Art=ReplaceableTextures\CommandButtons\BTNPriestAdept.blp
-
-// Huntress
 [Q0CV]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
-
-// Soul Prison
 [Q0D7]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// Haunted Soul Mill
 [Q0DB]
 Art=ReplaceableTextures\CommandButtons\BTNCripple.blp
-
-// Undeathly Crypt
 [Q0DA]
 Art=ReplaceableTextures\CommandButtons\BTNNerubianZiggurat.blp
-
-// Flashing Monument
 [Q0DD]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlare.blp
-
-// Icy Boneyard
 [Q0DC]
 Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
-
-// Library
 [Q0BH]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// Sparkling Storm Lantern
 [Q0BG]
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
-
-// Spell Collector
 [Q0BJ]
 Art=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp1.blp
-
-// Black Dragon Roost
 [Q0BI]
 Art=ReplaceableTextures\CommandButtons\BTNBlackDragonRoost.blp
-
-// Daemonic Tombstone
 [Q0BD]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Shiny Sun Orb
 [Q0BC]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-
-// Green Dragon Roost
 [Q0BF]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragonRoost.blp
-
-// Enraged Tree
 [Q0BE]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
-
-// Doctorated Teacher
 [Q0BP]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Dragon Sorcerer
 [Q0C1]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
-
-// Firestorm Generator
 [Q0BO]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
-
-// Sir Fireflies
 [Q0C0]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan1.blp
-
-// Infernal Dog
 [Q0BR]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// Sniper Nest
 [Q0C3]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-
-// Phoenix
 [Q0BQ]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-
-// Nerubian Queen
 [Q0C2]
 Art=ReplaceableTextures\CommandButtons\BTNNerubianQueen.blp
-
-// Bronze Dragon Roost
 [Q0BL]
 Art=ReplaceableTextures\CommandButtons\BTNBronzeDragon.blp
-
-// Solid Iron Sentry
 [Q0BK]
 Art=ReplaceableTextures\CommandButtons\BTNCannonTower.blp
-
-// Magnataur Spirit Hunter
 [Q0BN]
 Art=ReplaceableTextures\CommandButtons\BTNBlueMagnataur.blp
-
-// Frozen Well
 [Q0BM]
 Art=ReplaceableTextures\CommandButtons\BTNCrushingWave.blp
-
-// Quillboar Painbringer
 [Q0BX]
 Art=ReplaceableTextures\CommandButtons\BTNRazorback.blp
-
-// Elder Jungle Stalker
 [Q0C9]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
-
-// Charged Obelisk
 [Q0BW]
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
-
-// Ruined Tempest Tower
 [Q0C8]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedEnergyTower.blp
-
-// Ancient Brazier
 [Q0BZ]
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
-
-// Caged Fire
 [Q0BY]
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
-
-// Sun Array
 [Q0BT]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Viviparous Skink
 [Q0C5]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-
-// Hurricane Dog
 [Q0BS]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
-
-// Lunar Protector
 [Q0C4]
 Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-
-// Princess of Light
 [Q0BV]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
-
-// Elder Felweed
 [Q0C7]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Coin Machine
 [Q0BU]
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
-
-// Portal to Swine Hell
 [Q0C6]
 Art=ReplaceableTextures\CommandButtons\BTNDarkPortal.blp
-
-// Healing Altar
 [Q0CA]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
-
-// Gnoll Lightning Caller
 [Q0CC]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-
-// Mighty Elemental Ghost
 [Q0CB]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-
-// Superior Astral Defender
 [Q0EK]
 Art=ReplaceableTextures\CommandButtons\BTNElvenGuardTower.blp
-
-// Superior Ice Defender
 [Q0EJ]
 Art=ReplaceableTextures\CommandButtons\BTNColdTower.blp
-
-// Divine Priest
 [Q0EM]
 Art=ReplaceableTextures\CommandButtons\BTNElfVillager.blp
-
-// Superior Iron Defender
 [Q0EL]
 Art=ReplaceableTextures\CommandButtons\BTNGuardTower.blp
-
-// Superior Dark Defender
 [Q0EG]
 Art=ReplaceableTextures\CommandButtons\BTNDeathTower.blp
-
-// Superior Flamy Defender
 [Q0EF]
 Art=ReplaceableTextures\CommandButtons\BTNFlameTower.blp
-
-// Superior Natural Defender
 [Q0EI]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
-
-// Superior Storm Defender
 [Q0EH]
 Art=ReplaceableTextures\CommandButtons\BTNEnergyTower.blp
-
-// Blackrock's Totem
 [Q0ES]
 Art=ReplaceableTextures\CommandButtons\BTNTaurenTotem.blp
-
-// Goblin Stronghold
 [Q0F4]
 Art=ReplaceableTextures\CommandButtons\BTNMerchant.blp
-
-// Collosal Magic Ruin
 [Q0ER]
 Art=ReplaceableTextures\CommandButtons\BTNStone.blp
-
-// Frozen Inferno
 [Q0F3]
 Art=ReplaceableTextures\CommandButtons\BTNFrostArmor.blp
-
-// Divine Elementalist
 [Q0EU]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
-
-// King of Lightning
 [Q0F6]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
-
-// Bottomless Ice Mine
 [Q0ET]
 Art=ReplaceableTextures\CommandButtons\BTNGlacier.blp
-
-// Ancient Felweed
 [Q0F5]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Plagued Crypt
 [Q0EO]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
-
-// Big Lightning Rod
 [Q0F0]
 Art=ReplaceableTextures\CommandButtons\BTNDalaranGuardTower.blp
-
-// Steel Trap
 [Q0EN]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// Burning Fortress
 [Q0EQ]
 Art=ReplaceableTextures\CommandButtons\BTNDemolish.blp
-
-// Experienced Marine
 [Q0F2]
 Art=ReplaceableTextures\CommandButtons\BTNMarine.blp
-
-// Lich King
 [Q0EP]
 Art=ReplaceableTextures\CommandButtons\BTNLament.blp
-
-// Core of Dark Emotions
 [Q0F1]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
-
-// Inferno Beacon
 [Q0EZ]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// Solar Conductor
 [Q0EW]
 Art=ReplaceableTextures\CommandButtons\BTNMagicVault.blp
-
-// Star Keeper
 [Q0F8]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// Magic Enhanced Burrow
 [Q0EV]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBurrow.blp
-
-// All-Knowing Teacher
 [Q0F7]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerWoman.blp
-
-// Bonk, the Living Mountain
 [Q0EY]
 Art=ReplaceableTextures\CommandButtons\BTNMountainGiant.blp
-
-// Zeus
 [Q0EX]
 Art=ReplaceableTextures\CommandButtons\BTNAvatar.blp
-
-// The Frozen Wyrm
 [Q0F9]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
-
-// Modern Iron Sentry
 [Q0FD]
 Art=ReplaceableTextures\CommandButtons\BTNCannonTower.blp
-
-// Necromantic Monument
 [Q0FC]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
-
-// Thief Grand Master
 [Q0FF]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDemonHunter.blp
-
-// Area Inflamer
 [Q0FE]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSilence.blp
-
-// Mutating Plant
 [Q0FB]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfLife.blp
-
-// Mad Tree
 [Q0FA]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
-
-// Crystal of Souls
 [Q0DJ]
 Art=ReplaceableTextures\CommandButtons\BTNUsedSoulGem.blp
-
-// Consuming Dark Fire Pit
 [Q0DI]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// Xtreme Shrubfield
 [Q0DL]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// Inflamed Stone Spires
 [Q0DK]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
-
-// Forest
 [Q0DF]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfBuild.blp
-
-// Grand Wolves Lair
 [Q0DE]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWolf.blp
-
-// Everlasting Phantom
 [Q0DH]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWyvern.blp
-
-// Fully-Flowered Cactus
 [Q0DG]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// Totally Frozen Troll
 [Q0DR]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollShaman.blp
-
-// Icy Spires
 [Q0E3]
 Art=ReplaceableTextures\CommandButtons\BTNFreezingBreath.blp
-
-// Servant of the Twin Flames
 [Q0DQ]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDragonSpawn.blp
-
-// Extra Dimensional Contraption
 [Q0E2]
 Art=ReplaceableTextures\CommandButtons\BTNSupportBeam.blp
-
-// Luxurious Fire Pit
 [Q0DT]
 Art=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
-
-// Supercollider
 [Q0E5]
 Art=ReplaceableTextures\CommandButtons\BTNMagicLariet.blp
-
-// Enchanted Well
 [Q0DS]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
-
-// Human Sacrifice
 [Q0E4]
 Art=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
-
-// Owl of Wisdom
 [Q0DN]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
-
-// Timevault
 [Q0DM]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfTeleportation.blp
-
-// Devastatingly Frozen Mushroom
 [Q0DP]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// Witch Queen
 [Q0E1]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDemoness.blp
-
-// Hell Rock
 [Q0DO]
 Art=ReplaceableTextures\CommandButtons\BTNFireBolt.blp
-
-// Vulshok, the Berserker
 [Q0E0]
 Art=Replaceabletextures\Commandbuttons\BTNDiabloCar.blp
-
-// Astral Lighthouse
 [Q0DZ]
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
-
-// Titanic Fire Sprayer
 [Q0DY]
 Art=ReplaceableTextures\CommandButtons\BTNFire.blp
-
-// Destroyer
 [Q0DV]
 Art=ReplaceableTextures\CommandButtons\BTNHumanDestroyer.blp
-
-// Storm Destillator
 [Q0E7]
 Art=ReplaceableTextures\CommandButtons\BTNResistantSkin.blp
-
-// Ancient Lightning Totem
 [Q0DU]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheMoon.blp
-
-// Giant Tentacle
 [Q0E6]
 Art=ReplaceableTextures\CommandButtons\BTNTentacle.blp
-
-// Monolith of the Gathering Storm
 [Q0DX]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// Forest Amazon
 [Q0E9]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-
-// Elder Library
 [Q0DW]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// Long Forgotten Soul
 [Q0E8]
 Art=ReplaceableTextures\CommandButtons\BTNGuldanSkull.blp
-
-// Thunderstorm Generator
 [Q0EC]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
-
-// Sanctuary of Fortuity
 [Q0EB]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteArchitecture.blp
-
-// Monument of Death
 [Q0EE]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// Sun Monument
 [Q0ED]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// Gold Mine
 [Q0EA]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// Storm Coil
 [Q0GM]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOff.blp
-
-// Icy Flower
 [Q0GL]
 Art=ReplaceableTextures\CommandButtons\BTNDarkRitual.blp
-
-// Mud Golem
 [Q0GO]
 Art=ReplaceableTextures\CommandButtons\BTNRockGolem.blp
-
-// Breeding Adult Spider
 [Q0H0]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
-
-// Sacred Altar
 [Q0GN]
 Art=ReplaceableTextures\CommandButtons\BTNAltarOfElders.blp
-
-// Elder Polar Bear
 [Q0GI]
 Art=ReplaceableTextures\CommandButtons\BTNPolarFurbolg.blp
-
-// Forest Protectress
 [Q0GH]
 Art=ReplaceableTextures\CommandButtons\BTNShadowMeld.blp
-
-// Monkey Boogie Palm
 [Q0GK]
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
-
-// Cruel Inferno
 [Q0GJ]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteMelee.blp
-
-// Bug City
 [Q0GU]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
-
-// Green Thunder Storm
 [Q0H6]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
-
-// Fortified Sniper Nest
 [Q0GT]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
-
-// Valor
 [Q0H5]
 Art=ReplaceableTextures\CommandButtons\BTNArmorGolem.blp
-
-// Astral Rift
 [Q0GW]
 Art=ReplaceableTextures\CommandButtons\BTNCharm.blp
-
-// Ice Accumulator
 [Q0H8]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFrost.blp
-
-// Monolith of Chaos
 [Q0GV]
 Art=ReplaceableTextures\CommandButtons\BTNDisenchant.blp
-
-// Glacial Sea Turtle
 [Q0H7]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
-
-// Citadel of Souls
 [Q0GQ]
 Art=ReplaceableTextures\CommandButtons\BTNBlackCitadel.blp
-
-// Fisherman
 [Q0H2]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
-
-// Healing Shrine
 [Q0GP]
 Art=ReplaceableTextures\CommandButtons\BTNHolyBolt.blp
-
-// Fanatical Zealot
 [Q0H1]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiAkama.blp
-
-// Garden of Eden
 [Q0GS]
 Art=ReplaceableTextures\CommandButtons\BTNTranquility.blp
-
-// Starskin Skink
 [Q0H4]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
-
-// Frozen Spirit
 [Q0GR]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
-
-// Elder Northern Troll
 [Q0H3]
 Art=ReplaceableTextures\CommandButtons\BTNIceTrollBeserker.blp
-
-// Hero of Light
 [Q0GY]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
-
-// Lunar Defender
 [Q0GX]
 Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-
-// Magic Accumulator
 [Q0H9]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
-
-// Lightning Eye
 [Q0GZ]
 Art=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
-
-// Afflicted Shrine
 [Q0HF]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglemine.blp
-
-// Storm Accumulator
 [Q0HE]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfLightning.blp
-
-// Lord of the Fireflies
 [Q0HH]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerMan1.blp
-
-// Fire Star
 [Q0HG]
 Art=ReplaceableTextures\CommandButtons\BTNCleavingAttack.blp
-
-// Dark Accumulator
 [Q0HB]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfDarkness.blp
-
-// Master Huntress
 [Q0HA]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
-
-// Fire Accumulator
 [Q0HD]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfFire.blp
-
-// Poison Accumulator
 [Q0HC]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfVenom.blp
-
-// Fortunate Miner
 [Q0FL]
 Art=ReplaceableTextures\CommandButtons\BTNPeasant.blp
-
-// Embershell Turtle Matriarch
 [Q0FK]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleRed.blp
-
-// Wild Kodo Beast
 [Q0FN]
 Art=ReplaceableTextures\CommandButtons\BTNKotoBeast.blp
-
-// Harpy Queen
 [Q0FM]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyWitch.blp
-
-// Cumulonimbus Warrior
 [Q0FH]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
-
-// Blazing Sun Orb
 [Q0FG]
 Art=ReplaceableTextures\CommandButtons\BTNResurrection.blp
-
-// Ruined Hurricane Tower
 [Q0FJ]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedEnergyTower.blp
-
-// Ray Blaster 2.0
 [Q0FI]
 Art=ReplaceableTextures\CommandButtons\BTNManaBurn.blp
-
-// Soul Vault
 [Q0FT]
 Art=ReplaceableTextures\CommandButtons\BTNUrnOfKelThuzad.blp
-
-// Portal to Swine Inferno
 [Q0G5]
 Art=ReplaceableTextures\CommandButtons\BTNDarkPortal.blp
-
-// Gatling Gun
 [Q0FS]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
-
-// Cenarius
 [Q0G4]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
-
-// Gold Machine
 [Q0FV]
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
-
-// Holy Eternal Light
 [Q0G7]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// Electrified Storm Lantern
 [Q0FU]
 Art=ReplaceableTextures\CommandButtons\BTNLightningShield.blp
-
-// Hurricane Circle
 [Q0G6]
 Art=ReplaceableTextures\CommandButtons\BTNWindWalkOn.blp
-
-// Frozen Obelisk
 [Q0FP]
 Art=ReplaceableTextures\CommandButtons\BTNIceCrownObelisk.blp
-
-// Eredar Warlock
 [Q0G1]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
-
-// Rampaging Furbolg
 [Q0FO]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgTracker.blp
-
-// Storm Focus
 [Q0G0]
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
-
-// Bone Monument
 [Q0FR]
 Art=ReplaceableTextures\CommandButtons\BTNHornOfDoom.blp
-
-// Magnataur Celestial Hunter
 [Q0G3]
 Art=ReplaceableTextures\CommandButtons\BTNBlueMagnataur.blp
-
-// The Fire Lord
 [Q0FQ]
 Art=ReplaceableTextures\CommandButtons\BTNeredarRed.blp
-
-// Mighty Phoenix
 [Q0G2]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
-
-// Deep Frozen Igloo
 [Q0FX]
 Art=ReplaceableTextures\CommandButtons\BTNBreathOfFrost.blp
-
-// Nature Souls
 [Q0G9]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
-
-// Dreadlord
 [Q0FW]
 Art=ReplaceableTextures\CommandButtons\BTNTichondrius.blp
-
-// Shaman Master
 [Q0G8]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
-
-// Volcanic Geyser
 [Q0FZ]
 Art=ReplaceableTextures\CommandButtons\BTNVolcano.blp
-
-// Mythic Serpent Ward
 [Q0FY]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-
-// Fully Grown Tuskar
 [Q0GE]
 Art=ReplaceableTextures\CommandButtons\BTNTuskaarBrown.blp
-
-// Gnoll Storm Caster
 [Q0GD]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
-
-// The Council of Demons
 [Q0GG]
 Art=ReplaceableTextures\CommandButtons\BTNMannoroth.blp
-
-// Adored Brazier
 [Q0GF]
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
-
-// Firestorm Reactor
 [Q0GA]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
-
-// Infernal Bat
 [Q0GC]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
-
-// Almighty Elemental Ghost
 [Q0GB]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
-
-// Ancient Owl of Wisdom
 [Q0IO]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
-
-// Vol'jin the Witch Doctor
 [Q0J0]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
-
-// Ymir
 [Q0IN]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
-
-// The Furnace
 [Q0IQ]
 Art=ReplaceableTextures\CommandButtons\BTNSoulBurn.blp
-
-// Crimson Wyrm
 [Q0J2]
 Art=ReplaceableTextures\CommandButtons\BTNRedDragon.blp
-
-// Sapphirons Cold Grave
 [Q0IP]
 Art=ReplaceableTextures\CommandButtons\BTNColdArrows.blp
-
-// Eredar Diabolist
 [Q0J1]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
-
-// Glaive Master
 [Q0IK]
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
-
-// Rejuvenating Well
 [Q0IJ]
 Art=ReplaceableTextures\CommandButtons\BTNFountainOfLife.blp
-
-// Sorceress
 [Q0IM]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
-
-// Ebonfrost Crystal
 [Q0IL]
 Art=ReplaceableTextures\CommandButtons\BTNFrost.blp
-
-// Soulflame Device
 [Q0IW]
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
-
-// |cffFFFFFFHoly Axe|r
 [Q0J8]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalkerAdeptTraining.blp
-
-// The Conduit
 [Q0IV]
 Art=ReplaceableTextures\CommandButtons\BTNRune.blp
-
-// |cff0080FFMining Tools|r
 [Q0J7]
 Art=ReplaceableTextures\CommandButtons\BTNGoldMine.blp
-
-// It
 [Q0IY]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
-
-// Electric Death
 [Q0IX]
 Art=ReplaceableTextures\CommandButtons\BTNPriestAdept.blp
-
-// |cffFFFFFFTree Branch|r
 [Q0J9]
 Art=ReplaceableTextures\CommandButtons\BTNThorns.blp
-
-// Chaining Storm
 [Q0IS]
 Art=ReplaceableTextures\CommandButtons\BTNCyclone.blp
-
-// |cffFFFF00Currency Converter|r
 [Q0J4]
 Art=ReplaceableTextures\CommandButtons\BTNMGExchange.blp
-
-// Time Manipulator
 [Q0IR]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
-
-// Dutchman's Grave
 [Q0J3]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadDestroyer.blp
-
-// The Steam Engine
 [Q0IU]
 Art=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
-
-// |cffFFFFFFFairy's Wand|r
 [Q0J6]
 Art=ReplaceableTextures\CommandButtons\BTNStarWand.blp
-
-// Taita, the Hermit
 [Q0IT]
 Art=ReplaceableTextures\CommandButtons\BTNStormBrewmaster.blp
-
-// |cff0080FFClaws of Wisdom|r
 [Q0J5]
 Art=ReplaceableTextures\CommandButtons\BTNShamanAdept.blp
-
-// |cffFFFFFFSniper|r
 [Q0JB]
 Art=ReplaceableTextures\CommandButtons\BTNDwarvenLongRifle.blp
-
-// |cffFFFFFFUndead Claws|r
 [Q0JA]
 Art=ReplaceableTextures\CommandButtons\BTNCreatureAttack.blp
-
-// Helicopter Zone
 [Q0IZ]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
-
-// |cff0080FFThick Tree Branch|r
 [Q0JH]
 Art=ReplaceableTextures\CommandButtons\BTNChime.blp
-
-// |cff0080FFBlunderbuss Rifle|r
 [Q0JG]
 Art=ReplaceableTextures\CommandButtons\BTNHumanMissileUpTwo.blp
-
-// |cffFF00BFSoul Extractor|r
 [Q0JJ]
 Art=ReplaceableTextures\CommandButtons\BTNOrbOfCorruption.blp
-
-// |cff0080FFUndead Spiked Claws|r
 [Q0JI]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedCreatureAttack.blp
-
-// |cffFFFFFFRusted Rifle|r
 [Q0JD]
 Art=ReplaceableTextures\CommandButtons\BTNHumanMissileUpOne.blp
-
-// |cffFFFFFFInscribed Bark|r
 [Q0JC]
 Art=ReplaceableTextures\CommandButtons\BTNDOTAdeptTraining.blp
-
-// |cff0080FFBlessed Holy Scepter|r
 [Q0JF]
 Art=ReplaceableTextures\CommandButtons\BTNPriestAdept.blp
-
-// |cff0080FFAncient Inscribed Bark|r
 [Q0JE]
 Art=ReplaceableTextures\CommandButtons\BTNDOTMasterTraining.blp
-
-// Tidewater Stream
 [Q0HN]
 Art=ReplaceableTextures\CommandButtons\BTNManaRecharge.blp
-
-// Morphling
 [Q0HM]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
-
-// Ancient Solar Emitter
 [Q0HP]
 Art=ReplaceableTextures\CommandButtons\BTNBearBlink.blp
-
-// Arcane Storm
 [Q0I1]
 Art=ReplaceableTextures\CommandButtons\BTNGolemThunderclap.blp
-
-// Planar Gate
 [Q0HO]
 Art=ReplaceableTextures\CommandButtons\BTNDizzy.blp
-
-// Unforgiving Crypt
 [Q0I0]
 Art=ReplaceableTextures\CommandButtons\BTNNerubianZiggurat.blp
-
-// Gryphon Rider
 [Q0HJ]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
-
-// Militia Blockpost
 [Q0HI]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
-
-// Harby
 [Q0HL]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
-
-// Queen of Light
 [Q0HK]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
-
-// Shadow
 [Q0HV]
 Art=ReplaceableTextures\CommandButtons\BTNVengeanceIncarnate.blp
-
-// Genis Sage
 [Q0I7]
 Art=ReplaceableTextures\CommandButtons\BTNManaShield.blp
-
-// Quillboar Deathpig
 [Q0HU]
 Art=ReplaceableTextures\CommandButtons\BTNRazorback.blp
-
-// Nortrom the Silencer
 [Q0I6]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
-
-// Hound of Storms
 [Q0HX]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheWild.blp
-
-// Scales
 [Q0I9]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedReinforcedHides.blp
-
-// Hound of War
 [Q0HW]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// Caged Inferno
 [Q0I8]
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
-
-// Ancient Lunar Emitter
 [Q0HR]
 Art=ReplaceableTextures\CommandButtons\BTNElunesBlessing.blp
-
-// Ancient Jungle Stalker
 [Q0I3]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
-
-// Spell Harvester
 [Q0HQ]
 Art=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp1.blp
-
-// Ancient Energy Converter
 [Q0I2]
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
-
-// Magic Mushroom
 [Q0HT]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardEgg.blp
-
-// Golden Queen
 [Q0I5]
 Art=ReplaceableTextures\CommandButtons\BTNTransmute.blp
-
-// Mana-Overwhelmed Drake
 [Q0HS]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
-
-// Grab-O-Bot
 [Q0I4]
 Art=ReplaceableTextures\CommandButtons\BTNFrostMourne.blp
-
-// Keeper of the Twin Flames
 [Q0IA]
 Art=ReplaceableTextures\CommandButtons\BTNBlueDragonSpawn.blp
-
-// The Omnislasher
 [Q0HZ]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
-
-// Nuclear Missile Launcher
 [Q0HY]
 Art=ReplaceableTextures\CommandButtons\BTNSelfDestruct.blp
-
-// Drake Whisperer
 [Q0IG]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
-
-// Death Knight
 [Q0IF]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
-
-// Living Volcano
 [Q0II]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
-
-// Kraken
 [Q0IH]
 Art=ReplaceableTextures\CommandButtons\BTNForgottenOne.blp
-
-// Red Lightning Conductor
 [Q0IC]
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
-
-// Void Dragon
 [Q0IB]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
-
-// Dimensional Flux Collector
 [Q0IE]
 Art=ReplaceableTextures\CommandButtons\BTNArcaneObservatory.blp
-
-// Inflamed Stone Pillars
 [Q0ID]
 Art=ReplaceableTextures\CommandButtons\BTNFireForTheCannon.blp
-
-// |cffFFFFFFDull Gem|r
 [Q0KQ]
 Art=ReplaceableTextures\CommandButtons\BTNGem.blp
-
-// |cffFF00BFStasis Trap|r
 [Q0L2]
 Art=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
-
-// |cffFFFFFFTraining Manual|r
 [Q0KP]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// |cffFFFFFFOutworn Spell Book|r
 [Q0L1]
 Art=ReplaceableTextures\CommandButtons\BTNSorceressAdept.blp
-
-// |cff0080FFExpanding Mind|r
 [Q0KS]
 Art=ReplaceableTextures\CommandButtons\BTNMirrorImage.blp
-
-// |cff0080FFSpiked Club|r
 [Q0L4]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedSpikedBarricades.blp
-
-// |cffFFFFFFMana Shell|r
 [Q0KR]
 Art=ReplaceableTextures\CommandButtons\BTNGenericSpellImmunity.blp
-
-// |cffFFFF00Arcane Script|r
 [Q0L3]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeAdept.blp
-
-// |cffFFFFFFRing of Luck|r
 [Q0KM]
 Art=ReplaceableTextures\CommandButtons\BTNGoldRing.blp
-
-// |cffFFFFFFPlain Staff|r
 [Q0KL]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctorAdept.blp
-
-// |cffFFFFFFSmall Orb|r
 [Q0KO]
 Art=ReplaceableTextures\CommandButtons\BTNSoulGem.blp
-
-// |cff0080FFOrb of Souls|r
 [Q0L0]
 Art=ReplaceableTextures\CommandButtons\BTNUsedSoulGem.blp
-
-// |cffFFFFFFDull Axe|r
 [Q0KN]
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpOne.blp
-
-// |cff0080FFMark of the Claw|r
 [Q0KY]
 Art=ReplaceableTextures\CommandButtons\BTNBearForm.blp
-
-// |cff0080FFMagic Flower|r
 [Q0KX]
 Art=ReplaceableTextures\CommandButtons\BTNDeathAndDecay.blp
-
-// |cff0080FFObsidian Figurine|r
 [Q0L9]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
-
-// |cffFFFFFFFloating Mark|r
 [Q0KZ]
 Art=ReplaceableTextures\CommandButtons\BTNMarksmanship.blp
-
-// |cffFFFFFFBasic Wand|r
 [Q0KU]
 Art=ReplaceableTextures\CommandButtons\BTNWand.blp
-
-// |cff0080FFHunting Map|r
 [Q0L6]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfHaste.blp
-
-// |cffFFFFFFYoung Thief's Cloak|r
 [Q0KT]
 Art=ReplaceableTextures\CommandButtons\BTNCloak.blp
-
-// |cff0080FFPillage Tools|r
 [Q0L5]
 Art=ReplaceableTextures\CommandButtons\BTNPillage.blp
-
-// |cff0080FFVoodoo Doll|r
 [Q0KW]
 Art=ReplaceableTextures\CommandButtons\BTNShadowPact.blp
-
-// |cff0080FFDowsing Rod|r
 [Q0L8]
 Art=ReplaceableTextures\CommandButtons\BTNScepterOfMastery.blp
-
-// |cff0080FFMark of the Talon|r
 [Q0KV]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
-
-// |cffFFFFFFScarab Amulet|r
 [Q0L7]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
-
-// |cff0080FFMur'gul Slave|r
 [Q0LB]
 Art=ReplaceableTextures\CommandButtons\BTNMurgalSlave.blp
-
-// |cff0080FFSupport Column|r
 [Q0LA]
 Art=ReplaceableTextures\CommandButtons\BTNSupportBeam.blp
-
-// |cffFFFF00Medallion of Opulence|r
 [Q0LD]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt1.blp
-
-// |cffFF00BFPriest Figurine|r
 [Q0LC]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
-
-// |cffFFFFFFSpider Silk|r
 [Q0LJ]
 Art=ReplaceableTextures\CommandButtons\BTNWeb.blp
-
-// |cff0080FFTome of Shadow Magic|r
 [Q0LI]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancerMaster.blp
-
-// |cffFFFFFFLand Mine|r
 [Q0LL]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinLandMine.blp
-
-// |cff0080FFCeremonial Skull|r
 [Q0LK]
 Art=ReplaceableTextures\CommandButtons\BTNEntrapmentWard.blp
-
-// |cffFFFF00Libram of Grace|r
 [Q0LF]
 Art=ReplaceableTextures\CommandButtons\BTNSorceressMaster.blp
-
-// |cffFFFF00Writer's Knowledge|r
 [Q0LE]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfRegenerationGreen.blp
-
-// |cffFFFFFFStrange Item|r
 [Q0LH]
 Art=ReplaceableTextures\CommandButtons\btnbronzebowl.blp
-
-// |cffFF00BFMighty Tree's Acorns|r
 [Q0LG]
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
-
-// |cffFFFFFFRusty Mining Pick|r
 [Q0JP]
 Art=ReplaceableTextures\CommandButtons\BTNGatherGold.blp
-
-// |cff0080FFTouch of a Spirit|r
 [Q0K1]
 Art=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
-
-// |cffFFFFFFLedger|r
 [Q0JO]
 Art=ReplaceableTextures\CommandButtons\BTNTomeBrown.blp
-
-// |cffFFFFFFBlunt Club|r
 [Q0K0]
 Art=ReplaceableTextures\CommandButtons\BTNSpikedBarricades.blp
-
-// |cffFFFFFFOld Spear|r
 [Q0JR]
 Art=ReplaceableTextures\CommandButtons\BTNSteelRanged.blp
-
-// |cffFFFF00Arms Dealer|r
 [Q0K3]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
-
-// |cffFFFFFFCollection of Stories|r
 [Q0JQ]
 Art=ReplaceableTextures\CommandButtons\BTNManual.blp
-
-// |cff0080FFPeriscope|r
 [Q0K2]
 Art=ReplaceableTextures\CommandButtons\BTNExpandedView.blp
-
-// |cffFFFF00Spiderling|r
 [Q0JL]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderling.blp
-
-// |cffFF00BFPortable Tombstone|r
 [Q0JK]
 Art=ReplaceableTextures\CommandButtons\BTNAnkh.blp
-
-// |cffFFFFFFShort Sword|r
 [Q0JN]
 Art=ReplaceableTextures\CommandButtons\BTNSteelMelee.blp
-
-// |cff0080FFCharged Disk|r
 [Q0JM]
 Art=ReplaceableTextures\CommandButtons\BTNThoriumArmor.blp
-
-// |cff0080FFIron Leg|r
 [Q0JX]
 Art=ReplaceableTextures\CommandButtons\BTNWirtsOtherLeg.blp
-
-// |cff0080FFSpeed Demon's Reward|r
 [Q0K9]
 Art=ReplaceableTextures\CommandButtons\BTNMedalionOfCourage.blp
-
-// |cff0080FFFiery Assassination Arrow|r
 [Q0JW]
 Art=ReplaceableTextures\CommandButtons\BTNFlamingArrows.blp
-
-// |cffFFFFFFAssassination Arrow|r
 [Q0K8]
 Art=ReplaceableTextures\CommandButtons\BTNImpalingBolt.blp
-
-// |cffFFFFFFSmall Stone|r
 [Q0JZ]
 Art=ReplaceableTextures\CommandButtons\BTNGolemStormBolt.blp
-
-// |cffFFFFFFFancy Lights|r
 [Q0JY]
 Art=ReplaceableTextures\CommandButtons\BTNScatterRockets.blp
-
-// |cffFFFFFFWooden Leg|r
 [Q0JT]
 Art=ReplaceableTextures\CommandButtons\BTNWirtsLeg.blp
-
-// |cffFFFFFFSkull Trophy|r
 [Q0K5]
 Art=ReplaceableTextures\CommandButtons\BTNCorpseExplode.blp
-
-// |cffFFFFFFPrimitive Flute|r
 [Q0JS]
 Art=ReplaceableTextures\CommandButtons\BTNAlleriaFlute.blp
-
-// |cff0080FFOgre Staff of Wisdom|r
 [Q0K4]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctorMaster.blp
-
-// |cffFF00BFGolden Trident|r
 [Q0JV]
 Art=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp2.blp
-
-// |cff0080FFTiny Rabbit|r
 [Q0K7]
 Art=ReplaceableTextures\CommandButtons\BTNCritterRabbit.blp
-
-// |cff0080FFBlaster Staff|r
 [Q0JU]
 Art=ReplaceableTextures\CommandButtons\BTNWandOfManaSteal.blp
-
-// |cffFFFFFFVoid Vial|r
 [Q0K6]
 Art=ReplaceableTextures\CommandButtons\BTNVialEmpty.blp
-
-// |cffFFFFFFBlunt Dagger|r
 [Q0KA]
 Art=ReplaceableTextures\CommandButtons\BTNDaggerOfEscape.blp
-
-// |cff0080FFQuicktrigger Blade|r
 [Q0KC]
 Art=ReplaceableTextures\CommandButtons\BTNVorpalBlades.blp
-
-// |cff0080FFWanted List|r
 [Q0KB]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyScroll.blp
-
-// |cff0080FFMystical Shell|r
 [Q0KI]
 Art=ReplaceableTextures\CommandButtons\BTNHermitCrab.blp
-
-// |cffFFFF00Purifying Gloves|r
 [Q0KH]
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
-
-// |cffFFFFFFOld Crystal Ball|r
 [Q0KK]
 Art=ReplaceableTextures\CommandButtons\BTNCrystalBall.blp
-
-// |cffFFFFFFFaded Gloves|r
 [Q0KJ]
 Art=ReplaceableTextures\CommandButtons\BTNGlove.blp
-
-// |cffFFFFFFMagic Gloves|r
 [Q0KE]
 Art=ReplaceableTextures\CommandButtons\BTNSpellSteal.blp
-
-// |cffFF00BFVampiric Skull|r
 [Q0KD]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadShrine.blp
-
-// |cffFFFF00Magic Hammer|r
 [Q0KG]
 Art=ReplaceableTextures\CommandButtons\BTNStormHammer.blp
-
-// |cffFF00BFBackpack|r
 [Q0KF]
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
-
-// |cffFFFF00Scroll of Strength|r
 [Q0MS]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfTownPortal.blp
-
-// |cff0080FFEnchanted Telescope|r
 [Q0N4]
 Art=ReplaceableTextures\CommandButtons\BTNTelescope.blp
-
-// |cff0080FFMagic Link|r
 [Q0MR]
 Art=ReplaceableTextures\CommandButtons\BTNHealingWave.blp
-
-// |cff0080FFBloodthirsty Axe|r
 [Q0N3]
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpThree.blp
-
-// |cffFF00BFHelm of Insanity|r
 [Q0MU]
 Art=ReplaceableTextures\CommandButtons\BTNUnholyAura.blp
-
-// |cff0080FFRazor Sharp Dagger|r
 [Q0N6]
 Art=ReplaceableTextures\CommandButtons\BTNSacrifice.blp
-
-// |cffFFFF00Scroll of Speed|r
 [Q0MT]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfHealing.blp
-
-// |cff0080FFMaster Thief's Shroud|r
 [Q0N5]
 Art=ReplaceableTextures\CommandButtons\BTNRobeOfTheMagi.blp
-
-// |cff0080FFGlowing Gauntlets|r
 [Q0MO]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedUnholyStrength.blp
-
-// |cffFFFFFFMini Sheep|r
 [Q0N0]
 Art=ReplaceableTextures\CommandButtons\BTNMechanicalCritter.blp
-
-// |cffFFFFFFBomb Shells|r
 [Q0MN]
 Art=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
-
-// |cffFFFFFFElegant Ring|r
 [Q0MQ]
 Art=ReplaceableTextures\CommandButtons\BTNRingSkull.blp
-
-// |cff0080FFDemonic Orb|r
 [Q0N2]
 Art=ReplaceableTextures\CommandButtons\BTNOrbofSlowness.blp
-
-// |cffFFFFFFOrc War Spear|r
 [Q0MP]
 Art=ReplaceableTextures\CommandButtons\BTNCommand.blp
-
-// |cffFFFF00Fist of Doom|r
 [Q0N1]
 Art=ReplaceableTextures\CommandButtons\BTNDeathPact.blp
-
-// |cffFFFFFFMagic Branch|r
 [Q0MZ]
 Art=ReplaceableTextures\CommandButtons\BTNNatureTouchGrow.blp
-
-// |cff0080FFBones of Essence|r
 [Q0MW]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalLongevity.blp
-
-// |cff0080FFVeteran's Tome of Battle|r
 [Q0N8]
 Art=ReplaceableTextures\CommandButtons\BTNManual3.blp
-
-// |cffFF00BFJungle Stalker's Doll|r
 [Q0MV]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
-
-// |cff0080FFRing of Chance|r
 [Q0N7]
 Art=ReplaceableTextures\CommandButtons\BTNRingLionHead.blp
-
-// |cff0080FFSparkling Staff|r
 [Q0MY]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfTeleportation.blp
-
-// |cffFFFF00Book of Knowledge|r
 [Q0MX]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// |cffFFFF00Crystalline Arrow|r
 [Q0N9]
 Art=ReplaceableTextures\CommandButtons\BTNColdArrows.blp
-
-// |cffFFFF00Bloodthirsty Wheel of Fortune|r
 [Q0ND]
 Art=ReplaceableTextures\CommandButtons\BTNArcaneVault.blp
-
-// |cff0080FFMagician's Doorkey|r
 [Q0NC]
 Art=ReplaceableTextures\CommandButtons\BTNMoonKey.blp
-
-// |cffFF00BFLucky Gem|r
 [Q0NF]
 Art=ReplaceableTextures\CommandButtons\BTNPhilosophersStone.blp
-
-// |cffFFFF00Phase Gloves|r
 [Q0NE]
 Art=ReplaceableTextures\CommandButtons\BTNAmuletOftheWild.blp
-
-// |cff0080FFDiamond of Greed|r
 [Q0NB]
 Art=ReplaceableTextures\CommandButtons\BTNEnchantedGemstone.blp
-
-// |cff0080FFClaws of the Bear|r
 [Q0NA]
 Art=ReplaceableTextures\CommandButtons\BTNDOCAdeptTraining.blp
-
-// |cffFFFFFFHeavy Crossbow|r
 [Q0NL]
 Art=ReplaceableTextures\CommandButtons\BTNBallista.blp
-
-// |cff0080FFWine of Aluqah|r
 [Q0NK]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfVampirism.blp
-
-// |cffFFFF00Commander|r
 [Q0NN]
 Art=ReplaceableTextures\CommandButtons\BTNBloodMage2.blp
-
-// |cffFFFF00Hippogryph Egg|r
 [Q0NM]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardEgg.blp
-
-// |cffFFFFFFPiece of Meat|r
 [Q0NH]
 Art=ReplaceableTextures\CommandButtons\BTNMonsterLure.blp
-
-// |cffFFFF00Eye of True Sight|r
 [Q0NG]
 Art=ReplaceableTextures\CommandButtons\BTNSentryWard.blp
-
-// |cffFFFF00Ritual Talisman|r
 [Q0NJ]
 Art=ReplaceableTextures\CommandButtons\BTNBloodLust.blp
-
-// |cff0080FFLightning Boots|r
 [Q0NI]
 Art=ReplaceableTextures\CommandButtons\BTNBootsOfSpeed.blp
-
-// |cff0080FFShrapnel Ammunition|r
 [Q0LR]
 Art=ReplaceableTextures\CommandButtons\BTNFragmentationBombs.blp
-
-// |cff0080FFFlawless Sapphire|r
 [Q0M3]
 Art=ReplaceableTextures\CommandButtons\BTNFrostTower.blp
-
-// |cff0080FFDumpster|r
 [Q0LQ]
 Art=ReplaceableTextures\CommandButtons\BTNCage.blp
-
-// |cffFFFF00Share Knowledge|r
 [Q0M2]
 Art=ReplaceableTextures\CommandButtons\BTNAltarOfKings.blp
-
-// |cffFF00BFWorkbench|r
 [Q0LT]
 Art=ReplaceableTextures\CommandButtons\BTNBasicStruct.blp
-
-// |cff0080FFToxic Chemicals|r
 [Q0M5]
 Art=ReplaceableTextures\CommandButtons\BTNHealingSpray.blp
-
-// |cffFF00BFMagic Conductor|r
 [Q0LS]
 Art=ReplaceableTextures\CommandButtons\BTNAbsorbMagic.blp
-
-// |cff0080FFCrystalized Scales|r
 [Q0M4]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedReinforcedHides.blp
-
-// |cffFFFFFFScroll of Myths|r
 [Q0LN]
 Art=ReplaceableTextures\CommandButtons\BTNGreaterRejuvScroll.blp
-
-// |cff0080FFWise Man's Cooking Recipe|r
 [Q0LM]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyScrollGreen.blp
-
-// |cff0080FFAxe of Decapitation|r
 [Q0LP]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalkerMasterTraining.blp
-
-// |cffFFFF00Staff of the Wild Equus|r
 [Q0M1]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPurification.blp
-
-// |cff0080FFHand of Ruin|r
 [Q0LO]
 Art=ReplaceableTextures\CommandButtons\BTNUnholyStrength.blp
-
-// |cffFFFF00Haunted Hand|r
 [Q0M0]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
-
-// |cffFFFF00Shining Rock|r
 [Q0LZ]
 Art=ReplaceableTextures\CommandButtons\BTNHealthStone.blp
-
-// |cff0080FFSurvival Kit|r
 [Q0LY]
 Art=ReplaceableTextures\CommandButtons\BTNStatUp.blp
-
-// |cff0080FFDeep Shadows|r
 [Q0LV]
 Art=ReplaceableTextures\CommandButtons\BTNSentinel.blp
-
-// |cffFF00BFFaithful Staff|r
 [Q0M7]
 Art=ReplaceableTextures\CommandButtons\BTNPriestMaster.blp
-
-// |cff0080FFScroll of Piercing Magic|r
 [Q0LU]
 Art=ReplaceableTextures\CommandButtons\BTNScrollOfRegeneration.blp
-
-// |cffFFFFFFNinja Glaive|r
 [Q0M6]
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
-
-// |cff0080FFUnstable Current|r
 [Q0LX]
 Art=ReplaceableTextures\CommandButtons\BTNManaFlareOff.blp
-
-// |cffFFFF00Sword of Reckoning|r
 [Q0M9]
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeRegenerationAura.blp
-
-// |cff0080FFAqueous Vapor|r
 [Q0LW]
 Art=ReplaceableTextures\CommandButtons\BTNCloudOfFog.blp
-
-// |cffFFFF00Crescent Stone|r
 [Q0M8]
 Art=ReplaceableTextures\CommandButtons\BTNResStone.blp
-
-// |cff0080FFMagic Vial|r
 [Q0MC]
 Art=ReplaceableTextures\CommandButtons\BTNVialFull.blp
-
-// |cff0080FFNermind's Eye|r
 [Q0MB]
 Art=ReplaceableTextures\CommandButtons\BTNUnholyFrenzy.blp
-
-// |cffFF00BFDark Matter Trident|r
 [Q0ME]
 Art=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp3.blp
-
-// |cff0080FFShiny Emerald|r
 [Q0MD]
 Art=ReplaceableTextures\CommandButtons\BTNZigguratUpgrade.blp
-
-// |cffFFFF00Sword of Decay|r
 [Q0MA]
 Art=ReplaceableTextures\CommandButtons\BTNRegenerationAura.blp
-
-// |cffFFFF00Brimstone Helmet|r
 [Q0MK]
 Art=ReplaceableTextures\CommandButtons\BTNIncinerate.blp
-
-// |cffFFFF00Lich Mask|r
 [Q0MJ]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
-
-// |cffFFFFFFMagical Essence|r
 [Q0MM]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
-
-// |cffFF00BFCircle of Power|r
 [Q0ML]
 Art=replaceabletextures\commandbuttons\BTNneutralManaShieldOff.blp
-
-// |cff0080FFUnyielding Maul|r
 [Q0MG]
 Art=ReplaceableTextures\CommandButtons\BTNBash.blp
-
-// |cffFFFF00Basics of Calculus|r
 [Q0MF]
 Art=ReplaceableTextures\CommandButtons\BTNTomeOfRetraining.blp
-
-// |cffFFFFFFTooth Trophy|r
 [Q0MI]
 Art=ReplaceableTextures\CommandButtons\BTNVampiricAura.blp
-
-// |cffFFFF00Liquid Gold|r
 [Q0MH]
 Art=ReplaceableTextures\CommandButtons\BTNStrongDrink.blp
-
-// |cffFFFF00Magnetic Field|r
 [Q0OU]
 Art=ReplaceableTextures\CommandButtons\BTNWispSplode.blp
-
-// |cffFFFF00Enchanted Mining Pick|r
 [Q0P6]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedMining.blp
-
-// |cffFF00BFSoul Collectors Cloak|r
 [Q0OT]
 Art=ReplaceableTextures\CommandButtons\BTNCloakOfFlames.blp
-
-// |cffFFFFFFRailgun|r
 [Q0P5]
 Art=ReplaceableTextures\CommandButtons\BTNFlakCannons.blp
-
-// |cffFFFF00Bloody Key|r
 [Q0OW]
 Art=ReplaceableTextures\CommandButtons\BTNBloodKey.blp
-
-// |cffFFFFFFEnchanted Bird Figurine|r
 [Q0P8]
 Art=ReplaceableTextures\CommandButtons\BTNEnchantedCrows.blp
-
-// |cffFF00BFEven More Magical Hammer|r
 [Q0OV]
 Art=ReplaceableTextures\CommandButtons\BTNWandOfCyclone.blp
-
-// |cffFFFFFFInscribed Pebble|r
 [Q0P7]
 Art=ReplaceableTextures\CommandButtons\BTNPebble.blp
-
-// |cffFF00BFArtifact of Skadi|r
 [Q0OQ]
 Art=ReplaceableTextures\CommandButtons\BTNIceShard.blp
-
-// |cff0080FFZombie Hand|r
 [Q0P2]
 Art=ReplaceableTextures\CommandButtons\BTNAnimateDead.blp
-
-// |cffFFFF00Stunner|r
 [Q0OP]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
-
-// |cffFFFFFFRuned Wood|r
 [Q0P1]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
-
-// |cffFF00BFJah'Rakal's Fury|r
 [Q0OS]
 Art=ReplaceableTextures\CommandButtons\BTNBerserkForTrolls.blp
-
-// |cffFFFFFFMining Lamp|r
 [Q0P4]
 Art=ReplaceableTextures\CommandButtons\BTNLamp.blp
-
-// |cffFFFF00Bartuc's Spirit|r
 [Q0OR]
 Art=ReplaceableTextures\CommandButtons\BTNGhostMage.blp
-
-// |cffFFFFFFElectrified Horseshoe|r
 [Q0P3]
 Art=ReplaceableTextures\CommandButtons\BTNAnimalWarTraining.blp
-
-// |cffFF00BFSoul Collector's Scythe|r
 [Q0OY]
 Art=replaceabletextures\commandbuttons\BTNImpale.blp
-
-// |cffFFFF00Old Hunter|r
 [Q0OX]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
-
-// |cffFFFFFFSacred Halo|r
 [Q0P9]
 Art=ReplaceableTextures\CommandButtons\BTNInnerFire.blp
-
-// |cffFFFFFFGift of the Wild|r
 [Q0OZ]
 Art=ReplaceableTextures\CommandButtons\BTNRegeneration.blp
-
-// |cff0080FFPolarisator|r
 [Q0PF]
 Art=ReplaceableTextures\CommandButtons\BTNDefend.blp
-
-// |cffFFFF00Claws of Ursus|r
 [Q0PE]
 Art=ReplaceableTextures\CommandButtons\BTNDOCMasterTraining.blp
-
-// |cff0080FFGrand Seal of Pickiness|r
 [Q0PH]
 Art=ReplaceableTextures\CommandButtons\BTNHornOfCenarius.blp
-
-// |cffFFFF00Chameleons Soul|r
 [Q0PG]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritLink.blp
-
-// |cffFF00BFChameleon Glaive|r
 [Q0PB]
 Art=ReplaceableTextures\CommandButtons\BTNShadowStrike.blp
-
-// |cffFF00BFCruel Torch|r
 [Q0PA]
 Art=ReplaceableTextures\CommandButtons\BTNSerpentWard.blp
-
-// |cff0080FFAncient Figurine|r
 [Q0PD]
 Art=ReplaceableTextures\CommandButtons\BTNClayFigurine.blp
-
-// |cffFF00BFJewels of the Moon|r
 [Q0PC]
 Art=ReplaceableTextures\CommandButtons\BTN3M3.blp
-
-// |cff0080FFDragon's Heart|r
 [Q0PN]
 Art=ReplaceableTextures\CommandButtons\BTNHeartOfAszune.blp
-
-// |cff0080FFSpider Broach|r
 [Q0PM]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderSilkBroach.blp
-
-// |cffFF00BFWarsong Double Bass|r
 [Q0PP]
 Art=ReplaceableTextures\CommandButtons\BTNDrum.blp
-
-// |cff0080FFPanda Dress|r
 [Q0Q1]
 Art=ReplaceableTextures\CommandButtons\BTNStormEarth&Fire.blp
-
-// |cffFFFF00Essence of Rot|r
 [Q0PO]
 Art=ReplaceableTextures\CommandButtons\BTNExhumeCorpses.blp
-
-// |cffFFFF00Silver Armor|r
 [Q0Q0]
 Art=ReplaceableTextures\CommandButtons\BTNMoonArmor.blp
-
-// |cff0080FFMini Tank|r
 [Q0PJ]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
-
-// |cffFFFF00Never-ending Keg|r
 [Q0PI]
 Art=ReplaceableTextures\CommandButtons\BTNBarrel.blp
-
-// |cff0080FFDragon Claws|r
 [Q0PL]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedUnholyStrength.blp
-
-// |cff0080FFMinds Key|r
 [Q0PK]
 Art=ReplaceableTextures\CommandButtons\BTNGhostKey.blp
-
-// |cffFFFFFFGargoyle Wing|r
 [Q0NT]
 Art=ReplaceableTextures\CommandButtons\BTNStoneForm.blp
-
-// |cffFF00BFPocket Emporium|r
 [Q0O5]
 Art=ReplaceableTextures\CommandButtons\BTNBlackMarket.blp
-
-// |cffFFFFFFClaws of Attack|r
 [Q0NS]
 Art=ReplaceableTextures\CommandButtons\BTNClawsOfAttack.blp
-
-// |cffFF00BFChrono Jumper|r
 [Q0O4]
 Art=ReplaceableTextures\CommandButtons\BTNBlink.blp
-
-// |cffFFFF00Optimist's Preserved Face|r
 [Q0NV]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
-
-// |cffFFFF00Secret Tome of Magic|r
 [Q0O7]
 Art=ReplaceableTextures\CommandButtons\BTNBookOfTheDead.blp
-
-// |cffFF00BFCrit Blade|r
 [Q0NU]
 Art=ReplaceableTextures\CommandButtons\BTNCriticalStrike.blp
-
-// |cff0080FFArcher's Hood|r
 [Q0O6]
 Art=ReplaceableTextures\CommandButtons\BTNHoodOfCunning.blp
-
-// |cff0080FFBattle Suit|r
 [Q0NP]
 Art=ReplaceableTextures\CommandButtons\BTNArmorGolem.blp
-
-// |cffFFFFFFPirate Map|r
 [Q0O1]
 Art=ReplaceableTextures\CommandButtons\BTNSpy.blp
-
-// |cff0080FFZombie Head|r
 [Q0NO]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
-
-// |cff0080FFMonocle|r
 [Q0O0]
 Art=ReplaceableTextures\CommandButtons\BTNReveal.blp
-
-// |cffFFFF00Sign of Energy Infusion|r
 [Q0NR]
 Art=ReplaceableTextures\CommandButtons\BTNAntiMagicShell.blp
-
-// |cffFFFF00Mindleecher|r
 [Q0O3]
 Art=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
-
-// |cff0080FFCombat Gloves|r
 [Q0NQ]
 Art=ReplaceableTextures\CommandButtons\BTNDevotion.blp
-
-// |cff0080FFOgre Battle Axe|r
 [Q0O2]
 Art=ReplaceableTextures\CommandButtons\BTNOrcMeleeUpTwo.blp
-
-// |cff0080FFMask of Sanity|r
 [Q0NX]
 Art=ReplaceableTextures\CommandButtons\BTNMaskOfDeath.blp
-
-// |cffFF00BFBonk's Face|r
 [Q0O9]
 Art=ReplaceableTextures\CommandButtons\BTNTaunt.blp
-
-// |cffFF00BFLunar Essence|r
 [Q0NW]
 Art=ReplaceableTextures\CommandButtons\BTNMoonStone.blp
-
-// |cffFFFF00Cursed Claw|r
 [Q0O8]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedCreatureAttack.blp
-
-// |cffFFFF00Wand of Mana Zap|r
 [Q0NZ]
 Art=ReplaceableTextures\CommandButtons\BTNWandOfNeutralization.blp
-
-// |cffFF00BFDagger of Bane|r
 [Q0NY]
 Art=ReplaceableTextures\CommandButtons\BTNEnvenomedSpear.blp
-
-// |cffFF00BFGolden Decoration|r
 [Q0OE]
 Art=ReplaceableTextures\CommandButtons\BTNImbuedMasonry.blp
-
-// |cffFFFFFFTroll Voodoo Mask|r
 [Q0OD]
 Art=ReplaceableTextures\CommandButtons\BTNHealingWard.blp
-
-// |cff0080FFFlaming Arrow|r
 [Q0OG]
 Art=ReplaceableTextures\CommandButtons\BTNSearingArrows.blp
-
-// |cff0080FFWizard Staff|r
 [Q0OF]
 Art=ReplaceableTextures\CommandButtons\BTNBrilliance.blp
-
-// |cffFF00BFFlag of the Alliance|r
 [Q0OA]
 Art=ReplaceableTextures\CommandButtons\BTNHumanCaptureFlag.blp
-
-// |cffFF00BFOvercharge Shot|r
 [Q0OC]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfSanctuary.blp
-
-// |cffFFFF00Mana Stone|r
 [Q0OB]
 Art=ReplaceableTextures\CommandButtons\BTNManaStone.blp
-
-// |cffFFFF00Divine Shield|r
 [Q0OM]
 Art=ReplaceableTextures\CommandButtons\BTNBarkskin.blp
-
-// |cff0080FFHeavy Gun|r
 [Q0OL]
 Art=ReplaceableTextures\CommandButtons\BTNHumanMissileUpThree.blp
-
-// |cffFF00BFElunes Bow|r
 [Q0OO]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedBows.blp
-
-// |cff0080FFVulshok's Claws|r
 [Q0P0]
 Art=ReplaceableTextures\CommandButtons\BTNShamanMaster.blp
-
-// |cffFFFF00Granite Hammer|r
 [Q0ON]
 Art=ReplaceableTextures\CommandButtons\BTNHammer.blp
-
-// |cffFF00BFMini Furbolg|r
 [Q0OI]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgElder.blp
-
-// |cff0080FFHermit Staff|r
 [Q0OH]
 Art=ReplaceableTextures\CommandButtons\BTNDryadDispelMagic.blp
-
-// |cffFFFFFFShimmerweed|r
 [Q0OK]
 Art=ReplaceableTextures\CommandButtons\BTNShimmerWeed.blp
-
-// |cff0080FFCrystal Staff|r
 [Q0OJ]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfNegation.blp
-
-// |cffFF00BFPendant of Promptness|r
 [Q0QW]
 Art=ReplaceableTextures\CommandButtons\BTNPendantOfMana.blp
-
-// |cffFF00BFEnchanted Knives|r
 [Q0QV]
 Art=ReplaceableTextures\CommandButtons\BTNFanOfKnives.blp
-
-// |cffFF00BFThe Divine Wings of Tragedy|r
 [Q0QY]
 Art=ReplaceableTextures\CommandButtons\BTNStaffOfPreservation.blp
-
-// |cffFF00BFBhaal's Essence|r
 [Q0QX]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
-
-// |cffFF00BFStaff of Essence|r
 [Q0QS]
 Art=ReplaceableTextures\CommandButtons\BTNWandSkull.blp
-
-// |cffFF00BFGlaive of Surpreme Follow Up|r
 [Q0QR]
 Art=ReplaceableTextures\CommandButtons\BTNUpgradeMoonGlaive.blp
-
-// |cffFF00BFElunes Quiver|r
 [Q0QU]
 Art=ReplaceableTextures\CommandButtons\BTNDustOfAppearance.blp
-
-// |cffFF00BFHoly Hand Grenade|r
 [Q0QT]
 Art=ReplaceableTextures\CommandButtons\BTNPotionOfRestoration.blp
-
-// |cffFF00BFDistorted Idol|r
 [Q0QZ]
 Art=replaceabletextures\commandbuttons\BTNUnbroken.blp
-
-// |cff0080FFArcane Eye|r
 [Q0PV]
 Art=ReplaceableTextures\CommandButtons\BTNMagicalSentry.blp
-
-// |cffFF00BFM.E.F.I.S. Rocket|r
 [Q0Q7]
 Art=ReplaceableTextures\CommandButtons\BTNClusterRockets.blp
-
-// |cff0080FFNaga Trident|r
 [Q0PU]
 Art=ReplaceableTextures\CommandButtons\BTNNagaWeaponUp1.blp
-
-// |cffFF00BFSpellbook of Item Mastery|r
 [Q0Q6]
 Art=ReplaceableTextures\CommandButtons\BTNTomeRed.blp
-
-// |cff0080FFBlood Crown|r
 [Q0PX]
 Art=ReplaceableTextures\CommandButtons\BTNBelt.blp
-
-// |cffFFFF00Forcefield Generator|r
 [Q0Q9]
 Art=ReplaceableTextures\CommandButtons\BTNPortal.blp
-
-// |cff0080FFShadowfoot's Mantle|r
 [Q0PW]
 Art=ReplaceableTextures\CommandButtons\BTNMantleOfIntelligence.blp
-
-// |cffFF00BFGrounding Gloves|r
 [Q0Q8]
 Art=ReplaceableTextures\CommandButtons\BTNEntanglingRoots.blp
-
-// |cffFFFF00Shackles of Time|r
 [Q0PR]
 Art=ReplaceableTextures\CommandButtons\BTNSlow.blp
-
-// |cff0080FFBeast Head|r
 [Q0Q3]
 Art=ReplaceableTextures\CommandButtons\BTNMammoth.blp
-
-// |cffFFFF00Love Potion|r
 [Q0PQ]
 Art=ReplaceableTextures\CommandButtons\BTNSnazzyPotion.blp
-
-// |cff0080FFSobi Mask|r
 [Q0Q2]
 Art=ReplaceableTextures\CommandButtons\BTNSobiMask.blp
-
-// |cff0080FFTroll Charm|r
 [Q0PT]
 Art=ReplaceableTextures\CommandButtons\BTNRegenerate.blp
-
-// |cffFF00BFDoom's Ensign|r
 [Q0Q5]
 Art=ReplaceableTextures\CommandButtons\BTNGlyph.blp
-
-// |cff0080FFKnowing Mind|r
 [Q0PS]
 Art=ReplaceableTextures\CommandButtons\BTNCharm.blp
-
-// |cffFF00BFSpear of Loki|r
 [Q0Q4]
 Art=ReplaceableTextures\CommandButtons\BTNImprovedStrengthOfTheMoon.blp
-
-// |cffFFFF00El Bastardo|r
 [Q0QA]
 Art=ReplaceableTextures\CommandButtons\BTNThoriumMelee.blp
-
-// |cffFF00BFExcalibur|r
 [Q0PZ]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteMelee.blp
-
-// |cff0080FFMoonsilver Circlet|r
 [Q0PY]
 Art=ReplaceableTextures\CommandButtons\BTNCirclet.blp
-
-// |cffFFFF00Scepter of the Lunar Light|r
 [Q0QG]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedStrengthOfTheMoon.blp
-
-// |cffFF00BFPendant of Mana Supremacy|r
 [Q0QF]
 Art=ReplaceableTextures\CommandButtons\BTNPendantOfEnergy.blp
-
-// |cffFFFF00Secret Tome of Mana|r
 [Q0QI]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancerAdept.blp
-
-// |cffFFFF00The Sucona|r
 [Q0QH]
 Art=ReplaceableTextures\CommandButtons\BTNAdvancedCreatureAttack.blp
-
-// |cffFFFF00Enchanted Gear|r
 [Q0QC]
 Art=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
-
-// |cffFF00BFFrog Pipe|r
 [Q0QB]
 Art=ReplaceableTextures\CommandButtons\BTNPipeOfInsight.blp
-
-// |cffFFFF00Elite Sharp Shooter|r
 [Q0QE]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
-
-// |cffFFFF00Phoenix Egg|r
 [Q0QD]
 Art=ReplaceableTextures\CommandButtons\BTNPhoenixEgg.blp
-
-// |cffFFFF00Toy Boy|r
 [Q0QO]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
-
-// |cffFFFF00Amulet of Strength|r
 [Q0QN]
 Art=ReplaceableTextures\CommandButtons\BTNPeriapt.blp
-
-// |cffFF00BFFragmentation Round|r
 [Q0QQ]
 Art=ReplaceableTextures\CommandButtons\BTNHardenedSkin.blp
-
-// |cffFF00BFSleeve of Rage|r
 [Q0QP]
 Art=ReplaceableTextures\CommandButtons\BTNRingJadeFalcon.blp
-
-// |cffFFFF00Eternium Blade|r
 [Q0QK]
 Art=ReplaceableTextures\CommandButtons\BTNCleavingAttack.blp
-
-// |cffFFFF00Spear of the Malphai|r
 [Q0QJ]
 Art=ReplaceableTextures\CommandButtons\BTNArcaniteRanged.blp
-
-// |cffFFFF00Thunder Gloves|r
 [Q0QM]
 Art=ReplaceableTextures\CommandButtons\BTNControlMagic.blp
-
-// |cffFFFF00Lucky Dice|r
 [Q0QL]
 Art=ReplaceableTextures\CommandButtons\BTNDust.blp
-
-// |cffFF00BFConsumable Hobbit|r
 [IC06]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
-
-// |cffFFFF00Mine Cart|r
 [IC07]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNChestOfGold.blp
-
-// |cffFFFFFFBook of Force|r
 [IC00]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// |cff0080FFArcane Book of Power|r
 [IC01]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNSpellBookBLS.blp
-
-// |cff0080FFConsumable Chicken|r
 [IC04]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
-
-// |cffFFFFFFConsumable Plant|r
 [IC05]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNAcorn.blp
-
-// |cffFFFF00Divine Book of Omnipotence|r
 [IC02]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNSorceressMaster.blp
-
-// |cffFFFF00Consumable Piggy|r
 [IC03]
 Buttonpos=2,0
 Art=ReplaceableTextures\CommandButtons\BTNMonsterLure.blp
-
-// BASEDMG +1
 [IDMA]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +8
 [IDMD]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +16
 [IDME]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +2
 [IDMB]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +4
 [IDMC]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +128
 [IDMH]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +256
 [IDMI]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +32
 [IDMF]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +64
 [IDMG]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +2048
 [IDML]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +4096
 [IDMM]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +512
 [IDMJ]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +1024
 [IDMK]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +32768
 [IDMP]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +65536
 [IDMQ]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +8192
 [IDMN]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +16384
 [IDMO]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -262144
 [IDNS]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -524288
 [IDNT]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +524288
 [IDMT]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +131072
 [IDMR]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG +262144
 [IDMS]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -1
 [IDNA]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -2
 [IDNB]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -16
 [IDNE]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -32
 [IDNF]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -4
 [IDNC]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -8
 [IDND]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -256
 [IDNI]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -512
 [IDNJ]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -64
 [IDNG]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -128
 [IDNH]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -4096
 [IDNM]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -8192
 [IDNN]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -1024
 [IDNK]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -2048
 [IDNL]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -65536
 [IDNQ]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -131072
 [IDNR]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -16384
 [IDNO]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-
-// BASEDMG -32768
 [IDNP]
 Art=ReplaceableTextures\CommandButtons\BTNTome.blp
-

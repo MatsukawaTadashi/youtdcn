@@ -1,23 +1,12 @@
-//-----------------------------------------------------------------------------
-// FIRELORD
-//-----------------------------------------------------------------------------
-
-// Incinerate
-
 [ANf1]
 Art=ReplaceableTextures\CommandButtons\BTNPocketFactory.blp
 Buttonpos=0,2
-
-// Factory 2
 [ANf2]
 Art=ReplaceableTextures\CommandButtons\BTNPocketFactory.blp
 Buttonpos=0,2
-
-// Factory 3
 [ANf3]
 Art=ReplaceableTextures\CommandButtons\BTNPocketFactory.blp
 Buttonpos=0,2
-
 [ANab]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
@@ -29,188 +18,91 @@ Missilearc=0.4
 MissileHoming=1
 order=acidbomb
 Animnames=Attack,two,Spell
-
 [BNab]
 Buffart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Targetart=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
 Targetattach=chest
-
-// Chemical Rage
-
 [Aasl]
-
-//tornado damage
-
 [ANdo]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=3,2
 Researchart=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Researchbuttonpos=3,0
 Order=doom
-
 [BNdo]
 Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Targetart=Abilities\Spells\Other\Doom\DoomTarget.mdl
-
 [Aiun]
 Requires=Rupm
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
-
-// orc
 [Aion]
 Requires=Ropm
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
-
-// human
 [Aihn]
 Requires=Rhpm
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
-
-// night elf
 [Aien]
 Requires=Repm
 Art=ReplaceableTextures\CommandButtons\BTNPackBeast.blp
-
-// Summon Grizzly
-
 [ANbu]
 Art=ReplaceableTextures\CommandButtons\BTNBasicStruct.blp
 Buttonpos=0,2
 Order=build
-
-// Inventory
 [AInv]
-
-// Thorns
-
-[ANpr]
-
-// Pulverize (sea giant)
-
 [BNch]
-//disabled because charm is now permanent
-//Buffart=ReplaceableTextures\CommandButtons\BTNCharm.blp
-
-// Monsoon
-
 [BNmo]
 Buffart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
-
 [Basl]
 Buffart=ReplaceableTextures\CommandButtons\BTNTornado.blp
 Targetart=Abilities\Spells\Other\Tornado\Tornado_Target.mdl
-
-// Tornado - Spin
-
 [XNto]
 Effectart=Abilities\Spells\Other\Tornado\Tornado.mdl
-
 [ACmi]
 Art=ReplaceableTextures\PassiveButtons\PASBTNGenericSpellImmunity.blp
 Buttonpos=2,2
-
-// Magic Immunity (Archimonde)
 [Adtg]
 Art=ReplaceableTextures\PassiveButtons\PASBTNScout.blp
 Buttonpos=0,2
-
-// general detect invis
 [ANtr]
 Art=ReplaceableTextures\PassiveButtons\PASBTNScout.blp
 Buttonpos=0,2
-
-// Revenge
 [Arng]
 Casterart=Abilities\Spells\Orc\WarStomp\WarStompCaster.mdl
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Targetart=Abilities\Weapons\Mortar\MortarMissile.mdl
-
-// Dark Conversion
-
 [Achd]
-
-[Bchd]
-Buffart=ReplaceableTextures\CommandButtons\BTNDizzy.blp
-Targetart=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
-Targetattach=overhead
-
-// permanent immolation
-[ANpi]
-Art=ReplaceableTextures\PassiveButtons\PASBTNImmolation.blp
-Buttonpos=0,2
-
-// Permanent immolation buff
-[BNpi]
-Targetart=
-Specialart=Abilities\Spells\NightElf\Immolation\ImmolationDamage.mdl
-Specialattach=head
-
-[Bpig]
-Targetart=Abilities\Spells\Other\ImmolationRed\ImmolationRedTarget.mdl
-Targetattach=chest
-Specialart=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
-Specialattach=chest
-
-// Bunker
 [Abun]
 Effectsound=LoadUnload
-
 [Acar]
 Effectsound=LoadUnload
-
-// Cargo Load
 [Aloa]
 Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
 Buttonpos=0,2
 Order=load
-
-// Cargo Unload
 [Adro]
 Art=ReplaceableTextures\CommandButtons\BTNUnLoad.blp
 Buttonpos=1,2
 Order=unload
-
 [Sdro]
 Art=ReplaceableTextures\CommandButtons\BTNUnLoad.blp
 Buttonpos=1,2
 Order=unload
-
-// Cargo Unload (Instant)
-[Adri]
-Art=ReplaceableTextures\CommandButtons\BTNUnLoad.blp
-Buttonpos=1,2
-Order=unload
-
-// Neutral Spell
 [ANgl]
 Art=ReplaceableTextures\CommandButtons\BTNGLExchange.blp
 Buttonpos=0,2
 Casterart=Abilities\Spells\Other\TempSpellArt\TempSpellArt.mdl
 Targetart=Abilities\Spells\Other\TempSpellArt\TempSpellArt.mdl
-
-// Currently Unused
-// Neutral L2G Exchange
 [ANlg]
 Art=ReplaceableTextures\CommandButtons\BTNLGExchange.blp
 Buttonpos=0,0
 Casterart=Abilities\Spells\Other\TempSpellArt\TempSpellArt.mdl
 Targetart=Abilities\Spells\Other\TempSpellArt\TempSpellArt.mdl
-
-// imparts ANrl, life regeneration, on nearby units, this ability is on Fountain of Life (nmoo)
 [ANrl]
 Targetart=Abilities\Spells\Other\ANrm\ANrmTarget.mdl
 Effectsoundlooped=FountainOfLifeLoop
-
-// persistent mana regeneration, per unit
 [ANrm]
 Targetart=Abilities\Spells\Other\ANrl\ANrlTarget.mdl
 Effectsoundlooped=FountainOfLifeLoop
-
-// cargo hold meat wagon
-[Sch2]
-Effectsound=LoadUnload
-
-// cargo hold transport
 [Aneu]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSelectHeroOff.blp
@@ -220,8 +112,6 @@ Casterart=Abilities\Spells\Other\Aneu\AneuCaster.mdl
 Targetart=Abilities\Spells\Other\Aneu\AneuTarget.mdl
 Casterattach=overhead
 Targetattach=overhead
-
-// select any unit
 [Ane2]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSelectHeroOff.blp
@@ -231,8 +121,6 @@ Casterart=Abilities\Spells\Other\Aneu\AneuCaster.mdl
 Targetart=Abilities\Spells\Other\Aneu\AneuTarget.mdl
 Casterattach=overhead
 Targetattach=overhead
-
-// 'select hero to use' ability for allied buildings
 [Aall]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSelectHeroOff.blp
@@ -242,13 +130,6 @@ Casterart=Abilities\Spells\Other\Aneu\AneuCaster.mdl
 Targetart=Abilities\Spells\Other\Aneu\AneuTarget.mdl
 Casterattach=overhead
 Targetattach=overhead
-
-// expand view ability
-//[ANex]
-//Art=ReplaceableTextures\CommandButtons\BTNExpandedView.blp
-//Buttonpos=0,0
-
-// Inferno
 [Amrf]
 Art=ReplaceableTextures\CommandButtons\BTNRavenForm.blp
 Unart=ReplaceableTextures\CommandButtons\BTNMedivh.blp
@@ -256,37 +137,23 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=ravenform
 Unorder=unravenform
-
-// Neutral Unit Healing
-
 [AOac]
 Art=ReplaceableTextures\PassiveButtons\PASBTNGnollCommandAura.blp
 Buttonpos=0,2
 Targetart=Abilities\Spells\Orc\WarDrums\DrumsCasterHeal.mdl
 Targetattach=origin
-
 [Btlf]
 Buffart=ReplaceableTextures\CommandButtons\BTNAcorn.blp
-
 [ACsp]
 Art=ReplaceableTextures\CommandButtons\BTNSleep.blp
 Casterart=Abilities\Spells\Other\CreepSleep\CreepSleepTarget.mdl
 Casterattach=overhead
 Order=creepsleep
 Effectsoundlooped=CreepSleepSnoreLoop
-
-// creep brilliance aura
-[ACct]
-Art=ReplaceableTextures\PassiveButtons\PASBTNCriticalStrike.blp
-Buttonpos=2,2
-
-// creep curse
 [Sloa]
 Art=ReplaceableTextures\CommandButtons\BTNLoad.blp
 Buttonpos=0,2
 Order=load
-
-// ship load
 [Ahrp]
 Art=ReplaceableTextures\CommandButtons\BTNRepairOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNRepairOff.blp
@@ -296,59 +163,25 @@ Order=repair
 Orderon=repairon
 Orderoff=repairoff
 Animnames=stand,work
-
-// creep roar
-[Aro1]
-Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
-Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
-Buttonpos=3,2
-Unbuttonpos=3,2
-Order=root
-Unorder=unroot
-
-// root ancient protector
-[Aro2]
-Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
-Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
-Buttonpos=3,2
-Unbuttonpos=3,2
-Order=root
-Unorder=unroot
-
-// creep searing arrows
 [Asid]
 Art=ReplaceableTextures\CommandButtons\BTNSell.blp
-
-// sell units
 [Asud]
 Art=ReplaceableTextures\CommandButtons\BTNHire.blp
-
-// creep shockwave
 [Aarm]
 Art=
-
 [Barm]
 Spelldetail=1
 Buffart=
 Targetart=Abilities\Spells\Other\ANrl\ANrlTarget.mdl
 Effectsoundlooped=FountainOfLifeLoop
-
-// life regeneration aura creep
-
 [ANre]
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
-
-// super death and decay
 [Anei]
 Art=ReplaceableTextures\CommandButtons\BTNSelectUnit.blp
 Buttonpos=3,2
-
-// permanent flyer immolation
 [ACrk]
 Art=ReplaceableTextures\PassiveButtons\PASBTNThickFur.blp
 Buttonpos=3,2
-
-// Neutral Resistant Skin (altered button pos)
 [ANfl]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
@@ -357,16 +190,6 @@ Researchbuttonpos=0,0
 Specialart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=forkedlightning
 LightningEffect=FORK
-
-// Forked Lightning
-[APRO]
-//tornado damage
-
-// Purge ability
-[APUR]
-//tornado damage
-
-// Non Turning Tower
 [A009]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -374,8 +197,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Non Turning Tower
 [A007]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -383,8 +204,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Turning Tower
 [A008]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -392,8 +211,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Turning Tower
 [A006]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -401,8 +218,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Sif
 [A014]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -410,8 +225,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Zod
 [A015]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -419,8 +232,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Sol
 [A012]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -428,8 +239,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Myt
 [A013]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -437,8 +246,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Hel
 [A010]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -446,8 +253,6 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Armor: Lua
 [A011]
 Art=ReplaceableTextures\CommandButtons\BTNRoot.blp
 Unart=ReplaceableTextures\CommandButtons\BTNUproot.blp
@@ -455,120 +260,57 @@ Buttonpos=3,2
 Unbuttonpos=3,2
 Order=root
 Unorder=unroot
-
-// Effect abil for R00A
 [W01B]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R006
 [W00X]
 Targetattach=sprite,first
-//tornado damage
-
-// Effect abil for R00C
-[W01R]
-//tornado damage
-
-// Effect abil for R00F
 [W023]
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
-//tornado damage
-
-// Effect abil for R00D
-[W01T]
-//tornado damage
-
-// Effect abil for R00G
-[W027]
-//tornado damage
-
-// Effect abil for R00H
 [W028]
 Targetattach=chest
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R00B
 [W01J]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSRight.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R00E
 [W020]
 Targetattach=head
-//tornado damage
-
-// Effect abil for R001
 [W00C]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R000
 [W008]
 TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
-//tornado damage
-
-// Effect abil for R004
 [W00P]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
-//tornado damage
-
-// Effect abil for R007
 [W012]
 Targetattach=chest
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
-//tornado damage
-
-// Effect abil for R005
 [W00R]
 Targetattach=overhead
 TargetArt=Abilities\Weapons\FaerieDragonMissile\FaerieDragonMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R008
 [W015]
 Targetattach=chest
 TargetArt=Abilities\Weapons\HydraliskImpact\HydraliskImpact.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R009
 [W017]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\Incinerate\IncinerateBuff.mdl
-//tornado damage
-
-// Effect abil for R002
 [W00J]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R003
 [W00M]
 TargetArt=Abilities\Spells\NightElf\Blink\BlinkCaster.mdl,Abilities\Spells\NightElf\Blink\BlinkTarget.mdl
-//tornado damage
-
-// Effect abil for R00T
 [W03E]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Undead\Curse\CurseTarget.mdl
-//tornado damage
-
-// Effect abil for R00U
 [W03I]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
 [W02Y]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=0,2
@@ -587,8 +329,6 @@ Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=chainlightning
 Animnames=spell,throw
 LightningEffect=CLPB,CLSB
-
-// Effect abil for R00Z
 [W049]
 Targetattach=hand,left
 Targetattach1=hand,right
@@ -596,777 +336,316 @@ Targetattach2=hand,left
 Targetattach3=hand,right
 TargetArt=Abilities\Spells\Orc\Disenchant\DisenchantSpecialArt.mdl,Abilities\Spells\Orc\Disenchant\DisenchantSpecialArt.mdl,Abilities\Spells\NightElf\Barkskin\BarkSkinTarget.mdl,Abilities\Spells\NightElf\Barkskin\BarkSkinTarget.mdl
 Targetattachcount=4
-//tornado damage
-
-// Effect abil for R00V
 [W03L]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R00W
 [W03P]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
-//tornado damage
-
-// Effect abil for R00X
 [W03Q]
 Targetattach=head
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
-//tornado damage
-
-// Effect abil for R00Y
 [W042]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R00J
-[W02B]
-//tornado damage
-
-// Effect abil for R00I
 [W02C]
 TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
-//tornado damage
-
-// Effect abil for R00L
 [W02G]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R00S
-[W032]
-//tornado damage
-
-// Effect abil for R00P
 [W02R]
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
-//tornado damage
-
-// Effect abil for R00Q
 [W02U]
 Targetattach=origin
 TargetArt=Environment\SmallBuildingFire\SmallBuildingFire2.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R00R
 [W02X]
 Targetattach=chest
 TargetArt=Abilities\Spells\NightElf\CorrosiveBreath\ChimaeraAcidTargetArt.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R00O
 [W02N]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R012
 [W05V]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R013
-[W061]
-//tornado damage
-
-// Effect abil for R010
 [W04L]
 Targetattach=head
 TargetArt=units\undead\PlagueCloud\PlagueCloud.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R011
 [W04N]
 TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
-//tornado damage
-
-// Effect abil for R017
 [W07M]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R01D
 [W087]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl,Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R01E
-[W088]
-//tornado damage
-
-// Effect abil for R01G
-[W089]
-//tornado damage
-
-// Effect abil for R01B
-[W07Y]
-//tornado damage
-
-// Effect abil for R018
-[W07O]
-//tornado damage
-
-// Effect abil for R01C
-[W083]
-//tornado damage
-
-// Effect abil for R019
 [W07S]
 Targetattach=overhead
 TargetArt=Objects\InventoryItems\PotofGold\PotofGold.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01A
 [W07U]
 TargetArt=Abilities\Spells\Other\BreathOfFrost\BreathOfFrostTarget.mdl
-//tornado damage
-
-// Effect abil for R014
 [W06F]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
-//tornado damage
-
-// Effect abil for R016
-[W077]
-//tornado damage
-
-// Effect abil for R015
 [W074]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R01S
 [W09M]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R01O
 [W09C]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R01T
 [W09U]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 TargetArt=Abilities\Spells\Items\AIso\BIsvTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R01I
 [W08I]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01F
-[W08A]
-//tornado damage
-
-// Effect abil for R01H
 [W08E]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01L
 [W08W]
 Targetattach=origin
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01J
 [W08O]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\Taunt\TauntCaster.mdl
-//tornado damage
-
-// Effect abil for R01M
 [W090]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01K
 [W08S]
 Targetattach=foot,left
 Targetattach1=foot,right
 TargetArt=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R01N
 [W094]
 Targetattach=origin
 TargetArt=Abilities\Spells\Orc\Purge\PurgeBuffTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R01X
 [W0AT]
 TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
-//tornado damage
-
-// Effect abil for R01Z
 [W0B7]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R01Y
 [W0B0]
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
-//tornado damage
-
-// Effect abil for R020
 [W0BB]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R021
 [W0BF]
 TargetArt=Abilities\Spells\Other\BreathOfFrost\BreathOfFrostTarget.mdl
-//tornado damage
-
-// Effect abil for R01U
-[W0A0]
-//tornado damage
-
-// Effect abil for R01V
-[W0A4]
-//tornado damage
-
-// Effect abil for R01W
 [W0AF]
 TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
-//tornado damage
-
-// Effect abil for R02B
 [W0D4]
 Targetattach=origin
 TargetArt=Abilities\Spells\Undead\FreezingBreath\FreezingBreathTargetArt.mdl
-//tornado damage
-
-// Effect abil for R029
 [W0CV]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R02A
 [W0CY]
 TargetArt=Objects\Spawnmodels\Human\HumanBlood\HumanBloodRifleman.mdl
-//tornado damage
-
-// Effect abil for R028
 [W0CJ]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
-//tornado damage
-
-// Effect abil for R024
 [W0BR]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R023
 [W0BS]
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R025
 [W0C4]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Undead\Curse\CurseTarget.mdl
-//tornado damage
-
-// Effect abil for R026
-[W0C5]
-//tornado damage
-
-// Effect abil for R022
 [W0BN]
 TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
-//tornado damage
-
-// Effect abil for R027
 [W0CB]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02P
 [W0F2]
 Targetattach=overhead
 TargetArt=Abilities\Spells\NightElf\shadowstrike\shadowstrike.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02J
 [W0E4]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02E
 [W0DT]
 Targetattach=chest
 Targetattach1=hand,left
 Targetattach2=hand,right
 TargetArt=Doodads\LordaeronSummer\Props\SmokeSmudge\SmokeSmudge0.mdl
 Targetattachcount=3
-//tornado damage
-
-// Effect abil for R02L
 [W0E5]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02H
-[W0E6]
-//tornado damage
-
-// Effect abil for R02I
-[W0E7]
-//tornado damage
-
-// Effect abil for R02K
-[W0E8]
-//tornado damage
-
-// Effect abil for R02F
 [W0DZ]
 Targetattach=chest
-//tornado damage
-
-// Effect abil for R02C
 [W0DO]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02G
 [W0E0]
 Targetattach=chest
-//tornado damage
-
-// Effect abil for R02N
 [W0EF]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R02O
 [W0EK]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R02M
 [W0EC]
 Targetattach=chest
 TargetArt=Abilities\Weapons\ZigguratFrostMissile\ZigguratFrostMissile.mdl
-//tornado damage
-
-// Effect abil for R02X
 [W0GX]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R030
 [W0H9]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02V
-[W0GP]
-//tornado damage
-
-// Effect abil for R02Y
 [W0H1]
 Targetattach=foot,left
 Targetattach1=foot,right
 TargetArt=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R02W
 [W0GT]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R02Z
 [W0H5]
 Targetattach=origin
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R031
 [W0HL]
 Targetattach=overhead
 TargetArt=Abilities\Weapons\FarseerMissile\FarseerMissile.mdl
-//tornado damage
-
-// Effect abil for R02U
-[W0G6]
-//tornado damage
-
-// Effect abil for R02T
 [W0G0]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R034
-[W0IQ]
-//tornado damage
-
-// Effect abil for R035
-[W0IR]
-//tornado damage
-
-// Effect abil for R036
-[W0IS]
-//tornado damage
-
-// Effect abil for R038
-[W0J4]
-//tornado damage
-
-// Effect abil for R037
-[W0IT]
-//tornado damage
-
-// Effect abil for R039
-[W0J5]
-//tornado damage
-
-// Effect abil for R03A
 [W0JD]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R033
 [W0IM]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\ManaFlare\ManaFlareTarget.mdl
-//tornado damage
-
-// Effect abil for R032
 [W0IA]
 Targetattach=head
 TargetArt=Abilities\Weapons\WitchDoctorMissile\WitchDoctorMissile.mdl
-//tornado damage
-
-// Effect abil for R03G
 [W0KZ]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Volcano\VolcanoDeath.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R03H
 [W0L4]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R03I
 [W0L5]
 Targetattach=overhead
 TargetArt=Abilities\Weapons\WitchDoctorMissile\WitchDoctorMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03F
 [W0KY]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSRight.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R03K
 [W0LM]
 Targetattach=origin
 TargetArt=Abilities\Spells\Undead\DeathCoil\DeathCoilSpecialArt.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03P
 [W0M0]
 Targetattach=head
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R03L
-[W0LP]
-//tornado damage
-
-// Effect abil for R03M
-[W0LQ]
-//tornado damage
-
-// Effect abil for R03Q
 [W0M3]
 TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
-//tornado damage
-
-// Effect abil for R03J
 [W0LH]
 Targetattach=overhead
-//tornado damage
-
-// Effect abil for R03E
 [W0KK]
 Targetattach=overhead
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03B
-[W0KB]
-//tornado damage
-
-// Effect abil for R03C
 [W0KG]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R03D
 [W0KH]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\FeralSpirit\feralspiritdone.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R03V
 [W0MV]
 Targetattach=head
 TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03Y
 [W0O0]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R061
 [W100]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03N
-[W0LV]
-//tornado damage
-
-// Effect abil for R03O
 [W0LZ]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R03S
 [W0ML]
 TargetArt=Abilities\Spells\NightElf\Rejuvenation\RejuvenationTarget.mdl
-//tornado damage
-
-// Effect abil for R03T
 [W0MM]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R03U
 [W0MQ]
 Targetattach=origin
 TargetArt=Abilities\Spells\Orc\LightningShield\LightningShieldTarget.mdl
-//tornado damage
-
-// Effect abil for R03W
 [W0N2]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl,
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R03X
 [W0N4]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Other\Parasite\ParasiteTarget.mdl
-//tornado damage
-
-// Effect abil for R03R
 [W0MH]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R06D
-[W11A]
-//tornado damage
-
-// Effect abil for R06E
-[W11B]
-//tornado damage
-
-// Effect abil for R06C
-[W117]
-//tornado damage
-
-// Effect abil for R067
-[W10Y]
-//tornado damage
-
-// Effect abil for R066
-[W10Z]
-//tornado damage
-
-// Effect abil for R06F
-[W11P]
-//tornado damage
-
-// Effect abil for R06G
-[W11Q]
-//tornado damage
-
-// Effect abil for R06H
-[W11R]
-//tornado damage
-
-// Effect abil for R043
 [W0PT]
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainCaster.mdl
-//tornado damage
-
-// Effect abil for R06J
 [W125]
 Targetattach=origin
 TargetArt=Abilities\Spells\Orc\CommandAura\CommandAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R045
 [W0PU]
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
-//tornado damage
-
-// Effect abil for R044
 [W0PV]
 Targetattach=chest
 TargetArt=Abilities\Spells\Orc\Purge\PurgeBuffTarget.mdl
-//tornado damage
-
-// Effect abil for R040
-[W0OB]
-//tornado damage
-
-// Effect abil for R041
-[W0OC]
-//tornado damage
-
-// Effect abil for R03Z
-[W0O7]
-//tornado damage
-
-// Effect abil for R062
 [W108]
 Targetattach=origin
 TargetArt=Environment\LargeBuildingFire\LargeBuildingFire1.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R068
-[W110]
-//tornado damage
-
-// Effect abil for R06A
 [W111]
 Targetattach=chest
 TargetArt=Abilities\Weapons\SpiritOfVengeanceMissile\SpiritOfVengeanceMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R069
 [W112]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R064
-[W10R]
-//tornado damage
-
-// Effect abil for R065
-[W10S]
-//tornado damage
-
-// Effect abil for R06B
-[W116]
-//tornado damage
-
-// Effect abil for R042
 [W0OI]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R063
-[W10I]
-//tornado damage
 [W10M]
 Effectsound=LoadUnload
 Art=ReplaceableTextures\CommandButtons\BTNScatterRockets.blp
-
-// Effect abil for R06S
 [W13A]
 Targetattach=head
 TargetArt=Abilities\Spells\Human\FlameStrike\FlameStrikeDamageTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Tunderstorm
 [W13B]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
@@ -1375,44 +654,23 @@ Researchbuttonpos=0,0
 Specialart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=forkedlightning
 LightningEffect=FORK
-
-// Effect abil for R06W
 [W143]
 Targetattach=weapon
 TargetArt=Abilities\Spells\Undead\OrbOfDeath\AnnihilationMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06X
 [W144]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06Y
 [W145]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\Drain\DrainCaster.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06U
-[W13X]
-//tornado damage
-
-// Effect abil for R04D
 [W0RI]
 TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
-//tornado damage
-
-// Effect abil for R06T
 [W13I]
 Targetattach=origin
 TargetArt=Abilities\Spells\Orc\LightningShield\LightningShieldTarget.mdl
-//tornado damage
-
-// Surge
 [W12B]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=0,2
@@ -1422,8 +680,6 @@ Targetart=Abilities\Spells\Items\AIil\AIilTarget.mdl
 Order=chainlightning
 Animnames=spell,throw
 LightningEffect=ZAP3
-
-// Manastorm
 [W12C]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=0,2
@@ -1434,58 +690,29 @@ Order=chainlightning
 Animnames=spell,throw
 LightningEffect=PZAP
 Targetattach=chest
-
-// Effect abil for R06M
 [W12G]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\Feedback\ArcaneTowerAttack.mdl
-//tornado damage
-
-// Effect abil for R06K
-[W128]
-//tornado damage
-
-// Effect abil for R06I
 [W11Y]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R06O
 [W12S]
 Targetattach=chest,mount
 TargetArt=Abilities\Spells\Human\AerialShackles\AerialShacklesTarget.mdl
-//tornado damage
-
-// Effect abil for R06Q
 [W136]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Items\AIsp\SpeedTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R048
 [W0QV]
 Targetattach=hand,left
 TargetArt=Abilities\Weapons\RedDragonBreath\RedDragonMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06R
 [W137]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorTarget.mdl
-//tornado damage
-
-// Effect abil for R047
 [W0QW]
 Targetattach=hand,right
 TargetArt=Abilities\Weapons\GreenDragonMissile\GreenDragonMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06L
-[W12H]
-//tornado damage
 [W12J]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=0,2
@@ -1495,259 +722,121 @@ Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=chainlightning
 Animnames=spell,throw
 LightningEffect=CLPB,CLSB
-
-// Effect abil for R046
 [W0QL]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R04C
 [W0R0]
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
-//tornado damage
-
-// Effect abil for R06P
 [W130]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R07B
-[W15E]
-//tornado damage
-
-// Effect abil for R07C
-[W15F]
-//tornado damage
-
-// Effect abil for R07D
-[W15G]
-//tornado damage
-
-// Effect abil for R04M
 [W0TJ]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R074
 [W14Z]
 Targetattach=chest
 TargetArt=Abilities\Spells\Items\AIob\AIobTarget.mdl
-//tornado damage
-
-// Effect abil for R07J
 [W164]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R07G
-[W15T]
-//tornado damage
-
-// Effect abil for R07F
 [W15U]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\ImmolationRed\ImmolationRedDamage.mdl
-//tornado damage
-
-// Effect abil for R04Q
 [W0TV]
 Targetattach=origin
 TargetArt=Abilities\Spells\Undead\FreezingBreath\FreezingBreathTargetArt.mdl
-//tornado damage
-
-// Effect abil for R07H
 [W15V]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Other\Incinerate\IncinerateBuff.mdl
-//tornado damage
-
-// Effect abil for R04P
 [W0TW]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
-//tornado damage
-
-// Effect abil for R07K
 [W168]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\FrostArmor\FrostArmorTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R07L
 [W169]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R07I
 [W15Z]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
-//tornado damage
-
-// Effect abil for R04N
-[W0TK]
-//tornado damage
-
-// Effect abil for R04O
-[W0TL]
-//tornado damage
-
-// Effect abil for R07E
 [W15N]
 Targetattach=head
 TargetArt=Abilities\Weapons\ZigguratFrostMissile\ZigguratFrostMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R06Z
 [W14B]
 TargetArt=Abilities\Spells\Other\BreathOfFrost\BreathOfFrostTarget.mdl
-//tornado damage
-
-// Effect abil for R04E
 [W0SD]
 Targetattach=head
 TargetArt=Units\Undead\PlagueCloud\PlagueCloudtarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R04F
 [W0SE]
 Targetattach=weapon
 TargetArt=Abilities\Spells\Items\OrbVenom\OrbVenomMissile.mdl,Abilities\Spells\NightElf\TargetArtLumber\TargetArtLumber.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R071
 [W14G]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
-//tornado damage
-
-// Effect abil for R04G
 [W0SH]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
-//tornado damage
-
-// Effect abil for R04H
 [W0SI]
 Targetattach=origin
 TargetArt=Abilities\Weapons\ZigguratFrostMissile\ZigguratFrostMissile.mdl
-//tornado damage
-
-// Effect abil for R06V
-[W13Y]
-//tornado damage
-
-// Effect abil for R070
 [W14A]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\InnerFire\InnerFireTarget.mdl
-//tornado damage
-
-// Effect abil for R04L
 [W0T6]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R073
 [W14U]
 Targetattach=chest
 TargetArt=Objects\Spawnmodels\Human\HumanBlood\BloodElfSpellThiefBlood.mdl
-//tornado damage
-
-// Effect abil for R077
 [W156]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R078
 [W157]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R079
 [W158]
 Targetattach=head
 TargetArt=Abilities\Spells\Undead\Possession\PossessionCaster.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R07A
 [W159]
 Targetattach=head
 TargetArt=Abilities\Spells\Undead\Curse\CurseTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R072
 [W14L]
 TargetArt=Abilities\Spells\Other\BreathOfFire\BreathOfFireDamage.mdl
-//tornado damage
-
-// Effect abil for R04I
 [W0SO]
 Targetattach=head
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R075
 [W150]
 Targetattach=origin
 TargetArt=Abilities\Spells\Undead\FreezingBreath\FreezingBreathTargetArt.mdl
-//tornado damage
-
-// Effect abil for R04K
 [W0SP]
 Targetattach=head
 Targetattachcount=1
-//tornado damage
-
-// Glaivesaw
 [W14P]
 Art=ReplaceableTextures\CommandButtons\BTNEngineeringUpgrade.blp
 Buttonpos=3,2
 Casterart=
 Order=blizzard
 Animnames=spell,slam
-
-// Effect abil for R076
-[W151]
-//tornado damage
-
-// Effect abil for R04J
 [W0SQ]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\shadowstrike\shadowstrike.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R07W
 [W17H]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Orc\Voodoo\VoodooAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R04Y
 [W0VI]
 Targetattach=origin
 TargetArt=Abilities\Spells\Demon\DarkConversion\ZombifyTarget.mdl
-//tornado damage
-
-// Canon 2
 [W17L]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
@@ -1759,19 +848,13 @@ Missilearc=0.4
 MissileHoming=1
 order=acidbomb
 Animnames=Attack,two,Spell
-
-// Effect abil for R07V
 [W17D]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Orc\SpiritLink\SpiritLinkTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R055
 [W0W6]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
-//tornado damage
 [W17U]
 Art=ReplaceableTextures\CommandButtons\BTNHeal.blp
 Buttonpos=0,2
@@ -1781,124 +864,52 @@ Targetart=
 Order=chainlightning
 Animnames=spell,throw
 LightningEffect=HWPB,HWSB
-
-// Effect abil for R051
 [W0VV]
 Targetattach=overhead
-//tornado damage
-
-// Effect abil for R056
 [W0W7]
 Targetattach=chest
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R081
 [W17V]
 Targetattach=origin
 TargetArt=Abilities\Spells\Orc\SpiritLink\SpiritLinkTarget.mdl
-//tornado damage
-
-// Effect abil for R08B
-[W187]
-//tornado damage
-
-// Effect abil for R058
 [W0W8]
 Targetattach=chest
 TargetArt=Abilities\Spells\NightElf\ThornsAura\ThornsAuraDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R082
-[W17W]
-//tornado damage
-
-// Effect abil for R083
-[W17X]
-//tornado damage
-
-// Effect abil for R084
 [W17Y]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R085
 [W17Z]
 Targetattach=chest
 TargetArt=Abilities\Spells\Human\Feedback\ArcaneTowerAttack.mdl
-//tornado damage
-
-// Effect abil for R086
 [W180]
 Targetattach=overhead
 TargetArt=Abilities\Spells\NightElf\Barkskin\BarkSkinTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R087
 [W181]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R07Y
 [W17Q]
 Targetattach=head
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R088
 [W182]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R04Z
-[W0VR]
-//tornado damage
-
-// Effect abil for R07Z
 [W17R]
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
-//tornado damage
-
-// Effect abil for R050
-[W0VS]
-//tornado damage
-
-// Effect abil for R089
 [W184]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R053
-[W0W5]
-//tornado damage
-
-// Effect abil for R080
 [W17T]
 Targetattach=origin
 TargetArt=Buildings\Other\BarrelsUnit0\BarrelsUnit0
-//tornado damage
-
-// Effect abil for R08A
 [W185]
 Targetattach=origin
 TargetArt=Abilities\Spells\Human\slow\slowtarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R07M
-[W16F]
-//tornado damage
-
-// Unleash
 [W16H]
 Art=ReplaceableTextures\CommandButtons\BTNChainLightning.blp
 Buttonpos=0,2
@@ -1908,77 +919,32 @@ Targetart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=chainlightning
 Animnames=spell,throw
 LightningEffect=ZAP2
-
-// Effect abil for R07P
 [W16T]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\Immolation\ImmolationTarget.mdl
-//tornado damage
-
-// Effect abil for R07R
 [W16U]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\ManaFlare\ManaFlareBase.mdl
-//tornado damage
-
-// Effect abil for R07S
-[W176]
-//tornado damage
-
-// Effect abil for R07U
-[W177]
-//tornado damage
-
-// Effect abil for R04V
 [W0V8]
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
-//tornado damage
-
-// Effect abil for R07T
 [W178]
 TargetArt=Abilities\Spells\Orc\LiquidFire\Liquidfire.mdl
-//tornado damage
-
-// Effect abil for R04S
 [W0UX]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R04W
 [W0V9]
 TargetArt=Abilities\Spells\Undead\DeathandDecay\DeathandDecayDamage.mdl
-//tornado damage
-
-// Effect abil for R04T
 [W0UY]
 TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
-//tornado damage
-
-// Effect abil for R07N
-[W16L]
-//tornado damage
-
-// Effect abil for R07O
-[W16M]
-//tornado damage
-
-// Effect abil for R04R
 [W0UN]
 Targetattach=overhead
-//tornado damage
-
-// Effect abil for R04U
 [W0V3]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\NightElf\Immolation\ImmolationTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Acid Skull
 [W0V4]
 Art=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNAcidBomb.blp
@@ -1990,192 +956,77 @@ Missilearc=0.4
 MissileHoming=1
 order=acidbomb
 Animnames=Attack,two,Spell
-
-// Effect abil for R07Q
-[W16S]
-//tornado damage
-
-// Effect abil for R05I
-[W0XJ]
-//tornado damage
-
-// Effect abil for R05H
-[W0XK]
-//tornado damage
-
-// Effect abil for R05J
-[W0XL]
-//tornado damage
-
-// Effect abil for R05K
 [W0XN]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
-//tornado damage
-
-// Effect abil for R097
 [W19A]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 TargetArt=Abilities\Spells\Orc\TrollBerserk\HeadhunterWEAPONSLeft.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R098
 [W19B]
 TargetArt=Objects\Spawnmodels\Human\HumanBlood\BloodElfSpellThiefBlood.mdl
-//tornado damage
-
-// Effect abil for R05G
 [W0XC]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R099
 [W19C]
 Targetattach=head
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R09A
 [W19W]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\DeathandDecay\DeathandDecayTarget.mdl
-//tornado damage
-
-// Effect abil for R05P
 [W0Y9]
 Targetattach=origin
-//tornado damage
-
-// Effect abil for R09B
 [W19X]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R05L
 [W0XO]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R05M
 [W0XS]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Orc\StasisTrap\StasisTotemTarget.mdl
-//tornado damage
-
-// Effect abil for R05N
-[W0XT]
-//tornado damage
-
-// Effect abil for R05O
 [W0Y6]
 Targetattach=chest
 TargetArt=Abilities\Spells\Undead\AntiMagicShell\AntiMagicShell.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08F
 [W18F]
 TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
-//tornado damage
-
-// Effect abil for R08G
 [W18G]
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
-//tornado damage
-
-// Effect abil for R08H
-[W18J]
-//tornado damage
-
-// Effect abil for R08I
 [W18K]
 Targetattach=overhead
 TargetArt=Abilities\Spells\NightElf\BattleRoar\RoarTarget.mdl
-//tornado damage
-
-// Effect abil for R059
 [W0WL]
 TargetArt=Abilities\Spells\Other\Doom\DoomTarget.mdl
-//tornado damage
-
-// Effect abil for R08J
 [W18L]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\AcidBomb\BottleImpact.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08C
 [W18A]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Drain\DrainTarget.mdl
-//tornado damage
-
-// Effect abil for R08D
 [W18C]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\Drain\ManaDrainTarget.mdl
-//tornado damage
-
-// Effect abil for R08E
 [W18E]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl,Abilities\Spells\Orc\Bloodlust\BloodlustSpecial.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R05E
-[W0X7]
-//tornado damage
-
-// Effect abil for R08Q
-[W18V]
-//tornado damage
-
-// Effect abil for R091
 [W197]
 Targetattach=origin
 TargetArt=Abilities\Spells\NightElf\EntanglingRoots\EntanglingRootsTarget.mdl
-//tornado damage
-
-// Effect abil for R05F
-[W0X8]
-//tornado damage
-
-// Effect abil for R08R
-[W18W]
-//tornado damage
-
-// Effect abil for R095
 [W198]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R08S
-[W18X]
-//tornado damage
-
-// Effect abil for R096
 [W199]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Other\Silence\SilenceTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08T
 [W18Y]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R05A
 [W0WZ]
 Targetattach=overhead
 Targetattach1=chest
@@ -2184,134 +1035,58 @@ Targetattach3=hand,left
 TargetArt=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Targetattach4=hand,right
 Targetattachcount=5
-//tornado damage
-
-// Effect abil for R08U
 [W18Z]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R05B
 [W0X0]
 Targetattach=chest
 TargetArt=Abilities\Spells\Other\BlackArrow\BlackArrowMissile.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08K
 [W18O]
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08V
-[W190]
-//tornado damage
-
-// Effect abil for R05D
-[W0X1]
-//tornado damage
-
-// Effect abil for R08W
-[W191]
-//tornado damage
-
-// Effect abil for R05C
-[W0X2]
-//tornado damage
-
-// Effect abil for R08L
 [W18Q]
 TargetArt=Abilities\Spells\Undead\Cripple\CrippleTarget.mdl
-//tornado damage
-
-// Effect abil for R08X
-[W192]
-//tornado damage
-
-// Effect abil for R08M
 [W18R]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R08Y
 [W193]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R08N
-[W18S]
-//tornado damage
-
-// Effect abil for R08Z
-[W194]
-//tornado damage
-
-// Effect abil for R08O
 [W18T]
 Targetattach=hand,left
 Targetattach1=hand,right
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R090
 [W195]
 Targetattach=head
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R08P
 [W18U]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\GeneralAuraTarget\GeneralAuraTarget.mdl
-//tornado damage
-
-// Effect abil for R05Y
 [W0ZL]
 Targetattach=head
 TargetArt=Abilities\Spells\NightElf\FaerieFire\FaerieFireTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05X
 [W0ZH]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\FrostDamage\FrostDamage.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05Z
 [W0ZS]
 Targetattach=foot,left
 Targetattach1=foot,right
 TargetArt=Abilities\Weapons\AvengerMissile\AvengerMissile.mdl
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R060
 [W0ZW]
 Targetattach=origin
 TargetArt=Abilities\Weapons\PoisonSting\PoisonStingTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05R
 [W0YJ]
 Targetattach=weapon,left
 Targetattach1=weapon,right
 Targetattachcount=2
-//tornado damage
-
-// Effect abil for R05Q
 [W0YA]
 Targetattach=head
-//tornado damage
-
-// Glare
 [W0YF]
 Art=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
 Researchart=ReplaceableTextures\CommandButtons\BTNMonsoon.blp
@@ -2320,54 +1095,28 @@ Researchbuttonpos=0,0
 Specialart=Abilities\Weapons\Bolt\BoltImpact.mdl
 Order=forkedlightning
 LightningEffect=FORK
-
-// Effect abil for R05U
 [W0Z2]
 Targetattach=origin
 TargetArt=Abilities\Spells\Other\HowlOfTerror\HowlTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05V
 [W0Z3]
 Targetattach=head
 TargetArt=Abilities\Spells\Orc\Bloodlust\BloodlustTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05W
 [W0Z4]
 Targetattach=head
 TargetArt=Abilities\Spells\Items\HealingSalve\HealingSalveTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Effect abil for R05S
-[W0YT]
-//tornado damage
-
-// Effect abil for R05T
 [W0YU]
 Targetattach=chest
 TargetArt=Abilities\Spells\Orc\Ensnare\ensnare_AirTarget.mdl
 Targetattachcount=1
-//tornado damage
-
-// Banish ability
 [ABAN]
 Effectsoundlooped=BanishLoop
 TargetArt=Abilities\Spells\Human\Banish\BanishTarget.mdl
-//tornado damage
-
-// Slow ability
-[ASLO]
-//tornado damage
-
-// Stun ability
 [ASTU]
 Targetattach=overhead
 TargetArt=Abilities\Spells\Human\Thunderclap\ThunderclapTarget.mdl
-//tornado damage
 [ATav]
 Art=ReplaceableTextures\CommandButtons\BTNSelectHeroOn.blp
 Unart=ReplaceableTextures\CommandButtons\BTNSelectHeroOff.blp
@@ -2377,91 +1126,51 @@ Casterart=Abilities\Spells\Other\Aneu\AneuCaster.mdl
 Targetart=Abilities\Spells\Other\Aneu\AneuTarget.mdl
 Casterattach=overhead
 Targetattach=overhead
-
-// Unlucky ability
-[AUNL]
-//tornado damage
-
-// ManaDrain ability
-[AMAN]
-//tornado damage
-
-// Silence cast
 [CSIL]
 Art=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Buttonpos=0,0
 Researchart=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Researchbuttonpos=3,0
 Order=doom
-[INV3]
-// Thorns
-[INV4]
-// Thorns
-[INV1]
-// Thorns
-[INV2]
-// Thorns
-[INV5]
-// Thorns
-[INV6]
-// Thorns
 [R011]
 Buffart=ReplaceableTextures\CommandButtons\BTNFire.blp
 Targetart=
 [R01W]
 Buffart=ReplaceableTextures\CommandButtons\BTNFire.blp
 Targetart=
-
-// Alert
 [R02F]
 Buffart=ReplaceableTextures\CommandButtons\BTNCallToArms.blp
 Targetart=
 Targetattach=
-
-// Trespassing
 [R02G]
 Buffart=ReplaceableTextures\CommandButtons\BTNHumanArtilleryUpOne.blp
 Targetart=
 Targetattach=
-
-// Aura of Light
 [R02O]
 SpellDetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNDivineIntervention.blp
 Targetart=
 Targetattach=
-
-// Nova Storm
 [R01A]
 Buffart=ReplaceableTextures\CommandButtons\BTNGlacier.blp
 Targetart=
 Targetattach=
-
-// Ancient Magic
 [R020]
 SpellDetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNStasisTrap.blp
 Targetart=
 Targetattach=
-
-// Extreme Cold
 [R021]
 Buffart=ReplaceableTextures\CommandButtons\BTNFrost.blp
 Targetart=
 Targetattach=
-
-// Nerubian Poison
 [R03X]
 Buffart=ReplaceableTextures\CommandButtons\BTNDeathCoil.blp
 Targetart=
 Targetattach=
-
-// Liquid Fire
 [R04T]
 Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Targetart=
-
-// Divine Teachings
 [R03D]
 Spelldetail=1
 Buffart=ReplaceableTextures\CommandButtons\BTNManual3.blp
@@ -2476,13 +1185,9 @@ Targetattach=overhead
 [R03Q]
 Buffart=ReplaceableTextures\CommandButtons\BTNFire.blp
 Targetart=
-
-// Freezing Mist
 [R03P]
 Buffart=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
 Targetart=
-
-// Heat Aura
 [R072]
 Buffart=ReplaceableTextures\CommandButtons\BTNWallOfFire.blp
 Targetart=
@@ -2492,22 +1197,15 @@ Targetart=
 [R04W]
 Buffart=ReplaceableTextures\CommandButtons\BTNDoom.blp
 Targetart=
-
-// Flesh of Ymir
 [R07C]
 Targetart=
 Targetattach=
 Buffart=ReplaceableTextures\CommandButtons\BTNReplenishMana.blp
-
-// Wrath of Ymir
 [R07D]
 Buffart=ReplaceableTextures\CommandButtons\BTNDevourMagic.blp
 Targetart=
 Targetattach=
-
-// Under Attack
 [R07X]
 Buffart=ReplaceableTextures\CommandButtons\BTNUndeadDestroyer.blp
 Targetart=
 Targetattach=chest
-

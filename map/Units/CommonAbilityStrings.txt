@@ -2,6 +2,7 @@
 Name=Shop Sharing, Allied Bldg.
 [Abdt]
 Name=Burrow Detection
+EditorSuffix= (Fliers, Obsolete)
 [Apit]
 Name=Shop Purchase Item
 [Amou]
@@ -20,6 +21,7 @@ Untip=R|cffffcc00e|rturn Resources
 Unubertip="Return the carried resources to the nearest town hall."
 Hotkey=G
 Unhotkey=E
+EditorSuffix= (Gold and Lumber)
 [Ahrl]
 Name=Harvest
 Tip=|cffffcc00G|rather
@@ -28,13 +30,12 @@ Untip=R|cffffcc00e|rturn Resources
 Unubertip="Return the carried resources to the nearest Necropolis or Graveyard."
 Hotkey=G
 Unhotkey=E
+EditorSuffix= (Ghouls Lumber)
 [Arev]
 Name=Revive Hero
 [Aawa]
 Name=Revive Hero Instantly
 [Adet]
-Name=Detector
-[Adt1]
 Name=Detector
 [Adta]
 Name=Reveal
@@ -98,8 +99,9 @@ Name=Move
 Bufftip=击晕
 Buffubertip="这个单位被击晕了；它无法移动、攻击或施法。"
 [BPSE]
-Bufftip=Stunned
-Buffubertip="This unit will not move."
+Bufftip=击晕
+Buffubertip="这个单位无法移动。"
+EditorSuffix= (Pause)
 [Xbdt]
 EditorName=Reveal (Effect)
 [Xbli]
@@ -112,11 +114,11 @@ Buffubertip=这个单位无法进行攻击，也不会受到物理攻击。但�
 [R00F]
 Bufftip=灵魂深寒
 Buffubertip=这个单位被灵魂深寒减速了。
-EditorName=Soul Chill
+EditorName=灵魂深寒
 [R00L]
 Bufftip=减速
 Buffubertip=这个单位的移动速度被降低了。
-EditorName=Slowed
+EditorName=减速
 [R001]
 Bufftip=减速
 Buffubertip=这个单位感受到霜寒刺骨，它的移动速度降低了。
@@ -124,7 +126,7 @@ EditorName=!Slow
 [R01S]
 Bufftip=减速
 Buffubertip=这个单位的移动速度被降低了。
-EditorName=Slowed
+EditorName=减速
 [R02J]
 Bufftip=震荡弹
 Buffubertip=这个单位的移动速度被降低了。
@@ -143,7 +145,7 @@ Buffubertip=这个单位的护甲降低。
 [R00V]
 Bufftip=减速
 Buffubertip=这个单位的移动速度被降低了。
-EditorName=Slowed
+EditorName=减速
 [R015]
 Bufftip=绝对零度
 Buffubertip=这个单位被暴风雪击中，它的移动速度降低。
@@ -159,7 +161,7 @@ Buffubertip=这个单位有几率受到更多伤害。
 [R04C]
 Bufftip=减速
 Buffubertip=这个单位的移动速度被降低了。
-EditorName=Slowed
+EditorName=减速
 [R04J]
 Bufftip=诅咒
 Buffubertip=这个单位在受到伤害时有几率提高它所受到的火焰伤害。
@@ -177,7 +179,7 @@ Buffubertip=这个单位的移动速度被降低了。
 [R02T]
 Bufftip=减速
 Buffubertip=这个单位的移动速度被降低了。
-EditorName=Slowed
+EditorName=减速
 [R05X]
 Bufftip=霜冻
 Buffubertip=这个单位的移动速度被降低了。

@@ -1,7 +1,5 @@
-// permits dependencies upon heroes
 [HERO]
 DependencyOr=Hamg,Hblm,Hmkg,Hpal,Obla,Ofar,Oshd,Otch,Edem,Ekee,Emoo,Ewar,Ucrl,Udea,Udre,Ulic,Npbm,Nbrn,Nngs,Nplh,Nbst
-
 [nws2]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Buttonpos=1,0
@@ -10,5680 +8,3559 @@ Missilearc=0.15
 Missilespeed=1100
 MissileHoming=1
 Attachmentanimprops=medium
-
-// bandit 1
-
 [nnom]
-// Goblin Laboratory
-
-[npig]
-Art=ReplaceableTextures\CommandButtons\BTNPig.blp
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// stag critter
-
-[nsea]
-Art=ReplaceableTextures\CommandButtons\BTNSeal.blp
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
 [nshe]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 RandomSoundLabel=SheepRandomSounds
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
 [nshf]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 RandomSoundLabel=SheepRandomSounds
-
 [nsha]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 RandomSoundLabel=SheepRandomSounds
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
 [nshw]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 RandomSoundLabel=SheepRandomSounds
 Animprops=swim
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// vulture
-[nvul]
-Art=ReplaceableTextures\CommandButtons\BTNVulture.blp
-
-// male villager
-
-[ninf]
-Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
-Attachmentanimprops=large
-
 [nwgt]
 Art=ReplaceableTextures\CommandButtons\BTNWaygate.blp
-
-[nowl]
-Art=ReplaceableTextures\CommandButtons\BTNScout.blp
-
-// owl 2
-[now2]
-Art=ReplaceableTextures\CommandButtons\BTNScout.blp
-
-// owl 3
-[now3]
-Art=ReplaceableTextures\CommandButtons\BTNScout.blp
-
-// spirit pig
-
-[ncrb]
-Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Chicken critter
-[nech]
-Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Frog critter
-[nfro]
-Art=ReplaceableTextures\CommandButtons\BTNHex.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Rabbit critter
-[necr]
-Art=ReplaceableTextures\CommandButtons\BTNCritterRabbit.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Raccoon critter
-[nrac]
-Art=ReplaceableTextures\CommandButtons\BTNRacoon.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// hermit crab critter
-[nhmc]
-Art=ReplaceableTextures\CommandButtons\BTNHermitCrab.blp
-Buttonpos=0,0
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// albatross critter
-[nalb]
-Art=ReplaceableTextures\CommandButtons\BTNAlbatross.blp
-Buttonpos=0,0
-
-// sea turtle hatchling
-
-[npng]
-Art=ReplaceableTextures\CommandButtons\BTNPenguin.blp
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-[npnw]
-Art=ReplaceableTextures\CommandButtons\BTNPenguin.blp
-Animprops=swim
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// rat critter
-[nrat]
-Art=ReplaceableTextures\CommandButtons\BTNYouDirtyRat!.blp
-Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// snowy owl critter
-[nsno]
-Art=ReplaceableTextures\CommandButtons\BTNSnowOwl.blp
-Buttonpos=0,0
-
-// felboar critter
-
 [cSKS]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=
 Attachmentanimprops=medium
-
-// Skeleton
 [cSKL]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=
 Attachmentanimprops=medium
-
-// KySoto
 [vCSZ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Khlox-NL-
 [vCSX]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Zloj
 [vCSY]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Cyrganth
 [vCSV]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sunken
 [vCSW]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Guennter
 [vCSL]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ely
 [vCSM]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// F12ight
 [vCSJ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// axllow
 [vCSK]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// SymphonyX
 [vCSH]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// hokkei
 [vCSI]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// the-red-terror
 [vCSF]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// McDoNaLdGaNgStA
 [vCSG]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// YouJizzTD
 [vCST]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ranakastrasz
 [vCSU]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bartuck
 [vCSR]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// LordHellHunter
 [vCSS]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// TopBanana
 [vCSP]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kricz
 [vCSQ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Deikorim
 [vCSN]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Nubz
 [vCSO]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// zed
 [vCT0]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Chronos
 [vCRY]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Lapsus
 [vCRZ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Palandu
 [vCRW]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// BetrayedKnight
 [vCS8]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// His_Shadow
 [vCRX]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Killamasta
 [vCS9]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ashbringer
 [vCRU]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// ShyGnome
 [vCS6]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Neotopia
 [vCRV]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Monolith
 [vCS7]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// ???
 [vCSD]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Coldrocker
 [vCSE]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Shaddow
 [vCSB]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// D1000
 [vCSC]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Joe
 [vCSA]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// geX
 [vCRK]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// mOck
 [vCRL]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// cedi
 [vCRI]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Natac
 [vCRJ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// drol
 [vCRG]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// SirCoqaLot.
 [vCRH]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Creator
 [vCRE]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// boekie
 [vCRF]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// der_kleine_Tomy
 [vCRS]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// IamanEvilMan
 [vCS4]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// MasterCassim
 [vCRT]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Cyony
 [vCS5]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Deemzul
 [vCRQ]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Glowackos
 [vCS2]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Velex
 [vCRR]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// poussix
 [vCS3]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// tolleder
 [vCRO]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// KublaiKhan1
 [vCS0]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// DaveMatthews
 [vCRP]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// limfa
 [vCS1]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Majildian
 [vCRM]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// SternBogen
 [vCRN]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Elegant Guy
 [vDA7]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Raccoon
 [vDA8]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Child
 [vDA5]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Lazy Guy
 [vDA6]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Priest
 [vDA3]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Charming Lady
 [vDA4]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Worker
 [vDA1]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// High Priestess
 [vDA2]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sexy Chick
 [vDA0]
 Art=ReplaceableTextures\CommandButtons\BTNSpinyCrab.blp
 Buttonpos=0,0
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Elven Defender
 [cR10]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Footman
 [cR0O]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Defender
 [cR11]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Defender
 [cR0P]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Footman
 [cR0M]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Footman
 [cR0N]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Footman
 [cR0K]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Footman
 [cR0L]
 Art=ReplaceableTextures\CommandButtons\BTNFootman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Militia
 [cR0I]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Militia
 [cR0J]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Militia
 [cR0G]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Militia
 [cR0H]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Skirmisher
 [cR0E]
 Art=ReplaceableTextures\CommandButtons\BTNBanditSpearThrower.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Militia
 [cR0F]
 Art=ReplaceableTextures\CommandButtons\BTNMilitia.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Skirmisher
 [cR0C]
 Art=ReplaceableTextures\CommandButtons\BTNBanditSpearThrower.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skirmisher
 [cR0D]
 Art=ReplaceableTextures\CommandButtons\BTNBanditSpearThrower.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skirmisher
 [cR0A]
 Art=ReplaceableTextures\CommandButtons\BTNBanditSpearThrower.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skirmisher
 [cR0B]
 Art=ReplaceableTextures\CommandButtons\BTNBanditSpearThrower.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Tank
 [cR1A]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Dwarf
 [cR0Y]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Archer
 [cR18]
 Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Dwarf
 [cR0W]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Archer
 [cR19]
 Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Dwarf
 [cR0X]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Archer
 [cR16]
 Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Dwarf
 [cR0U]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Archer
 [cR17]
 Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Dwarf
 [cR0V]
 Art=ReplaceableTextures\CommandButtons\BTNRifleman.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Defender
 [cR14]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Defender
 [cR0S]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Archer
 [cR15]
 Art=ReplaceableTextures\CommandButtons\BTNHighElvenArcher.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Defender
 [cR0T]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Defender
 [cR12]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Defender
 [cR0Q]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Defender
 [cR13]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Defender
 [cR0R]
 Art=ReplaceableTextures\CommandButtons\BTNTheCaptain.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Scallywag
 [cR00]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bandit
 [cR09]
 Art=ReplaceableTextures\CommandButtons\BTNBandit.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bandit
 [cR07]
 Art=ReplaceableTextures\CommandButtons\BTNBandit.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bandit
 [cR08]
 Art=ReplaceableTextures\CommandButtons\BTNBandit.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bandit
 [cR05]
 Art=ReplaceableTextures\CommandButtons\BTNBandit.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Bandit
 [cR06]
 Art=ReplaceableTextures\CommandButtons\BTNBandit.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Scallywag
 [cR03]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Scallywag
 [cR04]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Scallywag
 [cR01]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Scallywag
 [cR02]
 Art=ReplaceableTextures\CommandButtons\BTNVillagerKid2.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Mountain King
 [cR32]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Commander
 [cR2Q]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mountain King
 [cR33]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Commander
 [cR2R]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mountain King
 [cR30]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sergeant
 [cR2O]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mountain King
 [cR31]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Commander
 [cR2P]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sergeant
 [cR2M]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sergeant
 [cR2N]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sergeant
 [cR2K]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sergeant
 [cR2L]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sorcerer
 [cR2I]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sorcerer
 [cR2J]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sorcerer
 [cR2G]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sorcerer
 [cR2H]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Druid
 [cR2E]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sorcerer
 [cR2F]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Druid
 [cR2C]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Druid
 [cR2D]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Master Archer
 [cR3B]
 Art=ReplaceableTextures\CommandButtons\BTNSylvanusWindrunner.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Master Archer
 [cR3C]
 Art=ReplaceableTextures\CommandButtons\BTNSylvanusWindrunner.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Master Archer
 [cR3A]
 Art=ReplaceableTextures\CommandButtons\BTNSylvanusWindrunner.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Wizard
 [cR2Y]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Emperor
 [cR38]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Wizard
 [cR2W]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Emperor
 [cR39]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Wizard
 [cR2X]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Emperor
 [cR36]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Wizard
 [cR2U]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Emperor
 [cR37]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Wizard
 [cR2V]
 Art=ReplaceableTextures\CommandButtons\BTNPriest.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mountain King
 [cR34]
 Art=ReplaceableTextures\CommandButtons\BTNHeroMountainKing.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Commander
 [cR2S]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Emperor
 [cR35]
 Art=ReplaceableTextures\CommandButtons\BTNArthas.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Commander
 [cR2T]
 Art=ReplaceableTextures\CommandButtons\BTNHeroPaladin.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Glory Wagon
 [cR21]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Knight
 [cR1P]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Glory Wagon
 [cR22]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Knight
 [cR1Q]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spellbreaker
 [cR1N]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Glory Wagon
 [cR20]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spellbreaker
 [cR1O]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Spellbreaker
 [cR1L]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Spellbreaker
 [cR1M]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mage
 [cR1J]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spellbreaker
 [cR1K]
 Art=ReplaceableTextures\CommandButtons\BTNSpellBreaker.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Mage
 [cR1H]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Mage
 [cR1I]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Mage
 [cR1F]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Mage
 [cR1G]
 Art=ReplaceableTextures\CommandButtons\BTNBanditMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Tank
 [cR1D]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tank
 [cR1E]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tank
 [cR1B]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tank
 [cR1C]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Druid
 [cR2A]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Druid
 [cR2B]
 Art=ReplaceableTextures\CommandButtons\BTNMedivh.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Chick
 [cR29]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Sorceress
 [cR1X]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Sorceress
 [cR1Y]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Chick
 [cR27]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Sorceress
 [cR1V]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Chick
 [cR28]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Sorceress
 [cR1W]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Elven Chick
 [cR25]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Knight
 [cR1T]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Elven Chick
 [cR26]
 Art=ReplaceableTextures\CommandButtons\BTNFemaleElfVillager.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Sorceress
 [cR1U]
 Art=ReplaceableTextures\CommandButtons\BTNSorceress.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Glory Wagon
 [cR23]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Knight
 [cR1R]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Glory Wagon
 [cR24]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Knight
 [cR1S]
 Art=ReplaceableTextures\CommandButtons\BTNKnight.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Archer
 [cR54]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dragonhawk Rider
 [cR4S]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Warrior
 [cR55]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalOrcGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dragonhawk Rider
 [cR4T]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Archer
 [cR52]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dragonhawk Rider
 [cR4Q]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Archer
 [cR53]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dragonhawk Rider
 [cR4R]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Archer
 [cR50]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Gryphon Rider
 [cR4O]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Skeleton Archer
 [cR51]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dragonhawk Rider
 [cR4P]
 Art=ReplaceableTextures\CommandButtons\BTNDragonHawk.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gryphon Rider
 [cR4M]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gryphon Rider
 [cR4N]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gryphon Rider
 [cR4K]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gryphon Rider
 [cR4L]
 Art=ReplaceableTextures\CommandButtons\BTNGryphonRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gyrokopter
 [cR4I]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gyrokopter
 [cR4J]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gyrokopter
 [cR4G]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gyrokopter
 [cR4H]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Rotherothopter
 [cR4E]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Gyrokopter
 [cR4F]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Necromancer
 [cR5D]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Necromancer
 [cR5E]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Necromancer
 [cR5B]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Necromancer
 [cR5C]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Necromancer
 [cR5A]
 Art=ReplaceableTextures\CommandButtons\BTNNecromancer.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Evil Scarab
 [cR4Y]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeleton Warrior
 [cR58]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalOrcGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Evil Scarab
 [cR4W]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeleton Warrior
 [cR59]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalOrcGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Evil Scarab
 [cR4X]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeleton Warrior
 [cR56]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalOrcGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Evil Scarab
 [cR4U]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeleton Warrior
 [cR57]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletalOrcGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Evil Scarab
 [cR4V]
 Art=ReplaceableTextures\CommandButtons\BTNCarrionScarabs.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ice Queen
 [cR43]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Blood Elf Sorcerer
 [cR3R]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ice Queen
 [cR44]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Blood Elf Sorcerer
 [cR3S]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ice Queen
 [cR41]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Blood Elf Sorcerer
 [cR3P]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ice Queen
 [cR42]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Blood Elf Sorcerer
 [cR3Q]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Arch Mage
 [cR3N]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ice Queen
 [cR40]
 Art=ReplaceableTextures\CommandButtons\BTNJaina.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Arch Mage
 [cR3O]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Arch Mage
 [cR3L]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Arch Mage
 [cR3M]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Siege Tank
 [cR3J]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Arch Mage
 [cR3K]
 Art=ReplaceableTextures\CommandButtons\BTNHeroArchMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Siege Tank
 [cR3H]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Siege Tank
 [cR3I]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Siege Tank
 [cR3F]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Siege Tank
 [cR3G]
 Art=ReplaceableTextures\CommandButtons\BTNSeigeEngineWithMissles.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Master Archer
 [cR3D]
 Art=ReplaceableTextures\CommandButtons\BTNSylvanusWindrunner.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Master Archer
 [cR3E]
 Art=ReplaceableTextures\CommandButtons\BTNSylvanusWindrunner.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Rotherothopter
 [cR4C]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Rotherothopter
 [cR4D]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Rotherothopter
 [cR4A]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Rotherothopter
 [cR4B]
 Art=ReplaceableTextures\CommandButtons\BTNFlyingMachine.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Golden Wagon of Justice
 [cR49]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Paladin
 [cR3X]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Paladin
 [cR3Y]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Golden Wagon of Justice
 [cR47]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Paladin
 [cR3V]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Golden Wagon of Justice
 [cR48]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Paladin
 [cR3W]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Golden Wagon of Justice
 [cR45]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Blood Elf Sorcerer
 [cR3T]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBloodElfPrince.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Golden Wagon of Justice
 [cR46]
 Art=ReplaceableTextures\CommandButtons\BTNBloodElfSupplyWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Paladin
 [cR3U]
 Art=ReplaceableTextures\CommandButtons\BTNGarithos.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Burning Archer
 [cR76]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Banshee
 [cR6U]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Burning Archer
 [cR77]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Banshee
 [cR6V]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Hilarious Ghoul
 [cR74]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Underworld Mutation
 [cR6S]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Burning Archer
 [cR75]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Underworld Mutation
 [cR6T]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Hilarious Ghoul
 [cR72]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Underworld Mutation
 [cR6Q]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Hilarious Ghoul
 [cR73]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Underworld Mutation
 [cR6R]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Hilarious Ghoul
 [cR70]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Infernal Machine
 [cR6O]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Hilarious Ghoul
 [cR71]
 Art=ReplaceableTextures\CommandButtons\BTNGhoul.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Underworld Mutation
 [cR6P]
 Art=ReplaceableTextures\CommandButtons\BTNSludgeCreature.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Infernal Machine
 [cR6M]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Infernal Machine
 [cR6N]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Infernal Machine
 [cR6K]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Infernal Machine
 [cR6L]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalFlameCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Evil Demon
 [cR6I]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon
 [cR6J]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon
 [cR6G]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon
 [cR6H]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ghostly Necromancer
 [cR7F]
 Art=ReplaceableTextures\CommandButtons\BTNGhostOfKelThuzad.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ghostly Necromancer
 [cR7G]
 Art=ReplaceableTextures\CommandButtons\BTNGhostOfKelThuzad.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeletal Mage
 [cR7D]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeletal Mage
 [cR7E]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeletal Mage
 [cR7B]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeletal Mage
 [cR7C]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Skeletal Mage
 [cR7A]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonMage.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Banshee
 [cR6Y]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Burning Archer
 [cR78]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Banshee
 [cR6W]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Burning Archer
 [cR79]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Banshee
 [cR6X]
 Art=ReplaceableTextures\CommandButtons\BTNBanshee.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Acolyte
 [cR65]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Meatwagon
 [cR5T]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Acolyte
 [cR66]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Shade
 [cR5U]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Zombie
 [cR63]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Meatwagon
 [cR5R]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Zombie
 [cR64]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Meatwagon
 [cR5S]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Zombie
 [cR61]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Meatwagon
 [cR5P]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Zombie
 [cR62]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Meatwagon
 [cR5Q]
 Art=ReplaceableTextures\CommandButtons\BTNMeatWagon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Crypt Fiend
 [cR5N]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Zombie
 [cR60]
 Art=ReplaceableTextures\CommandButtons\BTNZombie.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Crypt Fiend
 [cR5O]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Crypt Fiend
 [cR5L]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Crypt Fiend
 [cR5M]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Major Skeleton Warrior
 [cR5J]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Crypt Fiend
 [cR5K]
 Art=ReplaceableTextures\CommandButtons\BTNCryptFiend.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Major Skeleton Warrior
 [cR5H]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Major Skeleton Warrior
 [cR5I]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Major Skeleton Warrior
 [cR5F]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Major Skeleton Warrior
 [cR5G]
 Art=ReplaceableTextures\CommandButtons\BTNSkeletonWarrior.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Undead Amazon
 [cR6E]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Evil Demon
 [cR6F]
 Art=ReplaceableTextures\CommandButtons\BTNArchimonde.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Undead Amazon
 [cR6C]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Undead Amazon
 [cR6D]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Undead Amazon
 [cR6A]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Undead Amazon
 [cR6B]
 Art=ReplaceableTextures\CommandButtons\BTNBansheeRanger.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Acolyte
 [cR69]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Shade
 [cR5X]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Shade
 [cR5Y]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Acolyte
 [cR67]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Shade
 [cR5V]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Acolyte
 [cR68]
 Art=ReplaceableTextures\CommandButtons\BTNAcolyte.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Shade
 [cR5W]
 Art=ReplaceableTextures\CommandButtons\BTNShade.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Gargoyle
 [cR98]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Underword Emperor
 [cR8W]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gargoyle
 [cR99]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Underword Emperor
 [cR8X]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gargoyle
 [cR96]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Underword Emperor
 [cR8U]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gargoyle
 [cR97]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Underword Emperor
 [cR8V]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Banshee Queen
 [cR94]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Doomsday Machine
 [cR8S]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gargoyle
 [cR95]
 Art=ReplaceableTextures\CommandButtons\BTNGargoyle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Doomsday Machine
 [cR8T]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Banshee Queen
 [cR92]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Doomsday Machine
 [cR8Q]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Banshee Queen
 [cR93]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Doomsday Machine
 [cR8R]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Banshee Queen
 [cR90]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Evil Demon Lord
 [cR8O]
 Art=ReplaceableTextures\CommandButtons\BTNKiljaedin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Banshee Queen
 [cR91]
 Art=ReplaceableTextures\CommandButtons\BTNGhost.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Doomsday Machine
 [cR8P]
 Art=ReplaceableTextures\CommandButtons\BTNInfernalCannon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Evil Demon Lord
 [cR8M]
 Art=ReplaceableTextures\CommandButtons\BTNKiljaedin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon Lord
 [cR8N]
 Art=ReplaceableTextures\CommandButtons\BTNKiljaedin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon Lord
 [cR8K]
 Art=ReplaceableTextures\CommandButtons\BTNKiljaedin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Evil Demon Lord
 [cR8L]
 Art=ReplaceableTextures\CommandButtons\BTNKiljaedin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Undead Overlord
 [cR8I]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Undead Overlord
 [cR8J]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Frost Wyrm
 [cR9H]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Frost Wyrm
 [cR9I]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Frost Wyrm
 [cR9F]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Frost Wyrm
 [cR9G]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Destroyer
 [cR9D]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Attachmentanimprops=large
 animProps=alternate
-
-// Destroyer
 [cR9E]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Attachmentanimprops=large
 animProps=alternate
-
-// Destroyer
 [cR9B]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Attachmentanimprops=large
 animProps=alternate
-
-// Destroyer
 [cR9C]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Attachmentanimprops=large
 animProps=alternate
-
-// Destroyer
 [cR9A]
 Art=ReplaceableTextures\CommandButtons\BTNDestroyer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Attachmentanimprops=large
 animProps=alternate
-
-// Underword Emperor
 [cR8Y]
 Art=ReplaceableTextures\CommandButtons\BTNPitLord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// geX
 [c055]
 Art=ReplaceableTextures\CommandButtons\BTNEredarWarlockPurple.blp
 Specialart=
 Attachmentanimprops=medium
-
-// Plague Lord
 [cR87]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
 Specialart=Units\Undead\Abomination\AbominationExplosion.mdl
 Attachmentanimprops=large
-
-// Obsidian Statue
 [cR7V]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// tolleder
 [c054]
 Art=ReplaceableTextures\CommandButtons\BTNDoomGuard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Plague Lord
 [cR88]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
 Specialart=Units\Undead\Abomination\AbominationExplosion.mdl
 Attachmentanimprops=large
-
-// Obsidian Statue
 [cR7W]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Challenge 4
 [c057]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Plague Lord
 [cR85]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
 Specialart=Units\Undead\Abomination\AbominationExplosion.mdl
 Attachmentanimprops=large
-
-// Crypt Lord
 [cR7T]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// mOck
 [c056]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Plague Lord
 [cR86]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
 Specialart=Units\Undead\Abomination\AbominationExplosion.mdl
 Attachmentanimprops=large
-
-// Obsidian Statue
 [cR7U]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// cedi
 [c051]
 Art=ReplaceableTextures\CommandButtons\BTNMountainGiant.blp
 Specialart=
 Attachmentanimprops=large
-
-// Haunting Revenant
 [cR83]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Crypt Lord
 [cR7R]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// D1000
 [c050]
 Art=ReplaceableTextures\CommandButtons\BTNArmorGolem.blp
 Specialart=
 Attachmentanimprops=large
-
-// Haunting Revenant
 [cR84]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Crypt Lord
 [cR7S]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// MasterCassim
 [c053]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfWonders.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Haunting Revenant
 [cR81]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Crypt Lord
 [cR7P]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// boekie
 [c052]
 Art=ReplaceableTextures\CommandButtons\BTNInfernal.blp
 Specialart=
 Attachmentanimprops=large
-
-// Haunting Revenant
 [cR82]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Crypt Lord
 [cR7Q]
 Art=ReplaceableTextures\CommandButtons\BTNHeroCryptLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Dread Lord
 [cR7N]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Haunting Revenant
 [cR80]
 Art=ReplaceableTextures\CommandButtons\BTNRevenant.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Dread Lord
 [cR7O]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Dread Lord
 [cR7L]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Dread Lord
 [cR7M]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ghostly Necromancer
 [cR7J]
 Art=ReplaceableTextures\CommandButtons\BTNGhostOfKelThuzad.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Dread Lord
 [cR7K]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDreadLord.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ghostly Necromancer
 [cR7H]
 Art=ReplaceableTextures\CommandButtons\BTNGhostOfKelThuzad.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ghostly Necromancer
 [cR7I]
 Art=ReplaceableTextures\CommandButtons\BTNGhostOfKelThuzad.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Gecklow
 [c05E]
 Art=ReplaceableTextures\CommandButtons\BTNSkink.blp
 Specialart=
 Attachmentanimprops=medium
-
-// Undead Overlord
 [cR8G]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Glowackos
 [c05D]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=
 Attachmentanimprops=medium
-
-// Undead Overlord
 [cR8H]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Lich
 [cR8E]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Drackos
 [c05F]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=
 Attachmentanimprops=medium
-
-// Undead Overlord
 [cR8F]
 Art=ReplaceableTextures\CommandButtons\BTNHeroDeathKnight.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 10
 [c05A]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Lich
 [cR8C]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Lich
 [cR8D]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Challenge 14
 [c05C]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Lich
 [cR8A]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Challenge 12
 [c05B]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Lich
 [cR8B]
 Art=ReplaceableTextures\CommandButtons\BTNLichVersion2.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Challenge 8
 [c059]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 6
 [c058]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// drol
 [c04Z]
 Art=ReplaceableTextures\CommandButtons\BTNFleshGolem.blp
 Specialart=
 Attachmentanimprops=large
-
-// Plague Lord
 [cR89]
 Art=ReplaceableTextures\CommandButtons\BTNAbomination.blp
 Specialart=Units\Undead\Abomination\AbominationExplosion.mdl
 Attachmentanimprops=large
-
-// Obsidian Statue
 [cR7X]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// SirCoqaLot.
 [c04Y]
 Art=ReplaceableTextures\CommandButtons\BTNRockGolem.blp
 Specialart=
 Attachmentanimprops=large
-
-// Obsidian Statue
 [cR7Y]
 Art=ReplaceableTextures\CommandButtons\BTNObsidianStatue.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Forest Troll
 [cR9X]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Forest Troll
 [cR9Y]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Forest Troll
 [cR9V]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Forest Troll
 [cR9W]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Peon Roughneck
 [cR9T]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Forest Troll
 [cR9U]
 Art=ReplaceableTextures\CommandButtons\BTNForestTroll.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Peon Roughneck
 [cR9R]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Peon Roughneck
 [cR9S]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Peon Roughneck
 [cR9P]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Peon Roughneck
 [cR9Q]
 Art=ReplaceableTextures\CommandButtons\BTNPeon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Demon Dreadnought
 [cR9N]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadAirBarge.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Demon Dreadnought
 [cR9O]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadAirBarge.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Demon Dreadnought
 [cR9L]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadAirBarge.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Demon Dreadnought
 [cR9M]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadAirBarge.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Frost Wyrm
 [cR9J]
 Art=ReplaceableTextures\CommandButtons\BTNFrostWyrm.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Demon Dreadnought
 [cR9K]
 Art=ReplaceableTextures\CommandButtons\BTNUndeadAirBarge.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Vicious Grunt
 [cRAA]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrunt.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Grunt
 [cRA8]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Grunt
 [cRA9]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Grunt
 [cRA6]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Grunt
 [cRA7]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Troll Headhunter
 [cRA4]
 Art=ReplaceableTextures\CommandButtons\BTNHeadHunterBerserker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Boneprops=alternate
-
-// Grunt
 [cRA5]
 Art=ReplaceableTextures\CommandButtons\BTNGrunt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Troll Headhunter
 [cRA2]
 Art=ReplaceableTextures\CommandButtons\BTNHeadHunterBerserker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Boneprops=alternate
-
-// Troll Headhunter
 [cRA3]
 Art=ReplaceableTextures\CommandButtons\BTNHeadHunterBerserker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Boneprops=alternate
-
-// Shaman
 [cRB1]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kodo
 [cRAP]
 Art=ReplaceableTextures\CommandButtons\BTNRiderlessKodo.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Shaman
 [cRB2]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kodo
 [cRAQ]
 Art=ReplaceableTextures\CommandButtons\BTNRiderlessKodo.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Vicious Battler
 [cRAN]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Shaman
 [cRB0]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Vicious Battler
 [cRAO]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Battler
 [cRAL]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Battler
 [cRAM]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Battler
 [cRAJ]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Vicious Battler
 [cRAK]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlock.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Battler
 [cRAH]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Battler
 [cRAI]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Battler
 [cRAF]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Battler
 [cRAG]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlockGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Vicious Grunt
 [cRAD]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrunt.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Grunt
 [cRAE]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrunt.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Grunt
 [cRAB]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrunt.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Grunt
 [cRAC]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrunt.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Troll Headhunter
 [cRA0]
 Art=ReplaceableTextures\CommandButtons\BTNHeadHunterBerserker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Boneprops=alternate
-
-// Troll Headhunter
 [cRA1]
 Art=ReplaceableTextures\CommandButtons\BTNHeadHunterBerserker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentlinkprops=alternate
 Boneprops=alternate
-
-// Shadow Hunter
 [cRCB]
 Art=ReplaceableTextures\CommandButtons\BTNShadowHunter.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Shadow Hunter
 [cRCC]
 Art=ReplaceableTextures\CommandButtons\BTNShadowHunter.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Shadow Hunter
 [cRCA]
 Art=ReplaceableTextures\CommandButtons\BTNShadowHunter.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Tauren
 [cRBY]
 Art=ReplaceableTextures\CommandButtons\BTNTauren.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Priest
 [cRC8]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Tauren
 [cRBW]
 Art=ReplaceableTextures\CommandButtons\BTNTauren.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Priest
 [cRC9]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Tauren
 [cRBX]
 Art=ReplaceableTextures\CommandButtons\BTNTauren.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Priest
 [cRC6]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Tauren
 [cRBU]
 Art=ReplaceableTextures\CommandButtons\BTNTauren.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Priest
 [cRC7]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Tauren
 [cRBV]
 Art=ReplaceableTextures\CommandButtons\BTNTauren.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Peon Garbage Collector
 [cRC4]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Orcish Warlord
 [cRBS]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Priest
 [cRC5]
 Art=ReplaceableTextures\CommandButtons\BTNForestTrollShadowPriest.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Orcish Warlord
 [cRBT]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Kodo Drummer
 [cRD3]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Axemaster
 [cRCR]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Kodo Drummer
 [cRD4]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Axemaster
 [cRCS]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Kodo Drummer
 [cRD1]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Axemaster
 [cRCP]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Kodo Drummer
 [cRD2]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Axemaster
 [cRCQ]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Vicious Blade Master
 [cRCN]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Kodo Drummer
 [cRD0]
 Art=ReplaceableTextures\CommandButtons\BTNChaosKotoBeast.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Vicious Blade Master
 [cRCO]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Blade Master
 [cRCL]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Blade Master
 [cRCM]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Blade Master
 [cRCJ]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Vicious Blade Master
 [cRCK]
 Art=ReplaceableTextures\CommandButtons\BTNChaosBlademaster.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Blade Master
 [cRCH]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Blade Master
 [cRCI]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Blade Master
 [cRCF]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Blade Master
 [cRCG]
 Art=ReplaceableTextures\CommandButtons\BTNHeroBlademaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Shadow Hunter
 [cRCD]
 Art=ReplaceableTextures\CommandButtons\BTNShadowHunter.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Shadow Hunter
 [cRCE]
 Art=ReplaceableTextures\CommandButtons\BTNShadowHunter.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Wolfrider
 [cRBA]
 Art=ReplaceableTextures\CommandButtons\BTNRaider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wolfrider
 [cRBB]
 Art=ReplaceableTextures\CommandButtons\BTNRaider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Witch Doctor
 [cRB9]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Team
 [cRAX]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Team
 [cRAY]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Witch Doctor
 [cRB7]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Team
 [cRAV]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Witch Doctor
 [cRB8]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Team
 [cRAW]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Witch Doctor
 [cRB5]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kodo
 [cRAT]
 Art=ReplaceableTextures\CommandButtons\BTNRiderlessKodo.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Witch Doctor
 [cRB6]
 Art=ReplaceableTextures\CommandButtons\BTNWitchDoctor.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Team
 [cRAU]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinSapper.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Shaman
 [cRB3]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kodo
 [cRAR]
 Art=ReplaceableTextures\CommandButtons\BTNRiderlessKodo.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Shaman
 [cRB4]
 Art=ReplaceableTextures\CommandButtons\BTNShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kodo
 [cRAS]
 Art=ReplaceableTextures\CommandButtons\BTNRiderlessKodo.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Peon Garbage Collector
 [cRC2]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Orcish Warlord
 [cRBQ]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Peon Garbage Collector
 [cRC3]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Orcish Warlord
 [cRBR]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Peon Garbage Collector
 [cRC0]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Ogre
 [cRBO]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Peon Garbage Collector
 [cRC1]
 Art=ReplaceableTextures\CommandButtons\BTNChaosPeon.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Orcish Warlord
 [cRBP]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWarlord.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ogre
 [cRBM]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ogre
 [cRBN]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ogre
 [cRBK]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ogre
 [cRBL]
 Art=ReplaceableTextures\CommandButtons\BTNOgre.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Wolfrider
 [cRBI]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWolfRider.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Wolfrider
 [cRBJ]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWolfRider.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Wolfrider
 [cRBG]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWolfRider.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Wolfrider
 [cRBH]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWolfRider.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wolfrider
 [cRBE]
 Art=ReplaceableTextures\CommandButtons\BTNRaider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Wolfrider
 [cRBF]
 Art=ReplaceableTextures\CommandButtons\BTNChaosWolfRider.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wolfrider
 [cRBC]
 Art=ReplaceableTextures\CommandButtons\BTNRaider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wolfrider
 [cRBD]
 Art=ReplaceableTextures\CommandButtons\BTNRaider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern
 [cRED]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern
 [cREE]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern
 [cREB]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern
 [cREC]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern
 [cREA]
 Art=ReplaceableTextures\CommandButtons\BTNWyvern.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Alchimist
 [cRDY]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tauren Chieftain
 [cRE8]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Alchimist
 [cRDW]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tauren Chieftain
 [cRE9]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Alchimist
 [cRDX]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tauren Chieftain
 [cRE6]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Alchimist
 [cRDU]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Tauren Chieftain
 [cRE7]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Alchimist
 [cRDV]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAlchemist.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gnoll
 [cRF5]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Zeppelin
 [cRET]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gnoll
 [cRF6]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Rascal
 [cREU]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satyr
 [cRF3]
 Art=ReplaceableTextures\CommandButtons\BTNSatyr.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Zeppelin
 [cRER]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Satyr
 [cRF4]
 Art=ReplaceableTextures\CommandButtons\BTNSatyr.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Zeppelin
 [cRES]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Satyr
 [cRF1]
 Art=ReplaceableTextures\CommandButtons\BTNSatyr.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Zeppelin
 [cREP]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Satyr
 [cRF2]
 Art=ReplaceableTextures\CommandButtons\BTNSatyr.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Goblin Zeppelin
 [cREQ]
 Art=ReplaceableTextures\CommandButtons\BTNGoblinZeppelin.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Wyvern Rider
 [cREN]
 Art=ReplaceableTextures\CommandButtons\BTNWyvernRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Satyr
 [cRF0]
 Art=ReplaceableTextures\CommandButtons\BTNSatyr.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Wyvern Rider
 [cREO]
 Art=ReplaceableTextures\CommandButtons\BTNWyvernRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern Rider
 [cREL]
 Art=ReplaceableTextures\CommandButtons\BTNWyvernRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern Rider
 [cREM]
 Art=ReplaceableTextures\CommandButtons\BTNWyvernRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Batrider
 [cREJ]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBatRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wyvern Rider
 [cREK]
 Art=ReplaceableTextures\CommandButtons\BTNWyvernRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Batrider
 [cREH]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBatRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Batrider
 [cREI]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBatRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Batrider
 [cREF]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBatRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Batrider
 [cREG]
 Art=ReplaceableTextures\CommandButtons\BTNTrollBatRider.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Warlock
 [cRDC]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Warlock
 [cRDD]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Warlock
 [cRDA]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Warlock
 [cRDB]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Goblin Tinker
 [cRD9]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Axemaster
 [cRCX]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Vicious Axemaster
 [cRCY]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Goblin Tinker
 [cRD7]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Axemaster
 [cRCV]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Goblin Tinker
 [cRD8]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Axemaster
 [cRCW]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Goblin Tinker
 [cRD5]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Axemaster
 [cRCT]
 Art=ReplaceableTextures\CommandButtons\BTNHellScream.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Goblin Tinker
 [cRD6]
 Art=ReplaceableTextures\CommandButtons\BTNJunkGolem.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Vicious Axemaster
 [cRCU]
 Art=ReplaceableTextures\CommandButtons\BTNChaosGrom.blp
 Specialart=Objects\Spawnmodels\Undead\UndeadLargeDeathExplode\UndeadLargeDeathExplode.mdl
-
-// Beastmaster
 [cRE4]
 Art=ReplaceableTextures\CommandButtons\BTNBeastmaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Orcish Overlord
 [cRDS]
 Art=ReplaceableTextures\CommandButtons\BTNThrall.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Tauren Chieftain
 [cRE5]
 Art=ReplaceableTextures\CommandButtons\BTNHeroTaurenChieftain.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Orcish Overlord
 [cRDT]
 Art=ReplaceableTextures\CommandButtons\BTNThrall.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Beastmaster
 [cRE2]
 Art=ReplaceableTextures\CommandButtons\BTNBeastmaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Orcish Overlord
 [cRDQ]
 Art=ReplaceableTextures\CommandButtons\BTNThrall.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Beastmaster
 [cRE3]
 Art=ReplaceableTextures\CommandButtons\BTNBeastmaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Orcish Overlord
 [cRDR]
 Art=ReplaceableTextures\CommandButtons\BTNThrall.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Beastmaster
 [cRE0]
 Art=ReplaceableTextures\CommandButtons\BTNBeastmaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Farseer
 [cRDO]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Beastmaster
 [cRE1]
 Art=ReplaceableTextures\CommandButtons\BTNBeastmaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Orcish Overlord
 [cRDP]
 Art=ReplaceableTextures\CommandButtons\BTNThrall.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Farseer
 [cRDM]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Farseer
 [cRDN]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Farseer
 [cRDK]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Farseer
 [cRDL]
 Art=ReplaceableTextures\CommandButtons\BTNHeroFarseer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spirit Walker
 [cRDI]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spirit Walker
 [cRDJ]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spirit Walker
 [cRDG]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spirit Walker
 [cRDH]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Warlock
 [cRDE]
 Art=ReplaceableTextures\CommandButtons\BTNGuldan.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Spirit Walker
 [cRDF]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritWalker.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Enchanted Treant
 [cRGF]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Enchanted Treant
 [cRGG]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Demoness
 [cRGD]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demoness
 [cRGE]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demoness
 [cRGB]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demoness
 [cRGC]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demoness
 [cRGA]
 Art=ReplaceableTextures\CommandButtons\BTNDemoness.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Salamander
 [cRFY]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Wisp
 [cRG8]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
-
-// Salamander
 [cRFW]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Wisp
 [cRG9]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
-
-// Salamander
 [cRFX]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Void Elemental
 [cRH7]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Elemental
 [cRGV]
 Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Void Elemental
 [cRH8]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Elemental
 [cRGW]
 Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Void Elemental
 [cRH5]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Water Elemental
 [cRGT]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Void Elemental
 [cRH6]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Elemental
 [cRGU]
 Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Elemental
 [cRH3]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Water Elemental
 [cRGR]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Elemental
 [cRH4]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Water Elemental
 [cRGS]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Elemental
 [cRH1]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Water Elemental
 [cRGP]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Shadow Elemental
 [cRH2]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Water Elemental
 [cRGQ]
 Art=ReplaceableTextures\CommandButtons\BTNSummonWaterElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Siren
 [cRGN]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSummoner.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Shadow Elemental
 [cRH0]
 Art=ReplaceableTextures\CommandButtons\BTNAvengingWatcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Siren
 [cRGO]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSummoner.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Siren
 [cRGL]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSummoner.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Siren
 [cRGM]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSummoner.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Enchanted Treant
 [cRGJ]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Siren
 [cRGK]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSummoner.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Enchanted Treant
 [cRGH]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Enchanted Treant
 [cRGI]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientOfWar.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Draenei Warrior
 [cRFE]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Felhound
 [cRFF]
 Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Draenei Warrior
 [cRFC]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Draenei Warrior
 [cRFD]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Draenei Warrior
 [cRFA]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Draenei Warrior
 [cRFB]
 Art=ReplaceableTextures\CommandButtons\BTNDranai.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Gnoll
 [cRF9]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Rascal
 [cREX]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Rascal
 [cREY]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Gnoll
 [cRF7]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Rascal
 [cREV]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Gnoll
 [cRF8]
 Art=ReplaceableTextures\CommandButtons\BTNGnollArcher.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Rascal
 [cREW]
 Art=ReplaceableTextures\CommandButtons\BTNKobold.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Wisp
 [cRG6]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
-
-// Salamander
 [cRFU]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Wisp
 [cRG7]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
-
-// Salamander
 [cRFV]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardSalamander.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Blood Fiend
 [cRG4]
 Art=ReplaceableTextures\CommandButtons\BTNUnbroken.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Enchanted Ent
 [cRFS]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wisp
 [cRG5]
 Art=ReplaceableTextures\CommandButtons\BTNWisp.blp
 Specialart=Units\NightElf\Wisp\WispExplode.mdl
-
-// Enchanted Ent
 [cRFT]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Blood Fiend
 [cRG2]
 Art=ReplaceableTextures\CommandButtons\BTNUnbroken.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Enchanted Ent
 [cRFQ]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Blood Fiend
 [cRG3]
 Art=ReplaceableTextures\CommandButtons\BTNUnbroken.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Enchanted Ent
 [cRFR]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Blood Fiend
 [cRG0]
 Art=ReplaceableTextures\CommandButtons\BTNUnbroken.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Myrmidon
 [cRFO]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Blood Fiend
 [cRG1]
 Art=ReplaceableTextures\CommandButtons\BTNUnbroken.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Enchanted Ent
 [cRFP]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Myrmidon
 [cRFM]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Myrmidon
 [cRFN]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Myrmidon
 [cRFK]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Myrmidon
 [cRFL]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Felhound
 [cRFI]
 Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Felhound
 [cRFJ]
 Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Felhound
 [cRFG]
 Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Felhound
 [cRFH]
 Art=ReplaceableTextures\CommandButtons\BTNFelHound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Salamander
 [cRIH]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardVizier.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Salamander
 [cRII]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardVizier.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Salamander
 [cRIF]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardVizier.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Salamander
 [cRIG]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardVizier.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sage Enchanted Ent
 [cRID]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Enchanted Ent
 [cRIE]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Enchanted Ent
 [cRIB]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Enchanted Ent
 [cRIC]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Enchanted Ent
 [cRIA]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedAncientProtector.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Draenei Shadowcaster
 [cRHY]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Sea Witch
 [cRJ9]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demon Lord
 [cRIX]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Demon Lord
 [cRIY]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Sea Witch
 [cRJ7]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demon Lord
 [cRIV]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Sea Witch
 [cRJ8]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demon Lord
 [cRIW]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Sea Witch
 [cRJ5]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Lorekeeper
 [cRIT]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperGhostBlue.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sea Witch
 [cRJ6]
 Art=ReplaceableTextures\CommandButtons\BTNNagaSeaWitch.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Demon Lord
 [cRIU]
 Art=ReplaceableTextures\CommandButtons\BTNEvilIllidan.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Sage Enchanted Treant
 [cRJ3]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lorekeeper
 [cRIR]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperGhostBlue.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sage Enchanted Treant
 [cRJ4]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lorekeeper
 [cRIS]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperGhostBlue.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sage Enchanted Treant
 [cRJ1]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lorekeeper
 [cRIP]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperGhostBlue.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sage Enchanted Treant
 [cRJ2]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lorekeeper
 [cRIQ]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperGhostBlue.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Void Fiend
 [cRIN]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Sage Enchanted Treant
 [cRJ0]
 Art=ReplaceableTextures\CommandButtons\BTNCorruptedTreeOfLife.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Void Fiend
 [cRIO]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Void Fiend
 [cRIL]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Void Fiend
 [cRIM]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Ancient Salamander
 [cRIJ]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizardVizier.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Void Fiend
 [cRIK]
 Art=ReplaceableTextures\CommandButtons\BTNFacelessOne.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Kobold Mischief-Maker
 [cRHG]
 Art=ReplaceableTextures\CommandButtons\BTNKoboldGeomancer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Mischief-Maker
 [cRHH]
 Art=ReplaceableTextures\CommandButtons\BTNKoboldGeomancer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Panda Elemental
 [cRHE]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Mischief-Maker
 [cRHF]
 Art=ReplaceableTextures\CommandButtons\BTNKoboldGeomancer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Panda Elemental
 [cRHC]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Panda Elemental
 [cRHD]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Panda Elemental
 [cRHA]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Panda Elemental
 [cRHB]
 Art=ReplaceableTextures\CommandButtons\BTNFireBrewmaster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Void Elemental
 [cRH9]
 Art=ReplaceableTextures\CommandButtons\BTNVoidWalker.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Elemental
 [cRGX]
 Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Elemental
 [cRGY]
 Art=ReplaceableTextures\CommandButtons\BTNLavaSpawn.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Royal Guard
 [cRI8]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Draenei Shadowcaster
 [cRHW]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Royal Guard
 [cRI9]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Draenei Shadowcaster
 [cRHX]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Royal Guard
 [cRI6]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Draenei Shadowcaster
 [cRHU]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Royal Guard
 [cRI7]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Draenei Shadowcaster
 [cRHV]
 Art=ReplaceableTextures\CommandButtons\BTNDranaiMage.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Ancient Felhound
 [cRI4]
 Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Gnoll Ringleader
 [cRHS]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Royal Guard
 [cRI5]
 Art=ReplaceableTextures\CommandButtons\BTNNagaMyrmidonRoyalGuard.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Gnoll Ringleader
 [cRHT]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient Felhound
 [cRI2]
 Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Gnoll Ringleader
 [cRHQ]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient Felhound
 [cRI3]
 Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Gnoll Ringleader
 [cRHR]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient Felhound
 [cRI0]
 Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Satyr Champion
 [cRHO]
 Art=ReplaceableTextures\CommandButtons\BTNSatyrTrickster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient Felhound
 [cRI1]
 Art=ReplaceableTextures\CommandButtons\BTNPurpleFelhound.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Gnoll Ringleader
 [cRHP]
 Art=ReplaceableTextures\CommandButtons\BTNGnollWarden.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satyr Champion
 [cRHM]
 Art=ReplaceableTextures\CommandButtons\BTNSatyrTrickster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satyr Champion
 [cRHN]
 Art=ReplaceableTextures\CommandButtons\BTNSatyrTrickster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satyr Champion
 [cRHK]
 Art=ReplaceableTextures\CommandButtons\BTNSatyrTrickster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satyr Champion
 [cRHL]
 Art=ReplaceableTextures\CommandButtons\BTNSatyrTrickster.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Mischief-Maker
 [cRHI]
 Art=ReplaceableTextures\CommandButtons\BTNKoboldGeomancer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Kobold Mischief-Maker
 [cRHJ]
 Art=ReplaceableTextures\CommandButtons\BTNKoboldGeomancer.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satanic Chicken
 [cRKJ]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Piggy
 [cRKK]
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satanic Chicken
 [cRKH]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satanic Chicken
 [cRKI]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satanic Chicken
 [cRKF]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Satanic Chicken
 [cRKG]
 Art=ReplaceableTextures\CommandButtons\BTNCritterChicken.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Phoenix
 [cRKD]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Phoenix
 [cRKE]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Phoenix
 [cRKB]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Phoenix
 [cRKC]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Phoenix
 [cRKA]
 Art=ReplaceableTextures\CommandButtons\BTNMarkOfFire.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Crab
 [cRL9]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spiderling
 [cRKX]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Spiderling
 [cRKY]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Crab
 [cRL7]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spiderling
 [cRKV]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Crab
 [cRL8]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spiderling
 [cRKW]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Crab
 [cRL5]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Wolf
 [cRKT]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Crab
 [cRL6]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderCrab.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spiderling
 [cRKU]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Murloc
 [cRL3]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Wolf
 [cRKR]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc
 [cRL4]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Wolf
 [cRKS]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc
 [cRL1]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Wolf
 [cRKP]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc
 [cRL2]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Wolf
 [cRKQ]
 Art=ReplaceableTextures\CommandButtons\BTNWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Piggy
 [cRKN]
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc
 [cRL0]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulTideWarrior.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Piggy
 [cRKO]
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Piggy
 [cRKL]
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Piggy
 [cRKM]
 Art=ReplaceableTextures\CommandButtons\BTNPig.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Fire Lord
 [cRJI]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Fire Lord
 [cRJJ]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Fire Lord
 [cRJG]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Fire Lord
 [cRJH]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Reef Elemental
 [cRJE]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Fire Lord
 [cRJF]
 Art=ReplaceableTextures\CommandButtons\BTNHeroAvatarOfFlame.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Reef Elemental
 [cRJC]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Reef Elemental
 [cRJD]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Reef Elemental
 [cRJA]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Reef Elemental
 [cRJB]
 Art=ReplaceableTextures\CommandButtons\BTNSeaElemental.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Faerie Dragon
 [cRJY]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Astral Dragon
 [cRK8]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Faerie Dragon
 [cRJW]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Astral Dragon
 [cRK9]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Faerie Dragon
 [cRJX]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Astral Dragon
 [cRK6]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Faerie Dragon
 [cRJU]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Astral Dragon
 [cRK7]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Faerie Dragon
 [cRJV]
 Art=ReplaceableTextures\CommandButtons\BTNFaerieDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Nether Dragon
 [cRK4]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Panda Elemental
 [cRJS]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Astral Dragon
 [cRK5]
 Art=ReplaceableTextures\CommandButtons\BTNChimaera.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Panda Elemental
 [cRJT]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Nether Dragon
 [cRK2]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Panda Elemental
 [cRJQ]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Nether Dragon
 [cRK3]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Panda Elemental
 [cRJR]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Nether Dragon
 [cRK0]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Shadow Elemental
 [cRJO]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Nether Dragon
 [cRK1]
 Art=ReplaceableTextures\CommandButtons\BTNNetherDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Panda Elemental
 [cRJP]
 Art=ReplaceableTextures\CommandButtons\BTNPandarenBrewmaster.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Shadow Elemental
 [cRJM]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Shadow Elemental
 [cRJN]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Shadow Elemental
 [cRJK]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Shadow Elemental
 [cRJL]
 Art=ReplaceableTextures\CommandButtons\BTNSpiritOfVengeance.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Sheep of Doom
 [cRML]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sheep of Doom
 [cRMM]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient
 [cRMJ]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Sheep of Doom
 [cRMK]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Ancient
 [cRMH]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Ancient
 [cRMI]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Ancient
 [cRMF]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Ancient
 [cRMG]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheMoon.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Dryad
 [cRMD]
 Art=ReplaceableTextures\CommandButtons\BTNDryad.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Dryad
 [cRME]
 Art=ReplaceableTextures\CommandButtons\BTNDryad.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Dryad
 [cRMB]
 Art=ReplaceableTextures\CommandButtons\BTNDryad.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Dryad
 [cRMC]
 Art=ReplaceableTextures\CommandButtons\BTNDryad.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Dryad
 [cRMA]
 Art=ReplaceableTextures\CommandButtons\BTNDryad.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Murloc Sorcerer
 [cRN9]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Terror Wolf
 [cRMX]
 Art=ReplaceableTextures\CommandButtons\BTNTimberWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Terror Wolf
 [cRMY]
 Art=ReplaceableTextures\CommandButtons\BTNTimberWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc Sorcerer
 [cRN7]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Terror Wolf
 [cRMV]
 Art=ReplaceableTextures\CommandButtons\BTNTimberWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc Sorcerer
 [cRN8]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Terror Wolf
 [cRMW]
 Art=ReplaceableTextures\CommandButtons\BTNTimberWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Murloc Sorcerer
 [cRN5]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Quill Beast
 [cRMT]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Murloc Sorcerer
 [cRN6]
 Art=ReplaceableTextures\CommandButtons\BTNMurgulShadowCaster.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
-
-// Terror Wolf
 [cRMU]
 Art=ReplaceableTextures\CommandButtons\BTNTimberWolf.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spider
 [cRN3]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderBlue.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Quill Beast
 [cRMR]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spider
 [cRN4]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderBlue.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Quill Beast
 [cRMS]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spider
 [cRN1]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderBlue.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Quill Beast
 [cRMP]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Spider
 [cRN2]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderBlue.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Quill Beast
 [cRMQ]
 Art=ReplaceableTextures\CommandButtons\BTNQuillBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Sheep of Doom
 [cRMN]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Spider
 [cRN0]
 Art=ReplaceableTextures\CommandButtons\BTNSpiderBlue.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
-
-// Sheep of Doom
 [cRMO]
 Art=ReplaceableTextures\CommandButtons\BTNSheep.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Grizzle Bear
 [cRLK]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Grizzle Bear
 [cRLL]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Giant Turtle
 [cRLI]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Turtle
 [cRLJ]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Turtle
 [cRLG]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Turtle
 [cRLH]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ent
 [cRLE]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Giant Turtle
 [cRLF]
 Art=ReplaceableTextures\CommandButtons\BTNSeaTurtleGreen.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ent
 [cRLC]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ent
 [cRLD]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ent
 [cRLA]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ent
 [cRLB]
 Art=ReplaceableTextures\CommandButtons\BTNEnt.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Furbolg
 [cRLY]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Suumpmolk
 [cRM8]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Furbolg
 [cRLW]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Suumpmolk
 [cRM9]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Furbolg
 [cRLX]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Suumpmolk
 [cRM6]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Furbolg
 [cRLU]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Suumpmolk
 [cRM7]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Furbolg
 [cRLV]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolgShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Treant
 [cRM4]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Wandigoo
 [cRLS]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Suumpmolk
 [cRM5]
 Art=ReplaceableTextures\CommandButtons\BTNSnapDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Wandigoo
 [cRLT]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Treant
 [cRM2]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Wandigoo
 [cRLQ]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Treant
 [cRM3]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Wandigoo
 [cRLR]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Treant
 [cRM0]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Grizzle Bear
 [cRLO]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Treant
 [cRM1]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfTheEarth.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Wandigoo
 [cRLP]
 Art=ReplaceableTextures\CommandButtons\BTNJungleBeast.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Grizzle Bear
 [cRLM]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Grizzle Bear
 [cRLN]
 Art=ReplaceableTextures\CommandButtons\BTNGrizzlyBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Druid
 [cRON]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfLore.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Hippo Gryph
 [cRP0]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Druid
 [cROO]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfLore.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Ancient Druid
 [cROL]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfLore.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Ancient Druid
 [cROM]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfLore.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Keeper of the Grove
 [cROJ]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Ancient Druid
 [cROK]
 Art=ReplaceableTextures\CommandButtons\BTNAncientOfLore.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=medium
-
-// Keeper of the Grove
 [cROH]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Keeper of the Grove
 [cROI]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Keeper of the Grove
 [cROF]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Keeper of the Grove
 [cROG]
 Art=ReplaceableTextures\CommandButtons\BTNKeeperOfTheGrove.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Hydra
 [cROD]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Hydra
 [cROE]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Hydra
 [cROB]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Hydra
 [cROC]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Hydra
 [cROA]
 Art=ReplaceableTextures\CommandButtons\BTNGreenHydra.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Green Dragon
 [cRP9]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Harpy
 [cROX]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Harpy
 [cROY]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Green Dragon
 [cRP7]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Harpy
 [cROV]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Green Dragon
 [cRP8]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Harpy
 [cROW]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Green Dragon
 [cRP5]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Eagle
 [cROT]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Green Dragon
 [cRP6]
 Art=ReplaceableTextures\CommandButtons\BTNGreenDragon.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Harpy
 [cROU]
 Art=ReplaceableTextures\CommandButtons\BTNHarpyQueen.blp
 Specialart=Objects\Spawnmodels\Human\HumanLargeDeathExplode\HumanLargeDeathExplode.mdl
-
-// Hippo Gryph
 [cRP3]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Eagle
 [cROR]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Hippo Gryph
 [cRP4]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Eagle
 [cROS]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Hippo Gryph
 [cRP1]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Eagle
 [cROP]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Hippo Gryph
 [cRP2]
 Art=ReplaceableTextures\CommandButtons\BTNHippogriff.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Eagle
 [cROQ]
 Art=ReplaceableTextures\CommandButtons\BTNWarEagle.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Giant Lizard
 [cRNM]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Lizard
 [cRNN]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Lizard
 [cRNK]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Giant Lizard
 [cRNL]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Sage Ent
 [cRNI]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Ent
 [cRNJ]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Ent
 [cRNG]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Sage Ent
 [cRNH]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lobstrokk
 [cRNE]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Sage Ent
 [cRNF]
 Art=ReplaceableTextures\CommandButtons\BTNTreant.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
-
-// Lobstrokk
 [cRNC]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Lobstrokk
 [cRND]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Lobstrokk
 [cRNA]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Lobstrokk
 [cRNB]
 Art=ReplaceableTextures\CommandButtons\BTNLobstrokkGreen.blp
 Specialart=Objects\Spawnmodels\Demon\DemonSmallDeathExplode\DemonSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Ancient Wandigoo
 [cRNY]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatchShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sage Treant
 [cRO8]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=upgrade,first,large
-
-// Ancient Wandigoo
 [cRNW]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatchShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sage Treant
 [cRO9]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=upgrade,first,large
-
-// Ancient Wandigoo
 [cRNX]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatchShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sage Treant
 [cRO6]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=upgrade,first,large
-
-// Ancient Wandigoo
 [cRNU]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatchShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Sage Treant
 [cRO7]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=upgrade,first,large
-
-// Ancient Wandigoo
 [cRNV]
 Art=ReplaceableTextures\CommandButtons\BTNSasquatchShaman.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
-
-// Furbolg Chieftain
 [cRO4]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolg.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Owlbear
 [cRNS]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Sage Treant
 [cRO5]
 Art=ReplaceableTextures\CommandButtons\BTNTreeOfAges.blp
 Specialart=Objects\Spawnmodels\NightElf\NECancelDeath\NECancelDeath.mdl
 Attachmentanimprops=upgrade,first,large
-
-// Owlbear
 [cRNT]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Furbolg Chieftain
 [cRO2]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolg.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Owlbear
 [cRNQ]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Furbolg Chieftain
 [cRO3]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolg.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Owlbear
 [cRNR]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Furbolg Chieftain
 [cRO0]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolg.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Giant Lizard
 [cRNO]
 Art=ReplaceableTextures\CommandButtons\BTNThunderLizard.blp
 Specialart=Objects\Spawnmodels\Demon\DemonLargeDeathExplode\DemonLargeDeathExplode.mdl
 Attachmentanimprops=large
-
-// Furbolg Chieftain
 [cRO1]
 Art=ReplaceableTextures\CommandButtons\BTNFurbolg.blp
 Specialart=Objects\Spawnmodels\Orc\OrcSmallDeathExplode\OrcSmallDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Owlbear
 [cRNP]
 Art=ReplaceableTextures\CommandButtons\BTNOwlBear.blp
 Specialart=Objects\Spawnmodels\Orc\OrcLargeDeathExplode\OrcLargeDeathExplode.mdl
-
-// Challenge 13
 [cRQ0]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 6
 [cRPO]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 13
 [cRQ1]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 8
 [cRPP]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 6
 [cRPM]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 6
 [cRPN]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 6
 [cRPK]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 6
 [cRPL]
 Art=ReplaceableTextures\CommandButtons\BTNArcher.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 4
 [cRPI]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 4
 [cRPJ]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 4
 [cRPG]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 4
 [cRPH]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 2
 [cRPE]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 4
 [cRPF]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheTalon.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 2
 [cRPC]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 2
 [cRPD]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 2
 [cRPA]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 2
 [cRPB]
 Art=ReplaceableTextures\CommandButtons\BTNNightElfRunner.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 10
 [cRPY]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 12
 [cRQ8]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 10
 [cRPW]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 12
 [cRQ9]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 10
 [cRPX]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 12
 [cRQ6]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 10
 [cRPU]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 12
 [cRQ7]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 10
 [cRPV]
 Art=ReplaceableTextures\CommandButtons\BTNHuntress.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 13
 [cRQ4]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 8
 [cRPS]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 12
 [cRQ5]
 Art=ReplaceableTextures\CommandButtons\BTNAssassin.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 8
 [cRPT]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 13
 [cRQ2]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 8
 [cRPQ]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
-// Challenge 13
 [cRQ3]
 Art=ReplaceableTextures\CommandButtons\BTNShandris.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
-
-// Challenge 8
 [cRPR]
 Art=ReplaceableTextures\CommandButtons\BTNDruidOfTheClaw.blp
 Specialart=Objects\Spawnmodels\NightElf\NightElfLargeDeathExplode\NightElfLargeDeathExplode.mdl
 Attachmentanimprops=medium
-
