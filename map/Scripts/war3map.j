@@ -44288,7 +44288,7 @@ function mHv takes nothing returns boolean
 local integer b=o2
 local integer U=(eP[(b)])
 if(GetUnitPointValue((rm[U]))<90000)then
-call SetUnitPropWindow(rm[U],0)
+call SetUnitPropWindow(rm[U],1)
 else
 call PauseUnit(rm[U],false)
 endif
