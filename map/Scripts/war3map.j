@@ -879,8 +879,8 @@ destructable iB=null
 destructable aB=null
 destructable nB=null
 destructable VB=null
-constant integer EB=$1020D7
-constant integer XB=$1024BF
+constant integer EB=$1020DB
+constant integer XB=$1024C3
 constant integer OB=$3E80
 integer RB=0
 integer IB=0
@@ -2579,6 +2579,8 @@ integer array uz
 integer array Uz
 boolean array wz
 integer array Wz
+// gyro array - 1.10c
+real array AL2
 integer array yz
 boolean array Yz
 integer array zz
@@ -4294,6 +4296,8 @@ set LL[c3]=(c3-1)*400
 set ML[c3]=(c3-1)*400
 set PL[c3]=(c3-1)*400
 set QL[c3]=(c3-1)*400
+// gyro - 1.10c
+set AL2[c3]=1
 set oL[c3]=0
 set aL[c3]=-1
 set nL[c3]=0
@@ -6388,17 +6392,7 @@ set ae=1
 return ae
 endfunction
 function vAv takes string vNv returns nothing
-local integer i=0
-loop
-exitwhen i>=24
-if GetPlayerController(Player(i))==MAP_CONTROL_USER and GetPlayerSlotState(Player(i))==PLAYER_SLOT_STATE_PLAYING then
-if GetLocalPlayer()==Player(i)then
-call SyncStoredInteger(Z,"GCSI:",vNv)
-endif
-exitwhen true
-endif
-set i=i+1
-endloop
+// Removed in 1.10c_b
 endfunction
 function vbv takes string G8 returns string
 local integer j
@@ -17106,9 +17100,13 @@ call AdjustPlayerStateBJ(20,pl,PLAYER_STATE_RESOURCE_FOOD_CAP)
 elseif Xs[b]=='P016' then
 set E5=.270042*ln(KJ[p])-1.35256
 call SetUnitScale(yJ[p],E5,E5,E5)
+// gyro - 1.10c
+elseif Xs[b]=='P018' then
+set AL2[gJ[p]]=AL2[gJ[p]]*.75
 elseif Xs[b]=='P019' then
 set Wz[kJ[p]]=Wz[kJ[p]]-3
-call AdjustPlayerStateBJ(-20,pl,PLAYER_STATE_RESOURCE_FOOD_CAP)
+// maverick - 1.10c
+call AdjustPlayerStateBJ(-36,pl,PLAYER_STATE_RESOURCE_FOOD_CAP)
 elseif Xs[b]=='P020' then
 set Wz[kJ[p]]=Wz[kJ[p]]+2
 call AdjustPlayerStateBJ(-45,pl,PLAYER_STATE_RESOURCE_LUMBER)
@@ -20727,6 +20725,8 @@ call djv(r6v,true,true,true,true)
 set aw[(r6v)]=("建造者以及一些塔能够探测到隐形单位")
 set dmv=A6v()
 call Niv(dmv,'Apiv',false)
+// invisible tornado effect - 1.10c
+call A7v(dmv,($5BA),.5)
 set Dw[(r6v)]=(dmv)
 call dhv(r6v,"invis")
 set r6v=dbv("强壮","强壮","|cffFF0000",1.2,16,'d',false)
@@ -21026,11 +21026,13 @@ call xVv((VQ[(dmv)]),xav((A5v(0,((47))))))
 call xVv((nQ[(dmv)]),xav((((48)))))
 call A7v(dmv,(49),.5)
 call dgv((r6v),'d',.0)
+// mana shield - 1.10c
+set Aw[r6v]=R2I(Aw[r6v]*1.2)
 set Dw[(r6v)]=(dmv)
 call dhv(r6v,"mshield")
 call dhv(r6v,"mshield-speed")
 call dhv(r6v,"corpse")
-set r6v=dbv("魔法盾+","魔法盾+","|cff0080FF",.25,80,'x',false)
+set r6v=dbv("魔法盾+","魔法盾+","|cff0080FF",.3,'d','x',false)
 set iw[(r6v)]=("这些怪物具有最多80%的伤害减免，它们的法力值越少，伤害减免越低。他们在生命或法力归零时会爆炸而死，不留下尸体。")
 call djv(r6v,true,true,false,false)
 set aw[(r6v)]=("法力燃烧对付他们非常有效.")
@@ -21041,6 +21043,7 @@ call xVv((VQ[(dmv)]),xav((A5v(0,((47))))))
 call xVv((nQ[(dmv)]),xav((((48)))))
 call A7v(dmv,(49),.5)
 call dgv((r6v),'d',.0)
+set Aw[r6v]=R2I(Aw[r6v]*1.2)
 set Dw[(r6v)]=(dmv)
 call dhv(r6v,"mshield")
 call dhv(r6v,"mshield-speed")
@@ -23552,7 +23555,8 @@ endloop
 set xW[s]=xW[s]+1
 if(xW[s]<lW[eW[s]])then
 set iW[s]=7
-call TimerStart(t,Zz[KW[eW[s]]+xW[s]-1],false,function fBv)
+// gyro - 1.10c
+call TimerStart(t,Zz[KW[eW[s]]+xW[s]-1]*AL2[oW[s]],false,function fBv)
 set iW[s]=8
 else
 set iW[s]=9
@@ -23571,11 +23575,15 @@ call v4(s)
 call vSv(t)
 endfunction
 function fCv takes nothing returns nothing
+// spellres & armor - 1.10c
 local timer t=GetExpiredTimer()
 local integer U3=(LoadInteger(xv,0,GetHandleId((t))))
 local integer i=oL[U3]
 local real OMv
 local integer c=sW[GetRandomInt(0,60-1)]
+local integer curUnit
+local real elapsedTime=TimerGetElapsed(XL[U3])
+local real ratio=-.0001*elapsedTime 
 if dL[U3]then
 call vSv(t)
 return
@@ -23583,9 +23591,12 @@ endif
 loop
 exitwhen i<=0
 set i=i-1
-call cqv((c),(eL[xL[U3]+i]),1.,-1.)
+set curUnit=(cqv((c),(eL[xL[U3]+i]),1.,-1.))
+call Ruv(curUnit,62,ratio)
+call Ruv(curUnit,63,ratio)
+call Ruv(curUnit,82,ratio)
 endloop
-set OMv=GetRandomReal(CW[uC[c]],dW[uC[c]])/(.25+.0025*TimerGetElapsed(XL[U3]))
+set OMv=GetRandomReal(CW[uC[c]],dW[uC[c]])/(.25+.0025*elapsedTime)
 call TimerStart(t,OMv,false,function fCv)
 endfunction
 function fdv takes nothing returns nothing
@@ -41557,8 +41568,8 @@ call ConditionalTriggerExecute(db)
 call ConditionalTriggerExecute(gb)
 endfunction
 function config takes nothing returns nothing
-call SetMapName("YouTD v1.10b")
-call SetMapDescription("由一整个玩家团队创作的TD图,你可以到|cffFF0000www.eeve.org|r")
+call SetMapName("YouTD v1.10b_2")
+call SetMapDescription("由玩家社区创作的TD图,你可以到|cffFF0000www.eeve.org|r设计自己的塔")
 call SetPlayers(9)
 call SetTeams(9)
 call SetGamePlacement(MAP_PLACEMENT_TEAMS_TOGETHER)
@@ -43996,7 +44007,7 @@ call AdjustPlayerStateBJ(5,pl,PLAYER_STATE_RESOURCE_LUMBER)
 return true
 endfunction
 function mDv takes nothing returns boolean
-local integer i=RB-$C1B
+local integer i=RB-$C1F
 call vOv(i,Ve)
 set m1=i
 return true
@@ -44264,14 +44275,23 @@ endfunction
 function mhv takes nothing returns boolean
 local integer b=o2
 local integer U=(eP[(b)])
+// stun - 1.10c
+if(GetUnitPointValue((rm[U]))<90000)then
+call SetUnitPropWindow(rm[U],0)
+else
 call PauseUnit(rm[U],true)
+endif
 set Am[U]=true
 return true
 endfunction
 function mHv takes nothing returns boolean
 local integer b=o2
 local integer U=(eP[(b)])
+if(GetUnitPointValue((rm[U]))<90000)then
+call SetUnitPropWindow(rm[U],0)
+else
 call PauseUnit(rm[U],false)
+endif
 set Am[U]=false
 return true
 endfunction
@@ -44307,6 +44327,13 @@ function mlv takes nothing returns boolean
 local integer c=o2
 call SetUnitVertexColor((rm[(c)]),$FF,'d','d',$FF)
 call UnitAddAbility(rm[c],'ACmi')
+return true
+endfunction
+// invisible tornado effect (M1[$5BA]) - 1.10c
+function m3v2 takes nothing returns boolean
+local integer c=o2
+call TimerStart(YH[(oC)],((GetRandomReal(.4,1.2))*1.),not(false),function nnv)
+call I1v((i5(("Abilities\\Spells\\Other\\Tornado\\Tornado_Target.mdl"),((RIv(c)+GetRandomReal(-20,20))*1.),((RAv(c)+GetRandomReal(-20,20))*1.),(((GetUnitFlyHeight(rm[(c)])+60.)+GetRandomReal(0,20))*1.),((GetRandomReal(0,360))*1.),1.)),1)
 return true
 endfunction
 function mLv takes nothing returns boolean
@@ -44658,12 +44685,11 @@ local real MIv
 local integer MAv
 local integer MNv
 if(Z6==2 or Z6==0)and not HaveSavedInteger(Te,(im[(c)]),Rx)then
-set I=ncv(c,Nx,c,900)
+set I=ncv(c,Nx,c,$44C)
 loop
 set n=ndv(I)
 exitwhen n==0
-if LoadInteger(Te,(im[(n)]),Rx)==1 and not(Nm[(n)])then
-if IIv(n,$A,false)>0 then
+if LoadInteger(Te,(im[(n)]),Rx)==1 and not(Nm[(n)]) and IIv(n,$A,false)>0 then
 set MXv=NM[n]
 set J5v=rm[c]
 set MNv=vM[c]
@@ -44675,7 +44701,7 @@ set MOv=GetUnitState(rm[c],UNIT_STATE_MAX_LIFE)
 set MRv=Nu[c]/ 2
 set MIv=bu[c]/ 2
 set MAv=Iu[c]
-call ebv(3)
+call TriggerSleepAction(2)
 if(im[(n)])==MEv and GetUnitName(J5v)!=null then
 call ASv(APv("REDL",n,x,y,$F),.5)
 call DestroyEffect(AddSpecialEffect(("Abilities\\Spells\\Undead\\RaiseSkeletonWarrior\\RaiseSkeleton.mdl"),((x)*1.),((y)*1.)))
@@ -44683,9 +44709,10 @@ if Z6==2 then
 set MVv=Ax
 else
 set MVv=Ix
+set MOv=MOv/2
 endif
 set Tu[MVv]=MXv
-set sC[MVv]=MOv*2
+set sC[MVv]=MOv
 set Mnv=cqv(MVv,MNv,1,V5)
 call B0v(Mnv,x,y,false)
 set Nu[Mnv]=MRv
@@ -44697,7 +44724,6 @@ call RemoveUnit(J5v)
 endif
 set J5v=null
 exitwhen true
-endif
 endif
 endloop
 endif
@@ -63119,7 +63145,8 @@ local integer v6v=(NM[(BMv)])
 if YL[BMv]==0 then
 set YL[BMv]=(oC)
 endif
-if WL[BMv]<(Ce)then
+// fixed in 1.10c_b
+if WL[BMv]<=(Ce)then
 call kVv(BMv)
 else
 call TimerStart(YH[((oC))],(((WL[BMv]-(Ce))/ 25)*1.),not(false),function nnv)
@@ -82889,6 +82916,10 @@ call TriggerAddCondition(M1[615],Condition(function Rre))
 set M1[$5B9]=CreateTrigger()
 call TriggerAddAction(M1[$5B9],function Rie)
 call TriggerAddCondition(M1[$5B9],Condition(function Rie))
+// inivisible - 1.10c
+set M1[$5BA]=CreateTrigger()
+call TriggerAddAction(M1[$5BA],function m3v2)
+call TriggerAddCondition(M1[$5BA],Condition(function m3v2))
 set l1[16]=CreateTrigger()
 call TriggerAddAction(l1[16],function Rae)
 call TriggerAddCondition(l1[16],Condition(function Rae))
