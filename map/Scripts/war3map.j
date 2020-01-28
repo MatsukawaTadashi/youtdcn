@@ -13554,11 +13554,12 @@ endloop
 endfunction
 function X4v takes integer b returns nothing
 local integer i=0
-if Oe<2 then
-set ul[6]=StringHash("randomStr")+32
-else
+// sp bomb
+// if Oe<2 then
+// set ul[6]=StringHash("randomStr")+32
+// else
 set ul[6]=StringHash("randomStr")
-endif
+// endif
 set ul[5]=RB
 loop
 exitwhen i>4
@@ -13597,9 +13598,10 @@ local integer c
 if i<0 then
 set i=-i
 endif
-if Oe<2 then
-return-1
-endif
+// sp bomb
+// if Oe<2 then
+// return-1
+// endif
 set c=w5()
 call Xsv(b,i,0,32)
 call Xsv(b,ePv,32,20)
@@ -13716,7 +13718,8 @@ call XYv("You TD v1.07",$101E9A,.2,false)
 call XYv("You TD v1.08",$101ED3,.15,false)
 call XYv("You TD v1.08b",$101EDA,.1,false)
 call XYv("You TD v1.09",$102027,.1,false)
-call XYv("You TD v1.10",-1,0,false)
+call XYv("You TD v1.10",$1020D7,0,false)
+call XYv("You TD v1.10b2",-1,0,false)
 set ul[0]=StringHash("jo version2")
 set ul[1]=StringHash("das ist neu")
 set ul[2]=StringHash("ist")
@@ -41568,7 +41571,7 @@ call ConditionalTriggerExecute(db)
 call ConditionalTriggerExecute(gb)
 endfunction
 function config takes nothing returns nothing
-call SetMapName("YouTD v1.10b_2")
+call SetMapName("YouTD v1.10b2")
 call SetMapDescription("由玩家社区创作的TD图,你可以到|cffFF0000www.eeve.org|r设计自己的塔")
 call SetPlayers(9)
 call SetTeams(9)
