@@ -2762,6 +2762,8 @@ real K2=.0
 group l2=null
 boolexpr M2=null
 endglobals
+native DzAPI_Map_SaveServerValue takes player whichPlayer,string key,string value returns boolean
+native DzAPI_Map_GetServerValue takes player whichPlayer,string key returns string
 function q2 takes nothing returns boolean
 local real dx=GetDestructableX(GetFilterDestructable())-k2
 local real dy=GetDestructableY(GetFilterDestructable())-K2
@@ -13645,12 +13647,20 @@ local integer xp
 local integer p=(fJ[GetPlayerId((GetTriggerPlayer()))])
 local integer Ovv=ml
 local string s=SubString(GetEventPlayerChatString(),5,'d')
+local boolean syncResult
+local boolean loadFlag=false
 loop
 exitwhen not Wl
 call TriggerSleepAction(((.01)*1.))
 endloop
 set Wl=true
 if Ul==1 then
+// load code -- netease
+if StringLength(s) == 0 then
+  call DisplayTextToPlayer(FJ[(p)],.0,.0,("|cffFFFF00尝试载入服务器存档|r"))
+  set s = DzAPI_Map_GetServerValue(FJ[p], "S" + "savecode")
+  set loadFlag = true
+endif
 loop
 exitwhen Ovv==-1
 set xp=X7v(p,s,Ll[Ovv])
@@ -13663,6 +13673,16 @@ call DisplayTextToPlayer(FJ[(p)],.0,.0,("|cffFF0000无效代码!|r"))
 call Vyv(p,Gv)
 else
 call EBv(p,xp,Ll[Ovv])
+// save code -- netease
+if not loadFlag then
+  set syncResult = DzAPI_Map_SaveServerValue(FJ[p], "S" + "savecode", s)
+  if syncResult then
+    call VMv(p,"|cffFFFF00记录码已自动同步至服务器，下次游戏可仅输入 \"-load\" （不含代码）从服务器加载|r",$4B0)
+  else
+    call DisplayTextToPlayer(FJ[(p)],.0,.0,("|cffFF0000记录码同步失败!"))
+  endif
+endif
+// end save code
 endif
 elseif Ul==0 then
 call DisplayTextToPlayer(FJ[(p)],.0,.0,("|cffFF0000你现在还不能载入积分!请等待主机选择游戏模式!"))
@@ -13676,6 +13696,7 @@ endfunction
 function Oev takes integer p returns nothing
 local integer xp=V3v(p)
 local integer c
+local boolean syncResult
 set c=X6v(p,xp)
 if c==-1 then
 call VMv(p,"|cffFF0000抱歉,在单人模式下不能保存积分!|r",$4B0)
@@ -13685,6 +13706,14 @@ else
 call VMv(p,"|cffFFFF00你获得了 |cff80FF00"+I2S(xp)+"|cffFFFF00点经验. 下次游戏输入 \"-load\" 和如下代码:
 "+Cl[c]+"|r",1200.)
 call VMv(p,"|cffFFFF00记录码已自动保存到你的魔兽文件夹:|cff80FF00 CustomMapData\\"+av+Ev+Vv+"|r",$4B0)
+// save code - netease
+set syncResult = DzAPI_Map_SaveServerValue(FJ[p], "S" + "savecode", dl[c])
+if syncResult then
+call VMv(p,"|cffFFFF00记录码已自动同步至服务器，下次游戏可仅输入 \"-load\" （不含代码）从服务器加载|r",$4B0)
+else
+call DisplayTextToPlayer(FJ[(p)],.0,.0,("|cffFF0000记录码同步失败!"))
+endif
+// end save code
 call v4v(dl[c],FJ[p],V2v(xp),ql[(Ml)])
 call W5(c)
 endif
